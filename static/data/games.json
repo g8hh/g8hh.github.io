@@ -1,0 +1,7298 @@
+[
+    {
+        "title": "锅巴计数器",
+        "enTitle": "Guo Ba Counter",
+        "date": "2020-05-22",
+        "update": "2020-05-22",
+        "version": "",
+        "path": "guo-ba-counter",
+        "type": [
+            "点击",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "这是一个计数器，由我自己耗时3天开发的。欢迎大家体验！",
+            "【首页-顶部按钮】",
+            "1、点右上角的【≡】图标，可以进入计数器分组列表。",
+            "2、点左上角的【⇌】图标，可以切换各个分组。系统默认会选中你新创建的分组。",
+            "【首页-底部菜单】",
+            "1、【清零】：当前分组下所有计数器数字重置为0。",
+            "2、【新建】：在当前分组新建一个计数器。每个分组下可以建多个计数器。每个计数器可以设置不同的颜色，便于区分。",
+            "3、【全部+1】：当前分组下所有计数器数字+1。",
+            "4、【全部-1】：当前分组下所有计数器数字-1。",
+            "【首页-计数器】",
+            "1、点计数器左边可以让当前计数器数字 +1",
+            "2、点计数器右边【齿轮】可以进行【数值-1】【查看历史点击记录】【编辑】【删除】的操作。",
+            "【分组列表页】",
+            "1、这里默认有一个系统分组，你可以点右上角【㊉】图标，建立新的分组。",
+            "2、点分组右边的【齿轮】图标，可以编辑或者删除当前分组。"
+        ],
+        "zhUrl": "",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "锅巴数独",
+        "enTitle": "Guo Ba Sudoku",
+        "date": "2020-05-13",
+        "update": "2020-05-13",
+        "version": "",
+        "path": "guo-ba-sudoku",
+        "type": [
+            "文字",
+            "点击",
+            "益智",
+            "微信",
+            "策略",
+            "小程序"
+        ],
+        "content": [
+            "数独游戏，可以在设置里面调整难度，自带统计哦，可以看到每次过关的时间。也可以分享成绩给好友。",
+            "微信打开扫一扫，扫描小程序码，开始游戏。",
+            "难度调整：点左上按钮，进设置→遮挡比例，调整难度。然后返回到首页，点右边灯泡，重新生成地图即可。"
+        ],
+        "zhUrl": "",
+        "enUrl": "",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "锅巴计算器",
+        "enTitle": "Guo Ba Calculator",
+        "date": "2020-05-13",
+        "update": "2020-05-13",
+        "version": "",
+        "path": "guo-ba-calculator",
+        "type": [
+            "文字",
+            "点击",
+            "益智",
+            "微信",
+            "策略",
+            "小程序"
+        ],
+        "content": [
+            "这是一个计算器，咱自己的小程序版计算器，带了高级计算器~"
+        ],
+        "zhUrl": "",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "林林五十音",
+        "enTitle": "Lin Lin 50 Yin",
+        "date": "2020-05-13",
+        "update": "2020-05-13",
+        "version": "",
+        "path": "lin-lin-50-yin",
+        "type": [
+            "文字",
+            "点击",
+            "益智",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "学习日语的好帮手，再也不怕看片听不懂了~"
+        ],
+        "zhUrl": "",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "锅巴表情包工具",
+        "enTitle": "Guo Ba Emoji",
+        "date": "2021-05-21",
+        "update": "2021-05-21",
+        "version":"",
+        "path": "git-bqb",
+        "type": [
+            "推荐"
+        ],
+        "content": [
+            "锅巴网上找的源码，略加改造，搭了一套给大家玩儿~内置了一些Git游戏专用表情包，后面会陆续新增~",
+            "里面带了搜表情包功能，用的是搜狗的引擎~",
+            "地址也挺好记的：bq.g8hh.com",
+            "意思是：表情.锅巴汉化.com"
+        ],
+        "customUrl": "http://bq.g8hh.com/",
+        "customUrlTit": "地址",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "工厂树",
+        "enTitle": "The Factioree",
+        "date": "2021-06-11",
+        "update": "2021-03-13",
+        "version":"0.5.0",
+        "path": "the-factioree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "模拟",
+            "声望树"
+        ],
+        "content": [
+            "又是声望树的一个Mod，这次是以工厂为主题的。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/the-factioree",
+        "enUrl": "https://dystopia-user181.github.io/The-Modding-Tree/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "Torn",
+        "enTitle": "Torn",
+        "date": "2021-06-11",
+        "update": "2021-06-11",
+        "version":"",
+        "path": "torn",
+        "type": [
+            "推荐",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "联网",
+            "英文",
+            "养成",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "玩之前墙裂建议大家加群：138838543，申请备注：Git游戏",
+            "群里有专业的新手指引员（爱好者），会送很多资源，可以助你在游戏初期快速发展。",
+            "因为群里有各种大佬存在，有的甚至玩了10年+。他们甚至自发开发了游戏的群机器人，简直diao爆了！，群文件还有大量教程。",
+            "Torn 是一款基于文本的在线角色扮演游戏，背景设置在 Torn City，这是一个黑暗、阴暗的地下世界，只有最敏锐的人才能生存。 在 Torn City，你可以成为任何人，做任何事。 将你的角色塑造成无限的力量，并以你的方式发挥它。",
+            "Torn City 是一款大型多人游戏，在全球拥有数以千计的活跃玩家。 加入他们，攻击他们，与他们交朋友，与他们结婚，与他们交易，与他们竞争。 无论你做什么 - 现在就做！"
+        ],
+        "enUrl": "https://www.torn.com/",
+        "customUrl": "https://blog.csdn.net/weixin_43306345/article/details/110941898",
+        "customUrlTit": "注册验证码失败解决办法",
+        "QQ": "138838543",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "我欲修仙",
+        "enTitle": "Wo Yu Xiu Xian",
+        "date": "2021-06-09",
+        "update": "2019-12-18",
+        "path": "woyuxiuxian",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "模拟",
+            "原创",
+            "联网"
+        ],
+        "content": [
+            "这是一款放置类的修仙游戏。早些年层风靡网络，后来由于作者服务器到期的原因，逐渐被淡忘。",
+            "锅巴今天突然发现群里作者分享的有源码，果断拿来发布一套给大家玩。"
+        ],
+        "customUrl": "http://yx.g8hh.com/cfantasy-click",
+        "customUrlTit": "最新版",
+        "customUrl2": "http://yx.g8hh.com/cfantasy-click/old",
+        "customUrlTit2": "远古繁体版",
+        "customUrl3": "https://louisalflame.github.io/CFantasyClick/index.html",
+        "customUrlTit3": "远古版繁体版原版",
+        "QQ": "292994508",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "弹珠放置",
+        "enTitle": "Pachinkremental",
+        "date": "2021-06-07",
+        "update": "2021-06-07",
+        "version":"1.1.0",
+        "path": "pachinkremental",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "益智",
+            "模拟"
+        ],
+        "content": [
+            "弹珠放置，不是之前那个弹珠增量哈~游戏下面有测试版的地址，内容比正式版多了很多。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/pachinkremental",
+        "enUrl": "https://poochyexe.github.io/pachinkremental/pachinkremental.html",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "工厂树",
+        "enTitle": "The Factioree",
+        "date": "2021-06-13",
+        "update": "2021-03-13",
+        "version":"0.5.0",
+        "path": "the-factioree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "模拟",
+            "声望树"
+        ],
+        "content": [
+            "还是声望树的Mod，这次是以工厂为主题的。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/the-factioree",
+        "enUrl": "https://dystopia-user181.github.io/The-Modding-Tree/",
+        "customUrl": "https://yhvr.me/pt/mods.html",
+        "customUrlTit": "其它树游戏集合",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "升级树",
+        "enTitle": "The Leveling Tree",
+        "date": "2021-06-04",
+        "update": "2021-01-13",
+        "version":"1.3.1",
+        "path": "the-leveling-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "模拟",
+            "声望树"
+        ],
+        "content": [
+            "又又又是声望树的一个Mod，游戏玩法换成了RPG冒险。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/the-leveling-tree/",
+        "enUrl": "https://denisolenison.github.io/The-Leveling-Tree/",
+        "customUrl": "https://yhvr.me/pt/mods.html",
+        "customUrlTit": "其它树游戏集合",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "市长1255",
+        "enTitle": "1255 Burgomaster",
+        "date": "2021-06-02",
+        "update": "2021-04-25",
+        "version":"",
+        "path": "1255-burgomaster",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "冒险",
+            "建造",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "一款城镇经营类型的包含了RPG元素的游戏。",
+            "注意：游戏自动保存功能似乎有问题，​刷新会丢档！！需要自己随时导出复制备份一下~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/burgomaster-1255/",
+        "enUrl": "http://cosmodream.ga/1255-burgomaster/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "公式与时间",
+        "enTitle": "Formula And Timing",
+        "date": "2021-05-31",
+        "update": "2021-04-13",
+        "version":"0.0.9.1",
+        "path": "formula-and-timing",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "益智"
+        ],
+        "content": [
+            "喜欢数学的人的增量游戏，玩得开心 :D"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/formula-and-timing",
+        "enUrl": "https://spotky1004.github.io/Formula-and-Timing/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "光之树",
+        "enTitle": "Lit",
+        "date": "2021-05-28",
+        "update": "2021-05-27",
+        "version":"1.0",
+        "path": "lit",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "声望树的又一个Mod，玩法很是新颖，值得一试。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/lit",
+        "enUrl": "https://www.thepaperpilot.org/lit/",
+        "customUrl": "https://yhvr.me/pt/mods.html",
+        "customUrlTit": "其它树游戏集合",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "光学照明",
+        "enTitle": "Optical Illum",
+        "date": "2021-05-28",
+        "update": "",
+        "version":"",
+        "path": "optical-illum",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级",
+            "养成",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "一款科技向的放置游戏，我是一脸懵逼，K酱倒是玩得津津有味，大家试试看。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/optical-illum/",
+        "enUrl": "https://liniarc.itch.io/optical-illum",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "让灯亮着",
+        "enTitle": "Keep the Lights On",
+        "date": "2021-05-26",
+        "update": "2021-03-01",
+        "version":"",
+        "path": "keep-the-lights-on",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "模拟"
+        ],
+        "content": [
+            "一款模拟城市电力供应的放置游戏。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/keep-the-lights-on",
+        "enUrl": "https://katzenbar.itch.io/keep-the-lights-on",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "点亮城市",
+        "enTitle": "Light The City",
+        "date": "2021-05-24",
+        "update": "2021-03-16",
+        "version":"",
+        "path": "light-the-city",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级",
+            "建造"
+        ],
+        "content": [
+            "创建一家可以提供电力照亮繁华城市的能源公司。",
+            "游戏还在汉化中，因为锅巴我卡进度了~",
+            "如果你发现英文，可以随时把存档发给我加快汉化！么么哒~"
+        ],
+        "zhUrl": "http://yx.g8hh.com/light-the-city",
+        "enUrl": "https://semenar.itch.io/light-the-city",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "偶像点击放置",
+        "enTitle": "Idol",
+        "date": "2021-05-21",
+        "update": "2017-12-16",
+        "version":"0.2.18",
+        "path": "idol",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "养成",
+            "模拟"
+        ],
+        "content": [
+            "《偶像点击放置》是一款模拟打造偶像的放置游戏。就像你开了一家经纪公司，打造包装出一系列的明星，通过吸引粉丝来赚$。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/idol/",
+        "enUrl": "https://nyanpals.com/idol/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "挂级放置",
+        "enTitle": "All The Levels",
+        "date": "2021-05-21",
+        "update": "2019-07-11",
+        "version":"1.1",
+        "path": "all-the-levels",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一个有关升级并找出更多实现方法的游戏。该游戏需要很多放置时间，但可以通过了解游戏来加快速度。要解锁您的第一个放置选项，请在解锁“睡眠”后放置。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/all-the-levels/",
+        "kUrl": "https://www.kongregate.com/games/lom1222/all-the-levels?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "游戏开发树",
+        "enTitle": "The Game Dev Tree",
+        "date": "2021-05-19",
+        "update": "2021-05-19",
+        "version":"1.0.4",
+        "path": "the-game-dev-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "模拟",
+            "声望树"
+        ],
+        "content": [
+            "又一款声望树的Mod游戏。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/the-game-dev-tree",
+        "enUrl": "https://www.thepaperpilot.org/gamedevtree/",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "光速放置",
+        "enTitle": "Light Speed",
+        "date": "2021-05-17",
+        "update": "2021-05-17",
+        "version":"",
+        "path": "light-speed",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "光速已中断，您必须对其进行修复。 购买可修复光速的升级。 您将能够再次打破光速以获得额外的奖励，最终您甚至可以提高它！"
+        ],
+        "zhUrl": "http://yx.g8hh.com/light-speed",
+        "enUrl": "https://eyewars.itch.io/light-speed",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "动感光波",
+        "enTitle": "Oscillight",
+        "date": "2021-05-17",
+        "update": "2021-04-18",
+        "version":"1.1",
+        "path": "oscillight",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一款关于使用光产生更多光的增量放置游戏。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/oscillight",
+        "enUrl": "https://buck4437.itch.io/oscillight",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "专业鼠标放置",
+        "enTitle": "Mouse Pro",
+        "date": "2021-05-14",
+        "update": "2021-02-25",
+        "version":"",
+        "path": "mouse-pro",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一款点击游戏，随着进度增加，升级也会逐步解锁。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/mouse-pro/",
+        "enUrl": "https://eregrith.github.io/MousePro/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "版本控制",
+        "enTitle": "Version Control",
+        "date": "2021-05-10",
+        "update": "2021-04-17",
+        "version":"",
+        "path": "version-control",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "多项式成长增量游戏，受反物质维度的启发，具有更新功能。 完成所有更新，然后将“黑暗维度”转换为其他内容！"
+        ],
+        "zhUrl": "http://yx.g8hh.com/version-control",
+        "enUrl": "https://semenar.itch.io/version-control",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "科技树放置",
+        "enTitle": "Idle Tech Tree",
+        "date": "2021-05-10",
+        "update": "2019-11-14",
+        "version":"0.12.4",
+        "path": "idle-tech-tree",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "K站",
+            "英文",
+            "养成",
+            "策略"
+        ],
+        "content": [
+            "一款以科技树为主的放置游戏，没法汉化和搬运，所以是英文的，所以直接放了K站链接。"
+        ],
+        "kUrl": "https://www.kongregate.com/games/GeorgeCH1983/idle-tech-tree?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "股市模拟器",
+        "enTitle": "Stock Market Simulator",
+        "date": "2021-05-08",
+        "update": "2015-12-29",
+        "version":"",
+        "path": "stock-market-simulator",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "模拟"
+        ],
+        "content": [
+            "模拟股市交易，低买高卖，同时调节市场以便对你有利。",
+            "游戏仅供娱乐，现实生活中请勿轻易尝试。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/stock-market-simulator/",
+        "kUrl": "https://www.kongregate.com/games/absolutel/stock-market-simulator?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "2048英雄冒险放置",
+        "enTitle": "2048 IDLE Heroes RPG",
+        "date": "2021-05-08",
+        "update": "2020-02-07",
+        "version":"",
+        "path": "idle-heroes-2048",
+        "type": [
+            "放置",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "冒险",
+            "益智",
+            "英文",
+            "K站",
+            "养成",
+            "消除"
+        ],
+        "content": [
+            "《2048英雄冒险放置》是一款具有经典2048游戏和RPG冒险组合起来的游戏。通过合并数字，击败怪物获得金币，购买新英雄并升级他们的属性。尝试获得最大等级。",
+            "因为汉化会导致字体不显示的问题，所以就不汉化了。游戏单词很简单，可以轻松上手。",
+            "似乎有安卓版，可以从设置里的链接，去Google Play下载。"
+        ],
+        "zhUrl": "http://yx.g8hh.com/idle-heroes-2048",
+        "kUrl": "https://www.kongregate.com/games/the_getsuga/2048-idle-heroes?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "动量放置",
+        "enTitle": "Idle Momentum",
+        "date": "2021-05-02",
+        "update": "2021-05-02",
+        "version":"",
+        "path": "idle-momentum",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级",
+            "联网",
+            "英文",
+            "卡牌",
+            "模拟"
+        ],
+        "content": [
+            "一款网络放置游戏，论坛的小伙伴推荐的，锅巴看了下还不错，就收录一下。",
+            "外部汉化进行中，因为是网络游戏，咱们拿不到源码，只能通过外部导入汉化文件的方式汉化。",
+            "教程，锅巴已经写在第二个链接里面了，不懂的可以去群里问哈~"
+        ],
+        "enUrl": "https://idlemomentum.com/",
+        "customUrl": "http://note.youdao.com/s/3HHuZHhy",
+        "customUrlTit": "外部汉化脚本",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "无尽的训练2",
+        "enTitle": "Endless Training 2",
+        "date": "2021-05-06",
+        "update": "2017-05-28",
+        "version":"2.0.0.5",
+        "path": "endless-training-2",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "K站",
+            "养成",
+            "武侠"
+        ],
+        "content": [
+            "推荐玩K站的链接，因为存档是跟K站关联的，汉化版作为文字参考即可。",
+            "汉化版锅巴很努力的把存档改成本地存储，但是还是有问题。刷新就会丢档，必须手动导出存档进行备份。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/endlesstraining2",
+        "kUrl": "https://www.kongregate.com/games/boart2k/endless-training-2?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "模拟启示录",
+        "enTitle": "SimPocalypse",
+        "date": "2021-04-29",
+        "update": "2020-12-29",
+        "version":"",
+        "path": "sim-pocalypse",
+        "type": [
+            "放置",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "冒险",
+            "生存",
+            "Steam",
+            "建造",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "核战争后重建文明将其分裂。 探索，收集资源，管理公民，生产，交易和发展文明，以应对尝试重新征服世界时将面临的众多挑战。",
+            "本游戏在Steam售价37元，内置中文。",
+            "因为有网页体验版，所以锅巴搬运过来给大家玩~",
+            "可能有图片遗漏的情况，如果发现了，请F12打开控制台，把缺失图片的链接复制了发给锅巴补图哈~"
+        ],
+        "customUrl": "http://yx.g8hh.com/sim-pocalypse/",
+        "customUrlTit": "网页中文版",
+        "steamUrl": "https://store.steampowered.com/app/1351500/SimPocalypse/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "画家放置",
+        "enTitle": "Idle Painters",
+        "date": "2021-04-27",
+        "update": "2021-04-27",
+        "version":"1.2.0",
+        "path": "idle-painters",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "升级",
+            "益智",
+            "模拟",
+            "消除"
+        ],
+        "content": [
+            "以前群里发过，网站上没发过，所以发出来~"
+        ],
+        "zhUrl": "https://likexia.gitee.io/idle-painters",
+        "enUrl": "http://almostidle.com/our/idle-painters/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "左右互搏塔防放置",
+        "enTitle": "Dualforce Idle",
+        "date": "2021-04-26",
+        "update": "2020-12-26",
+        "version":"0.4.5",
+        "path": "dualforce-idle",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "挂机",
+            "离线",
+            "升级",
+            "K站",
+            "建造",
+            "策略"
+        ],
+        "content": [
+            "塔防塔防！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/dualforce-idle",
+        "kUrl": "https://www.kongregate.com/games/nerderror/dualforce-idle?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "图形超越放置",
+        "enTitle": "Transcend",
+        "date": "2021-04-25",
+        "update": "2021-04-25",
+        "version":"2.02",
+        "path": "transcend",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级",
+            "益智"
+        ],
+        "content": [
+            "一款各种图形为主的放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/transcend/game.html",
+        "enUrl": "https://www.taylorcalderone.com/transcendGame/game.html",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "金庸群侠•大乱斗",
+        "enTitle": "JYF",
+        "date": "2021-04-22",
+        "update": "2021-06-06",
+        "version":"0.6.15",
+        "path": "jyf",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "原创",
+            "养成",
+            "策略",
+            "武侠"
+        ],
+        "content": [
+            "注意：",
+            "正在玩 https://idlegame.gitee.io/jyf/ 这个地址的朋友，先不要刷新，点游戏右上角，导出存档。",
+            "由于锅巴我的骚操作，点错更新按钮，把 备用链接 搞废了（Gitee在整顿，没法重新发布，要等3个月后）",
+            "现在重新搞了个新链接在咱服务器上：http://yx.g8hh.com/jyf/",
+            "大家可以导入存档，或者直接去玩作者的版本。",
+            "点击版本号即可进入对应版本开玩~",
+            "《金庸群侠•大乱斗》是爱好者自制的游戏，仅供金庸武侠世界爱好者分享和交流，不用于商业盈利，大家可以当放置游戏玩。",
+            "大部分素材来自各类金庸mod，如《金书群侠传》、《金庸群芳谱》、《金庸群侠前传》等。。",
+            "因为平时咱发的游戏还没有武侠风格的，所以锅巴看到这个游戏的时候，眼前是猛地一亮。国产放置难得一遇，欢迎大家体验。",
+            "游戏带了导入、导出功能，就跟咱平时玩的放置游戏一样。",
+            "喜欢的朋友可以加玩家群，给作者提建议、交流等（锅巴我已经加进去了~）。",
+            "QQ群：922600429"
+        ],
+        "customUrl": "https://zhouxiaobo1990.gitee.io/jyf/",
+        "customUrlTit": "原版",
+        "customUrl2": "https://idlegame.gitee.io/jyf/",
+        "customUrlTit2": "锅巴搬运版-已废",
+        "customUrl3": "https://yx.g8hh.com/jyf/",
+        "customUrlTit3": "锅巴搬运版-新",
+        "QQ": "922600429",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "足球经理放置",
+        "enTitle": "Idle Football Manager",
+        "date": "2021-04-20",
+        "update": "2021-05-11",
+        "version":"",
+        "path": "idle-football-manager",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "养成",
+            "模拟"
+        ],
+        "content": [
+            "《欧米伽层级》作者的新作，还在更新中~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/veprogames/idle-football-manager/",
+        "enUrl": "https://veprogames.github.io/idle-football-manager/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "needHH":0,
+        "flash": false,
+        "status": 1
+    },
+    {
+        "title": "裂变模拟器",
+        "enTitle": "Fission Simulator",
+        "date": "2021-04-15",
+        "update": "2020-08-12",
+        "version":"",
+        "path": "fission-simulator",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "模拟"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/fission-simulator/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "六边形点击",
+        "enTitle": "Hexa Clicker",
+        "date": "2021-04-12",
+        "update": "2017-03-15",
+        "version":"0.3",
+        "path": "hexa-clicker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "导入有问题，请用图5的方式进行导入导出~"
+        ],
+        "zhUrl": "http://likexia.gitee.io/hexaclicker",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "史莱姆放置文字版",
+        "enTitle": "Idle Slime Text",
+        "date": "2021-04-09",
+        "update": "2020-07-15",
+        "version":"0.8.2",
+        "path": "idle-slime-text",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "联网",
+            "K站"
+        ],
+        "content": [
+            "一款文字类型的RPG放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idleslime-text/",
+        "kUrl": "https://www.kongregate.com/games/kbvpneofit/idleslime-text?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "病毒树",
+        "enTitle": "C0v1d Modding Tree",
+        "date": "2021-04-09",
+        "update": "2021-06-01",
+        "version":"0.6.4",
+        "path": "c0v1d-modding-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "声望树",
+            "升级"
+        ],
+        "content": [
+            "感谢 @公子羽 大佬帮忙汉化此游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/c0v1d-modding-tree/",
+        "enUrl": "https://raw.githack.com/c0v1d-9119361/The-Modding-Tree/master/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "放置矿工：重制版",
+        "enTitle": "Idle Mine: Remix",
+        "date": "2021-04-06",
+        "update": "2021-04-06",
+        "version":"",
+        "path": "idle-mine-remix",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "太空",
+            "模拟"
+        ],
+        "content": [
+            "《放置矿工：重制版》是一款关于挖掘不同矿物的点击放置游戏。这款游戏的灵感来自Crovie的Idle Mine。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-mine-remix/",
+        "enUrl": "https://www.crazygames.com/game/idle-mine-remix",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "flash": false,
+        "status": 1
+    },
+    {
+        "title": "你的编年史",
+        "enTitle": "Your Chronicle",
+        "date": "2021-04-05",
+        "update": "",
+        "version":"",
+        "path": "your-chronicle",
+        "type": [
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级",
+            "英文",
+            "U3D",
+            "PC",
+            "Steam",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "“让我们开始您自己的故事。” 这是一个文字类型的放置类RPG游戏。 这里有1500多个动作，仍在增加。"
+        ],
+        "customUrl": "https://www.crazygames.com/game/your-chronicle",
+        "customUrlTit": "英文网页版",
+        "steamUrl": "https://store.steampowered.com/app/1546320/Your_Chronicle/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "细胞至奇点：进化永无止境",
+        "enTitle": "Cell to Singularity : Evolution Never Ends",
+        "date": "2021-04-05",
+        "update": "",
+        "version":"",
+        "path": "cell-to-singularity",
+        "type": [
+            "放置",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "安卓",
+            "苹果",
+            "PC",
+            "Steam",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "进化，技术和人性的史诗故事等你来发现。",
+            "本游戏有中文，也有手机版。IOS国区似乎下架了。",
+            "支持云存档（需注册）在各个设备上同步进度。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/977400/Cell_to_Singularity__Evolution_Never_Ends/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "增量宇宙树",
+        "enTitle": "Incrementreeverse",
+        "date": "2021-04-05",
+        "update": "2021-04-04",
+        "version":"1.0",
+        "path": "incrementreeverse",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "声望树",
+            "升级"
+        ],
+        "content": [
+            "本游戏由反物质维度群的 @χγζ5051 大佬汉化推荐。"
+        ],
+        "zhUrl": "https://gsui5051.gitee.io/incrementreeverse-cn/",
+        "enUrl": "https://gsui5051.gitee.io/incrementreeverse",
+        "customUrl": "http://idlegame.gitee.io/incrementreeverse-cn",
+        "customUrlTit": "Git游戏搬运版",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "里程碑之树",
+        "enTitle": "Milestone Tree",
+        "date": "2021-04-02",
+        "update": "2021-04-05",
+        "version":"1.145",
+        "path": "milestone-tree",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树",
+            "原创"
+        ],
+        "content": [
+            "此游戏是反物质维度群里 @The Loader 在模型树的基础上二次开发，后续还会继续更新。"
+        ],
+        "zhUrl": "https://qq1010903229.gitee.io/milestone-tree/index2.html",
+        "enUrl": "https://qq1010903229.gitee.io/milestone-tree/index.html",
+        "customUrl": "http://idlegame.gitee.io/milestone-tree/index2.html",
+        "customUrlTit": "Git游戏版",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "流氓放置",
+        "enTitle": "Idle Mobster",
+        "date": "2021-04-01",
+        "update": "",
+        "version":"",
+        "path": "idle-mobster",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "游戏内的行为，切勿在现实生活中模仿哦~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-mobster/",
+        "enUrl": "https://kek91.itch.io/idle-mobster",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "生产大师",
+        "enTitle": "Production Mastery Teaser",
+        "date": "2021-04-01",
+        "update": "2020-09-17",
+        "version":"1.4.5",
+        "path": "production-mastery-teaser",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "K站",
+            "英文"
+        ],
+        "content": [
+            "这是一个关于生产，魔法的放置游戏！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/production-mastery-teaser",
+        "kUrl": "https://www.kongregate.com/games/nerderror/production-mastery-teaser?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "工业放置",
+        "enTitle": "Industry Idle",
+        "date": "2021-04-01",
+        "update": "2021-04-16",
+        "version":"0.2.7",
+        "path": "industry-idle",
+        "type": [
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级",
+            "PC",
+            "Steam",
+            "建造",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "Industry Idle是一款放置游戏，它将工厂建设，资源管理和市场交易结合在一起。 设计和建立您的基地，扩大和扩大您的生产，改善和优化您的经济。 加上所有增量游戏特效：离线收益，声望以解锁更强大的升级。",
+            "游戏目前仅支持Windows系统，已经有中文啦。",
+            "现在还出了网页版、手机版。",
+            "手机苹果版国内App Store还没有，可以去台湾地区下载。也可以去官网下载测试版，不过好像只有英文。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1574000/Industry_Idle/",
+        "customUrl": "https://play.industryidle.com/",
+        "customUrlTit": "网页中文版",
+        "customUrl2": "https://industryidle.com/",
+        "customUrlTit2": "手机版/官网",
+        "customUrl3": "https://apkpremier.com/details/com-fishpondstudio-industryidle",
+        "customUrlTit3": "安卓打不开Google Play的来这里下",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "GTA放置",
+        "enTitle": "Idle Five",
+        "date": "2021-03-26",
+        "update": "2020-07-22",
+        "version":"4.4",
+        "path": "idle-five",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "模拟"
+        ],
+        "content": [
+            "之前发布过《GTA放置2》，似乎后面有问题。最近认真玩了下一代，感觉这个没啥问题。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-five",
+        "enUrl": "https://goldenlys.github.io/IdleFive/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "文明2",
+        "enTitle": "Cividlization 2",
+        "date": "2020-01-11",
+        "update": "2020-03-01",
+        "version": "1.3.7",
+        "path": "cividlization-2",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "冒险",
+            "K站"
+        ],
+        "content": [
+            "不能直接刷新，需要把链接删除到/cividlization2/这里，然后回车即可。",
+            "因为最近补充了一些汉化，所以再发一次~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/cividlization2",
+        "kUrl": "https://www.kongregate.com/games/to_change_later/cividlization-2?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "status": 1
+    },
+    {
+        "title": "计算器进化",
+        "enTitle": "Calculator Evolution",
+        "date": "2021-03-24",
+        "update": "2021-03-15",
+        "version":"1.1.37",
+        "path": "calculator-evolution",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "又一个内容丰富的增量游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/calculator-evolution/",
+        "enUrl": "https://spotky1004.github.io/Calculator-Evolution/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "表情包工厂",
+        "enTitle": "Idle Emoji Factory",
+        "date": "2021-03-24",
+        "update": "2021-03-24",
+        "version":"",
+        "path": "idle-emoji-factory",
+        "type": [
+            "放置",
+            "点击",
+            "经营",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "魔性又费鼠标的放置游戏~充满了欢乐~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-emoji-factory/",
+        "enUrl": "https://www.crazygames.com/game/idle-emoji-factory",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "网格倍增器",
+        "enTitle": "Multiplier Grid",
+        "date": "2021-03-20",
+        "update": "2021-03-20",
+        "version":"",
+        "path": "multiplier-grid",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "好玩魔性费鼠标的游戏~记得把下面改成鼠标悬浮升级哈~",
+            "网格初始是2x2的，最大10x10，然后转生获得加成，继续从2x2开始，以此类推~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/multiplier-grid/",
+        "enUrl": "https://www.crazygames.com/game/multiplier-grid",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "字母公司",
+        "enTitle": "AZ Inc",
+        "date": "2021-03-19",
+        "update": "2021-03-19",
+        "version":"",
+        "path": "azinc",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "以字母为主题的放置游戏。肝爆了。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/azinc",
+        "enUrl": "https://xecutor.github.io/azinc/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "创世声望树",
+        "enTitle": "Prestreestuck",
+        "date": "2021-03-15",
+        "update": "2021-05-30",
+        "version":"0.1.1.2.5",
+        "path": "prestreestuck",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "声望树",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "感谢 @公子羽 大佬帮忙汉化！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/prestreestuck/",
+        "enUrl": "https://ducdat0507.github.io/prestreestuck/",
+        "customUrl": "https://yhvr.me/pt/mods.html",
+        "customUrlTit": "其它树游戏集合",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "掉了个球",
+        "enTitle": "Plinko Idle",
+        "date": "2021-03-15",
+        "update": "2021-03-12",
+        "version":"0.1.4",
+        "path": "plinko-idle",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《掉了个球》是一款连锅巴我都直呼魔性、好玩~的以球为主角的放置游戏。",
+            "不用点小球或者当小球到最后一层时点，让利益最大化。",
+            "需要购买左下角的【解锁更多区域】和右边的各种升级。",
+            "让球自然下落，经过虚线时，球有几率消失，或者继续往下掉。",
+            "球多掉下去一层，就多得一次钱~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/plinko-idle/",
+        "kUrl": "https://www.kongregate.com/games/Zamol/the-black-box?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "创世纪",
+        "enTitle": "Genesis",
+        "date": "2021-03-11",
+        "update": "2021-03-11",
+        "version":"",
+        "path": "genesis",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "模拟"
+        ],
+        "content": [
+            "从光子到原子，从虚无到宇宙~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/genesis",
+        "enUrl": "https://v6p9d9t4.ssl.hwcdn.net/html/3431426/index.html",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "合并个球",
+        "enTitle": "Yet Another Merge Game",
+        "date": "2021-03-05",
+        "update": "2021-03-05",
+        "version":"",
+        "path": "yet-another-merge-game",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/yet-another-merge-game",
+        "kUrl": "https://www.kongregate.com/games/cook1eegames/yet-another-merge-game?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
+        "title": "恐龙快跑",
+        "enTitle": "Dinosaur Run",
+        "date": "2021-03-05",
+        "update": "2021-03-05",
+        "version":"",
+        "path": "dinosaur-run",
+        "type": [
+            "文字",
+            "益智",
+            "怀旧",
+            "论坛",
+            "敏捷"
+        ],
+        "content": [
+            "简单的玩法，丰富的趣味~"
+        ],
+        "customUrl": "http://idlegame.gitee.io/dinosaur-run/",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "无尽的战利品",
+        "enTitle": "Loot Clicker",
+        "date": "2021-02-28",
+        "update": "2020-04-24",
+        "version":"2.2.30",
+        "path": "loot-clicker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险"
+        ],
+        "content": [
+            "一款类似点击英雄玩法的游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/loot-clicker/",
+        "enUrl": "https://spotky1004.github.io/LootClicker/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "合并增量",
+        "enTitle": "Incremental Merge",
+        "date": "2021-03-01",
+        "update": "2020-09-17",
+        "version":"β2 α1",
+        "path": "incremental-merge",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "很有意思的合并、升级类放置游戏，带有转生系统。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/incremental-merge",
+        "enUrl": "https://mrredshark77.github.io/incremental-merge/",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "骑士进度条",
+        "enTitle": "Progress Knight",
+        "date": "2021-02-27",
+        "update": "2021-01-18",
+        "version":"0.2",
+        "path": "progress-knight",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "模拟"
+        ],
+        "content": [
+            "这个游戏是群友在灵动那边发现的，但是灵动的汉化方式太粗暴了，导出的存档里面变量是中文？？？",
+            "于是咱就找到英文版，自己汉化了给大家玩。灵动的存档无法导入咱汉化的版本哦~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/progress-knight/",
+        "enUrl": "https://ihtasham42.github.io/progress-knight/",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "方块增量",
+        "enTitle": "Incremental Blocks",
+        "date": "2021-02-25",
+        "update": "2020-08-19",
+        "version":"1.2.34",
+        "path": "incremental-blocks",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/incremental-blocks",
+        "enUrl": "https://spotky1004.github.io/Incremental-Blocks/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "黑洞收缩者",
+        "enTitle": "Black Hole Shrinker",
+        "date": "2021-02-24",
+        "update": "2021-02-24",
+        "version":"",
+        "path": "black-hole-shrinker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《黑洞收缩者》是一款模拟黑洞吞噬物质的放置游戏。通过解锁各种升级选项，来提高黑洞收缩的速度，以及黑洞吞噬物质的数量。游戏初始有1,000,000,000,000,000的物质，你需要把这些物质统统吞噬掉。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/black-hole-shrinker",
+        "enUrl": "https://spotky1004.github.io/Black-Hole-Shrinker/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "螺旋星系2",
+        "enTitle": "Helixteus II",
+        "date": "2021-02-20",
+        "update": "2021-02-20",
+        "version": "1.4.2c",
+        "path": "helixteus-2",
+        "type": [
+            "Flash",
+            "太空",
+            "建造"
+        ],
+        "content": [
+            "感谢 @止于终老 大佬汉化推荐。"
+        ],
+        "zhUrl": "https://likexia.gitee.io/game/static/flash/helixteus-2.html",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "needHH": 0,
+        "flash": true
+    },
+    {
+        "title": "空灵农场",
+        "enTitle": "Ethereal Farm",
+        "date": "2021-02-11",
+        "update": "2021-06-06",
+        "version":"0.1.77",
+        "path": "ethereal-farm",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "养成",
+            "策略"
+        ],
+        "content": [
+            "这次彻底根治了英文版存档不能导入汉化版的问题。。",
+            "因为作者部署的版本，跟咱们之前部署的版本，完全是老婆跟老婆饼的关系。。。",
+            "游戏链接用【汉化版】（带2链接的存档建议人道毁灭，因为没法导入最新版）。",
+            "【汉化版】这个链接就是最新版~"
+        ],
+        "customUrl": "http://idlegame.gitee.io/ethereal-farm2",
+        "customUrlTit": "此版本弃用，请玩【汉化版】",
+        "zhUrl": "http://idlegame.gitee.io/ethereal-farm",
+        "enUrl": "https://lodev.org/etherealfarm/",
+        "QQ": "946050761",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "呔！病毒哪里逃！",
+        "enTitle": "Overseer",
+        "date": "2021-02-01",
+        "update": "2020-09-11",
+        "version":"",
+        "path": "overseer",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "模拟"
+        ],
+        "content": [
+            "一款小型放置模拟病毒扫描程序的游戏，包含若干随机事件~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/overseer/",
+        "enUrl": "https://mrsperry.github.io/overseer/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "能量发生器",
+        "enTitle": "Energy Generator",
+        "date": "2021-01-27",
+        "update": "2021-02-18",
+        "version":"",
+        "path": "energy-generator",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "按住M键购买最大"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/energy-generator/",
+        "enUrl": "https://eyewars.github.io/Energy-Generator/",
+        "kUrl": "https://www.kongregate.com/games/eyewars/test?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "合成大西瓜",
+        "enTitle": "Synthesis of watermelon",
+        "date": "2021-01-26",
+        "update": "",
+        "version": "",
+        "path": "synthesis-of-watermelon",
+        "type": [
+            "点击",
+            "消除"
+        ],
+        "content": [
+            "一夜爆火的小游戏，合成大西瓜。",
+            "如果链接挂了，请尝试另一个链接"
+        ],
+        "customUrl": "http://idlegame.gitee.io/synthesis-of-watermelon",
+        "zhUrl": "http://yx.g8hh.com/synthesis-of-watermelon/",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 0,
+        "needHH": 0
+    },
+    {
+        "title": "土拨鼠生活",
+        "enTitle": "Groundhog Life",
+        "date": "2021-01-25",
+        "update": "2018-10-12",
+        "version":"",
+        "path": "groundhog-life",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "模拟"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://likexia.gitee.io/groundhog-life",
+        "enUrl": "https://mogron.itch.io/groundhog-life",
+        "kUrl": "https://www.kongregate.com/games/egosummo/groundhog-life?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "机动战士战术策略",
+        "enTitle": "MobileSuit Tactics",
+        "date": "2021-01-21",
+        "update": "2021-01-21",
+        "version": "",
+        "path": "mst",
+        "type": [
+            "放置",
+            "点击",
+            "升级",
+            "联网",
+            "养成",
+            "策略",
+            "模拟",
+            "怀旧"
+        ],
+        "content": [
+            "MST是MS Tactics的简称，是一个收集机动战士高达系列机体+PK的游戏，游戏目前包含1100种以上的机动战士高达系列机体，通过与其他玩家或者NPC的对战获取战果，进行驾驶员的培养，机体的新建，换乘，改造。",
+            "群友推荐的，属于页游了",
+            "首先来说明一下什么叫做MST。MST是MS Tactics的简称，是一个收集+PK的游戏。",
+            "其次吐槽画面啊UI啊你就输了，这游戏非常非常非常古老，自己驾驶高达一骑当千砍瓜切菜的雄姿请自行脑补。",
+            "（那TMD这游戏有个瘠薄玩头）这个…总之先往下看。",
+            "好了现在你已经通过某些不可名状的方式得到了一串神秘的网址，你打算注册一个号看看这TM究竟是个什么鬼游戏，请用浏览器的查找功能搜索“新人物登录”，看到那个方方的按钮了么？点下去，恭喜你，你找到了注册的页面！",
+            "接下来出现在你面前的这份规约虽然99%的人是不会看的，但是个人建议还是稍微看一下下，比如第二条啊，第十九条啊，第二十条啊，请切记，这个游戏禁止一人多账号，禁止使用按键精灵等作弊软件，干坏事会被记录在小黑本上的哦。",
+            "然后你点击了同意，接下来出现了一个不管怎么看都像是注册用的页面，很明显这就是注册用的页面啦，ID和密码就不用说啦，人物名就是你的人物名，e-mail就是你的电子邮件（请务必放心，本游戏没有发垃圾邮件的功能，这其实就是让你留下一个联络方式而已，瞎瘠薄填的话……其实也OK的）接下来的这个MS搭乘者就会让人有一点点茫然，这TM跟人物名有啥区别啊？！鉴于解释起来很麻烦，所以你就跟人物名写一样，保证没问题的嗯！接下来的人物性別…说明有在那里，并没有扶她选项，所以请看着选，人物出生日期…鉴于GM没有告诉我们详细关于这东西的用处，所以也请随意。",
+            "接下来就是最重要的人物初期能力分配了，MST中的人物能力分为五项，分别是直感，操纵，近距离，中距离，远距离，这五个属性简单粗暴点说就是命中/回避/各距离下的加成，初期能力合计值不能大于120，单项能力不能超过70，很多强迫症患者在这里纠结得一塌糊涂，实际上我可以明确告诉你，初期能力你随意加就是了，反正后面能力提升是很快的（至少在你渡过萌新期之前，很快，真的），不过为了我们接下来能够很轻松的发展，建议至少直感10点，操纵20点，原因后叙。",
+            "接下来你需要选择你的初始机体，分别是铁球，铁球改，渣古1，渣古坦克，这里的选择其实也很随意，不过鉴于本人的责任心，所以在这里提示一下，如果你刚才的初期能力分配中，远距离给的比较多的话，可以选择铁球改，近距离比较多的话，可以选择渣古1，中距离比较多的话，可以选择渣古坦克，至于铁球嘛…总之这四个兄弟不需要你纠结太多，赶紧选一个进游戏啦。",
+            "好了你终于进入了这个古老而神秘的网页游戏的世界，上来我们先不要太捉急开着你那萌物出去找人打架，看看你页面的左下角的那个菜单先。这个菜单将会陪伴你渡过这个游戏的绝大多数时光，所以请务必记住哦，当然记不住也无所谓，你以后会记住的……",
+            "所谓个人战斗画面，也就是你登入游戏时的这个界面，在这里你可以选择与玩家进行战斗或者与NPC进行战斗，对自己的机体进行整备（也就是回满HP跟EN），什么你说你后来登入游戏时候那两个窗口？一个是聊天室，现在这个时代基本是没人用了，另一个是优胜个别战，也就是所谓的擂台，这里是大佬们展示自己实力的场合，身为一个萌新，就别瞎参合了，乖，关了。",
+            "然后接下来的优胜个别战，这个就是我让你关了的东西。嗯，别理它。",
+            "格纳库，这个就不需要多解释了，选择格纳库，并且点击“实行”你就来到了格纳库界面，这里你可以看到一个巨大的按钮上面写着格纳两个字，这个按钮的功能就是将你现在搭乘的机体换回到格纳库，并且自动给你一台铁球开，当然你也可以点击“换乘”按钮重新将自己的机体开回来，这是一个很重要的功能，请务必熟练掌握，务必- -",
+            "继续看左下角的菜单，接下来是队伍编成，是供大佬们组队打群架用的，身为一名萌新，请务必忽略这个。",
+            "接下来的这个援助（NPC)设定就非常重要了，这个页面可以让其他玩家在你干架的时候跳出来帮你，当然帮你的姿势有很多很多种，点击请选择援助人物，选择一位仁兄并且点击援助设定，这位兄台就会在你干架的时候跳出来帮你，顺便往下看点，看到这个：※自己成为别人的援助（NPC)时设定用。没？不光其他人会帮你，你也可以帮助其他人哦，并且也可以选择发动支援时的台词。作为一名萌新，请选择援助种类为援护射击或者耐久力回复的兄台帮你哦。",
+            "接下来的四个个人战斗+XXXXX请PASS，他们跟你暂时没有什么关系。",
+            "再下来这个战术设定就很重要了！非常非常重要！带有（主要部分）四个字的选项会直接在当前界面打开，不带有主要部分四个字会单独弹出一个新窗口，请务必注意这一点哦。身为一名新人，请将战术调整为“加强移动意识，攻击重视”，然后点击实行，就这么十个字，千万别搞错哦！",
+            "鉴于本攻略是目的不是凑字数，所以接下来请你回到个人战斗画面，然后点击武器搭载，这里有很多很多武器供你选择，但是鉴于你只是一位萌新，所以请你按照我说的来装备武器哦。装备武器的方法是点你想装备的武器，然后点击页面最下方的实行。装备同理。",
+            "如果你初期选择了“铁球”请装备“机械臂”，如果你初期选择了“铁球改良型”请装备“180mm携带型加农炮”，如果是“渣古1”请装备“肩部撞击”，如果是“渣古坦克”请装备“加特林机枪”然后你会发现你的武器字体变成了黄颜色，名字也变了，这就是所谓的“特武”，是只有特定机体装备特定武器才会出现的特殊武器，同理也有“特装”。但是不一定每一台机体都有特武跟特装哦。然后点击装备，带上“生物感应器”要注意的是，武器装备都是有重量的，而你的机体所能装备的重量是有限制的，对于这四台初期机而言，装备特武之后，你剩下的重量几乎所剩无几，所以先不要着急装备其他东西，只要带好你的“特武”跟“生物感应器”就OK。",
+            "接下来请在模拟战里寻找一下靠后面的人，俗话说鲨鱼上了岸就是渣（这是我编的）所以请务必观察一下自己的地形适应，在最适合自己的地形下跟排名靠后跟你很像的萌新干一架，简单地说如果你开的是铁球系就在宇宙揍渣古1跟渣古坦克，你开的是渣古系就在地上揍铁球系，就是这么一回事咯。",
+            "到这一步为止，如果你按照我说的设置了援护跟战术的话，你是很轻松就能取胜的，好了你现在手里已经有了宝贵的第一桶金，而且取得了游戏生涯的首场胜利，当然你输了也比较正常- -请不用太在意这个，你距离脱离萌新还差最后两步呢。",
+            "接下来你需要看看自己的人物能力，还记得我当时的建议么？看看自己的直感是否有10点，操纵是否有20点，如果有，恭喜你，你还差最后一步就能脱离萌新啦！如果没有，请前往“Newtype研究所”看到训练强化那几个字了没？选择直感强化跟操作强化，选择回数，点击强化，将你的直感提升到10，操纵提升到20，好的恭喜你你也只差最后一步就能脱离萌新啦！什么你说你没钱？去再打一架能死啊！记得身上要有起码150资金哦。",
+            "好了！你即将脱离萌新阶段了！请先前往格纳库格纳一下，换成铁球，然后去阿纳海姆，找一下一台叫做迪普·洛格的机体，找到了没？点击换乘，然后回到个人战斗画面，第一武器装备“对舰爆雷”，第二武器装备“大型火箭弹”，装备“生物感应器”，第二装备暂时可以先不装。然后在模拟战的列表里仔细寻找一位名叫中秋激斗机器人3的兄台，战场选择“空中”，然后豪快地揍他吧！很好，你已经有了稳定的经济来源了，现在你已经不再是一个啥也不懂的萌新，而是一个萌一点的萌新了！欢迎加入MST的世界！",
+            "什么？你说这个游戏的目的是什么？那些页面都是什么意思？机体属性都是啥？战术是什么意思？怎么造强袭自由？",
+            "这个……看到你个人画面左上角的红字了没？就是那句“新手玩家想知道怎么玩的，可以去贴吧看看或者加群 ：362472188”什么你没看到？多实行几次个人战斗画面啊喂，这群里除了萌新什么都不缺，最不缺的就是骨灰级大佬，有问题去问他们啦…好了本攻略到此结束谢谢大家！"
+        ],
+        "customUrl": "http://www.mstactics.cn/cgi-bin/mst/index.cgi?mode=mstinit",
+        "customUrlTit": "开始游戏",
+        "QQ": "362472188",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "距离增量",
+        "enTitle": "Distance Incremental",
+        "date": "2021-01-15",
+        "update": "2021-04-08",
+        "version": "2.0",
+        "path": "distance-incremental",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "感谢 @by22dgb 大佬帮忙汉化。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/distance-incremental/main.html",
+        "enUrl": "https://jacorb90.github.io/DistInc.github.io/main.html",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "加速器放置",
+        "enTitle": "Idle Accelerator",
+        "date": "2021-01-15",
+        "update": "2017-10-29",
+        "version": "3.6.1",
+        "path": "idle-accelerator",
+        "type": [
+            "放置",
+            "点击",
+            "K站",
+            "英文版",
+            "U3D"
+        ],
+        "content": [
+            "因为是Unity 3D游戏，无法汉化。因为K站加载速度超级慢，所以搬过来方便大家玩。",
+            "这是一个粒子加速器管理的游戏，通过改进和研究新粒子以产生能量。",
+            "资源文件有几十兆，加载略慢，请耐心等候~",
+            "有群友说无法存档？好像是因为游戏用了K站的云存储。。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-accelerator",
+        "kUrl": "https://www.kongregate.com/games/Arkshija/idle-accelerator?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "王朝之系谱",
+        "enTitle": "The Dynas Tree",
+        "date": "2021-01-05",
+        "update": "2020-11-16",
+        "version": "0.4.0",
+        "path": "the-dynas-tree",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "声望树",
+            "升级"
+        ],
+        "content": [
+            "感谢群里 没名字的朋友 推荐本游戏。",
+            "感谢 @by22dgb 大佬帮忙汉化。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/the-dynas-tree",
+        "enUrl": "https://ducdat0507.github.io/thedynastree/",
+        "customUrl": "https://yhvr.me/pt/mods.html",
+        "customUrlTit": "其它树游戏集合",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "时间层级",
+        "enTitle": "Time Layers",
+        "date": "2020-12-30",
+        "update": "2020-12-29",
+        "version": "",
+        "path": "time-layers",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "感谢 @by22dgb 大佬帮忙汉化。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/time-layers",
+        "enUrl": "https://patcailmemer.github.io/Time-Layers/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "立方热熔体",
+        "enTitle": "Block Fuser",
+        "date": "2020-12-28",
+        "update": "2020-04-04",
+        "version": "",
+        "path": "block-fuser",
+        "type": [
+            "放置",
+            "点击",
+            "K站",
+            "已汉化",
+            "U3D"
+        ],
+        "content": [
+            "因为是Unity 3D游戏，无法汉化。因为K站加载速度超级慢，所以搬过来方便大家玩。",
+            "群友想玩，从灵动搬运的。如侵权可联系删除~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/block-fuser",
+        "customUrlTit": "灵动汉化版",
+        "customUrl": "http://www.mhhf.com/gamev-5334",
+        "kUrl": "https://www.kongregate.com/games/Barbasu/block-fuser?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "欧米伽层级",
+        "enTitle": "Omega Layers",
+        "date": "2020-12-24",
+        "update": "2020-12-16",
+        "version": "",
+        "path": "omega-layers",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "感谢 @by22dgb 大佬帮忙汉化。",
+            "类似《反物质维度》的一款游戏，界面好看，玩法自己感受哈~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/veprogames/omega-layers/",
+        "enUrl": "https://veprogames.github.io/omega-layers/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "放置突击者:第二季",
+        "enTitle": "Idle Raiders: Second Run",
+        "date": "2020-12-11",
+        "update": "2019-04-02",
+        "version": "1.7.2",
+        "path": "idle-raiders-second-run",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "升级",
+            "K站"
+        ],
+        "content": [
+            "这个游戏汉化有点麻烦，缓慢汉化中~",
+            "游戏期间可能会随时更新汉化，所以没事就导出存档备份下~",
+            "然后刷新页面~"
+        ],
+        "zhUrl": "http://yx.g8hh.com/idle-raiders-second-run/index.html",
+        "kUrl": "https://www.kongregate.com/games/romeolord/conquere-the-world?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "赛车放置",
+        "enTitle": "Idle Racing",
+        "date": "2020-12-07",
+        "update": "2020-11-19",
+        "version": "0.714",
+        "path": "idle-racing",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "游戏玩法是买车、参加比赛赚钱、用钱买车库、升级车辆、购买更好的车，最后达成60个成就，达到人生巅峰！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-racing/",
+        "enUrl": "https://idleracing.netlify.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "按钮造世界",
+        "enTitle": "Button",
+        "date": "2020-11-13",
+        "update": "2020-11-13",
+        "version": "",
+        "path": "button",
+        "type": [
+            "点击",
+            "升级",
+            "冒险",
+            "Flash",
+            "策略"
+        ],
+        "content": [
+            "通过一个按钮就可以改变整个游戏世界。玩家需要不停的点击屏幕中间的按钮来获取成长值，达到一定的成长值后可以解锁各种有趣的助手，如哥布林，法师，强化能力等！"
+        ],
+        "zhUrl": "https://likexia.gitee.io/game/static/flash/button.html",
+        "customUrl": "http://www.17yy.com/f/play/241514.html",
+        "customUrlTit": "17yy版",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "needHH": 0,
+        "flash": true
+    },
+    {
+        "title": "餐馆放置",
+        "enTitle": "Idle Restaurant",
+        "date": "2020-11-13",
+        "update": "2021-04-26",
+        "version": "",
+        "path": "idle-restaurant",
+        "type": [
+            "放置",
+            "点击",
+            "挂机",
+            "升级",
+            "经营"
+        ],
+        "content": [
+            "有群友说想玩？好，满足大家！从17yy搬运过来的~",
+            "一款策略挂机放置类小游戏。",
+            "游戏开始你需要在厨师乔治的指导下进行工作和获取经营餐馆的知识，初期你需要通过刷碗来赚取一些初始资金，之后逐步实现你的餐馆梦。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-restaurant",
+        "enUrl": "https://restaurantidle.com/game.html",
+        "kUrl": "https://www.kongregate.com/games/86com/testhtml1231?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "Vue放置",
+        "enTitle": "Vue Idle Game",
+        "date": "2020-10-14",
+        "update": "2021-01-15",
+        "version": "1.3.3",
+        "path": "vue-idle-game",
+        "type": [
+            "放置",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "原创",
+            "养成"
+        ],
+        "content": [
+            "Github上一个国人大佬（http://couy.xyz）写的游戏，这个项目已经有了383颗Star，膜拜~所以搬运过来给大家玩！",
+            "作者也在咱大群里面，如果你有建议或者遇到Bug，可以在群里 @couy 反馈哈！",
+            "本游戏是一个全随机的刷装备刷词条小游戏。",
+            "装备分为四个等级：破旧、普通、神话、史诗。",
+            "主角默认每秒回血2%；默认暴击伤害150%"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/vue-idle-game",
+        "customUrl": "http://couy.xyz",
+        "customUrlTit": "原版",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "宝可梦点击2.0",
+        "enTitle": "Poke Clicker",
+        "date": "2019-11-04",
+        "update": "2021-04-28",
+        "version": "0.8.1",
+        "path": "poke-clicker2",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "挂机",
+            "养成"
+        ],
+        "content": [
+            "感谢各位大佬： @リベンジのさそり，@S-K-Q 帮忙汉化！",
+            "船新版本，汉化中，可以先体验~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/pokeclicker/",
+        "enUrl": "https://www.pokeclicker.com/",
+        "wikiUrl": "http://likexia.gitee.io/piddb/",
+        "wikiUrl2": "https://wiki.52poke.com/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%88%97%E8%A1%A8%EF%BC%88%E6%8C%89%E5%85%A8%E5%9B%BD%E5%9B%BE%E9%89%B4%E7%BC%96%E5%8F%B7%EF%BC%89/%E7%AE%80%E5%8D%95%E7%89%88",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1
+    },
+    {
+        "title": "我的暗黑",
+        "enTitle": "My Diablo",
+        "date": "2020-10-06",
+        "update": "2020-10-14",
+        "version": "1.074",
+        "path": "my-diablo",
+        "type": [
+            "RPG",
+            "原创",
+            "PC"
+        ],
+        "content": [
+            "百度盘密码：velb",
+            "不能保证随时同步最新版本，可以加游戏群获取~"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/ZghtlSEv",
+        "baiduUrl": "https://pan.baidu.com/s/1lW86FfHqolJOUdNZmRY0dg",
+        "QQ": "951107794",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "墨魂‧長生界",
+        "enTitle": "",
+        "date": "2020-09-07",
+        "update": "2020-09-07",
+        "version": "",
+        "path": "chang-sheng-jie",
+        "type": [
+            "文字",
+            "离线",
+            "挂机",
+            "原创",
+            "联网",
+            "修真"
+        ],
+        "content": [
+            "放置型網頁修仙遊戲【墨魂‧長生界】",
+            "電腦手機無間互通 只要有網絡 哪都能修仙",
+            "最新開服慶祝活動:",
+            "為慶祝 2020 墨魂‧長生界 新服開啟，由即日起至2020/09/17晚上24:00",
+            "經驗值 2倍",
+            "真氣 2倍",
+            "金錢 2倍",
+            "首充返還 2倍",
+            "還有累充活動 福利多多!!",
+            "白嫖黨福利:",
+            "白嫖党可依靠发帖提升VIP等级，发帖推广奖励如下：",
+            "简单文案+游戏网址+本群群号+游戏图片1张（可推广网址与推广文案及案例请查看群共享），一个帖子等于一元累充，复制黏贴即可，发完后网址存到文本里，带上日期私聊群主，封顶一天50元，相当于连发20天左右即可变成VIP10!!!",
+            "現加群還能领群礼包及新手礼包，群里大佬萌新天天组队打塔，欢迎你的加入!一起挂机 一起修仙!",
+            "#遊戲交流群:1132822974"
+        ],
+        "customUrl": "http://mh.alangge.com/",
+        "customUrlTit": "开始游戏",
+        "QQ": "1132822974",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "咖啡达人",
+        "enTitle": "Coffee Drinker",
+        "date": "2020-08-28",
+        "update": "2020-10-07",
+        "version": "0.8.3.2",
+        "path": "coffee-drinker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一款渐进式增量游戏，您可以开始喝咖啡，并通过游戏解锁更多元素。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/coffee-drinker/",
+        "enUrl": "https://extradavid.com",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "无尽的梦想2：噩梦",
+        "enTitle": "Endless Dream 2: The Nightmare",
+        "date": "2020-08-20",
+        "update": "2020-08-19",
+        "version": "20200819_1.0",
+        "path": "endless-dream-2-the-nightmare",
+        "type": [
+            "冒险",
+            "生存",
+            "K站",
+            "英文",
+            "U3D"
+        ],
+        "content": [
+            "因为是Unity 3D游戏，无法汉化。因为K站加载速度超级慢，所以搬过来方便大家玩。",
+            "一款放置的RPG，您可以在其中管理和“编程”您的队伍，以探索危险的地下城，与致命的Boss作战并收集史诗般的战利品。"
+        ],
+        "customUrlTit": "国内英文版",
+        "customUrl": "http://idlegame.gitee.io/endless-dream-2-the-nightmare/",
+        "kUrl": "https://www.kongregate.com/games/Zeromatter/endless-dream-2-the-nightmare?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "激突要塞！＋",
+        "enTitle": "FORT P",
+        "date": "2020-08-20",
+        "update": "2016-06-20",
+        "version": "1.1",
+        "path": "fort-p",
+        "type": [
+            "Flash",
+            "日文",
+            "策略"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://likexia.gitee.io/game/static/flash/fort-p.html",
+        "customUrl": "http://suznooto.com/flash/BRI.html",
+        "customUrlTit": "日语版",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 0,
+        "needHH": 0,
+        "flash": true
+    },
+    {
+        "title": "最强旅团",
+        "enTitle": "SPR",
+        "date": "2020-08-20",
+        "update": "2016-06-20",
+        "version": "1.4",
+        "path": "bri",
+        "type": [
+            "Flash",
+            "日文",
+            "策略"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://likexia.gitee.io/game/static/flash/bri.html",
+        "customUrl": "http://suznooto.com/flash/BRI.html",
+        "customUrlTit": "日语版",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 0,
+        "needHH": 0,
+        "flash": true
+    },
+    {
+        "title": "宇宙海贼王",
+        "enTitle": "SPR",
+        "date": "2020-08-20",
+        "update": "2014-07-06",
+        "version": "1.2",
+        "path": "spr",
+        "type": [
+            "射击",
+            "升级",
+            "太空",
+            "冒险",
+            "Flash",
+            "日文",
+            "策略"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://likexia.gitee.io/game/static/flash/spr.html",
+        "enUrl": "http://suznooto.com/flash/SPR.html",
+        "customUrl": "http://www.yxdown.com/SoftView/SoftView_71101.html",
+        "customUrlTit": "游侠下载版",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "needHH": 0,
+        "flash": true
+    },
+    {
+        "title": "小型化增量",
+        "enTitle": "M13n: Miniaturization",
+        "date": "2020-08-14",
+        "update": "2017-04-17",
+        "version": "",
+        "path": "m13n-miniaturization",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一款数字越来越小的增量游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/m13n-miniaturization/",
+        "kUrl": "https://www.kongregate.com/games/aaaantoine/m13n-miniaturization?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "汉堡大师",
+        "enTitle": "Burger Master",
+        "date": "2020-08-13",
+        "update": "2020-08-13",
+        "version": "",
+        "path": "burger-master",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "经营",
+            "益智",
+            "模拟"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/burger-master",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "先知",
+        "enTitle": "The Prophet",
+        "date": "2020-08-13",
+        "update": "2020-08-13",
+        "version": "0.9.4",
+        "path": "the-prophet",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击"
+        ],
+        "content": [
+            "一个关于创造宗教并增加财富和追随者的增量游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/the-prophet/",
+        "enUrl": "https://quadcerebrumal.github.io/TheProphet/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 0
+    },
+    {
+        "title": "驴子跳跳",
+        "enTitle": "Donkey Jump",
+        "date": "2020-08-13",
+        "update": "2020-08-13",
+        "version": "",
+        "path": "donkey-jump",
+        "type": [
+            "点击",
+            "敏捷"
+        ],
+        "content": [
+            "电脑上可以玩，方向键控制左右移动，看看你最高可以到多少分~"
+        ],
+        "customUrl": "http://idlegame.gitee.io/donkey-jump",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "狗子放置3",
+        "enTitle": "Dog Idle 3",
+        "date": "2020-08-13",
+        "update": "2020-08-11",
+        "version": "1.03",
+        "path": "dog-idle-3",
+        "type": [
+            "卡牌",
+            "原创",
+            "PC"
+        ],
+        "content": [
+            "百度盘密码：c5mv",
+            "不能保证随时同步最新版本，可以加游戏群获取~"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/djJHdvam",
+        "baiduUrl": "https://pan.baidu.com/s/1CvCd6XSfbtl2Y7_MntfuCA",
+        "QQ": "496088542",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "邮递员放置",
+        "enTitle": "More Letters",
+        "date": "2020-08-06",
+        "update": "2020-08-06",
+        "version": "",
+        "path": "more-letters",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/more-letters/",
+        "enUrl": "https://morelettersinc.com/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "太空放置2",
+        "enTitle": "Idle Space 2",
+        "date": "2020-07-22",
+        "update": "2021-05-01",
+        "version": "",
+        "path": "idle-space2",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "冒险",
+            "离线",
+            "挂机",
+            "K站",
+            "太空"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idlespace2",
+        "kUrl": "https://www.kongregate.com/games/scorzy88/idlespace-2?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "锻造与财富",
+        "enTitle": "Forge & Fortune",
+        "date": "2020-07-21",
+        "update": "2021-04-01",
+        "version": "4.2.0",
+        "path": "forge-fortune",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级",
+            "冒险",
+            "K站",
+            "养成"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/forge-fortune/",
+        "kUrl": "https://www.kongregate.com/games/TheCongressman/forge-fortune?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "征服世界",
+        "enTitle": "Conquere the World",
+        "date": "2020-07-15",
+        "update": "2020-08-13",
+        "version": "0.006",
+        "path": "conquere-the-world",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "升级",
+            "K站",
+            "英文",
+            "U3D"
+        ],
+        "content": [
+            "因为是Unity 3D游戏，无法汉化。因为K站加载速度超级慢，所以搬过来方便大家玩。"
+        ],
+        "customUrlTit": "国内英文版",
+        "customUrl": "http://idlegame.gitee.io/conquere-the-world/",
+        "kUrl": "https://www.kongregate.com/games/romeolord/conquere-the-world?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "字母增量",
+        "enTitle": "Alphabet Incremental",
+        "date": "2020-07-14",
+        "update": "2020-07-14",
+        "version": "0.2",
+        "path": "alphabet-incremental",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/alphabet-incremental",
+        "enUrl": "https://naoxink.github.io/alphabet/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "动物园增量2",
+        "enTitle": "Zoo II",
+        "date": "2020-07-07",
+        "path": "zoo-ii",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "经营",
+            "模拟",
+            "挂机"
+        ],
+        "content": [
+            "这个也是很早收录的，但是没汉化，这两天汉化了一下。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/zoo2/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "弹珠增量",
+        "enTitle": "Pincremental",
+        "date": "2020-07-01",
+        "update": "2021-02-23",
+        "version": "1.106",
+        "path": "pincremental",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "模拟",
+            "怀旧"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/pincremental/",
+        "kUrl": "https://www.kongregate.com/games/Makopaz/pincremental?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "图形工厂",
+        "enTitle": "shapez.io",
+        "date": "2020-07-01",
+        "path": "shapez-io",
+        "type": [
+            "放置",
+            "点击",
+            "经营",
+            "益智",
+            "联网",
+            "PC",
+            "Steam"
+        ],
+        "content": [
+            "画风很可爱啊，感觉是《异星工厂》的玩法，Steam售价18元。网页版是体验版。"
+        ],
+        "zhUrl": "https://shapez.io/",
+        "enUrl": "英文链接",
+        "steamUrl": "https://store.steampowered.com/app/1318690/shapezio/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "数独工厂放置",
+        "enTitle": "Idle Sudoku Factory",
+        "date": "2020-06-28",
+        "update": "2020-01-01",
+        "version": "1.1",
+        "path": "idle-sudoku-factory",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "益智"
+        ],
+        "content": [
+            "您通过卖玻璃赚钱，要制造玻璃，您需要购买沙子并将其熔化。 通过分配工人而不重复同一行或同一列中的数字并重复颜色/操作，可以赚取更多奖金倍数。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-sudoku-factory",
+        "enUrl": "https://wcarugatti.github.io/idle-sudoku-factory/",
+        "kUrl": "https://www.kongregate.com/games/UpgradeTheComp/idle-sudoku-factory?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "模拟虫群",
+        "enTitle": "Swarm Simulator",
+        "date": "2017-10-27",
+        "update": "2019-08-07",
+        "version": "1.1.13",
+        "path": "swarm-simulator",
+        "type": [
+            "推荐",
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "K站",
+            "养成"
+        ],
+        "content": [
+            "这是一款放置型增量游戏，从只有几只幼虫和一小堆肉开始，建立一个巨大的异种虫群。",
+            "最近启动重新汉化，可以跟上作者的新版本。"
+        ],
+        "zhUrl": "https://idlegame.gitee.io/swarmsim/",
+        "customUrl": "https://likexia.gitee.io/mncq",
+        "customUrlTit": "旧汉化版",
+        "enUrl": "https://www.swarmsim.com",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "星系核心:地平线",
+        "enTitle": "Heart Of Galaxy : Horizons",
+        "date": "2017-12-01",
+        "update": "2021-04-19",
+        "version": "43D",
+        "path": "heart-of-galaxy-horizons",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "冒险",
+            "离线",
+            "挂机",
+            "太空",
+            "K站"
+        ],
+        "content": [
+            "此次更新，只是补充了汉化~",
+            "请参阅游戏中的教程了解第一步。",
+            "这是一个放置类的战略优化游戏，你可以建立自己的空间帝国。你从一个类地行星开始，在宇宙中建立你自己的道路，殖民新的行星，与外星文明战斗。",
+            "请参阅游戏中的教程了解第一步。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/heart-of-galaxy-horizons/",
+        "kUrl": "https://www.kongregate.com/games/Cheslava/heart-of-galaxy-horizons?sfa=permalink&referrer=SunshineDad",
+        "customUrl": "http://likexia.gitee.io/xxhx",
+        "customUrlTit": "旧汉化版",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "云顶修仙2.0",
+        "enTitle": "Yun Ding Xiu Xian",
+        "date": "2020-06-22",
+        "update": "2020-06-22",
+        "version": "2.0",
+        "path": "yun-ding-xiu-xian",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "原创",
+            "联网",
+            "升级",
+            "冒险",
+            "修仙"
+        ],
+        "content": [
+            "船新版本《云顶修仙Online》版已经发起不删档公测啦。",
+            "该版本结合了云顶修仙1.0的经验，做了许多优化，以及可以无限扩展的功能。",
+            "不出意外，该版本会不断维护和更新下去。",
+            "作者的话：",
+            "做个自己想法的游戏真的挺累的，结合了很多网游和自己看的小说内容。该游戏也是我独自一人做，亲力亲为，还有好多想法有待实现。是师兄弟就来砍我吧，游戏刚上线bug肯定有，还请谅解，毕竟不是全职，我还要上班，有时候顾忌不到。业余时间肯定优先解决和维护。"
+        ],
+        "zhUrl": "http://yundingxx.com:3366/",
+        "QQ": "173059029",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 0
+    },
+    {
+        "title": "钻石狩猎3",
+        "enTitle": "Diamond Hunt 3",
+        "date": "2020-06-19",
+        "update": "2020-06-18",
+        "version": "",
+        "path": "diamond-hunt-3",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "冒险",
+            "联网",
+            "英文"
+        ],
+        "content": [
+            "感谢 @冬天的雨 帮忙汉化。",
+            "这是《钻石狩猎》作者的新作，玩法大同小异。换了新服务器，连接速度应该提升很多。缓慢汉化中~",
+            "一款多人在线挖矿放置游戏，有玩家交易市场。"
+        ],
+        "enUrl": "https://dh3.diamondhunt.co/",
+        "hhUrl": "http://note.youdao.com/noteshare?id=22753bf16b423767ac2f712f1c074fb6",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "旅行者放置",
+        "enTitle": "Idle Traveller",
+        "date": "2020-06-17",
+        "update": "2020-06-18",
+        "version": "1.0.46",
+        "path": "idle-traveller",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "游戏里你模拟一个旅行者，通过走的距离来升级你的交通工具，通过转生获得加成，游戏还是挺有意思的。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/idle-traveller/",
+        "enUrl": "https://naoxink.github.io/idle-traveller/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "阿尔法RPG",
+        "enTitle": "Alpha RPG",
+        "date": "2020-06-16",
+        "update": "2020-07-12",
+        "version": "2.2",
+        "path": "alpha-rpg",
+        "type": [
+            "汉化中",
+            "文字",
+            "点击",
+            "升级",
+            "冒险",
+            "养成",
+            "策略"
+        ],
+        "content": [
+            "这款游戏的主要目标是通过对抗敌人和完成任务取得进展，目前有总共21个任务。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/alpharpg/",
+        "enUrl": "https://goldenlys.github.io/AlphaRPG/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "反物质维度 NG+",
+        "enTitle": "Antimatter Dimensions NG+",
+        "date": "2020-06-14",
+        "update": "2020-06-14",
+        "version": "",
+        "path": "antimatter-dimensions-ng",
+        "type": [
+            "推荐",
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "策略",
+            "挂机"
+        ],
+        "content": [
+            "通过维度获得反物质!获得无限反物质来瓦解宇宙!",
+            "本游戏是反物质维度的Mod版，可以自己玩多种模式。由 @大企鹅 推荐并汉化，大佬威武！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/antimatter-dimensions-ng/",
+        "enUrl": "http://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/",
+        "customUrl": "https://shimo.im/sheets/pyCqXCVvGgr8t9TP/MODOC/",
+        "customUrlTit": "Mod介绍",
+        "wikiUrl": "https://note.youdao.com/ynoteshare1/index.html?id=4d1255cd7120831d582d75739b12a642&type=note",
+        "QQ": "1050424901",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "点击饼干",
+        "enTitle": "Click for Biscuits",
+        "date": "2020-06-12",
+        "update": "2020-07-03",
+        "version": "0.16.0",
+        "path": "click-for-biscuits",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "以食物为中心的增量管理游戏。 开始手工烘烤一些坚硬的饼干，最终发展成庞大的食品帝国！",
+            "页面不能滚动的朋友，换谷歌（Chrome）或者火狐（Firefox）浏览器玩吧。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/click-for-biscuits",
+        "kUrl": "https://www.kongregate.com/games/SpinfoamGames/click-for-biscuits?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "5小时",
+        "enTitle": "5Hours",
+        "date": "2020-06-11",
+        "update": "2020-06-11",
+        "version": "",
+        "path": "5hours",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "策略"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/misc/5hours/",
+        "enUrl": "https://dan-simon.github.io/misc/5hours/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 0
+    },
+    {
+        "title": "仪表盘点击",
+        "enTitle": "Dash Clicker",
+        "date": "2020-06-08",
+        "update": "2020-08-26",
+        "version": "",
+        "path": "dash-clicker",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "注意：作者还在开发，没做存档功能，刷新就会丢档从头开始哦~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/dash-clicker",
+        "enUrl": "https://dashclicker.com",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "太空掠夺者",
+        "enTitle": "SpaceL",
+        "date": "2020-06-05",
+        "update": "2020-06-05",
+        "version": "",
+        "path": "space-l",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "太空",
+            "策略"
+        ],
+        "content": [
+            "打海盗，升级，买买买！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/spacel/",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
+        "title": "GTA放置2",
+        "enTitle": "Idle Five 2",
+        "date": "2020-06-04",
+        "update": "2020-06-04",
+        "version": "0.32",
+        "path": "idle-five-2",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "经营",
+            "挂机",
+            "升级",
+            "模拟"
+        ],
+        "content": [
+            "买买买，升级升级升级！"
+        ],
+        "zhUrl": "http://likexia.gitee.io/idle-five2",
+        "enUrl": "https://goldenlys.github.io/IdleFive-V2/",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
+        "title": "太空公司",
+        "enTitle": "Space Company",
+        "date": "2020-06-02",
+        "update": "2021-04-05",
+        "version": "0.5.1.2",
+        "path": "space-company",
+        "type": [
+            "推荐",
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "K站",
+            "太空",
+            "建造"
+        ],
+        "content": [
+            "感谢 @冬天的雨 帮忙汉化。",
+            "注意：因为早期汉化方式有问题，现在重新用新方式开始汉化，可以保障跟作者的更新同步~",
+            "玩之前版本的朋友，可以点击【旧汉化版】继续玩。",
+            "太空公司是一款科幻增量游戏，您从地球上的起点开始，逐步发展到星系之间旅行，搭建戴森球（Dyson Spheres）以及探索占领整个星系的殖民地。",
+            "因为游戏的原因，如果你点按钮没反应（一般发生在清理缓存后），游戏读取本地存档的时候出错。",
+            "解决方法：请点击“更多” → “保存” → 手动保存下面的“保存”按钮一次，然后刷新页面即可正常游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/space-company/",
+        "customUrl": "http://likexia.gitee.io/spacecompany1/",
+        "customUrlTit": "旧汉化版",
+        "enUrl": "https://sparticle999.github.io/SpaceCompany/",
+        "kUrl": "https://www.kongregate.com/games/sparticle999/space-company?sfa=permalink&referrer=SunshineDad",
+        "wikiUrl": "https://www.reddit.com/r/SpaceCompany/wiki/index",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "格林迪亚放置：地下城探索",
+        "enTitle": "Idle Grindia: Dungeon Quest",
+        "date": "2020-06-02",
+        "update": "2021-01-06",
+        "version": "k.018en8",
+        "path": "idle-grindia-dungeon-quest",
+        "type": [
+            "放置",
+            "点击",
+            "冒险",
+            "K站",
+            "英文",
+            "U3D",
+            "养成"
+        ],
+        "content": [
+            "因为是Unity 3D游戏，无法汉化。因为K站加载速度超级慢，所以搬过来方便大家玩。"
+        ],
+        "customUrl": "http://idlegame.gitee.io/idle-grindia-dungeon-quest",
+        "customUrlTit": "国内英文版",
+        "kUrl": "https://www.kongregate.com/games/Moczan/idle-grindia-dungeon-quest?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "古戈尔增量",
+        "enTitle": "Incremental Googology",
+        "date": "2020-06-01",
+        "update": "2020-06-01",
+        "version": "",
+        "path": "incremental-googology",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "益智"
+        ],
+        "content": [
+            "emmm..又是一个数学游戏~",
+            "我是学渣，表示看不太懂，欢迎访问wiki进行了解~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/incremental-googology",
+        "enUrl": "https://hypcos.github.io/incremental-googology/Tetration/",
+        "wikiUrl": "https://googology.wikia.org/wiki/Googology_Wiki",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "我的城市",
+        "enTitle": "Dorongine",
+        "date": "2020-05-29",
+        "update": "2020-05-29",
+        "version": "",
+        "path": "dorongine",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "模拟"
+        ],
+        "content": [
+            "这个很早就汉化了的，不知道为啥没放出来，如果有bug欢迎反馈。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/mycity",
+        "enUrl": "https://zhaolinxu.github.io/dorongine/index.html",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "开发人生",
+        "enTitle": "Dev Life 2",
+        "date": "2020-05-28",
+        "update": "2020-05-28",
+        "path": "dev-life-2",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "模拟"
+        ],
+        "content": [
+            "《开发人生》的续作，模拟程序员接项目，开发项目，然后卖掉项目，实现人生目标。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/devlife2/",
+        "kUrl": "http://naoxink.epizy.com/devlife2/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "序数增量",
+        "enTitle": "Ordinal Markup",
+        "date": "2020-05-27",
+        "update": "2020-07-03",
+        "version": "0.33",
+        "path": "ordinal-markup",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "新人开局如果点了没反应，直接进选项里面，点一次保存存档即可。",
+            "感谢 @Doppio 帮忙汉化。",
+            "类似《反物质维度》的一款游戏，欢迎体验！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/ordinal-markup",
+        "kUrl": "https://www.kongregate.com/games/Patcail/ordinal-markup?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "末日崛起",
+        "enTitle": "Mo Ri Jue Qi",
+        "date": "2020-05-27",
+        "update": "2020-07-13",
+        "version": "4.01",
+        "path": "mo-ri-jue-qi",
+        "type": [
+            "点击",
+            "升级",
+            "冒险",
+            "原创",
+            "PC"
+        ],
+        "content": [
+            "百度盘密码：mech"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/Ahd4eouc",
+        "baiduUrl": "https://pan.baidu.com/s/1a-v8TFK3jIby_aRZWd3X6g",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "梅尔沃放置",
+        "enTitle": "Melvor Idle",
+        "date": "2020-05-22",
+        "update": "2020-06-04",
+        "version": "0.15.2.1",
+        "path": "melvor-idle",
+        "type": [
+            "推荐",
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级",
+            "冒险",
+            "联网",
+            "英文"
+        ],
+        "content": [
+            "感谢 @冬天的雨 帮忙汉化、校对。",
+            "外国的一款网络游戏，游戏内容很多，值得一玩。",
+            "不定期更新汉化文件~所以没事儿可以刷一下~"
+        ],
+        "enUrl": "https://www.melvoridle.com/",
+        "hhUrl": "http://note.youdao.com/noteshare?id=c550acff301710204a3b283cf4f66ee8",
+        "jbUrl": "http://note.youdao.com/noteshare?id=c550acff301710204a3b283cf4f66ee8",
+        "wikiUrl": "https://wiki.melvoridle.com/index.php?title=Main_Page",
+        "QQ": "967180028",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "反物质维度",
+        "enTitle": "Antimatter Dimensions",
+        "date": "2018-08-28",
+        "update": "2020-05-19",
+        "version": "",
+        "path": "antimatter-dimensions",
+        "type": [
+            "推荐",
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            "通过维度获得反物质!获得无限反物质来瓦解宇宙!"
+        ],
+        "zhUrl": "https://likexia.gitee.io/fwzwd",
+        "enUrl": "https://ivark.github.io/",
+        "kUrl": "https://www.kongregate.com/games/Hevipelle/antimatter-dimensions?sfa=permalink&referrer=SunshineDad",
+        "QQ": "1050424901",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "超级英雄消消乐",
+        "enTitle": "SuperHero Eliminate",
+        "date": "2020-05-17",
+        "update": "2020-05-17",
+        "version": "",
+        "path": "superHero-eliminate",
+        "type": [
+            "点击",
+            "消除"
+        ],
+        "content": [
+            "《超级英雄消消乐》是一款消除类的小游戏，偶尔放松一下也是不错的。"
+        ],
+        "customUrl": "http://idlegame.gitee.io/superhero-eliminate",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "永不放弃",
+        "enTitle": "Never Give Up",
+        "date": "2020-05-16",
+        "update": "2020-05-16",
+        "version": "",
+        "path": "never-give-up",
+        "type": [
+            "点击",
+            "敏捷",
+            "音乐"
+        ],
+        "content": [
+            "《永不放弃》是一款极具虐心色彩的音乐题材闯关游戏。在游戏中，我们需要操控一个黑色棉花状小人在一个个木桩上跳动，当木桩为绿色时玩家可以放心大胆地踩上去，而当遇到红色或者障碍物时则需要及时避开。",
+            "操作：选择模式、关卡，然后按空格键开始，随着音乐的节奏来跳跃。",
+            "本游戏是爱好者参照手游版写的。"
+        ],
+        "customUrl": "http://idlegame.gitee.io/never-give-up/",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "大富翁",
+        "enTitle": "Monopoly",
+        "date": "2020-05-15",
+        "update": "2020-05-15",
+        "version": "",
+        "path": "monopoly",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "升级",
+            "益智",
+            "养成",
+            "策略",
+            "模拟",
+            "怀旧"
+        ],
+        "content": [
+            "大富翁网页版"
+        ],
+        "customUrl": "http://idlegame.gitee.io/monopoly",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "一个都不能死",
+        "enTitle": "None Can Die",
+        "date": "2020-05-14",
+        "update": "2020-05-14",
+        "version": "",
+        "path": "none-can-die",
+        "type": [
+            "点击",
+            "敏捷"
+        ],
+        "content": [
+            "《一个都不能死》是一款非常有挑战性的敏捷小游戏。这里默认有两条路，每条路上都有一个小人在往前跑，路上随机会出现障碍物，当小人接近障碍物时，你需要点击对应的路线，让该条路线上的小人跳起来，以躲避路上的障碍物。不能死掉任何一个小人，尽可能的跑的更远。",
+            "游戏分为四种难度，可以随意切换为三条路、四条路，五条路。。难度越高，意味着你的反应能力就要越强。",
+            "快来挑战下你的反应速度，看你能坚持多少秒？",
+            "手机体验更佳"
+        ],
+        "customUrl": "http://idlegame.gitee.io/none-can-die/",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "协同放置",
+        "enTitle": "Synergism",
+        "date": "2020-05-05",
+        "update": "2020-09-25",
+        "version": "2.0.0",
+        "path": "synergism",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "K站"
+        ],
+        "content": [
+            "感谢 @by22dgb 帮忙汉化。",
+            "点点点！买买买！"
+        ],
+        "QQ": "952923286",
+        "zhUrl": "http://idlegame.gitee.io/synergism",
+        "kUrl": "https://www.kongregate.com/games/Platonic/synergism?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "放置英雄",
+        "enTitle": "idle-heroes",
+        "date": "2020-04-24",
+        "update": "2020-03-19",
+        "version": "",
+        "path": "idle-heroes",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "K站"
+        ],
+        "content": [
+            "你可以杀怪获得声誉值和金钱，声誉值可以解锁新英雄，钱可以升级英雄。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-heroes/",
+        "kUrl": "https://www.kongregate.com/games/Cyberspirit/idle-heroes-vs-monsters?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "增量史诗英雄",
+        "enTitle": "Incremental Epic Hero",
+        "date": "2020-04-23",
+        "update": "2021-03-23",
+        "version": "1.4.4.0",
+        "path": "incremental-epic-hero",
+        "type": [
+            "放置",
+            "点击",
+            "冒险",
+            "K站",
+            "英文",
+            "U3D",
+            "养成"
+        ],
+        "content": [
+            "因为是Unity 3D游戏，无法汉化。因为K站加载速度超级慢，所以搬过来方便大家玩。"
+        ],
+        "customUrl": "http://likexia.gitee.io/incremental-epic-hero/",
+        "customUrlTit": "国内英文快速版",
+        "kUrl": "https://www.kongregate.com/games/HapiwakuProject/incremental-epic-hero?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "武世界复刻版",
+        "enTitle": "Wu World Fu Ke",
+        "date": "2020-04-15",
+        "update": "2020-06-06",
+        "version": "4.7",
+        "path": "wu-world-fu-ke",
+        "type": [
+            "点击",
+            "升级",
+            "冒险",
+            "原创",
+            "PC"
+        ],
+        "content": [
+            "百度盘密码：40hl"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/50DVmLB",
+        "baiduUrl": "https://pan.baidu.com/s/1-wRnmhUR5kTsz7PqlF0tDg",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "一起打怪兽",
+        "enTitle": "Let's Fight Monster",
+        "date": "2020-03-31",
+        "update": "2020-05-28",
+        "version": "1.525",
+        "path": "lets-fight-monster",
+        "type": [
+            "点击",
+            "升级",
+            "冒险",
+            "原创",
+            "PC"
+        ],
+        "content": [
+            "百度盘密码：lpc2"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/59lFieY",
+        "baiduUrl": "https://pan.baidu.com/s/1jKLqizT1zZGER7RIRe4Gbw",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "消灭新冠状肺炎",
+        "enTitle": "Covid Containment",
+        "date": "2020-04-01",
+        "update": "2020-04-01",
+        "path": "covid-containment",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "快来消灭新冠状肺炎！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/covid-containment/",
+        "enUrl": "https://covidcontainment.com/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "供应链放置",
+        "enTitle": "Supply Chain idle",
+        "date": "2020-02-24",
+        "path": "supply-chain-idle",
+        "type": [
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "K站",
+            "英文",
+            "Steam",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            ""
+        ],
+        "kUrl": "https://www.kongregate.com/games/UpturnGames/supply-chain-idle?sfa=permalink&referrer=SunshineDad",
+        "steamUrl": "https://store.steampowered.com/app/946040/Supply_Chain_Idle/",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "向量增量",
+        "enTitle": "Vector Incremental",
+        "date": "2020-02-16",
+        "update": "2020-02-16",
+        "version": "1.0.12",
+        "path": "vector-incremental",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "K站"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/vector-incremental/",
+        "kUrl": "https://www.kongregate.com/games/denisolenison/vector-incremental?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "防御者放置：新起点",
+        "enTitle": "Defender Idle: New Beginning",
+        "date": "2020-01-02",
+        "update": "2020-07-22",
+        "version": "1.8",
+        "path": "defender-idle-new-beginning",
+        "type": [
+            "放置",
+            "点击",
+            "冒险",
+            "K站",
+            "英文",
+            "U3D",
+            "塔防",
+            "建造",
+            "养成",
+            "策略"
+        ],
+        "content": [
+            "因为是Unity 3D游戏，无法汉化。因为K站加载速度超级慢，所以搬过来方便大家玩。"
+        ],
+        "customUrl": "http://likexia.gitee.io/defender-idle-new-beginning/",
+        "customUrlTit": "国内英文版",
+        "kUrl": "https://www.kongregate.com/games/Barbasu/defender-idle-new-beginning?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "宝可梦传奇",
+        "enTitle": "Pokemon Legends",
+        "date": "2019-12-31",
+        "path": "pokemon-legends",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "挂机",
+            "联网",
+            "养成",
+            "英文"
+        ],
+        "content": [
+            ""
+        ],
+        "enUrl": "https://www.pokemonlegends.com/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "我的公会",
+        "enTitle": "My Guild",
+        "date": "2019-12-19",
+        "update": "2019-12-24",
+        "version": "1.08",
+        "path": "my-guild",
+        "type": [
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "原创",
+            "PC"
+        ],
+        "content": [
+            "百度盘密码:iylu",
+            "作者更新快，建议加群获取最新版本。",
+            "《我的魔兽世界放置》《抽抽抽》的作者写的另一个款放置游戏，欢迎体验。"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/557SDn9",
+        "baiduUrl": "https://pan.baidu.com/s/1YEthKEWFfDNOwS5JFRMGYw",
+        "QQ": "951107794",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "砍树放置",
+        "enTitle": "Idle Chopper",
+        "date": "2019-12-17",
+        "path": "idle-chopper",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "挂机",
+            "升级",
+            "K站"
+        ],
+        "content": [
+            "一起来砍树吧！这是《骰子放置》的作者另一个作品。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/luts91/idle-chopper/index.html",
+        "enUrl": "https://luts91.github.io/idle-chopper/",
+        "kUrl": "https://www.kongregate.com/games/Luts91/idle-chopper?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "传奇回忆录",
+        "enTitle": "Chuan Qi Hui Yi Lu",
+        "date": "2019-12-17",
+        "update": "2019-12-25",
+        "version": "2.23",
+        "path": "chuan-qi-hui-yi-lu",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "原创",
+            "联网",
+            "PC",
+            "养成",
+            "怀旧"
+        ],
+        "content": [
+            "百度盘密码密码：5dpx",
+            "作者是一个勤奋的人，更新频率高得吓人。作为一个独立开发者，这很难能可贵。所以我们帮他宣传一波。不氪金也可以玩。",
+            "相关作品还有《侠客行》"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/5AhRY2m",
+        "baiduUrl": "https://pan.baidu.com/s/1KNHsr-ySY08Yw_ACwt00hA",
+        "QQ": "456412414",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 0
+    },
+    {
+        "title": "侠客行",
+        "enTitle": "Xia Ke Xing",
+        "date": "2019-12-17",
+        "update": "2019-12-23",
+        "path": "xia-ke-xing",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "原创",
+            "联网",
+            "PC",
+            "养成",
+            "怀旧"
+        ],
+        "content": [
+            "百度盘密码密码：30uc",
+            "作者是一个勤奋的人，更新频率高得吓人。作为一个独立开发者，这很难能可贵。所以我们帮他宣传一波。不氪金也可以玩。",
+            "相关作品还有《传奇回忆录》"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/5sMuvmi",
+        "baiduUrl": "https://pan.baidu.com/s/1459fnhlIk-lQSTZGJz9ACA",
+        "QQ": "456412414",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "needHH": 0,
+        "version": "2.36",
+        "status": 0
+    },
+    {
+        "title": "假日抽奖公司",
+        "enTitle": "Holiday Slots Inc.",
+        "date": "2019-12-11",
+        "path": "holiday-slots-inc",
+        "type": [
+            "汉化中",
+            "点击",
+            "经营",
+            "升级",
+            "益智"
+        ],
+        "content": [
+            "将北极推向新的高度！",
+            "使用可以抽出礼物的老虎机赢取礼物，购买升级和自动化产品，赢得声誉，建立业务并彻底改变假期！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/holiday-slots-inc",
+        "kUrl": "https://www.kongregate.com/games/Makopaz/holiday-slots-inc?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "怪物卡牌放置",
+        "enTitle": "Creature Card Idle",
+        "date": "2019-12-09",
+        "update": "2019-04-17",
+        "path": "creature-card-idle",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "离线",
+            "挂机",
+            "K站",
+            "养成",
+            "策略",
+            "卡牌"
+        ],
+        "content": [
+            "放置遇见TCG！（仍在积极开发中！）",
+            "每张卡每秒提供资源。 使用资源购买新的卡包。 通过将它们最有效地放置在游戏区域中来进行策略化。",
+            "该游戏仍在积极开发中，因此，每两周添加一次新的扩展功能时，请耐心等待。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/creature-card-idle",
+        "kUrl": "https://www.kongregate.com/games/Fordesoft/creature-card-idle?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "NGU放置",
+        "enTitle": "NGU",
+        "date": "2019-12-06",
+        "path": "ngu",
+        "type": [
+            "放置",
+            "点击",
+            "冒险",
+            "离线",
+            "挂机",
+            "K站",
+            "英文",
+            "Steam"
+        ],
+        "content": [
+            "每个人都喜欢上升的数字。 玩NGU放置，并获得许多如此激动人心的高峰！"
+        ],
+        "kUrl": "https://www.kongregate.com/games/somethingggg/ngu-idle?sfa=permalink&referrer=SunshineDad",
+        "steamUrl": "https://store.steampowered.com/app/1147690/NGU_IDLE/?snr=1_7_15__13",
+        "QQ": "663807219",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "僵尸增量",
+        "enTitle": "Incremancer",
+        "date": "2019-12-03",
+        "update": "2021-03-15",
+        "path": "incremancer",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "K站"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://idlegame.gitee.io/incremancer/",
+        "kUrl": "https://www.kongregate.com/games/JamesG466/incremancer?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "健康增量",
+        "enTitle": "Incremental Health",
+        "date": "2019-11-21",
+        "path": "incremental-health",
+        "type": [
+            "已汉化",
+            "文字",
+            "点击"
+        ],
+        "content": [
+            "这是一款关于心理健康的放置型增量游戏。。您能否将压力降低到零，还是会筋疲力尽？"
+        ],
+        "zhUrl": "http://likexia.gitee.io/incremental-health",
+        "enUrl": "https://heuperman.github.io/incremental-health/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "循环放置2",
+        "enTitle": "Idle Loops 2",
+        "date": "2019-10-15",
+        "update": "2020-06-27",
+        "version": "0.94",
+        "path": "idle-loops2",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险"
+        ],
+        "content": [
+            "应该是爱好者在原作者基础上自行开发的。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/omsi6/loops/",
+        "enUrl": "https://omsi6.github.io/loops/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "抽抽抽",
+        "enTitle": "Chou Chou Chou",
+        "date": "2019-10-11",
+        "update": "2019-10-23",
+        "version": "1.602",
+        "path": "chou-chou-chou",
+        "type": [
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "原创",
+            "养成",
+            "PC"
+        ],
+        "content": [
+            "百度盘密码:6jdh",
+            "《我的魔兽世界放置》的作者写的另一个款放置游戏，欢迎体验。"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/5s2Ka7g",
+        "baiduUrl": "https://pan.baidu.com/s/19iRAj27tgCCR9sG4PM8F1w",
+        "QQ": "951107794",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "魔法理论",
+        "enTitle": "Theory of Magic",
+        "date": "2019-10-18",
+        "update": "2020-11-13",
+        "version": "0.8.0",
+        "path": "theory-of-magic",
+        "type": [
+            "推荐",
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "冒险",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/theory-of-magic",
+        "kUrl": "https://www.kongregate.com/games/lerpinglemur/theory-of-magic?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "钻石狩猎",
+        "enTitle": "Diamond Hunt",
+        "date": "2019-09-30",
+        "path": "diamond-hunt",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "冒险",
+            "联网",
+            "英文"
+        ],
+        "content": [
+            "一款多人在线挖矿放置游戏，有玩家交易市场。耐玩性还是很大的。访问可能有点慢。准备慢慢进行汉化。"
+        ],
+        "enUrl": "http://www.diamondhunt.co",
+        "hhUrl": "http://note.youdao.com/noteshare?id=a1e294c86c055a6a123af4987193aa7b",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "头脑放置",
+        "enTitle": "Idle Mind",
+        "date": "2019-09-25",
+        "path": "idle-mind",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/idlemind",
+        "enUrl": "https://alexpizzini.github.io/IdleMind/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "开发人生",
+        "enTitle": "Dev Life",
+        "date": "2019-09-01",
+        "path": "dev-life",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/devlife",
+        "kUrl": "http://naoxink.ga/devlife/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "制茶放置",
+        "enTitle": "Idle Tea",
+        "date": "2019-08-30",
+        "path": "idle-tea",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营"
+        ],
+        "content": [
+            "本游戏不会自动保存，所以，刷新、关闭前请手动点“保存”按钮，否则会丢档。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/idletea",
+        "kUrl": "http://naoxink.ga/idletea/?lang=en",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "神特么挖矿放置",
+        "enTitle": "Lored",
+        "date": "2019-08-26",
+        "update": "2021-02-28",
+        "version": "2.2.3",
+        "path": "lored",
+        "type": [
+            "放置",
+            "U3D",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "K站",
+            "英文"
+        ],
+        "content": [
+            "游戏挺有趣的，可惜没法汉化。因为k站加载超级慢，所以搬运过来方便大家玩。"
+        ],
+        "customUrlTit": "国内英文版",
+        "customUrl": "http://likexia.gitee.io/lored",
+        "enUrl": "https://v6p9d9t4.ssl.hwcdn.net/html/2588889/index.html",
+        "kUrl": "https://www.kongregate.com/games/Drillur/lored?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "圣诞点击",
+        "enTitle": "Merry Clickmas",
+        "date": "2019-08-14",
+        "path": "merry-clickmas",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/merryclickmas",
+        "enUrl": "http://www.digitalchestnut.com/merryclickmas/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "增量冒险",
+        "enTitle": "Incremental Adventures",
+        "date": "2019-08-14",
+        "update": "2021-05-11",
+        "path": "incremental-adventures",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "离线",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            "带领您的英雄们永无止境的冒险！"
+        ],
+        "zhUrl": "http://likexia.gitee.io/incremental-adventures/",
+        "kUrl": "https://www.kongregate.com/games/Gniller/incremental-adventures?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "永恒之塔",
+        "enTitle": "Eternity Tower",
+        "date": "2019-08-08",
+        "path": "eternity-tower",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "挂机",
+            "联网",
+            "英文"
+        ],
+        "content": [
+            "本游戏已关闭，作者关了服务器~",
+            "这是一款多人在线网络游戏。是本站第一款尝试用外挂方式汉化的游戏。因为是外国游戏，有时候网络会不稳定，导致页面卡顿，多点耐心即可。"
+        ],
+        "zhUrl": "http://eternitytower.net/",
+        "hhUrl": "http://note.youdao.com/noteshare?id=71062fad1c855bf8d12b90187efed2a4",
+        "jbUrl": "http://note.youdao.com/noteshare?id=05d6b644ed66368ece26b1f59ae6b2ea",
+        "QQ": "701342586",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "放置游戏开发放置",
+        "enTitle": "Idle IdleGameDev",
+        "date": "2019-08-02",
+        "path": "Idle-idle-game-dev",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/luts91/idle-idle-gamedev/index.html",
+        "enUrl": "https://luts91.github.io/idle-idle-gamedev/index.html",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1
+    },
+    {
+        "title": "C语言",
+        "enTitle": "C",
+        "date": "2019-08-01",
+        "path": "c",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            "由于汉化导致了后面账号金额显示的小问题，点击虽然不更新，数据其实是更新了的。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/ccode",
+        "enUrl": "http://seiyria.com/c/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "无限扩张",
+        "enTitle": "Endless Expansion",
+        "date": "2019-07-19",
+        "path": "endless-expansion",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "经营",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/endless-expansion/",
+        "kUrl": "https://www.kongregate.com/games/Volch/endless-expansion?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "安可里亚",
+        "enTitle": "Ankyria",
+        "date": "2019-07-12",
+        "path": "ankyria",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/ankyria",
+        "enUrl": "https://wen1now.github.io/Ankyria/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "女神任务2",
+        "enTitle": "Megami Quest 2",
+        "date": "2019-07-10",
+        "path": "megami-quest-2",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "冒险"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/megamiquest2",
+        "enUrl": "http://shimage.net/megamiquest2/cn.html",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "计算机进化",
+        "enTitle": "Computer Evolution",
+        "date": "2019-07-09",
+        "path": "computer-evolution",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://cnh5.gitee.io/computerevolution",
+        "kUrl": "https://www.kongregate.com/games/joao8991/computer-evolution?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "攻城掠地",
+        "enTitle": "Campaign",
+        "date": "2019-07-09",
+        "path": "campaign",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "冒险"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/campaign",
+        "enUrl": "https://darklaki.github.io/OpusMagnumClicker/noads/index.html",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "金钱点击",
+        "enTitle": "Money Clicker",
+        "date": "2019-07-08",
+        "path": "money-clicker",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            "这是一个很普通的游戏，通过点击和雇人来赚钱。你可以在这里做很多有趣的事情，比如点击，减少Tick时间，雇佣，把钱存到银行或者捐给慈善机构。",
+            "这个游戏没什么特别的，但它非常棒。它看起来不错，玩起来也不错。但是点击量的升级不应该是线性的。点击开始是有利可图的。",
+            "但是升级变得如此昂贵，购买它没有任何意义。买一些建筑物来代替。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/moneyclicker",
+        "enUrl": "http://apps.ajott.io/clicker/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "看火人",
+        "enTitle": "Fire Watcher",
+        "date": "2019-07-04",
+        "path": "fire-watcher",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/fire-watcher",
+        "enUrl": "http://pie3636.github.io/fire-watcher/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "机器人工厂",
+        "enTitle": "Robot Factory",
+        "date": "2019-07-03",
+        "path": "robot-factory",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/hx",
+        "enUrl": "https://hx2003.github.io/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "冒险放置",
+        "enTitle": "Quest Game",
+        "date": "2019-07-01",
+        "path": "quest-game",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "冒险",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/quest-game",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "进化",
+        "enTitle": "Evolve",
+        "date": "2019-07-01",
+        "path": "evolve",
+        "type": [
+            "推荐",
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            "感谢各位大佬：@克瓦瑟利，@耗子飞飞，@by22dgb，@麦子 帮忙汉化。"
+        ],
+        "QQ": "685458364",
+        "zhUrl": "http://likexia.gitee.io/evolve",
+        "enUrl": "https://pmotschmann.github.io/Evolve/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "摘星船",
+        "enTitle": "Collect Star",
+        "date": "2019-06-13",
+        "update": "2019-07-04",
+        "version": "0.11",
+        "path": "collect-star",
+        "type": [
+            "动作",
+            "益智",
+            "原创"
+        ],
+        "content": [
+            "群友自己尝试制作的，游戏虽然很简单，但是是个好的开始。期待更好的作品。"
+        ],
+        "zhUrl": "https://sun-freeport.github.io/SideScroller/collect-star/",
+        "customUrl2": "http://likexia.gitee.io/sidescroller/collect-star/",
+        "customUrlTit2": "Git游戏搬运版",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "土皇帝",
+        "enTitle": "Villager Kings",
+        "date": "2019-06-08",
+        "update": "2019-12-24",
+        "version": "1.3.7",
+        "path": "villager-kings",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "K站",
+            "建造",
+            "策略"
+        ],
+        "content": [
+            "《土皇帝》是一款模拟城市建设类的战略性放置游戏。你扮演着村庄之王的角色，统治着你的人民。你需要在建造，研究，制造，战斗和更多之间做出决定。",
+            "游戏不能直接刷新哦，刷新可能会404错误。请把链接删除到：/villager-kings/后面这个位置，回车即可继续游戏。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/villager-kings/",
+        "kUrl": "https://www.kongregate.com/games/Xamer/villager-kings?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "战神",
+        "enTitle": "Ares",
+        "date": "2019-06-01",
+        "path": "ares",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "冒险"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/aress",
+        "enUrl": "https://okn1ce.github.io/Ares",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "赛车放置",
+        "enTitle": "Racing Clicker",
+        "date": "2019-05-24",
+        "path": "racing-clicker",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "模拟"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/racingclicker",
+        "enUrl": "https://racing-clicker.github.io/",
+        "kUrl": "https://www.kongregate.com/games/groupsky/rcm?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 0
+    },
+    {
+        "title": "猜拳游戏",
+        "enTitle": "Cai Quan",
+        "date": "2019-05-20",
+        "path": "git-caiquan",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "模拟",
+            "论坛"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://bbs.gityx.com/plugin.php?id=kx_caiquan",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "虚拟社区",
+        "enTitle": "City",
+        "date": "2019-05-20",
+        "path": "git-city",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "模拟",
+            "论坛"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://bbs.gityx.com/plugin.php?id=huxcity:huxcity",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "神奇宝贝",
+        "enTitle": "Pokemon",
+        "date": "2019-05-20",
+        "path": "git-pokemon",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "养成",
+            "冒险",
+            "论坛"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://bbs.gityx.com/plugin.php?id=pokemon:pokemon",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "黄金矿工",
+        "enTitle": "Miner",
+        "date": "2019-05-20",
+        "path": "git-miner",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "模拟",
+            "论坛"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://bbs.gityx.com/plugin.php?id=miner:miner",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "天天采蘑菇",
+        "enTitle": "Mushroom",
+        "date": "2019-05-20",
+        "path": "git-mushroom",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "论坛"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://bbs.gityx.com/plugin.php?id=genee_everydaymushroom:genee_mushroom",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "Git农场",
+        "enTitle": "Farm",
+        "date": "2019-05-20",
+        "path": "git-farm",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "模拟",
+            "论坛"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://bbs.gityx.com/plugin.php?id=gfarm:front",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "母鸡下蛋",
+        "enTitle": "Eggs",
+        "date": "2019-05-20",
+        "path": "git-eggs",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "模拟",
+            "论坛"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://bbs.gityx.com/plugin.php?id=jneggv2",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "矿场游戏",
+        "enTitle": "Kuang",
+        "date": "2019-05-20",
+        "path": "git-kuang",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "模拟",
+            "论坛"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://bbs.gityx.com/kuang.php",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "挂机传奇",
+        "enTitle": "GrindQuest Censored",
+        "date": "2019-05-16",
+        "path": "grind-quest-censored",
+        "type": [
+            "已汉化",
+            "英文",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "K站",
+            "Flash"
+        ],
+        "content": [
+            ""
+        ],
+        "kUrl": "https://www.kongregate.com/games/Abra24/grindquest-censored?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "flash": true,
+        "status": 1
+    },
+    {
+        "title": "爬行者RPG",
+        "enTitle": "Icrawler Rpg",
+        "date": "2019-05-15",
+        "path": "icrawler-rpg",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "冒险"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/icrawlerrpg",
+        "enUrl": "http://icrawlerrpg.github.io/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "进化放置",
+        "enTitle": "Idle Evolution",
+        "date": "2019-05-05",
+        "path": "idle-evolution",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/idleevolution/",
+        "kUrl": "https://www.kongregate.com/games/NewProject1/idle-evolution?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 0
+    },
+    {
+        "title": "为了成为骑士",
+        "enTitle": "Be Knight",
+        "date": "2019-04-29",
+        "update": "2019-11-04",
+        "path": "be-knight",
+        "type": [
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "原创",
+            "PC"
+        ],
+        "content": [
+            "百度盘密码:4j87"
+        ],
+        "weiyunUrl": "http://share.weiyun.com/5ZR67Vf",
+        "baiduUrl": "http://pan.baidu.com/s/17p_JMbzRgN8mY8_dxCVucA",
+        "QQ": "453817190",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "无尽的对砍",
+        "enTitle": "Wu Jin De Dui Kan",
+        "date": "2019-04-28",
+        "path": "wu-jin-de-dui-kan",
+        "type": [
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "原创"
+        ],
+        "content": [
+            "游戏爱好者自己开发的。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/vuebattle",
+        "otherUrl": "http://app.x4code.com/vuebattle/",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "战斗无止境",
+        "enTitle": "Battle without End",
+        "date": "2019-04-28",
+        "update": "2014-12-22",
+        "version": "1.4",
+        "path": "battle-without-end",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "K站",
+            "Flash",
+            "养成"
+        ],
+        "content": [
+            ""
+        ],
+        "kUrl": "https://www.kongregate.com/games/CritGame/battle-without-end?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "flash": true
+    },
+    {
+        "title": "无尽的进度条",
+        "enTitle": "Progress Quest",
+        "date": "2019-04-28",
+        "path": "progress-quest",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/progress-quest",
+        "enUrl": "http://progressquest.com/play/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "宝可梦点击",
+        "enTitle": "Poke Clicker",
+        "date": "2019-04-28",
+        "path": "poke-clicker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "挂机",
+            "养成"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/pokeclicker",
+        "enUrl": "http://ishadijcks.github.io/",
+        "wikiUrl": "http://likexia.gitee.io/piddb/",
+        "wikiUrl2": "https://wiki.52poke.com/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%88%97%E8%A1%A8%EF%BC%88%E6%8C%89%E5%85%A8%E5%9B%BD%E5%9B%BE%E9%89%B4%E7%BC%96%E5%8F%B7%EF%BC%89/%E7%AE%80%E5%8D%95%E7%89%88",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "文明点击",
+        "enTitle": "Civ Clicker",
+        "date": "2019-04-27",
+        "path": "civ-clicker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "建造",
+            "模拟"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/civ-clicker",
+        "enUrl": "http://deathraygames.com/play-online/civ-clicker/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "海豹球",
+        "enTitle": "Spheal",
+        "date": "2019-04-26",
+        "update": "2018-12-29",
+        "version": "0.5",
+        "path": "spheal",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "养成"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/spheal",
+        "enUrl": "http://sphericalice.com/spheal/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "沙塔建设者",
+        "enTitle": "Sandcastle Builder",
+        "date": "2019-04-26",
+        "path": "sandcastle-builder",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://likexia.gitee.io/sandcastle-builder/",
+        "enUrl": "http://castle.chirpingmustard.com/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "朋克放置",
+        "enTitle": "Idle Punk",
+        "date": "2019-04-26",
+        "path": "idle-punk",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/idlepunk",
+        "enUrl": "https://idlepunk.github.io/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "环保点击",
+        "enTitle": "Eco Clicker",
+        "date": "2019-04-26",
+        "path": "eco-clicker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/ecoclicker",
+        "enUrl": "https://v6p9d9t4.ssl.hwcdn.net/html/359740/dist/index.html",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "图形放置",
+        "enTitle": "Idle Graph",
+        "date": "2019-04-26",
+        "path": "idle-graph",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/idlegraph",
+        "enUrl": "https://scorzy.github.io/IdleGraph/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "猎人放置",
+        "enTitle": "Hunter Idle",
+        "date": "2019-04-26",
+        "path": "hunter-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/hunteridle",
+        "enUrl": "http://dwhiffing.github.io/idle-game",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "元素增量放置",
+        "enTitle": "Elemental Inception Incremental",
+        "date": "2019-04-26",
+        "path": "elemental-inception-incremental",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/elemental-inception-incremental",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "黄金矿工",
+        "enTitle": "Golden Miner",
+        "date": "2019-04-26",
+        "path": "golden-miner",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/goldenminer/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "宇宙创造者",
+        "enTitle": "Universe Creator Idle",
+        "date": "2019-04-26",
+        "path": "universe-creator-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/universecreatoridle",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "环球回形针",
+        "enTitle": "Universal Paperclips",
+        "date": "2019-04-26",
+        "path": "universal-paperclips",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "冒险",
+            "离线",
+            "挂机",
+            "太空"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/paperclips",
+        "enUrl": "http://www.decisionproblem.com/paperclips/index2.html",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "导数点击",
+        "enTitle": "Derivative Clicker",
+        "date": "2019-04-26",
+        "path": "derivative-clicker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/derivativeclicker",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "魔盒",
+        "enTitle": "Succubox",
+        "date": "2019-04-26",
+        "path": "succubox",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "冒险",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://cnh5.gitee.io/succubox",
+        "enUrl": "http://www.glaielgames.com/succubox/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "糖果盒",
+        "enTitle": "CandyBox",
+        "date": "2019-04-25",
+        "path": "candy-box",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "冒险",
+            "益智"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://cnh5.gitee.io/candybox",
+        "enUrl": "https://candybox2.github.io/candybox/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "打砖块",
+        "enTitle": "Idle Breakout",
+        "date": "2019-04-25",
+        "update": "2019-03-11",
+        "path": "idle-breakout",
+        "type": [
+            "英文",
+            "放置",
+            "点击",
+            "离线",
+            "挂机",
+            "K站",
+            "Flash"
+        ],
+        "content": [
+            "玩着很爽的打砖块游戏~"
+        ],
+        "zhUrl": "http://likexia.gitee.io/idle-breakout/",
+        "kUrl": "https://www.kongregate.com/games/Kodiqi/idle-breakout?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "太空放置",
+        "enTitle": "Idle Space",
+        "date": "2019-04-25",
+        "path": "idle-space",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "冒险",
+            "离线",
+            "挂机",
+            "K站",
+            "太空"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/idlespace/",
+        "kUrl": "https://www.kongregate.com/games/scorzy88/idle-space?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "超苦逼冒险者",
+        "enTitle": "KuBition Advanture",
+        "date": "2019-04-21",
+        "path": "kubition-advanture",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "原创",
+            "联网",
+            "养成",
+            "策略"
+        ],
+        "content": [
+            "苦逼冒险者的续作，一款不错的文字类型冒险游戏。"
+        ],
+        "zhUrl": "http://kubitionadvanture.sinaapp.com/",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "我的魔兽世界放置",
+        "enTitle": "My WOW",
+        "date": "2019-04-18",
+        "update": "2019-09-03",
+        "version": "C2.250",
+        "path": "my-wow",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "原创",
+            "PC",
+            "养成",
+            "怀旧"
+        ],
+        "content": [
+            "这是魔兽世界的放置版本，非常好玩。",
+            "下载链接如果挂了请留言告知一下，谢谢。"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/5PQpwen",
+        "baiduUrl": "https://pan.baidu.com/s/1sJ30J-Z-gfKj6iOKDFxrnA",
+        "QQ": "951107794",
+        "pic": [
+            1,
+            2
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "艾德尔冒险",
+        "enTitle": "Idle Adventure",
+        "date": "2019-04-12",
+        "path": "idle-adventure",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "冒险",
+            "联网",
+            "K站",
+            "养成",
+            "策略",
+            "卡牌"
+        ],
+        "content": [
+            "《艾德尔冒险》是一个放置类的RPG游戏，游戏中打怪升级是靠“挂机”自动实现的，几乎不需要玩家进行任何操作。"
+        ],
+        "zhUrl": "http://idle.marrla.com/",
+        "steamUrl": "https://store.steampowered.com/app/714020/Idle_Adventure/",
+        "QQ": "177077411",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "挂机无止境",
+        "enTitle": "Idle Infinity",
+        "date": "2019-04-12",
+        "path": "idle-infinity",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "冒险",
+            "联网"
+        ],
+        "content": [
+            "每个赛季周期内，玩家都会在一个新的国度中重新开始游戏, 你可以像刚开始玩的时候一样重新体验游戏魅力。",
+            "当赛季开始时，所有玩家都从1级开始，没有任何物品继承（包括各类装备/材料/金币/符文等），不能用高等级的角色和装备带人过关，也就是说是一个崭新的世界，一切重新开始。",
+            "赛季切换时，现有所有角色将会被归档（登录账号将保留），并将不能继续使用，但你可以回顾之前赛季的相关排行榜。"
+        ],
+        "zhUrl": "https://www.idleinfinity.cn",
+        "QQ": "732573769",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "回收放置",
+        "enTitle": "Recycle Idle",
+        "date": "2019-04-12",
+        "path": "recycle-idle",
+        "type": [
+            "已汉化",
+            "点击",
+            "经营",
+            "挂机",
+            "益智"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/recycle-idle/",
+        "enUrl": "https://zyntuz.github.io/recycle-idle",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "金钱人生",
+        "enTitle": "Money Life",
+        "date": "2019-04-04",
+        "path": "money-life",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://likexia.gitee.io/games/moneylife/old/",
+        "enUrl": "https://archive.totominc.io/moneylife/old/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "大脑创造者",
+        "enTitle": "Brain Creator",
+        "date": "2019-03-27",
+        "update": "2019-03-23",
+        "path": "brain-creator",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://cnh5.gitee.io/braincreator",
+        "kUrl": "https://www.kongregate.com/games/joao8991/braincreator?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "放置大亨",
+        "enTitle": "The Idle Class",
+        "date": "2019-03-26",
+        "update": "2020-07-06",
+        "version": "0.7.8",
+        "path": "the-idle-class",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://cnh5.gitee.io/the-idle-class",
+        "enUrl": "https://www.smallgraygames.com/the-idle-class",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "发生器",
+        "enTitle": "Generator",
+        "date": "2019-03-20",
+        "path": "generator",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "益智"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/generator/",
+        "enUrl": "https://github.com/seihoukei/generator",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "进度条",
+        "enTitle": "Progress Bars",
+        "date": "2019-03-08",
+        "update": "2014-11-11",
+        "version": "1.1.1",
+        "path": "progress-bars",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            "很有趣的放置游戏~"
+        ],
+        "zhUrl": "http://likexia.gitee.io/progress-bars",
+        "enUrl": "https://polatrite.github.io/progress-bars/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "迷你任务",
+        "enTitle": "MiniTES",
+        "date": "2019-03-08",
+        "path": "mini-tes",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "冒险",
+            "K站"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/minites/",
+        "kUrl": "https://www.kongregate.com/games/spacecowgoesmoo/minites?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "无限点击冒险",
+        "enTitle": "OSTM",
+        "date": "2019-03-08",
+        "path": "ostm",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "离线",
+            "挂机",
+            "冒险"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/ostm",
+        "enUrl": "http://j0ecool.github.io/OSTM/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "沉溺人生",
+        "enTitle": "Drowning",
+        "date": "2019-03-08",
+        "path": "drowning",
+        "type": [
+            "已汉化",
+            "文字",
+            "点击",
+            "挂机",
+            "养成",
+            "模拟"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/drowning",
+        "enUrl": "http://game.notch.net/drowning/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "构造",
+        "enTitle": "Structure",
+        "date": "2019-02-28",
+        "path": "structure",
+        "type": [
+            "推荐",
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "离线",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://cnh5.gitee.io/structure",
+        "enUrl": "https://zhaolinxu.github.io/structure/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "钓鱼公司",
+        "enTitle": "Fishing Enterprises",
+        "date": "2019-02-26",
+        "path": "fishing-enterprises",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营"
+        ],
+        "content": [
+            "这是一款放置型经营游戏，你可以通过购买各种饵料、钓具，逐步探索各种钓鱼场地。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/fish/fish/fish.html",
+        "enUrl": "https://mrsperry.github.io/fish/fish.html",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "旋转放置2",
+        "enTitle": "Revolution Idle 2",
+        "date": "2019-02-22",
+        "path": "revolution-idle-2",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "K站",
+            "Flash"
+        ],
+        "content": [
+            ""
+        ],
+        "kUrl": "https://www.kongregate.com/games/Gumrok/revolution-idle-2?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "flash": true
+    },
+    {
+        "title": "纳米扩散",
+        "enTitle": "Nanospread",
+        "date": "2019-02-20",
+        "update": "2020-01-06",
+        "path": "nanospread",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "益智",
+            "原创"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/stopsign/Nanospread/index.html",
+        "enUrl": "http://stopsign.github.io/Nanospread/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "国王的完美战争",
+        "enTitle": "King's Perfect War",
+        "date": "2019-02-20",
+        "path": "kings-perfect-war",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "策略",
+            "冒险"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/stopsign/KingsPerfectWar/",
+        "enUrl": "http://stopsign.github.io/KingsPerfectWar/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "循环放置",
+        "enTitle": "Idle Loops",
+        "date": "2019-02-20",
+        "version": "0.77",
+        "path": "idle-loops",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/stopsign/idleLoops/index.html",
+        "enUrl": "http://stopsign.github.io/idleLoops/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "梯田",
+        "enTitle": "Terrafold",
+        "date": "2019-02-20",
+        "path": "terrafold",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "太空"
+        ],
+        "content": [
+            "提示：飞船飞出去的时候，不要刷新页面，会导致飞船丢失。。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/stopsign/Terrafold/index.html",
+        "enUrl": "http://stopsign.github.io/Terrafold/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "骰子放置",
+        "enTitle": "Idle Dice",
+        "date": "2019-02-07",
+        "path": "idle-dice",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/idle-dice/",
+        "kUrl": "https://www.kongregate.com/games/Luts91/idle-dice?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "腐朽国度",
+        "enTitle": "Realm Of Decay",
+        "date": "2019-01-18",
+        "path": "realm-of-decay",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "策略",
+            "挂机"
+        ],
+        "content": [
+            "这是一个角色扮演游戏，让你升级你的技能，购买新的装备，等等。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/realmofdecay/",
+        "enUrl": "http://psychemaster.github.io/RealmOfDecay/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "红绿蓝放置",
+        "enTitle": "RGB Idle",
+        "date": "2018-12-05",
+        "path": "rgb-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            "这是一款放置型经营游戏，刚开始你需要点击三种颜色的条（偷懒做法是长按空格键，然后按ALt+Tab键，切换到别的程序，再回来就会自动点进度条了），后面通过升级可以解放双手。本游戏包含转生系统。。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/rgb-idle",
+        "enUrl": "https://ikerstreamer.github.io/RGB-Idle/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "口袋妖怪放置",
+        "enTitle": "Pokemon",
+        "date": "2018-12-05",
+        "path": "pokemon",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "挂机",
+            "养成"
+        ],
+        "content": [
+            "这是精灵宝可梦的网页放置版，你的目标是抓齐图鉴里面全部的宝宝。",
+            "感谢@Lunatic。、@大道、@寒天 等大佬帮忙汉化。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/pokemon",
+        "enUrl": "https://richardpaulastley.github.io/",
+        "wikiUrl": "http://likexia.gitee.io/piddb/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "基础2：网格末日",
+        "enTitle": "BASIC 2: GRIDPOCALYPSE",
+        "date": "2018-10-24",
+        "path": "basic2",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://likexia.gitee.io/basic2",
+        "enUrl": "http://minmaxia.com/b2/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "基础",
+        "enTitle": "BASIC",
+        "date": "2018-10-24",
+        "path": "basic",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://likexia.gitee.io/basic",
+        "enUrl": "http://minmaxia.com/basic/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "仙侠放置",
+        "enTitle": "Xianxia Idle",
+        "date": "2018-10-19",
+        "path": "xianxia-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "K站",
+            "养成",
+            "修真"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://likexia.gitee.io/xianxia-idle/",
+        "kUrl": "https://www.kongregate.com/games/AdamT/xianxia-idle?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "蚂蚁放置2",
+        "enTitle": "Idle Ant 2",
+        "date": "2018-09-10",
+        "path": "idle-ant2",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            "这是一款关于蚂蚁的放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步完善你的蚂蚁王国。这是蚂蚁放置的续作，作者用了另一种方式开发的游戏，增加了一些玩法。 "
+        ],
+        "zhUrl": "https://likexia.gitee.io/idleant2/",
+        "enUrl": "https://scorzy.github.io/IdleAnt2/",
+        "kUrl": "https://www.kongregate.com/games/scorzy88/idle-ants-2?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "小球放置",
+        "enTitle": "Idle Bouncer",
+        "date": "2018-07-23",
+        "path": "idle-bouncer",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "离线",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            "让球跳跃，升级和改变世界!每次弹跳时，抛球产生能量。升级现有的球，购买新的球来产生更多的能量。卖掉你的球帝国来获得元能量来改变世界! "
+        ],
+        "zhUrl": "https://likexia.gitee.io/idle-bouncer",
+        "enUrl": "https://almostidle.com/our/idle-bouncer/",
+        "kUrl": "https://www.kongregate.com/games/almostidle/idle-bouncer?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "加拿大点击",
+        "enTitle": "Canada Clicker",
+        "date": "2018-05-28",
+        "path": "canada-clicker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/canadaclicker",
+        "enUrl": "http://www.canadaclicker.com/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "13层",
+        "enTitle": "Level 13",
+        "date": "2018-05-09",
+        "update": "2021-03-23",
+        "version": "0.3.3",
+        "path": "level-13",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "冒险",
+            "益智",
+            "策略"
+        ],
+        "content": [
+            "感谢小伙伴：@TG303 帮忙汉化。",
+            "这是一款类似于小黑屋的放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步探索13个层面。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/level13",
+        "enUrl": "https://nroutasuo.github.io/level13/",
+        "customUrl": "https://likexia.gitee.io/level13/index2.html",
+        "customUrlTit": "白色摸鱼主题",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "鲨鱼之心",
+        "enTitle": "Heart of Sharkness",
+        "date": "2018-04-10",
+        "path": "heart-of-sharkness",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "养成"
+        ],
+        "content": [
+            "非常感谢群友@TG303大佬帮忙完成《鲨鱼游戏》汉化！"
+        ],
+        "zhUrl": "http://likexia.gitee.io/sharks/",
+        "enUrl": "http://cirri.al/sharks/#",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "法术大师",
+        "enTitle": "Spells Master",
+        "date": "2018-01-19",
+        "path": "spells-master",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            "这是一款放置型经营游戏，你可以学习多种法术，然后升级各项属性，最终解锁所有法术。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/spells",
+        "enUrl": "https://rawgit.com/IvarK/spells/master/index.html",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "建造游戏",
+        "enTitle": "Kraft",
+        "date": "2018-01-19",
+        "path": "kraft",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "建造"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://likexia.gitee.io/kraft/",
+        "enUrl": "http://morpheox.github.io/Kraft/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "未来科技",
+        "enTitle": "Technomancy",
+        "date": "2018-01-19",
+        "update": "2020-06-05",
+        "version": "6.0.9",
+        "path": "technomancy",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/technomancy/Technomancy/",
+        "enUrl": "https://fuzzything44.github.io/Incremental/Technomancy/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "核起源",
+        "enTitle": "Nucleogenesis",
+        "date": "2017-12-24",
+        "path": "nucleogenesis",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "益智"
+        ],
+        "content": [
+            "这是一款放置游戏，科技含量略高，物理帝应该可以看得懂（手动滑稽）。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/nucleogenesis",
+        "enUrl": "https://angarg12.github.io/nucleogenesis/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "粒子点击",
+        "enTitle": "Particle Clicker",
+        "date": "2017-12-20",
+        "path": "particle-clicker",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "益智"
+        ],
+        "content": [
+            "这是一款科教类型的放置游戏，在游戏的同时了解一些物理知识。",
+            "由于科学名词太多，知识范围有限，没办法继续翻译，所以停止翻译了。目前已汉化的部分已经可以正常玩下去了，大家见谅。如果你发现有的地方汉化的含义不准确，欢迎反馈给我，进行修改完善。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/lizi/",
+        "enUrl": "http://cern.ch/particle-clicker",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "重建宇宙",
+        "enTitle": "Rebuild The Universe",
+        "date": "2017-12-16",
+        "path": "rebuild-the-universe",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "经营",
+            "太空"
+        ],
+        "content": [
+            "这是一款以科学为主题的点击、放置增量游戏。",
+            "据很多朋友反映，汉化后游戏占用太多电脑内存，导致玩起来非常卡，如果你感觉玩起来卡的话，请先玩英文版，汉化版作为翻译以作对比。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/rebuild-the-universe/",
+        "enUrl": "http://rebuildtheuniverse.com/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "无尽的饼干",
+        "enTitle": "Cookie Clicker",
+        "date": "2017-12-15",
+        "update": "2020-12-29",
+        "version": "2.031",
+        "path": "cookie-clicker",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            "这是一款放置型经营游戏，你可以建造多种建筑来生产制作饼干。"
+        ],
+        "customUrl": "https://likexia.gitee.io/cookieclicker",
+        "customUrlTit": "汉化版-最新版-汉化中",
+        "customUrl2": "https://likexia.gitee.io/cookieclicker2",
+        "customUrlTit2": "汉化版-旧版-已汉化",
+        "enUrl": "http://orteil.dashnet.org/cookieclicker/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "Hex颜色放置",
+        "enTitle": "Hex Color Idle",
+        "date": "2017-12-12",
+        "path": "hex-color-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "K站"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/coloridle/",
+        "kUrl": "https://www.kongregate.com/games/Myafkish/hex-color-idle?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "点击者的荣耀",
+        "enTitle": "Clickers Of Honor",
+        "date": "2017-12-04",
+        "path": "clickers-of-honor",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/coh",
+        "enUrl": "http://users.telenet.be/coh/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "资源星球",
+        "enTitle": "Resource Planet",
+        "date": "2017-11-06",
+        "path": "resource-planet",
+        "type": [
+            "已汉化",
+            "点击"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/resource-planet/",
+        "enUrl": "http://www.shmoggo.com/resource-game/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "反应堆放置",
+        "enTitle": "Reactor Idle",
+        "date": "2017-10-27",
+        "path": "reactor-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "策略"
+        ],
+        "content": [
+            "这是一款放点击置型经营游戏，你可以建造各种元件生产能量，然后卖掉能量，解锁元件、升级、研究等。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/reactoridle/",
+        "enUrl": "http://reactoridle.com/",
+        "QQ": "205448831",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "蚂蚁放置",
+        "enTitle": "Idle Ant",
+        "date": "2017-10-27",
+        "path": "idle-ant",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "K站"
+        ],
+        "content": [
+            "这是一款关于蚂蚁的放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步完善你的蚂蚁王国。 "
+        ],
+        "zhUrl": "http://likexia.gitee.io/idleant/",
+        "enUrl": "https://scorzy.github.io/IdleAnt",
+        "kUrl": "https://www.kongregate.com/games/scorzy88/idle-ants?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "城市公司",
+        "enTitle": "CityInc",
+        "date": "2017-10-27",
+        "path": "city-inc",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            ""
+        ],
+        "customUrl": "https://yx.g8hh.com/cityinc/",
+        "customUrlTit": "汉化版-新",
+        "customUrl2": "http://likexia.gitee.io/cityinc/",
+        "customUrlTit2": "汉化版-已挂",
+        "enUrl": "http://cityinc.se/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "黑市",
+        "enTitle": "Black Market",
+        "date": "2017-10-27",
+        "path": "black-market",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            "黑市是一个增量游戏，在这里您将管理一个药丸帝国！ 一开始，你是一个可怜的街头老鼠，你只有一把从罗恩叔叔那里偷走的枪。 要赚取您的前几张$帐单，您必须不停的射击！ 你可以购买升级以提高您的操作和提高你的现金流。",
+            "一旦你有一些现金来消费，你可以投资一些 \"建筑\" 来帮你制造 \"糖果\" (其实是药丸, 非常多的药丸!). 建筑物产生特定数量的药丸，然后您可以出售毒品赚钱金钱$！。",
+            "请注意，黑市从不停业！ 即使您关闭了游戏，您的业务也将继续生产和销售药品！"
+        ],
+        "zhUrl": "http://likexia.gitee.io/games/blackmarket/",
+        "enUrl": "http://totominc.github.io/archive/blackmarket/",
+        "kUrl": "https://www.kongregate.com/games/TotomInc/blackmarket?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "小黑屋",
+        "enTitle": "A Dark Room",
+        "date": "2017-10-27",
+        "path": "a-dark-room",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "冒险"
+        ],
+        "content": [
+            "小黑屋是一款纯文字的冒险游戏，通过壮大自己的村庄，收集材料后，制作冒险所需的物品，然后就可以开始冒险之旅。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/adarkroom/?lang=zh_cn",
+        "enUrl": "http://adarkroom.doublespeakgames.com/?lang=en",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "2048",
+        "enTitle": "2048",
+        "date": "2017-10-27",
+        "path": "2048",
+        "type": [
+            "放置",
+            "文字",
+            "益智"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://likexia.gitee.io/2048",
+        "enUrl": "http://gabrielecirulli.github.io/2048/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "猫国建设者",
+        "enTitle": "Kittens Game",
+        "date": "2017-10-27",
+        "update": "2021-03-30",
+        "version": "1.4.8.3",
+        "path": "kittens-game",
+        "type": [
+            "推荐",
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "建造",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            "感谢各位大佬：@Cheney，@by22dgb，@*.*，@TG303，@枯寂之心，@KuiY，帮忙汉化。",
+            "这是一款放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步完善你的小猫王国。游戏虽然没什么精美的图片和动听的音乐，但还是有相当的经营乐趣。",
+            "注意：现在 中文版已经集成了小猫科学家 ，请在游戏右上角 “选项” 里面通过 “点击启用小猫科学家”启用。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/cat-zh",
+        "customUrl": "https://petercheney.gitee.io/kitten-game-cn/",
+        "customUrlTit": "1.8.3最新汉化版",
+        "enUrl": "http://bloodrizer.ru/games/kittens/",
+        "kUrl": "https://www.kongregate.com/games/bloodrizer/kittens-game?sfa=permalink&referrer=SunshineDad",
+        "wikiUrl": "http://petercheney.gitee.io/baike/",
+        "QQ": "499256691",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "脆皮",
+        "enTitle": "Trimps",
+        "date": "2017-10-27",
+        "update": "2020-12-07",
+        "version": "5.4.3",
+        "path": "trimps",
+        "type": [
+            "推荐",
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            "感谢各位大佬：@by22dgb，@*.*，@TG303，@枯寂之心，@KuiY，帮忙汉化。",
+            "这是个有点类似《小黑屋》的挂机类文字经营游戏。在这个世界我们要捕捉驯养一种名为trimp（咱们称之为：脆皮）的生物，让它们繁衍，为你采集食物、树木、金属甚至研发科技点数。也有地图可以战斗，不过派去战斗是trimp而不是我们的人物。战斗途中可以获得资源和不少解锁，主要为各种升级解锁和trimp们的装备解锁。另外，这个游戏在你关闭之后也会为你挂机。"
+        ],
+        "QQ": "831779769",
+        "customUrl": "https://yx.g8hh.com/cuipi/",
+        "customUrlTit": "汉化版-新",
+        "customUrl2": "http://likexia.gitee.io/cuipi/",
+        "customUrlTit2": "汉化版-已挂",
+        "enUrl": "http://trimps.github.io/",
+        "kUrl": "https://www.kongregate.com/games/GreenSatellite/trimps?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    }
+]
