@@ -254,7 +254,7 @@
         "customUrlTit2": "远古繁中版",
         "customUrl3": "https://louisalflame.github.io/CFantasyClick/index.html",
         "customUrlTit3": "远古繁中原版",
-        "customUrl4": "https://g8hh.github.io/cfantasy-click/",
+        "customUrl4": "https://g8hh.github.io/woyuxiuxian/",
         "customUrlTit4": "备用汉化版",
         "QQ": "292994508",
         "pic": [
@@ -322,6 +322,8 @@
         "enUrl": "https://dystopia-user181.github.io/The-Modding-Tree/",
         "customUrl": "https://yhvr.me/pt/mods.html",
         "customUrlTit": "其它树游戏集合",
+        "customUrl2": "https://g8hh.github.io/the-factioree/",
+        "customUrlTit2": "备用汉化版",
         "pic": [
             1,
             2,
@@ -356,6 +358,8 @@
         "enUrl": "https://denisolenison.github.io/The-Leveling-Tree/",
         "customUrl": "https://yhvr.me/pt/mods.html",
         "customUrlTit": "其它树游戏集合",
+        "customUrl2": "https://g8hh.github.io/the-leveling-tree/",
+        "customUrlTit2": "备用汉化版",
         "pic": [
             1,
             2,
@@ -758,6 +762,8 @@
         ],
         "zhUrl": "http://yx.g8hh.com/version-control",
         "enUrl": "https://semenar.itch.io/version-control",
+        "customUrl": "https://g8hh.github.io/version-control/",
+        "customUrlTit": "备用汉化版",
         "pic": [
             1,
             2,
@@ -2041,8 +2047,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2021-06-06",
-        "version":"0.1.77",
+        "update": "2021-06-11",
+        "version":"0.1.78",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
