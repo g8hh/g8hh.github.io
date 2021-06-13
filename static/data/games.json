@@ -1254,8 +1254,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2021-06-01",
-        "version":"0.6.4",
+        "update": "2021-06-13",
+        "version":"0.6.5",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -1271,6 +1271,8 @@
         ],
         "zhUrl": "http://idlegame.gitee.io/c0v1d-modding-tree/",
         "enUrl": "https://raw.githack.com/c0v1d-9119361/The-Modding-Tree/master/",
+        "customUrl": "https://g8hh.github.io/c0v1d-modding-tree/",
+        "customUrlTit": "备用汉化版",
         "pic": [
             1,
             2,
@@ -7295,6 +7297,8 @@
         "QQ": "831779769",
         "customUrl": "https://yx.g8hh.com/cuipi/",
         "customUrlTit": "汉化版-新",
+        "customUrl3": "https://g8hh.github.io/cuipi/",
+        "customUrlTit3": "备用汉化版",
         "customUrl2": "http://likexia.gitee.io/cuipi/",
         "customUrlTit2": "汉化版-已挂",
         "enUrl": "http://trimps.github.io/",
