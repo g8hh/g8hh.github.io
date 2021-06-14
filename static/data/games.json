@@ -1272,7 +1272,9 @@
         "zhUrl": "http://idlegame.gitee.io/c0v1d-modding-tree/",
         "enUrl": "https://raw.githack.com/c0v1d-9119361/The-Modding-Tree/master/",
         "customUrl": "https://g8hh.github.io/c0v1d-modding-tree/",
-        "customUrlTit": "备用汉化版",
+        "customUrlTit": "备用汉化版-GitHub",
+        "customUrl2": "https://yx.g8hh.com/c0v1d-modding-tree/",
+        "customUrlTit2": "备用汉化版-g8hh",
         "pic": [
             1,
             2,
