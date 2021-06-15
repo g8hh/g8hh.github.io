@@ -177,7 +177,7 @@
         "zhUrl": "http://yx.g8hh.com/the-factioree",
         "enUrl": "https://dystopia-user181.github.io/The-Modding-Tree/",
         "customUrl": "https://g8hh.github.io/the-factioree/",
-        "customUrlTit": "备用汉化版",
+        "customUrlTit": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -255,7 +255,7 @@
         "customUrl3": "https://louisalflame.github.io/CFantasyClick/index.html",
         "customUrlTit3": "远古繁中原版",
         "customUrl4": "https://g8hh.github.io/woyuxiuxian/",
-        "customUrlTit4": "备用汉化版",
+        "customUrlTit4": "备用地址-GitHub",
         "QQ": "292994508",
         "pic": [
             1,
@@ -323,7 +323,7 @@
         "customUrl": "https://yhvr.me/pt/mods.html",
         "customUrlTit": "其它树游戏集合",
         "customUrl2": "https://g8hh.github.io/the-factioree/",
-        "customUrlTit2": "备用汉化版",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -359,7 +359,7 @@
         "customUrl": "https://yhvr.me/pt/mods.html",
         "customUrlTit": "其它树游戏集合",
         "customUrl2": "https://g8hh.github.io/the-leveling-tree/",
-        "customUrlTit2": "备用汉化版",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -763,7 +763,7 @@
         "zhUrl": "http://yx.g8hh.com/version-control",
         "enUrl": "https://semenar.itch.io/version-control",
         "customUrl": "https://g8hh.github.io/version-control/",
-        "customUrlTit": "备用汉化版",
+        "customUrlTit": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -1272,9 +1272,9 @@
         "zhUrl": "http://idlegame.gitee.io/c0v1d-modding-tree/",
         "enUrl": "https://raw.githack.com/c0v1d-9119361/The-Modding-Tree/master/",
         "customUrl": "https://g8hh.github.io/c0v1d-modding-tree/",
-        "customUrlTit": "备用汉化版-GitHub",
+        "customUrlTit": "备用地址-GitHub",
         "customUrl2": "https://yx.g8hh.com/c0v1d-modding-tree/",
-        "customUrlTit2": "备用汉化版-g8hh",
+        "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
             2,
@@ -2589,9 +2589,9 @@
         "zhUrl": "http://idlegame.gitee.io/pokeclicker/",
         "enUrl": "https://www.pokeclicker.com/",
         "customUrl": "https://g8hh.github.io/pokeclicker/",
-        "customUrlTit": "备用汉化版-GitHub",
+        "customUrlTit": "备用地址-GitHub",
         "customUrl2": "https://yx.g8hh.com/pokeclicker/",
-        "customUrlTit2": "备用汉化版-g8hh",
+        "customUrlTit2": "备用地址-g8hh",
         "wikiUrl": "http://likexia.gitee.io/piddb/",
         "wikiUrl2": "https://wiki.52poke.com/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%88%97%E8%A1%A8%EF%BC%88%E6%8C%89%E5%85%A8%E5%9B%BD%E5%9B%BE%E9%89%B4%E7%BC%96%E5%8F%B7%EF%BC%89/%E7%AE%80%E5%8D%95%E7%89%88",
         "pic": [
@@ -3975,6 +3975,10 @@
         "QQ": "952923286",
         "zhUrl": "http://idlegame.gitee.io/synergism",
         "kUrl": "https://www.kongregate.com/games/Platonic/synergism?sfa=permalink&referrer=SunshineDad",
+        "customUrl": "https://g8hh.github.io/Synergism/",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yx.g8hh.com/Synergism",
+        "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
             2,
@@ -4574,6 +4578,10 @@
         ],
         "zhUrl": "http://likexia.gitee.io/theory-of-magic",
         "kUrl": "https://www.kongregate.com/games/lerpinglemur/theory-of-magic?sfa=permalink&referrer=SunshineDad",
+        "customUrl": "https://g8hh.github.io/theory-of-magic/",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yx.g8hh.com/theory-of-magic/",
+        "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
             2
@@ -7305,9 +7313,9 @@
         ],
         "QQ": "831779769",
         "customUrl": "https://yx.g8hh.com/cuipi/",
-        "customUrlTit": "汉化版-新",
+        "customUrlTit": "汉化版-g8hh",
         "customUrl3": "https://g8hh.github.io/cuipi/",
-        "customUrlTit3": "备用汉化版",
+        "customUrlTit3": "备用地址-GitHub",
         "customUrl2": "http://likexia.gitee.io/cuipi/",
         "customUrlTit2": "汉化版-已挂",
         "enUrl": "http://trimps.github.io/",
