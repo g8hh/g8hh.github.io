@@ -226,7 +226,7 @@
             4,
             5
         ],
-        "status": 1
+        "status": 0
     },
     {
         "title": "我欲修仙",
@@ -250,12 +250,12 @@
         ],
         "customUrl": "http://yx.g8hh.com/cfantasy-click",
         "customUrlTit": "最新版",
-        "customUrl2": "http://yx.g8hh.com/cfantasy-click/old",
-        "customUrlTit2": "远古繁中版",
-        "customUrl3": "https://louisalflame.github.io/CFantasyClick/index.html",
-        "customUrlTit3": "远古繁中原版",
-        "customUrl4": "https://g8hh.github.io/woyuxiuxian/",
-        "customUrlTit4": "备用地址-GitHub",
+        "customUrl2": "https://g8hh.github.io/woyuxiuxian/",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "http://yx.g8hh.com/cfantasy-click/old",
+        "customUrlTit3": "远古繁中版",
+        "customUrl4": "https://louisalflame.github.io/CFantasyClick/index.html",
+        "customUrlTit4": "远古繁中原版",
         "QQ": "292994508",
         "pic": [
             1,
@@ -4471,6 +4471,10 @@
         ],
         "zhUrl": "https://idlegame.gitee.io/incremancer/",
         "kUrl": "https://www.kongregate.com/games/JamesG466/incremancer?sfa=permalink&referrer=SunshineDad",
+        "customUrl": "https://g8hh.github.io/incremancer/",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yx.g8hh.com/incremancer/",
+        "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
             2
