@@ -155,6 +155,91 @@
         "status": 1
     },
     {
+        "title": "能源增量",
+        "enTitle": "Incremenergy",
+        "date": "2021-06-17",
+        "update": "2021-02-14",
+        "version":"",
+        "path": "incremenergy",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《能源增量》是某个声望树的作者的另一款游戏。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/Incremenergy/",
+        "enUrl": "https://jacorb90.me/Incremenergy/",
+        "customUrl": "https://g8hh.github.io/Incremenergy/",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "简易塔防",
+        "enTitle": "Tower Defense",
+        "date": "2021-06-17",
+        "update": "2020-08-11",
+        "version":"",
+        "path": "towerdefense",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "塔防",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一款简单的塔防游戏 ",
+            "您还可以使用此地图编辑器制作和编辑自定义地图 。",
+            "控制：",
+            "Esc 取消选择塔",
+            "左右括号改变地图大小（将重置游戏！）",
+            "鼠标放置塔",
+            "空格键暂停",
+            "0-9 选择要放置的塔",
+            "F 切换 FPS 显示",
+            "G 切换上帝模式",
+            "H 切换显示敌人的健康栏",
+            "M 导入和加载地图字符串（将重置游戏！）",
+            "P 切换显示粒子效果（关闭它们有助于延迟）",
+            "Q 切换塔射击",
+            "R 重置游戏",
+            "S出售选定的塔",
+            "U 升级选定的塔",
+            "V 使音量静音",
+            "W 在波之间切换延迟",
+            "X 导出地图字符串（复制到剪贴板）",
+            "Z 返回默认缩放级别（将重置游戏！）"
+        ],
+        "zhUrl": "https://yx.g8hh.com/towerdefense",
+        "enUrl": "https://rsaihe.github.io/towerdefense/",
+        "customUrl": "https://g8hh.github.io/towerdefense/",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "http://yx.g8hh.com/td-editor",
+        "customUrlTit2": "地图编辑器",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "工厂树",
         "enTitle": "The Factioree",
         "date": "2021-06-11",
@@ -177,7 +262,7 @@
         "zhUrl": "http://yx.g8hh.com/the-factioree",
         "enUrl": "https://dystopia-user181.github.io/The-Modding-Tree/",
         "customUrl": "https://g8hh.github.io/the-factioree/",
-        "customUrlTit": "备用汉化版",
+        "customUrlTit": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -226,7 +311,7 @@
             4,
             5
         ],
-        "status": 1
+        "status": 0
     },
     {
         "title": "我欲修仙",
@@ -250,13 +335,13 @@
         ],
         "customUrl": "http://yx.g8hh.com/cfantasy-click",
         "customUrlTit": "最新版",
-        "customUrl2": "http://yx.g8hh.com/cfantasy-click/old",
-        "customUrlTit2": "远古繁中版",
-        "customUrl3": "https://louisalflame.github.io/CFantasyClick/index.html",
-        "customUrlTit3": "远古繁中原版",
-        "customUrl4": "https://g8hh.github.io/woyuxiuxian/",
-        "customUrlTit4": "备用汉化版",
-        "QQ": "292994508",
+        "customUrl2": "https://g8hh.github.io/woyuxiuxian/",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "http://yx.g8hh.com/cfantasy-click/old",
+        "customUrlTit3": "远古繁中版",
+        "customUrl4": "https://louisalflame.github.io/CFantasyClick/index.html",
+        "customUrlTit4": "远古繁中原版",
+        "QQ": "",
         "pic": [
             1,
             2,
@@ -323,7 +408,7 @@
         "customUrl": "https://yhvr.me/pt/mods.html",
         "customUrlTit": "其它树游戏集合",
         "customUrl2": "https://g8hh.github.io/the-factioree/",
-        "customUrlTit2": "备用汉化版",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -359,7 +444,7 @@
         "customUrl": "https://yhvr.me/pt/mods.html",
         "customUrlTit": "其它树游戏集合",
         "customUrl2": "https://g8hh.github.io/the-leveling-tree/",
-        "customUrlTit2": "备用汉化版",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -763,7 +848,7 @@
         "zhUrl": "http://yx.g8hh.com/version-control",
         "enUrl": "https://semenar.itch.io/version-control",
         "customUrl": "https://g8hh.github.io/version-control/",
-        "customUrlTit": "备用汉化版",
+        "customUrlTit": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -1272,7 +1357,9 @@
         "zhUrl": "http://idlegame.gitee.io/c0v1d-modding-tree/",
         "enUrl": "https://raw.githack.com/c0v1d-9119361/The-Modding-Tree/master/",
         "customUrl": "https://g8hh.github.io/c0v1d-modding-tree/",
-        "customUrlTit": "备用汉化版",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yx.g8hh.com/c0v1d-modding-tree/",
+        "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
             2,
@@ -2587,9 +2674,9 @@
         "zhUrl": "http://idlegame.gitee.io/pokeclicker/",
         "enUrl": "https://www.pokeclicker.com/",
         "customUrl": "https://g8hh.github.io/pokeclicker/",
-        "customUrlTit": "备用汉化版-GitHub",
+        "customUrlTit": "备用地址-GitHub",
         "customUrl2": "https://yx.g8hh.com/pokeclicker/",
-        "customUrlTit2": "备用汉化版-g8hh",
+        "customUrlTit2": "备用地址-g8hh",
         "wikiUrl": "http://likexia.gitee.io/piddb/",
         "wikiUrl2": "https://wiki.52poke.com/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%88%97%E8%A1%A8%EF%BC%88%E6%8C%89%E5%85%A8%E5%9B%BD%E5%9B%BE%E9%89%B4%E7%BC%96%E5%8F%B7%EF%BC%89/%E7%AE%80%E5%8D%95%E7%89%88",
         "pic": [
@@ -3973,6 +4060,10 @@
         "QQ": "952923286",
         "zhUrl": "http://idlegame.gitee.io/synergism",
         "kUrl": "https://www.kongregate.com/games/Platonic/synergism?sfa=permalink&referrer=SunshineDad",
+        "customUrl": "https://g8hh.github.io/Synergism/",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yx.g8hh.com/Synergism",
+        "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
             2,
@@ -4465,6 +4556,10 @@
         ],
         "zhUrl": "https://idlegame.gitee.io/incremancer/",
         "kUrl": "https://www.kongregate.com/games/JamesG466/incremancer?sfa=permalink&referrer=SunshineDad",
+        "customUrl": "https://g8hh.github.io/incremancer/",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yx.g8hh.com/incremancer/",
+        "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
             2
@@ -4572,6 +4667,10 @@
         ],
         "zhUrl": "http://likexia.gitee.io/theory-of-magic",
         "kUrl": "https://www.kongregate.com/games/lerpinglemur/theory-of-magic?sfa=permalink&referrer=SunshineDad",
+        "customUrl": "https://g8hh.github.io/theory-of-magic/",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yx.g8hh.com/theory-of-magic/",
+        "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
             2
@@ -6815,6 +6914,10 @@
         "enUrl": "https://nroutasuo.github.io/level13/",
         "customUrl": "https://likexia.gitee.io/level13/index2.html",
         "customUrlTit": "白色摸鱼主题",
+        "customUrl2": "https://yx.g8hh.com/level13/",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g8hh.github.io/level13/",
+        "customUrlTit3": "备用地址-GitHub",
         "pic": [
             1,
             2
@@ -7303,9 +7406,9 @@
         ],
         "QQ": "831779769",
         "customUrl": "https://yx.g8hh.com/cuipi/",
-        "customUrlTit": "汉化版-新",
+        "customUrlTit": "汉化版-g8hh",
         "customUrl3": "https://g8hh.github.io/cuipi/",
-        "customUrlTit3": "备用汉化版",
+        "customUrlTit3": "备用地址-GitHub",
         "customUrl2": "http://likexia.gitee.io/cuipi/",
         "customUrlTit2": "汉化版-已挂",
         "enUrl": "http://trimps.github.io/",
