@@ -155,6 +155,91 @@
         "status": 1
     },
     {
+        "title": "能源增量",
+        "enTitle": "Incremenergy",
+        "date": "2021-06-17",
+        "update": "2021-02-14",
+        "version":"",
+        "path": "incremenergy",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《能源增量》是某个声望树的作者的另一款游戏。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/Incremenergy/",
+        "enUrl": "https://jacorb90.me/Incremenergy/",
+        "customUrl": "https://g8hh.github.io/Incremenergy/",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "简易塔防",
+        "enTitle": "Tower Defense",
+        "date": "2021-06-17",
+        "update": "2020-08-11",
+        "version":"",
+        "path": "towerdefense",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "塔防",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一款简单的塔防游戏 ",
+            "您还可以使用此地图编辑器制作和编辑自定义地图 。",
+            "控制：",
+            "Esc 取消选择塔",
+            "左右括号改变地图大小（将重置游戏！）",
+            "鼠标放置塔",
+            "空格键暂停",
+            "0-9 选择要放置的塔",
+            "F 切换 FPS 显示",
+            "G 切换上帝模式",
+            "H 切换显示敌人的健康栏",
+            "M 导入和加载地图字符串（将重置游戏！）",
+            "P 切换显示粒子效果（关闭它们有助于延迟）",
+            "Q 切换塔射击",
+            "R 重置游戏",
+            "S出售选定的塔",
+            "U 升级选定的塔",
+            "V 使音量静音",
+            "W 在波之间切换延迟",
+            "X 导出地图字符串（复制到剪贴板）",
+            "Z 返回默认缩放级别（将重置游戏！）"
+        ],
+        "zhUrl": "https://yx.g8hh.com/towerdefense",
+        "enUrl": "https://rsaihe.github.io/towerdefense/",
+        "customUrl": "https://g8hh.github.io/towerdefense/",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "http://yx.g8hh.com/td-editor",
+        "customUrlTit2": "地图编辑器",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "工厂树",
         "enTitle": "The Factioree",
         "date": "2021-06-11",
@@ -6829,6 +6914,10 @@
         "enUrl": "https://nroutasuo.github.io/level13/",
         "customUrl": "https://likexia.gitee.io/level13/index2.html",
         "customUrlTit": "白色摸鱼主题",
+        "customUrl2": "https://yx.g8hh.com/level13/",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g8hh.github.io/level13/",
+        "customUrlTit3": "备用地址-GitHub",
         "pic": [
             1,
             2
