@@ -155,6 +155,70 @@
         "status": 1
     },
     {
+        "title": "社区树",
+        "enTitle": "Communitree",
+        "date": "2021-06-21",
+        "update": "2021-06-18",
+        "version":"0.3",
+        "path": "communitree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "声望树的另一个Mod，这次的玩法有点骚，每个节点都是其它声望树作者。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/communitree",
+        "enUrl": "https://ducdat0507.github.io/communitree/",
+        "customUrl": "https://g8hh.github.io/communitree/",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "合并树",
+        "enTitle": "Merging Prestige Tree",
+        "date": "2021-06-19",
+        "update": "2021-06-16",
+        "version":"0.4.1",
+        "path": "merging-prestige-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "声望树的另一个Mod，这次以合并为主。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/merging-prestige-tree/",
+        "enUrl": "https://technokaguya.itch.io/aptmam",
+        "customUrl": "https://g8hh.github.io/merging-prestige-tree/",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "能源增量",
         "enTitle": "Incremenergy",
         "date": "2021-06-17",
