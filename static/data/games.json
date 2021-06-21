@@ -1403,8 +1403,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2021-06-13",
-        "version":"0.6.5",
+        "update": "2021-06-18",
+        "version":"0.6.6",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -2200,8 +2200,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2021-06-11",
-        "version":"0.1.78",
+        "update": "2021-06-20",
+        "version":"0.1.79",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
