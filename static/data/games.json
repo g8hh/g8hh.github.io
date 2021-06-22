@@ -187,6 +187,69 @@
         "status": 0
     },
     {
+        "title": "逃离黑暗",
+        "enTitle": "Escape From Vantablack",
+        "date": "2021-06-22",
+        "update": "2021-04-06",
+        "version":"",
+        "path": "escape-from-vantablack",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "这是《能源增量》作者的另一个作品。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/escape-from-vantablack",
+        "enUrl": "https://jacorb90.me/Escape-from-Vantablack/",
+        "customUrl": "https://g8hh.github.io/Escape-from-Vantablack/",
+        "customUrlTit": "备用地址-Github",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "足球经理游戏",
+        "enTitle": "英文标题",
+        "date": "2021-06-22",
+        "update": "2021-06-22",
+        "version":"",
+        "path": "hattrick",
+        "type": [
+            "文字",
+            "点击",
+            "经营",
+            "联网",
+            "养成",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "当今最流行的足球经理模拟游戏是 Hattrick。我们拥有数十万名活跃经理。",
+            "在 Hattrick，您的角色是足球队的老板，同时也是经理。您全权决定球队的一切事项，如训练、探索青年球员、转会市场上的行动，以及，理所当然是比赛前和比赛中的战策决定。游戏的主要目标是打造您的俱乐部和足球队，击败对手和其他玩家在联赛系统中力争上游一直攀升到顶级联赛。"
+        ],
+        "customUrl": "https://www.hattrick.org/?inviteRef=V8MTM8",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
         "title": "合并树",
         "enTitle": "Merging Prestige Tree",
         "date": "2021-06-19",
