@@ -155,11 +155,46 @@
         "status": 1
     },
     {
+        "title": "太空公司NG",
+        "enTitle": "NG SpaceCompany",
+        "date": "2021-06-28",
+        "update": "2021-06-27",
+        "version":"1.17.1",
+        "path": "ng-space-company",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "太空",
+            "建造",
+            "策略"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "https://yx.g8hh.com/ng-space-company",
+        "enUrl": "https://ngspacecompany.exileng.com/",
+        "customUrl": "https://g8hh.github.io/NGSpaceCompany/",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "社区树",
         "enTitle": "Communitree",
-        "date": "2021-06-21",
-        "update": "2021-06-18",
-        "version":"0.3",
+        "date": "2021-06-28",
+        "update": "2021-06-24",
+        "version":"0.3.2",
         "path": "communitree",
         "type": [
             "已汉化",
@@ -184,7 +219,7 @@
             4,
             5
         ],
-        "status": 0
+        "status": 1
     },
     {
         "title": "逃离黑暗",
@@ -500,6 +535,8 @@
         ],
         "zhUrl": "http://yx.g8hh.com/pachinkremental",
         "enUrl": "https://poochyexe.github.io/pachinkremental/pachinkremental.html",
+        "customUrl": "http://yx.g8hh.com/pachinkremental/beta/pachinkremental.html",
+        "customUrlTit": "测试版",
         "pic": [
             1,
             2,
