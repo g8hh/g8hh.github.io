@@ -155,11 +155,44 @@
         "status": 1
     },
     {
+        "title": "酸橙经营者",
+        "enTitle": "Sublime",
+        "date": "2021-07-02",
+        "update": "2021-06-30",
+        "version":"4.0.0",
+        "path": "sublime",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "模拟"
+        ],
+        "content": [
+            "一款关于酸橙的游戏，起初看英文名我还以为是那个Sublime编辑器呢..."
+        ],
+        "zhUrl": "https://yx.g8hh.com/sublime",
+        "enUrl": "https://ngspacecompany.exileng.com/",
+        "customUrl": "https://g8hh.github.io/sublime/",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "太空公司NG",
-        "enTitle": "NG SpaceCompany",
+        "enTitle": "NG Space Company",
         "date": "2021-06-28",
-        "update": "2021-06-27",
-        "version":"1.17.1",
+        "update": "2021-07-01",
+        "version":"1.20.3",
         "path": "ng-space-company",
         "type": [
             "已汉化",
@@ -213,6 +246,8 @@
         "enUrl": "https://ducdat0507.github.io/communitree/",
         "customUrl": "https://g8hh.github.io/communitree/",
         "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
         "pic": [
             1,
             2,
@@ -308,6 +343,8 @@
         "enUrl": "https://technokaguya.itch.io/aptmam",
         "customUrl": "https://g8hh.github.io/merging-prestige-tree/",
         "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
         "pic": [
             1,
             2,
@@ -426,6 +463,8 @@
         "enUrl": "https://dystopia-user181.github.io/The-Modding-Tree/",
         "customUrl": "https://g8hh.github.io/the-factioree/",
         "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
         "pic": [
             1,
             2,
@@ -468,8 +507,6 @@
             "Torn City 是一款大型多人游戏，在全球拥有数以千计的活跃玩家。 加入他们，攻击他们，与他们交朋友，与他们结婚，与他们交易，与他们竞争。 无论你做什么 - 现在就做！"
         ],
         "enUrl": "https://www.torn.com/",
-        "customUrl": "https://blog.csdn.net/weixin_43306345/article/details/110941898",
-        "customUrlTit": "注册验证码失败解决办法",
         "QQ": "138838543",
         "pic": [
             1,
