@@ -158,8 +158,8 @@
         "title": "酸橙经营者",
         "enTitle": "Sublime",
         "date": "2021-07-02",
-        "update": "2021-06-30",
-        "version":"4.0.0",
+        "update": "2021-07-02",
+        "version":"0.4.2",
         "path": "sublime",
         "type": [
             "已汉化",
@@ -175,7 +175,7 @@
             "一款关于酸橙的游戏，起初看英文名我还以为是那个Sublime编辑器呢..."
         ],
         "zhUrl": "https://yx.g8hh.com/sublime",
-        "enUrl": "https://ngspacecompany.exileng.com/",
+        "enUrl": "https://kingbecks123.github.io/Sublime/",
         "customUrl": "https://g8hh.github.io/sublime/",
         "customUrlTit": "备用地址-GitHub",
         "pic": [
