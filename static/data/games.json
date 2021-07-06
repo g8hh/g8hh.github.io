@@ -155,6 +155,37 @@
         "status": 1
     },
     {
+        "title": "电气增量",
+        "enTitle": "Electrical Incremental",
+        "date": "2021-07-05",
+        "update": "2021-05-29",
+        "version":"1.2",
+        "path": "electrical-incremental",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险"
+        ],
+        "content": [
+            "新的一款放置游戏。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/electrical-incremental",
+        "customUrl": "https://g8hh.github.io/electrical-incremental/",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "酸橙经营者",
         "enTitle": "Sublime",
         "date": "2021-07-02",
@@ -507,6 +538,8 @@
             "Torn City 是一款大型多人游戏，在全球拥有数以千计的活跃玩家。 加入他们，攻击他们，与他们交朋友，与他们结婚，与他们交易，与他们竞争。 无论你做什么 - 现在就做！"
         ],
         "enUrl": "https://www.torn.com/",
+        "customUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=AI5TqknyWeqAsM3h2IwlKGffPRzAbA2f&jump_from=webapi",
+        "customUrlTit": "Torn交流群（先加群再注册，有大佬带)",
         "QQ": "138838543",
         "pic": [
             1,
@@ -2539,8 +2572,8 @@
         "title": "距离增量",
         "enTitle": "Distance Incremental",
         "date": "2021-01-15",
-        "update": "2021-04-08",
-        "version": "2.0",
+        "update": "2021-06-14",
+        "version": "2.0.6",
         "path": "distance-incremental",
         "type": [
             "已汉化",
@@ -5044,7 +5077,7 @@
         "title": "增量冒险",
         "enTitle": "Incremental Adventures",
         "date": "2019-08-14",
-        "update": "2021-05-11",
+        "update": "2021-07-01",
         "path": "incremental-adventures",
         "type": [
             "已汉化",
