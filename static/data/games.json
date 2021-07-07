@@ -155,10 +155,41 @@
         "status": 1
     },
     {
+        "title": "电气增量",
+        "enTitle": "Electrical Incremental",
+        "date": "2021-07-05",
+        "update": "2021-05-29",
+        "version":"1.2",
+        "path": "electrical-incremental",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险"
+        ],
+        "content": [
+            "新的一款放置游戏。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/electrical-incremental",
+        "customUrl": "https://g8hh.github.io/electrical-incremental/",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "酸橙经营者",
         "enTitle": "Sublime",
         "date": "2021-07-02",
-        "update": "2021-07-02",
+        "update": "2021-07-07",
         "version":"0.4.2",
         "path": "sublime",
         "type": [
@@ -191,8 +222,8 @@
         "title": "太空公司NG",
         "enTitle": "NG Space Company",
         "date": "2021-06-28",
-        "update": "2021-07-03",
-        "version":"1.22.0",
+        "update": "2021-07-06",
+        "version":"1.24.0",
         "path": "ng-space-company",
         "type": [
             "已汉化",
@@ -1547,8 +1578,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2021-06-18",
-        "version":"0.6.6",
+        "update": "2021-07-06",
+        "version":"0.6.7.1",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
