@@ -155,6 +155,39 @@
         "status": 1
     },
     {
+        "title": "平衡升级",
+        "enTitle": "The Balanced Game",
+        "date": "2021-07-09",
+        "update": "2021-06-03",
+        "version":"",
+        "path": "the-balanced-game",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "益智",
+            "策略"
+        ],
+        "content": [
+            "《平衡升级》是一款关于平衡数值的放置游戏。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/the-balanced-game/",
+        "enUrl": "英文链接",
+        "customUrl": "https://g8hh.github.io/the-balanced-game/",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "电气增量",
         "enTitle": "Electrical Incremental",
         "date": "2021-07-05",
