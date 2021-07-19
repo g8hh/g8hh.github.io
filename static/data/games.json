@@ -155,6 +155,134 @@
         "status": 1
     },
     {
+        "title": "声望树",
+        "enTitle": "Prestige Tree",
+        "date": "2021-07-14",
+        "update": "2021-05-25",
+        "version":"1.3.1",
+        "path": "prestige-tree",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是原版的声望树，鉴于近期没什么好玩的，咱就着手汉化起来~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/prestige-tree",
+        "enUrl": "https://jacorb90.me/Prestige-Tree/index.html",
+        "customUrl": "https://g8hh.github.io/prestige-tree",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "生命树",
+        "enTitle": "The Tree Of Life",
+        "date": "2021-07-16",
+        "update": "2021-07-12",
+        "version":"1.057",
+        "path": "the-tree-of-life",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是原版的声望树，鉴于近期没什么好玩的，咱就着手汉化起来~"
+        ],
+        "zhUrl": "https://yx.g8hh.com/the-tree-of-life",
+        "customUrl": "https://g8hh.github.io/the-tree-of-life",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "公式升级放置",
+        "enTitle": "Formula Upgrade Idle",
+        "date": "2021-07-23",
+        "update": "2021-07-11",
+        "version":"",
+        "path": "formula-upgrade-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "益智"
+        ],
+        "content": [
+            "《公式升级放置》是一款升级数学公式的游戏。 达到最高数字，升级您的变量，玩得开心！ 您可以通过声望获得更多指数。 共有30栋建筑。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/formula-upgrade-idle",
+        "customUrl": "https://g8hh.github.io/formula-upgrade-idle",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 0
+    },
+    {
+        "title": "斐波那契点击",
+        "enTitle": "Fibonacci Clicker",
+        "date": "2021-07-19",
+        "update": "2021-05-28",
+        "version":"",
+        "path": "fibonacci-clicker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "益智",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "斐波那契点击是一个超级简单的点击游戏，您的工作是创建最大的斐波那契数列。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/fibonacci-clicker",
+        "customUrl": "https://g8hh.github.io/fibonacci-clicker",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "维京增量",
         "enTitle": "Vikincremental",
         "date": "2021-07-12",
@@ -227,8 +355,8 @@
         "title": "电气增量",
         "enTitle": "Electrical Incremental",
         "date": "2021-07-05",
-        "update": "2021-05-29",
-        "version":"1.2",
+        "update": "2021-07-09",
+        "version":"1.2.2",
         "path": "electrical-incremental",
         "type": [
             "已汉化",
@@ -258,7 +386,7 @@
         "title": "酸橙经营者",
         "enTitle": "Sublime",
         "date": "2021-07-02",
-        "update": "2021-07-07",
+        "update": "2021-07-14",
         "version":"0.4.2",
         "path": "sublime",
         "type": [
@@ -291,8 +419,8 @@
         "title": "太空公司NG",
         "enTitle": "NG Space Company",
         "date": "2021-06-28",
-        "update": "2021-07-09",
-        "version":"1.27.0",
+        "update": "2021-07-13",
+        "version":"1.28.2",
         "path": "ng-space-company",
         "type": [
             "已汉化",
@@ -327,8 +455,8 @@
         "title": "社区树",
         "enTitle": "Communitree",
         "date": "2021-06-28",
-        "update": "2021-06-24",
-        "version":"0.3.2",
+        "update": "2021-07-13",
+        "version":"0.3.4",
         "path": "communitree",
         "type": [
             "已汉化",
@@ -661,8 +789,8 @@
         "title": "弹珠放置",
         "enTitle": "Pachinkremental",
         "date": "2021-06-07",
-        "update": "2021-06-07",
-        "version":"1.1.0",
+        "update": "2021-07-08",
+        "version":"1.11.2",
         "path": "pachinkremental",
         "type": [
             "已汉化",
@@ -680,7 +808,7 @@
         "zhUrl": "http://yx.g8hh.com/pachinkremental",
         "enUrl": "https://poochyexe.github.io/pachinkremental/pachinkremental.html",
         "customUrl": "http://yx.g8hh.com/pachinkremental/beta/pachinkremental.html",
-        "customUrlTit": "测试版",
+        "customUrlTit": "最新测试版",
         "pic": [
             1,
             2,
@@ -1472,8 +1600,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "JYF",
         "date": "2021-04-22",
-        "update": "2021-06-06",
-        "version":"0.6.15",
+        "update": "2021-07-06",
+        "version":"0.6.30",
         "path": "jyf",
         "type": [
             "放置",
@@ -1647,8 +1775,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2021-07-06",
-        "version":"0.6.7.1",
+        "update": "2021-07-10",
+        "version":"0.6.7.2",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -2444,8 +2572,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2021-07-07",
-        "version":"0.1.80",
+        "update": "2021-07-11",
+        "version":"0.1.82",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -7683,7 +7811,7 @@
         ],
         "zhUrl": "http://likexia.gitee.io/cat-zh",
         "customUrl": "https://petercheney.gitee.io/kitten-game-cn/",
-        "customUrlTit": "1.8.3最新汉化版",
+        "customUrlTit": "备用地址",
         "enUrl": "http://bloodrizer.ru/games/kittens/",
         "kUrl": "https://www.kongregate.com/games/bloodrizer/kittens-game?sfa=permalink&referrer=SunshineDad",
         "wikiUrl": "http://petercheney.gitee.io/baike/",
