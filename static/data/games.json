@@ -192,7 +192,7 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-07-16",
-        "update": "2021-07-12",
+        "update": "2021-07-28",
         "version":"1.057",
         "path": "the-tree-of-life",
         "type": [
@@ -222,9 +222,45 @@
         "status": 0
     },
     {
+        "title": "数学树",
+        "enTitle": "True Math Tree",
+        "date": "2021-08-02",
+        "update": "2021-08-01",
+        "version":"0.7",
+        "path": "true-math-tree",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是群里的 @QwQ(放假ing) 大佬自己做的Mod，还在不断更新中，欢迎大家体验哈~"
+        ],
+        "customUrl": "https://qwqe308.github.io/True-Math-Tree/",
+        "customUrlTit": "原版",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
+        "customUrl2": "https://yx.g8hh.com/true-math-tree",
+        "customUrlTit2": "锅巴搬运版",
+        "customUrl2": "https://g8hh.github.io/True-Math-Tree/",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
         "title": "公式升级放置",
         "enTitle": "Formula Upgrade Idle",
-        "date": "2021-07-23",
+        "date": "2021-08-02",
         "update": "2021-07-11",
         "version":"",
         "path": "formula-upgrade-idle",
@@ -249,6 +285,141 @@
             3
         ],
         "status": 0
+    },
+    {
+        "title": "银河帝国",
+        "enTitle": "Galactic Grind",
+        "date": "2021-07-23",
+        "update": "2018-03-02",
+        "version":"1.5",
+        "path": "galactic-grind",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "PC",
+            "建造"
+        ],
+        "content": [
+            "《银河帝国》是一款出色的点击式游戏，您必须在其中尝试创建一个蓬勃发展的生产设施并生成资源以到达太空。 您必须首先单击地球并选择要创建的生产建筑。 创建初始建筑物后，您可以单击它以提高资源生成率。 每个建筑都有一系列不同的能力，可以通过多种方式提高你的产量。",
+            "随着您的进步，您可以成倍地增加产量并继续改进您的生产设施。 该游戏具有多种不同的选项和升级，并且具有很好的可玩性。 看看你能进步多远，以及你是否能创建一个跨越银河系的帝国。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/galactic-grind",
+        "customUrl": "https://g8hh.github.io/galactic-grind",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "maougame.com",
+        "enTitle": "maougame",
+        "date": "2021-07-14",
+        "update": "2021-07-14",
+        "version":"",
+        "path": "maougame",
+        "type": [
+            "推荐",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "冒险",
+            "益智",
+            "原创",
+            "U3D",
+            "Steam",
+            "建造",
+            "策略",
+            "卡牌",
+            "怀旧"
+        ],
+        "content": [
+            "此篇介绍的是游戏作者，他的游戏大家可以去他的网站上玩哟~"
+        ],
+        "customUrl": "http://maougame.com/",
+        "customUrlTit": "网站",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "数字大军",
+        "enTitle": "Army Of Number",
+        "date": "2021-07-23",
+        "update": "2021-07-10",
+        "version":"",
+        "path": "army-of-number",
+        "type": [
+            "放置",
+            "文字",
+            "挂机",
+            "升级",
+            "冒险",
+            "益智",
+            "Steam"
+        ],
+        "content": [
+            "《数字大军》是一个算数玩法的游戏，让你在游玩的同时锻炼算数反应能力。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1454090/_/",
+        "QQ": "624198089",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "宝石掉落",
+        "enTitle": "Gem Drop",
+        "date": "2021-07-21",
+        "update": "2017-04-18",
+        "version":"",
+        "path": "gem-drop",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《宝石掉落》是一款有趣的宝石制作和掉落游戏！ 通过点击容器生产宝石； 当它已满时，单击“丢弃”按钮出售它们。 用你赚的钱购买工厂，随着时间的推移生产更多的宝石。 您还可以升级您的点击能力并研究新的升级。 在后期，出售低价的宝石生产工厂，专注于利润最高的工厂。 研究自动掉落以使容器偶尔掉落。 玩得开心！"
+        ],
+        "zhUrl": "https://yx.g8hh.com/gem-drop",
+        "customUrl": "https://g8hh.github.io/gem-drop",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
     },
     {
         "title": "斐波那契点击",
@@ -386,8 +557,8 @@
         "title": "酸橙经营者",
         "enTitle": "Sublime",
         "date": "2021-07-02",
-        "update": "2021-07-14",
-        "version":"0.4.2",
+        "update": "2021-07-16",
+        "version":"0.4.3.2",
         "path": "sublime",
         "type": [
             "已汉化",
@@ -419,8 +590,8 @@
         "title": "太空公司NG",
         "enTitle": "NG Space Company",
         "date": "2021-06-28",
-        "update": "2021-07-13",
-        "version":"1.28.2",
+        "update": "2021-07-29",
+        "version":"1.31.5",
         "path": "ng-space-company",
         "type": [
             "已汉化",
@@ -1775,8 +1946,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2021-07-10",
-        "version":"0.6.7.2",
+        "update": "2021-07-30",
+        "version":"0.6.9",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -2572,8 +2743,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2021-07-11",
-        "version":"0.1.82",
+        "update": "2021-07-30",
+        "version":"0.1.84",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -3088,8 +3259,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2021-04-28",
-        "version": "0.8.1",
+        "update": "2021-07-30",
+        "version": "0.8.3",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
