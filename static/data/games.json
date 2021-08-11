@@ -218,6 +218,45 @@
         "status": 0
     },
     {
+        "title": "末日危机2",
+        "enTitle": "Click Pocalypse 2",
+        "date": "2021-08-10",
+        "update": "2015-09-18",
+        "version":"",
+        "path": "clickpocalypse2",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "冒险",
+            "养成"
+        ],
+        "content": [
+            "很经典的一款地牢冒险游戏，有朋友想玩，于是锅巴就从网上找了下发出来给大家玩。",
+            "本来锅巴想自己汉化的，但是内容太多了，搞了一部分，就半途而废了，直接拿别人汉化的版本过来。",
+            "末日危机2是一款非常有意思的末日题材的策略战争类型的，的采用了低像素的战斗画面，玩家玩起来也不费力，你在中能够身临其境的体验到中的炮火轰鸣！这款是一款非常有趣的挂机小，该系列第二部，末日危机2比第一部的变化非常大，增加了画面，玩家能直观的看见自己的战斗队伍，并且还增加了各种选项，还有更多的元素，让更具可玩性。 中，你再次率领勇士和法师们闯入了，怪物地牢，开始了这场除魔大战。内容非常的丰富，包含了组队，，技能，神器，任务，组装机器人，转生等要素，喜欢挂机的朋友不要错过了。"
+        ],
+        "zhUrl": "https://likexia.gitee.io/clickpocalypse2",
+        "enUrl": "http://minmaxia.com/c2/",
+        "customUrl": "https://yx.g8hh.com/clickpocalypse2",
+        "customUrlTit": "备用地址-gityx",
+        "customUrl2": "https://g8hh.github.io/clickpocalypse2/",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1
+    },
+    {
         "title": "物质维度",
         "enTitle": "Matter Dimensions",
         "date": "2021-08-04",
@@ -234,7 +273,7 @@
             "升级"
         ],
         "content": [
-            "《反物质维度》作者的另一力作，因为太忙了，拖拖拉拉汉化了好久，最后还是交给群里的大佬帮忙汉化了。"
+            "《反物质维度》作者的另一力作，因为太忙了，拖拖拉拉汉化了好久，最后还是交给群里的 @QwQ(放假ing) 大佬帮忙汉化了。"
         ],
         "zhUrl": "http://idlegame.gitee.io/matter-dimensions/",
         "enUrl": "http://semenar.ru/matter-dim-test/index.html",
@@ -366,8 +405,8 @@
         "title": "数学树",
         "enTitle": "True Math Tree",
         "date": "2021-08-02",
-        "update": "2021-08-05",
-        "version":"1.01",
+        "update": "2021-08-10",
+        "version":"1.12",
         "path": "true-math-tree",
         "type": [
             "汉化中",
