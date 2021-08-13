@@ -189,7 +189,42 @@
         "status": 0
     },
     {
-        "title": "魔法砍树放置",
+        "title": "物质维度",
+        "enTitle": "Matter Dimensions",
+        "date": "2021-08-13",
+        "update": "2021-07-05",
+        "version":"0.7.2",
+        "path": "matter-dimensions",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "感谢 @QwQ(放假ing) 大佬帮忙汉化。",
+            "《反物质维度》作者的另一力作，因为太忙了，拖拖拉拉汉化了好久，最后还是交给群里的 @QwQ(放假ing) 大佬帮忙汉化了。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/matter-dimensions/",
+        "enUrl": "http://semenar.ru/matter-dim-test/index.html",
+        "customUrl": "https://yx.g8hh.com/matter-dimensions",
+        "customUrlTit": "备用地址",
+        "customUrl2": "https://g8hh.github.io/matter-dimensions/",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "砍魔法树放置",
         "enTitle": "Magic Chop Idle",
         "date": "2021-08-04",
         "update": "2020-09-14",
@@ -203,7 +238,7 @@
             "升级"
         ],
         "content": [
-            "魔法砍树放置是一款关于砍魔法树的有趣的增量放置游戏。"
+            "《砍魔法树放置》是一款关于砍魔法树的有趣的增量放置游戏。"
         ],
         "zhUrl": "https://yx.g8hh.com/magic-chop-idle",
         "customUrl": "https://www.crazygames.com/game/magic-chop-idle",
@@ -255,40 +290,6 @@
             6
         ],
         "status": 1
-    },
-    {
-        "title": "物质维度",
-        "enTitle": "Matter Dimensions",
-        "date": "2021-08-04",
-        "update": "2021-07-05",
-        "version":"0.7.2",
-        "path": "matter-dimensions",
-        "type": [
-            "汉化中",
-            "放置",
-            "文字",
-            "点击",
-            "离线",
-            "挂机",
-            "升级"
-        ],
-        "content": [
-            "《反物质维度》作者的另一力作，因为太忙了，拖拖拉拉汉化了好久，最后还是交给群里的 @QwQ(放假ing) 大佬帮忙汉化了。"
-        ],
-        "zhUrl": "http://idlegame.gitee.io/matter-dimensions/",
-        "enUrl": "http://semenar.ru/matter-dim-test/index.html",
-        "customUrl": "https://yx.g8hh.com/matter-dimensions",
-        "customUrlTit": "备用地址",
-        "customUrl2": "https://g8hh.github.io/matter-dimensions/",
-        "customUrlTit2": "备用地址-GitHub",
-        "pic": [
-            1,
-            2,
-            3,
-            4,
-            5
-        ],
-        "status": 0
     },
     {
         "title": "声望树重制版",
@@ -1958,8 +1959,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "JYF",
         "date": "2021-04-22",
-        "update": "2021-07-06",
-        "version":"0.6.30",
+        "update": "2021-08-11",
+        "version":"0.6.34",
         "path": "jyf",
         "type": [
             "放置",
