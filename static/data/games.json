@@ -206,7 +206,7 @@
         ],
         "content": [
             "感谢 @QwQ(放假ing) 大佬帮忙汉化。",
-            "《反物质维度》作者的另一力作，因为太忙了，拖拖拉拉汉化了好久，最后还是交给群里的 @QwQ(放假ing) 大佬帮忙汉化了。"
+            "《版本控制》《点亮城市》作者的另一力作，因为太忙了，拖拖拉拉汉化了好久，最后还是交给群里的 @QwQ(放假ing) 大佬帮忙汉化了。"
         ],
         "zhUrl": "http://idlegame.gitee.io/matter-dimensions/",
         "enUrl": "http://semenar.ru/matter-dim-test/index.html",
@@ -406,8 +406,8 @@
         "title": "数学树",
         "enTitle": "True Math Tree",
         "date": "2021-08-02",
-        "update": "2021-08-10",
-        "version":"1.12",
+        "update": "2021-08-15",
+        "version":"1.1",
         "path": "true-math-tree",
         "type": [
             "汉化中",
@@ -2134,8 +2134,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2021-08-02",
-        "version":"0.6.9.2",
+        "update": "2021-08-13",
+        "version":"0.6.10",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
