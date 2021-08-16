@@ -155,6 +155,523 @@
         "status": 1
     },
     {
+        "title": "生命树",
+        "enTitle": "The Tree Of Life",
+        "date": "2021-07-16",
+        "update": "2021-07-29",
+        "version":"1.057",
+        "path": "the-tree-of-life",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是原版的声望树，鉴于近期没什么好玩的，咱就着手汉化起来~"
+        ],
+        "zhUrl": "https://yx.g8hh.com/the-tree-of-life",
+        "customUrl": "https://g8hh.github.io/the-tree-of-life",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "物质维度",
+        "enTitle": "Matter Dimensions",
+        "date": "2021-08-13",
+        "update": "2021-07-05",
+        "version":"0.7.2",
+        "path": "matter-dimensions",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "感谢 @QwQ(放假ing) 大佬帮忙汉化。",
+            "《版本控制》《点亮城市》作者的另一力作，因为太忙了，拖拖拉拉汉化了好久，最后还是交给群里的 @QwQ(放假ing) 大佬帮忙汉化了。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/matter-dimensions/",
+        "enUrl": "http://semenar.ru/matter-dim-test/index.html",
+        "customUrl": "https://yx.g8hh.com/matter-dimensions",
+        "customUrlTit": "备用地址",
+        "customUrl2": "https://g8hh.github.io/matter-dimensions/",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "砍魔法树放置",
+        "enTitle": "Magic Chop Idle",
+        "date": "2021-08-04",
+        "update": "2020-09-14",
+        "version":"",
+        "path": "magic-chop-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《砍魔法树放置》是一款关于砍魔法树的有趣的增量放置游戏。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/magic-chop-idle",
+        "customUrl": "https://www.crazygames.com/game/magic-chop-idle",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "末日危机2",
+        "enTitle": "Click Pocalypse 2",
+        "date": "2021-08-10",
+        "update": "2015-09-18",
+        "version":"",
+        "path": "clickpocalypse2",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "冒险",
+            "养成"
+        ],
+        "content": [
+            "很经典的一款地牢冒险游戏，有朋友想玩，于是锅巴就从网上找了下发出来给大家玩。",
+            "本来锅巴想自己汉化的，但是内容太多了，搞了一部分，就半途而废了，直接拿别人汉化的版本过来。",
+            "末日危机2是一款非常有意思的末日题材的策略战争类型的，的采用了低像素的战斗画面，玩家玩起来也不费力，你在中能够身临其境的体验到中的炮火轰鸣！这款是一款非常有趣的挂机小，该系列第二部，末日危机2比第一部的变化非常大，增加了画面，玩家能直观的看见自己的战斗队伍，并且还增加了各种选项，还有更多的元素，让更具可玩性。 中，你再次率领勇士和法师们闯入了，怪物地牢，开始了这场除魔大战。内容非常的丰富，包含了组队，，技能，神器，任务，组装机器人，转生等要素，喜欢挂机的朋友不要错过了。"
+        ],
+        "zhUrl": "https://likexia.gitee.io/clickpocalypse2",
+        "enUrl": "http://minmaxia.com/c2/",
+        "customUrl": "https://yx.g8hh.com/clickpocalypse2",
+        "customUrlTit": "备用地址-gityx",
+        "customUrl2": "https://g8hh.github.io/clickpocalypse2/",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1
+    },
+    {
+        "title": "声望树重制版",
+        "enTitle": "Prestige Tree",
+        "date": "2021-08-05",
+        "update": "2021-05-25",
+        "version":"1.3.1",
+        "path": "prestige-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是原版声望树的重制版，感谢 @rainy 大佬帮忙汉化本游戏。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/prestige-tree/",
+        "enUrl": "https://jacorb90.me/Prestige-Tree/index.html",
+        "customUrl": "https://g8hh.github.io/prestige-tree",
+        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "男女搭配",
+        "enTitle": "XXXY",
+        "date": "2021-08-06",
+        "update": "2019-08-19",
+        "version":"",
+        "path": "xxxy",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "益智",
+            "建造",
+            "养成",
+            "模拟"
+        ],
+        "content": [
+            "XXXY 是一个增量游戏，您的主要目标是升级人类的属性数据。",
+            "帮助：",
+            "用更高的统计数据替换你的夫妻",
+            "出售统计数据较低的人并赚取积分",
+            "花费点数解锁箱子来储存更多的人",
+            "派你的人去农场种植植物",
+            "收获植物以获得食物",
+            "花费你的食物来激活技能以提高你的生成率"
+        ],
+        "zhUrl": "https://yx.g8hh.com/xxxy",
+        "enUrl": "https://sshulin.itch.io/xxxy",
+        "customUrl": "https://g8hh.github.io/xxxy",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "灵魂回响",
+        "enTitle": "Soul Not Found",
+        "date": "2021-08-04",
+        "update": "2021-03-07",
+        "version":"",
+        "path": "soul-not-found",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级",
+            "冒险",
+            "益智"
+        ],
+        "content": [
+            "《灵魂回响》是一款具有空闲和离线进度的增量游戏！",
+            "亡灵法师刚刚输掉了这场大战，他准备重建自己的军队，并以自己的方式重新登上顶峰。在这个过程中，他找到了他的良心，并改变了他的生活方式，成为一个正义的巫师与他的意愿死亡。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/soul-not-found",
+        "customUrl": "https://g8hh.github.io/soul-not-found",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "数学树",
+        "enTitle": "True Math Tree",
+        "date": "2021-08-02",
+        "update": "2021-08-15",
+        "version":"1.1",
+        "path": "true-math-tree",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是群里的 @QwQ(放假ing) 大佬自己做的Mod，还在不断更新中，欢迎大家体验哈~"
+        ],
+        "customUrl": "https://qwqe308.github.io/True-Math-Tree/",
+        "customUrlTit": "原版",
+        "customUrl2": "https://yhvr.me/pt/mods.html",
+        "customUrlTit2": "其它树游戏集合",
+        "customUrl2": "https://yx.g8hh.com/true-math-tree",
+        "customUrlTit2": "锅巴搬运版",
+        "customUrl2": "https://g8hh.github.io/True-Math-Tree/",
+        "customUrlTit2": "备用地址-GitHub",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "公式升级放置",
+        "enTitle": "Formula Upgrade Idle",
+        "date": "2021-08-02",
+        "update": "2021-07-11",
+        "version":"",
+        "path": "formula-upgrade-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "益智"
+        ],
+        "content": [
+            "《公式升级放置》是一款升级数学公式的游戏。 达到最高数字，升级您的变量，玩得开心！ 您可以通过声望获得更多指数。 共有30栋建筑。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/formula-upgrade-idle",
+        "customUrl": "https://g8hh.github.io/formula-upgrade-idle",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "银河帝国",
+        "enTitle": "Galactic Grind",
+        "date": "2021-07-23",
+        "update": "2018-03-02",
+        "version":"1.5",
+        "path": "galactic-grind",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "PC",
+            "建造"
+        ],
+        "content": [
+            "《银河帝国》是一款出色的点击式游戏，您必须在其中尝试创建一个蓬勃发展的生产设施并生成资源以到达太空。 您必须首先单击地球并选择要创建的生产建筑。 创建初始建筑物后，您可以单击它以提高资源生成率。 每个建筑都有一系列不同的能力，可以通过多种方式提高你的产量。",
+            "随着您的进步，您可以成倍地增加产量并继续改进您的生产设施。 该游戏具有多种不同的选项和升级，并且具有很好的可玩性。 看看你能进步多远，以及你是否能创建一个跨越银河系的帝国。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/galactic-grind",
+        "customUrl": "https://g8hh.github.io/galactic-grind",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "maougame.com",
+        "enTitle": "maougame",
+        "date": "2021-07-14",
+        "update": "2021-07-14",
+        "version":"",
+        "path": "maougame",
+        "type": [
+            "推荐",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "冒险",
+            "益智",
+            "原创",
+            "U3D",
+            "Steam",
+            "建造",
+            "策略",
+            "卡牌",
+            "怀旧"
+        ],
+        "content": [
+            "此篇介绍的是游戏作者，他的游戏大家可以去他的网站上玩哟~"
+        ],
+        "customUrl": "http://maougame.com/",
+        "customUrlTit": "网站",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "数字大军",
+        "enTitle": "Army Of Number",
+        "date": "2021-07-23",
+        "update": "2021-07-10",
+        "version":"",
+        "path": "army-of-number",
+        "type": [
+            "放置",
+            "文字",
+            "挂机",
+            "升级",
+            "冒险",
+            "益智",
+            "Steam"
+        ],
+        "content": [
+            "《数字大军》是一个算数玩法的游戏，让你在游玩的同时锻炼算数反应能力。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1454090/_/",
+        "QQ": "624198089",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "宝石掉落",
+        "enTitle": "Gem Drop",
+        "date": "2021-07-21",
+        "update": "2017-04-18",
+        "version":"",
+        "path": "gem-drop",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《宝石掉落》是一款有趣的宝石制作和掉落游戏！ 通过点击容器生产宝石； 当它已满时，单击“丢弃”按钮出售它们。 用你赚的钱购买工厂，随着时间的推移生产更多的宝石。 您还可以升级您的点击能力并研究新的升级。 在后期，出售低价的宝石生产工厂，专注于利润最高的工厂。 研究自动掉落以使容器偶尔掉落。 玩得开心！"
+        ],
+        "zhUrl": "https://yx.g8hh.com/gem-drop",
+        "customUrl": "https://g8hh.github.io/gem-drop",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "斐波那契点击",
+        "enTitle": "Fibonacci Clicker",
+        "date": "2021-07-19",
+        "update": "2021-05-28",
+        "version":"",
+        "path": "fibonacci-clicker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "益智",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "斐波那契点击是一个超级简单的点击游戏，您的工作是创建最大的斐波那契数列。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/fibonacci-clicker",
+        "customUrl": "https://g8hh.github.io/fibonacci-clicker",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "维京增量",
+        "enTitle": "Vikincremental",
+        "date": "2021-07-12",
+        "update": "2021-06-19",
+        "version":"",
+        "path": "vikincremental",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "建造",
+            "养成",
+            "模拟"
+        ],
+        "content": [
+            "基于某个流行的维京生存游戏的增量游戏。"
+        ],
+        "zhUrl": "https://yx.g8hh.com/vikincremental",
+        "customUrl": "https://g8hh.github.io/vikincremental",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1
+    },
+    {
         "title": "平衡升级",
         "enTitle": "The Balanced Game",
         "date": "2021-07-09",
@@ -175,7 +692,6 @@
             "《平衡升级》是一款关于平衡数值的放置游戏。"
         ],
         "zhUrl": "https://yx.g8hh.com/the-balanced-game/",
-        "enUrl": "英文链接",
         "customUrl": "https://g8hh.github.io/the-balanced-game/",
         "customUrlTit": "备用地址-GitHub",
         "pic": [
@@ -191,8 +707,8 @@
         "title": "电气增量",
         "enTitle": "Electrical Incremental",
         "date": "2021-07-05",
-        "update": "2021-05-29",
-        "version":"1.2",
+        "update": "2021-07-09",
+        "version":"1.2.2",
         "path": "electrical-incremental",
         "type": [
             "已汉化",
@@ -222,8 +738,8 @@
         "title": "酸橙经营者",
         "enTitle": "Sublime",
         "date": "2021-07-02",
-        "update": "2021-07-07",
-        "version":"0.4.2",
+        "update": "2021-07-16",
+        "version":"0.4.3.2",
         "path": "sublime",
         "type": [
             "已汉化",
@@ -255,8 +771,8 @@
         "title": "太空公司NG",
         "enTitle": "NG Space Company",
         "date": "2021-06-28",
-        "update": "2021-07-06",
-        "version":"1.24.0",
+        "update": "2021-08-02",
+        "version":"1.32",
         "path": "ng-space-company",
         "type": [
             "已汉化",
@@ -291,8 +807,8 @@
         "title": "社区树",
         "enTitle": "Communitree",
         "date": "2021-06-28",
-        "update": "2021-06-24",
-        "version":"0.3.2",
+        "update": "2021-08-05",
+        "version":"0.4.1",
         "path": "communitree",
         "type": [
             "已汉化",
@@ -312,6 +828,7 @@
         "customUrlTit": "备用地址-GitHub",
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
+        "QQ": "963150347",
         "pic": [
             1,
             2,
@@ -409,6 +926,7 @@
         "customUrlTit": "备用地址-GitHub",
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
+        "QQ": "963150347",
         "pic": [
             1,
             2,
@@ -529,6 +1047,7 @@
         "customUrlTit": "备用地址-GitHub",
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
+        "QQ": "963150347",
         "pic": [
             1,
             2,
@@ -625,8 +1144,8 @@
         "title": "弹珠放置",
         "enTitle": "Pachinkremental",
         "date": "2021-06-07",
-        "update": "2021-06-07",
-        "version":"1.1.0",
+        "update": "2021-07-08",
+        "version":"1.11.2",
         "path": "pachinkremental",
         "type": [
             "已汉化",
@@ -644,7 +1163,7 @@
         "zhUrl": "http://yx.g8hh.com/pachinkremental",
         "enUrl": "https://poochyexe.github.io/pachinkremental/pachinkremental.html",
         "customUrl": "http://yx.g8hh.com/pachinkremental/beta/pachinkremental.html",
-        "customUrlTit": "测试版",
+        "customUrlTit": "最新测试版",
         "pic": [
             1,
             2,
@@ -681,6 +1200,7 @@
         "customUrlTit": "其它树游戏集合",
         "customUrl2": "https://g8hh.github.io/the-factioree/",
         "customUrlTit2": "备用地址-GitHub",
+        "QQ": "963150347",
         "pic": [
             1,
             2,
@@ -717,6 +1237,7 @@
         "customUrlTit": "其它树游戏集合",
         "customUrl2": "https://g8hh.github.io/the-leveling-tree/",
         "customUrlTit2": "备用地址-GitHub",
+        "QQ": "963150347",
         "pic": [
             1,
             2,
@@ -814,6 +1335,7 @@
         "enUrl": "https://www.thepaperpilot.org/lit/",
         "customUrl": "https://yhvr.me/pt/mods.html",
         "customUrlTit": "其它树游戏集合",
+        "QQ": "963150347",
         "pic": [
             1,
             2,
@@ -1003,6 +1525,7 @@
         "enUrl": "https://www.thepaperpilot.org/gamedevtree/",
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
+        "QQ": "963150347",
         "pic": [
             1,
             2,
@@ -1436,8 +1959,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "JYF",
         "date": "2021-04-22",
-        "update": "2021-06-06",
-        "version":"0.6.15",
+        "update": "2021-08-11",
+        "version":"0.6.34",
         "path": "jyf",
         "type": [
             "放置",
@@ -1611,8 +2134,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2021-07-06",
-        "version":"0.6.7.1",
+        "update": "2021-08-13",
+        "version":"0.6.10",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -1632,6 +2155,7 @@
         "customUrlTit": "备用地址-GitHub",
         "customUrl2": "https://yx.g8hh.com/c0v1d-modding-tree/",
         "customUrlTit2": "备用地址-g8hh",
+        "QQ": "963150347",
         "pic": [
             1,
             2,
@@ -1773,6 +2297,7 @@
         "customUrlTit": "Git游戏搬运版",
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
+        "QQ": "963150347",
         "pic": [
             1,
             2,
@@ -1807,6 +2332,7 @@
         "customUrlTit": "Git游戏版",
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
+        "QQ": "963150347",
         "pic": [
             1,
             2,
@@ -2122,6 +2648,7 @@
         "enUrl": "https://ducdat0507.github.io/prestreestuck/",
         "customUrl": "https://yhvr.me/pt/mods.html",
         "customUrlTit": "其它树游戏集合",
+        "QQ": "963150347",
         "pic": [
             1,
             2,
@@ -2408,8 +2935,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2021-06-20",
-        "version":"0.1.79",
+        "update": "2021-07-30",
+        "version":"0.1.84",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -2681,6 +3208,7 @@
         "enUrl": "https://ducdat0507.github.io/thedynastree/",
         "customUrl": "https://yhvr.me/pt/mods.html",
         "customUrlTit": "其它树游戏集合",
+        "QQ": "963150347",
         "pic": [
             1,
             2
@@ -2924,8 +3452,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2021-04-28",
-        "version": "0.8.1",
+        "update": "2021-08-05",
+        "version": "0.8.5",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -7647,7 +8175,7 @@
         ],
         "zhUrl": "http://likexia.gitee.io/cat-zh",
         "customUrl": "https://petercheney.gitee.io/kitten-game-cn/",
-        "customUrlTit": "1.8.3最新汉化版",
+        "customUrlTit": "备用地址",
         "enUrl": "http://bloodrizer.ru/games/kittens/",
         "kUrl": "https://www.kongregate.com/games/bloodrizer/kittens-game?sfa=permalink&referrer=SunshineDad",
         "wikiUrl": "http://petercheney.gitee.io/baike/",
