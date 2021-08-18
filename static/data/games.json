@@ -189,6 +189,37 @@
         "status": 0
     },
     {
+        "title": "砍魔法树放置",
+        "enTitle": "Magic Chop Idle",
+        "date": "2021-08-18",
+        "update": "2020-09-14",
+        "version":"",
+        "path": "magic-chop-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《砍魔法树放置》是一款关于砍魔法树的有趣的增量放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/magic-chop-idle/",
+        "customUrl": "https://yx.g8hh.com/magic-chop-idle",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl": "https://g8hh.github.io/magic-chop-idle",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "物质维度",
         "enTitle": "Matter Dimensions",
         "date": "2021-08-13",
@@ -222,35 +253,6 @@
             5
         ],
         "status": 1
-    },
-    {
-        "title": "砍魔法树放置",
-        "enTitle": "Magic Chop Idle",
-        "date": "2021-08-04",
-        "update": "2020-09-14",
-        "version":"",
-        "path": "magic-chop-idle",
-        "type": [
-            "已汉化",
-            "放置",
-            "点击",
-            "挂机",
-            "升级"
-        ],
-        "content": [
-            "《砍魔法树放置》是一款关于砍魔法树的有趣的增量放置游戏。"
-        ],
-        "zhUrl": "https://yx.g8hh.com/magic-chop-idle",
-        "customUrl": "https://www.crazygames.com/game/magic-chop-idle",
-        "customUrlTit": "备用地址-GitHub",
-        "pic": [
-            1,
-            2,
-            3,
-            4,
-            5
-        ],
-        "status": 0
     },
     {
         "title": "末日危机2",
