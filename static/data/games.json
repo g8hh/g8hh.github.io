@@ -189,6 +189,154 @@
         "status": 0
     },
     {
+        "title": "无尽的遗产",
+        "enTitle": "NeverEnding Legacy",
+        "date": "2021-08-20",
+        "update": "2017-03-28",
+        "version":"Alpha 6",
+        "path": "legacy",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "冒险",
+            "建造",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "《无尽的遗产》是《无尽的饼干》作者的另一部作品。",
+            "本游戏拥有54项科技、42个单位、91个资源，玩法类似于《土皇帝》《文明》之类的游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/legacy",
+        "enUrl": "http://orteil.dashnet.org/legacy/",
+        "customUrl": "https://yx.g8hh.com/legacy",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/legacy/",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "勇往直前",
+        "enTitle": "Forward",
+        "date": "2021-08-10",
+        "update": "2021-08-10",
+        "version":"",
+        "path": "路径",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "冒险",
+            "益智",
+            "养成",
+            "卡牌",
+            "策略"
+        ],
+        "content": [
+            "《勇往直前》是一款基于卡片的冒险游戏，您可以尽可能多地杀死怪物。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/forward/",
+        "customUrl": "https://yx.g8hh.com/forward/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/forward/",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "公式树",
+        "enTitle": "The Formula",
+        "date": "2021-08-20",
+        "update": "2021-07-13",
+        "version":"0.1.2",
+        "path": "the-formula",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是群里的 @QwQ(放假ing) 大佬汉化、推荐的，欢迎大家体验哈~"
+        ],
+        "enUrl": "https://jacorb90.me/The-Formula/",
+        "customUrl": "https://qwqe308.github.io/The-Formula/",
+        "customUrlTit": "qwqe308汉化版-Github",
+        "customUrl2": "http://idlegame.gitee.io/the-formula/",
+        "customUrlTit2": "锅巴搬运版",
+        "customUrl3": "https://yx.g8hh.com/the-formula",
+        "customUrlTit3": "备用地址-g8hh",
+        "customUrl4": "https://g8hh.github.io/the-formula",
+        "customUrlTit4": "备用地址-GitHub",
+        "customUrl5": "https://yhvr.me/pt/mods.html",
+        "customUrlTit5": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "魔盒",
+        "enTitle": "Succubox",
+        "date": "2021-08-20",
+        "update": "2017-07-26",
+        "path": "succubox",
+        "version":"1.0.1",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "冒险",
+            "离线",
+            "挂机"
+        ],
+        "content": [
+            "《魔盒》是一款相对来说比较早期的放置游戏，有一部分朋友以前应该玩过。",
+            "警告：千万不要打开控制台，有惊喜！"
+        ],
+        "zhUrl": "http://cnh5.gitee.io/succubox",
+        "enUrl": "http://www.glaielgames.com/succubox/",
+        "customUrl": "https://yx.g8hh.com/succubox",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl": "https://g8hh.github.io/succubox",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "砍魔法树放置",
         "enTitle": "Magic Chop Idle",
         "date": "2021-08-18",
@@ -428,12 +576,12 @@
         ],
         "customUrl": "https://qwqe308.github.io/True-Math-Tree/",
         "customUrlTit": "原版",
-        "customUrl2": "https://yhvr.me/pt/mods.html",
-        "customUrlTit2": "其它树游戏集合",
         "customUrl2": "https://yx.g8hh.com/true-math-tree",
         "customUrlTit2": "锅巴搬运版",
-        "customUrl2": "https://g8hh.github.io/True-Math-Tree/",
-        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://g8hh.github.io/True-Math-Tree/",
+        "customUrlTit3": "备用地址-GitHub",
+        "customUrl4": "https://yhvr.me/pt/mods.html",
+        "customUrlTit4": "其它树游戏集合",
         "QQ": "963150347",
         "pic": [
             1,
@@ -955,6 +1103,7 @@
             "放置",
             "文字",
             "点击",
+            "适配手机",
             "挂机",
             "升级"
         ],
@@ -5650,7 +5799,7 @@
         "title": "增量冒险",
         "enTitle": "Incremental Adventures",
         "date": "2019-08-14",
-        "update": "2021-07-01",
+        "update": "2021-07-28",
         "path": "incremental-adventures",
         "type": [
             "已汉化",
@@ -6822,32 +6971,6 @@
             ""
         ],
         "zhUrl": "http://likexia.gitee.io/derivativeclicker",
-        "pic": [
-            1,
-            2
-        ],
-        "status": 1
-    },
-    {
-        "title": "魔盒",
-        "enTitle": "Succubox",
-        "date": "2019-04-26",
-        "path": "succubox",
-        "type": [
-            "汉化中",
-            "放置",
-            "文字",
-            "点击",
-            "经营",
-            "冒险",
-            "离线",
-            "挂机"
-        ],
-        "content": [
-            ""
-        ],
-        "zhUrl": "http://cnh5.gitee.io/succubox",
-        "enUrl": "http://www.glaielgames.com/succubox/",
         "pic": [
             1,
             2
