@@ -232,7 +232,7 @@
         "date": "2021-08-23",
         "update": "2021-08-10",
         "version":"",
-        "path": "路径",
+        "path": "forward",
         "type": [
             "已汉化",
             "放置",
@@ -6868,6 +6868,7 @@
         "title": "元素增量放置",
         "enTitle": "Elemental Inception Incremental",
         "date": "2019-04-26",
+        "update": "2020-11-06",
         "path": "elemental-inception-incremental",
         "type": [
             "汉化中",
