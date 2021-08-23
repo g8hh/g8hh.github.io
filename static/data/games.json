@@ -229,7 +229,7 @@
     {
         "title": "勇往直前",
         "enTitle": "Forward",
-        "date": "2021-08-10",
+        "date": "2021-08-23",
         "update": "2021-08-10",
         "version":"",
         "path": "路径",
@@ -258,7 +258,7 @@
             4,
             5
         ],
-        "status": 0
+        "status": 1
     },
     {
         "title": "公式树",
@@ -319,7 +319,7 @@
         ],
         "content": [
             "《魔盒》是一款相对来说比较早期的放置游戏，有一部分朋友以前应该玩过。",
-            "警告：千万不要打开控制台，有惊喜！"
+            "警告：千万不要打开控制台，后果自负！"
         ],
         "zhUrl": "http://cnh5.gitee.io/succubox",
         "enUrl": "http://www.glaielgames.com/succubox/",
@@ -559,8 +559,8 @@
         "title": "数学树",
         "enTitle": "True Math Tree",
         "date": "2021-08-02",
-        "update": "2021-08-15",
-        "version":"1.1",
+        "update": "2021-08-23",
+        "version":"1.2",
         "path": "true-math-tree",
         "type": [
             "汉化中",
@@ -576,12 +576,14 @@
         ],
         "customUrl": "https://qwqe308.github.io/True-Math-Tree/",
         "customUrlTit": "原版",
-        "customUrl2": "https://yx.g8hh.com/true-math-tree",
+        "customUrl2": "http://idlegame.gitee.io/true-math-tree/",
         "customUrlTit2": "锅巴搬运版",
-        "customUrl3": "https://g8hh.github.io/True-Math-Tree/",
-        "customUrlTit3": "备用地址-GitHub",
-        "customUrl4": "https://yhvr.me/pt/mods.html",
-        "customUrlTit4": "其它树游戏集合",
+        "customUrl3": "https://yx.g8hh.com/true-math-tree",
+        "customUrlTit3": "备用地址-g8hh",
+        "customUrl4": "https://g8hh.github.io/True-Math-Tree/",
+        "customUrlTit4": "备用地址-GitHub",
+        "customUrl5": "https://yhvr.me/pt/mods.html",
+        "customUrlTit5": "其它树游戏集合",
         "QQ": "963150347",
         "pic": [
             1,
@@ -5001,8 +5003,8 @@
         "title": "协同放置",
         "enTitle": "Synergism",
         "date": "2020-05-05",
-        "update": "2020-09-25",
-        "version": "2.0.0",
+        "update": "2021-08-20",
+        "version": "2.5.7",
         "path": "synergism",
         "type": [
             "汉化中",
@@ -6133,6 +6135,8 @@
         "title": "进化",
         "enTitle": "Evolve",
         "date": "2019-07-01",
+        "update": "2021-08-19",
+        "version": "1.1.12",
         "path": "evolve",
         "type": [
             "推荐",
@@ -8229,7 +8233,7 @@
             "挂机"
         ],
         "content": [
-            "黑市是一个增量游戏，在这里您将管理一个药丸帝国！ 一开始，你是一个可怜的街头老鼠，你只有一把从罗恩叔叔那里偷走的枪。 要赚取您的前几张$帐单，您必须不停的射击！ 你可以购买升级以提高您的操作和提高你的现金流。",
+            "黑市是一个增量游戏，在这里您将管理一个药丸帝国！ 一开始，你是一个可怜的街头老鼠，你只有一把从罗恩叔叔那里偷走的木仓。 要赚取您的前几张$帐单，您必须不停的射击！ 你可以购买升级以提高您的操作和提高你的现金流。",
             "一旦你有一些现金来消费，你可以投资一些 \"建筑\" 来帮你制造 \"糖果\" (其实是药丸, 非常多的药丸!). 建筑物产生特定数量的药丸，然后您可以出售药品赚钱金钱$！。",
             "请注意，黑市从不停业！ 即使您关闭了游戏，您的业务也将继续生产和销售药品！"
         ],
