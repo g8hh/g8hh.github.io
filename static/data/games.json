@@ -191,7 +191,7 @@
     {
         "title": "无尽的遗产",
         "enTitle": "NeverEnding Legacy",
-        "date": "2021-08-20",
+        "date": "2021-08-27",
         "update": "2017-03-28",
         "version":"Alpha 6",
         "path": "legacy",
@@ -209,7 +209,8 @@
         ],
         "content": [
             "《无尽的遗产》是《无尽的饼干》作者的另一部作品。",
-            "本游戏拥有54项科技、42个单位、91个资源，玩法类似于《土皇帝》《文明》之类的游戏。"
+            "本游戏拥有54项科技、42个单位、91个资源，玩法类似于《土皇帝》《文明》之类的游戏。",
+            "游戏自动保存是1分钟1次，刷新记得手动保存~"
         ],
         "zhUrl": "http://idlegame.gitee.io/legacy",
         "enUrl": "http://orteil.dashnet.org/legacy/",
@@ -225,6 +226,116 @@
             5
         ],
         "status": 0
+    },
+    {
+        "title": "马基埃亚尔的传说",
+        "enTitle": "Tales of Maj'Eyal ",
+        "date": "202-08-24",
+        "update": "2021-06-29",
+        "version":"1.7.4",
+        "path": "tales-of-maj-Eyal",
+        "type": [
+            "中文",
+            "放置",
+            "点击",
+            "经营",
+            "冒险",
+            "回合",
+            "单机",
+            "挂机",
+            "升级",
+            "Rogue",
+            "Steam",
+            "策略"
+        ],
+        "content": [
+            "这是一个神奇的游戏，Steam售价28元，官网可以免费下载。。。？？？",
+            "官网版跟Steam版的差异：Steam版有可以无限复活的探索模式，还可以把装备上传到服务器，给其它角色用。等等。",
+            "游戏内置中文，不过汉化包似乎落后了两个版本。",
+            "马基埃亚尔的传说是一款Roguelike角色扮演游戏，其核心在于策略性回合制战斗，以及富有深度的角色培养。你将在充满传奇色彩的埃亚尔世界中，扮演众多独特种族和职业，探索地牢，直面挑战，并使用自己量身定制的能力组合打造角色。",
+            "马基埃亚尔的传说具有可定制的现代图形界面，直观的鼠标控制，精简的游戏机制，具有挑战性的战斗以及在线属性角色面板，这些提供给玩家引人入胜的21世纪Roguelike游戏体验。",
+        ],
+        "customUrl": "https://te4.org/download",
+        "customUrlTit": "官网下载",
+        "customUrl2": "https://zhuanlan.zhihu.com/p/39079658",
+        "customUrlTit2": "Roguelike介绍",
+        "steamUrl": "https://store.steampowered.com/app/1546320/Your_Chronicle/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 0
+    },
+    {
+        "title": "魔王归来",
+        "enTitle": "Mo Wang Gui Lai",
+        "date": "2021-08-04",
+        "update": "2021-08-23",
+        "version":"2.60",
+        "path": "mo-wang-gui-lai",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "策略",
+            "安卓"
+        ],
+        "content": [
+            "被人类军击败的魔王失去了力量。。。",
+            "沉睡5年醒来后，魔王决定从培养史莱姆开始做起，重新组建起魔王势力击败人类，夺回世界！",
+            "不断研发新科技，并夺取人类科技，壮大势力。",
+            "无内购，可离线。",
+            "作者语：个人独立开发，第一次做游戏，技术力有限，如果bug满天飞还请见谅。"
+        ],
+        "customUrl": "https://www.taptap.com/app/204692",
+        "customUrlTit": "TapTap下载地址",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "狂喜100",
+        "enTitle": "Rapture 100",
+        "date": "2021-08-25",
+        "update": "2021-03-27",
+        "version":"",
+        "path": "rapture-100",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击"
+        ],
+        "content": [
+            "这又是群里的 @QwQ(放假ing) 大佬汉化、推荐的，欢迎大家体验哈~"
+        ],
+        "zhUrl": "https://qwqe308.github.io/Rapture-30/",
+        "enUrl": "https://rngeezus1.github.io/Rapture-30/",
+        "customUrl": "http://idlegame.gitee.io/rapture-30",
+        "customUrlTit": "锅巴搬运版",
+        "customUrl2": "https://yx.g8hh.com/rapture-30",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://g8hh.github.io/rapture-30",
+        "customUrlTit3": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
     },
     {
         "title": "勇往直前",
