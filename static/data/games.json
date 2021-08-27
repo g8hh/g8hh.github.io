@@ -196,7 +196,7 @@
         "version":"Alpha 6",
         "path": "legacy",
         "type": [
-            "汉化中",
+            "已汉化",
             "放置",
             "点击",
             "经营",
@@ -225,11 +225,11 @@
             4,
             5
         ],
-        "status": 0
+        "status": 1
     },
     {
         "title": "马基埃亚尔的传说",
-        "enTitle": "Tales of Maj'Eyal ",
+        "enTitle": "Tales of Maj'Eyal",
         "date": "202-08-24",
         "update": "2021-06-29",
         "version":"1.7.4",
@@ -253,13 +253,13 @@
             "官网版跟Steam版的差异：Steam版有可以无限复活的探索模式，还可以把装备上传到服务器，给其它角色用。等等。",
             "游戏内置中文，不过汉化包似乎落后了两个版本。",
             "马基埃亚尔的传说是一款Roguelike角色扮演游戏，其核心在于策略性回合制战斗，以及富有深度的角色培养。你将在充满传奇色彩的埃亚尔世界中，扮演众多独特种族和职业，探索地牢，直面挑战，并使用自己量身定制的能力组合打造角色。",
-            "马基埃亚尔的传说具有可定制的现代图形界面，直观的鼠标控制，精简的游戏机制，具有挑战性的战斗以及在线属性角色面板，这些提供给玩家引人入胜的21世纪Roguelike游戏体验。",
+            "马基埃亚尔的传说具有可定制的现代图形界面，直观的鼠标控制，精简的游戏机制，具有挑战性的战斗以及在线属性角色面板，这些提供给玩家引人入胜的21世纪Roguelike游戏体验。"
         ],
         "customUrl": "https://te4.org/download",
         "customUrlTit": "官网下载",
         "customUrl2": "https://zhuanlan.zhihu.com/p/39079658",
         "customUrlTit2": "Roguelike介绍",
-        "steamUrl": "https://store.steampowered.com/app/1546320/Your_Chronicle/",
+        "steamUrl": "https://store.steampowered.com/app/259680/Tales_of_MajEyal/",
         "pic": [
             1,
             2,
@@ -268,7 +268,7 @@
             5
         ],
         "needHH":0,
-        "status": 0
+        "status": 1
     },
     {
         "title": "魔王归来",
@@ -670,8 +670,8 @@
         "title": "数学树",
         "enTitle": "True Math Tree",
         "date": "2021-08-02",
-        "update": "2021-08-23",
-        "version":"1.2",
+        "update": "2021-08-26",
+        "version":"1.3",
         "path": "true-math-tree",
         "type": [
             "汉化中",
@@ -3205,8 +3205,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2021-07-30",
-        "version":"0.1.84",
+        "update": "2021-08-17",
+        "version":"0.1.85",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -3723,8 +3723,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2021-08-05",
-        "version": "0.8.5",
+        "update": "2021-08-25",
+        "version": "0.8.6",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
