@@ -2601,9 +2601,9 @@
      "Air Expert Wizard Robes": "气系大巫师长袍",
      "Air Imbued Wand": "气系灌注魔杖",
      "2-Handed Swords": "双手剑",
-     "": "",
-     "": "",
-     "": "",
+     ", and": ", 和",
+     "(Safari); and": "(Safari); 和",
+     "a": "一个",
      "": "",
      "": "",
      "": "",
@@ -2859,6 +2859,14 @@
     /^x?\d+(\.\d+)?(e[+\-]?\d+)?\s*$/, //12.34e+4
     /^\s*$/, //纯空格
     /^\n$/, //换行
+    /^([\d\.,]+)$/, //换行
+    /^([\d\.,]+) 费用$/, //换行
+    /^([\d\.,]+) 生命值$/, //换行
+    /^([\d\.,]+) 经验 \/ ([\d\.]+) 秒$/, //换行
+    /^([\d\.]+) 秒$/, //换行
+    /^\$([\d\.,]+)$/, //换行
+    /^([\d\.,]+) \/$/, //换行
+    /^\- Fix (.+)$/, //换行
     /^\d+(\.\d+)?[A-Za-z]{0,2}.?\(?([+\-]?(\d+(\.\d+)?[A-Za-z]{0,2})?)?$/, //12.34M (+34.34K
     /^(\d+(\.\d+)?[A-Za-z]{0,2}\/s)?.?\(?([+\-]?\d+(\.\d+)?[A-Za-z]{0,2})?\/s\stot$/, //2.74M/s (112.4K/s tot
     /^\d+(\.\d+)?(e[+\-]?\d+)?.?\(?([+\-]?(\d+(\.\d+)?(e[+\-]?\d+)?)?)?$/, //2.177e+6 (+4.01+4
@@ -2876,6 +2884,9 @@
  //原样输出的字段：(.+)
  var cnRegReplace = new Map([
     [/^(.+) x M-Bucks$/, '$1 M-雄鹿'],
+    [/^([\d\.,]+) XP remaining \(([\d\.,]+) XP$/, '$1 经验值 剩余 \($2 经验值'],
+    [/^([\d\.,]+) XP$/, '$1 经验值'],
+    [/^([\d\.,]+) seconds$/, '$1 秒'],
     [/^You gained (.+) Cooking XP$/, '你获得了 $1 烹饪经验'],
     [/^You gained (.+) Crafting XP$/, '你获得了 $1 制作经验'],
     [/^You gained (.+) Farming XP$/, '你获得了 $1 种地经验'],
@@ -2902,6 +2913,7 @@
     [/^Loot to Collect (.+)$/, '收集战利品 $1'],
     [/^(.+) x Ranged Golbin$/, '$1 x 远程哥布林'],
     [/^(.+) Charges$/, '$1 费用'],
+    [/^Wave: (.+) \| \n\t\t\tKill Count: (.+) \| \n\t\t\tTime: (.+) seconds \|\n\t\t\tRaid Coins$/, '波次: $1 \| \n\t\t\t击杀数量: $2 \| \n\t\t\t时间: $3 seconds \|\n\t\t\t突袭币'],
     [/^You were gone for roughly (.+) minutes$/, '你离开了大约 $1 分钟'],
     [/^(.+) Total Skill Level \/ (.+) GP$/, '$1 总技能等级 \/ $2 GP'],
     [/^(.+) Decreased Woodcutting Interval$/, '降低$1伐木间隔'],
@@ -2914,6 +2926,8 @@
     [/^(.+) Decreased Fishing Interval$/, '钓鱼间隔减少 $1'],
     [/^(.+) Faster Mining$/, '提升 $1 采矿速度'],
     [/^You gained (.+) Cooking XP$/, '你获得了 $1 烹饪经验'],
+    [/^Receive up to (.+) Allotment or Herb seeds back from harvesting.$/, '从收获中获得最多 $1 个分配或草药种子。'],
+    [/^Receive up to (.+) Allotment or Herb seed back from harvesting.$/, '从收获中获得最多 $1 个分配或草药种子。'],
     [/^(.+) Bank Capacity$/, '$1 仓库容量'],
     [/^(.+) HP$/, '$1 生命值'],
     [/^(.+) HP Regen per interval$/, '每次恢复 $1 生命值'],
