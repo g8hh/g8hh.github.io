@@ -1038,8 +1038,8 @@
         "title": "太空公司NG",
         "enTitle": "NG Space Company",
         "date": "2021-06-28",
-        "update": "2021-08-02",
-        "version":"1.32",
+        "update": "2021-08-30",
+        "version":"1.33",
         "path": "ng-space-company",
         "type": [
             "已汉化",
@@ -1062,6 +1062,8 @@
         "enUrl": "https://ngspacecompany.exileng.com/",
         "customUrl": "https://g8hh.github.io/NGSpaceCompany/",
         "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://idlegame.gitee.io/ng-space-company/",
+        "customUrlTit2": "备用地址-gitee",
         "pic": [
             1,
             2,
@@ -3205,8 +3207,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2021-08-17",
-        "version":"0.1.85",
+        "update": "2021-08-25",
+        "version":"0.1.86",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -3723,8 +3725,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2021-08-25",
-        "version": "0.8.6",
+        "update": "2021-08-31",
+        "version": "0.8.7",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
