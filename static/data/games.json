@@ -189,6 +189,44 @@
         "status": 0
     },
     {
+        "title": "戴森光",
+        "enTitle": "Dyson Light",
+        "date": "2021-09-01",
+        "update": "2021-08-24",
+        "version":"",
+        "path": "dyson-light",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "太空",
+            "建造",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "这是《循环放置》《梯田》作者的另一个作品。和之前咱们发的那几个跟光相关的游戏，是在一个榜单里面的。"
+        ],
+        "zhUrl": "https://likexia.gitee.io/stopsign/Dyson_Light/",
+        "enUrl": "https://stop-sign.itch.io/dyson-light",
+        "customUrl": "https://yx.g8hh.com/dyson-light",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/dyson-light",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
         "title": "无尽的遗产",
         "enTitle": "NeverEnding Legacy",
         "date": "2021-08-27",
