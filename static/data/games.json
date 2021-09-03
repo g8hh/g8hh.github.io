@@ -189,6 +189,38 @@
         "status": 0
     },
     {
+        "title": "人生重开模拟器",
+        "enTitle": "Life Restart",
+        "date": "2021-09-03",
+        "update": "2021-09-03",
+        "version":"",
+        "path": "life-restart",
+        "type": [
+            "文字",
+            "点击",
+            "益智",
+            "原创",
+            "养成",
+            "模拟"
+        ],
+        "content": [
+            "群里突然火起来的游戏，貌似有点意思，搬过来给大家玩~"
+        ],
+        "zhUrl": "https://yx.g8hh.com/life-restart/view/",
+        "enUrl": "https://liferestart.syaro.io/view/",
+        "customUrl": "https://g8hh.github.io/life-restart/view/",
+        "customUrlTit": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
         "title": "戴森光",
         "enTitle": "Dyson Light",
         "date": "2021-09-01",
@@ -1076,8 +1108,8 @@
         "title": "太空公司NG",
         "enTitle": "NG Space Company",
         "date": "2021-06-28",
-        "update": "2021-08-30",
-        "version":"1.33",
+        "update": "2021-09-03",
+        "version":"1.34",
         "path": "ng-space-company",
         "type": [
             "已汉化",
@@ -5777,16 +5809,19 @@
             "K站"
         ],
         "content": [
-            ""
+            "由于原版作者跑路了，留下了一堆bug（容易炸档，进不去游戏等等），所以搞了个二次开发版本。",
+            "二次开发版本是大佬在原版基础上，修复了若干bug（可能制造了若干bug）。"
         ],
         "zhUrl": "http://likexia.gitee.io/theory-of-magic",
         "kUrl": "https://www.kongregate.com/games/lerpinglemur/theory-of-magic?sfa=permalink&referrer=SunshineDad",
-        "customUrl": "https://g8hh.github.io/theory-of-magic/",
-        "customUrlTit": "备用地址-GitHub",
-        "customUrl2": "https://yx.g8hh.com/theory-of-magic/",
-        "customUrlTit2": "备用地址-g8hh",
-        "customUrl3": "https://qm.qq.com/cgi-bin/qm/qr?k=_WETFhR5KeqdgsMcbxUgIltMCRA_Py3Y&jump_from=webapi",
-        "customUrlTit3": "加入魔法理论群",
+        "customUrl": "https://idlegame.gitee.io/arcanum",
+        "customUrlTit": "二次开发版",
+        "customUrl2": "https://g8hh.github.io/theory-of-magic/",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yx.g8hh.com/theory-of-magic/",
+        "customUrlTit3": "备用地址-g8hh",
+        "customUrl4": "https://qm.qq.com/cgi-bin/qm/qr?k=_WETFhR5KeqdgsMcbxUgIltMCRA_Py3Y&jump_from=webapi",
+        "customUrlTit4": "加入魔法理论群",
         "QQ": "281738137",
         "pic": [
             1,
