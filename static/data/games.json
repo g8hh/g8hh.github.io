@@ -189,6 +189,78 @@
         "status": 0
     },
     {
+        "title": "字与传奇",
+        "enTitle": "Zi Yu Chuan Qi",
+        "date": "2021-09-10",
+        "update": "2021-09-10",
+        "version":"",
+        "path": "zi-yu-chuan-qi",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "适配手机",
+            "冒险",
+            "联网",
+            "K站",
+            "怀旧"
+        ],
+        "content": [
+            "这是一款Mud文字传奇游戏，是通过公众号进行游戏的，",
+            "欢迎通过【聊天】-【行会】加入行会【锅巴汉化】，每天可以捐献1次~，行会升级还能继续捐~"
+        ],
+        "customUrl": "https://g8hh.com/static/images/game/zi-yu-chuan-qi/qrcode.jpg",
+        "customUrlTit": "游戏入口二维码",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "时间就是金钱",
+        "enTitle": "Time Is Money",
+        "date": "2021-09-10",
+        "update": "2020-05-03",
+        "version":"1.1",
+        "path": "time-is-money",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "益智",
+            "建造"
+        ],
+        "content": [
+            "您的目标是带领您的员工进入真正的未来。 就像，从现在开始一秒钟。",
+            "使用左侧的时间测量装置来控制和加速时间的流逝。 不过要小心，因为每次购买都会将世界时钟倒转与其成本相等的持续时间。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/time-is-money",
+        "enUrl": "https://piesku.itch.io/time-is-money",
+        "customUrl": "https://yx.g8hh.com/time-is-money",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/time-is-money",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "元素增量放置",
         "enTitle": "Elemental Inception Incremental",
         "date": "2021-09-08",
