@@ -210,12 +210,14 @@
         ],
         "content": [
             "这是一款Mud文字传奇游戏，是通过公众号进行游戏的，",
-            "咱们都玩【4】区吧。",
+            "咱们大部队都在玩【6】区。如果进错区了，可以回城，点公众号菜单【图鉴】-【设置】里面有换区的地方。",
             "欢迎通过【聊天】-【行会】加入行会【锅巴汉化】，每天可以捐献1次~，行会升级还能继续捐~",
             "没金币买药水的，可以在行会或者群里喊我买了，交易给你~，免费哟~"
         ],
         "customUrl": "https://g8hh.com/static/images/game/zi-yu-chuan-qi/qrcode.jpg",
         "customUrlTit": "游戏入口二维码",
+        "customUrl2": "https://g8hh.com/static/images/game/zi-yu-chuan-qi/qun.jpg",
+        "customUrlTit2": "【锅巴汉化】行会微信群",
         "pic": [
             1,
             2,
@@ -3899,8 +3901,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2021-09-05",
-        "version": "0.8.8",
+        "update": "2021-09-12",
+        "version": "0.8.9",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -7441,7 +7443,7 @@
             "当赛季开始时，所有玩家都从1级开始，没有任何物品继承（包括各类装备/材料/金币/符文等），不能用高等级的角色和装备带人过关，也就是说是一个崭新的世界，一切重新开始。",
             "赛季切换时，现有所有角色将会被归档（登录账号将保留），并将不能继续使用，但你可以回顾之前赛季的相关排行榜。"
         ],
-        "zhUrl": "https://www.idleinfinity.cn",
+        "zhUrl": "https://www.idleinfinity.cn/Home/Index",
         "QQ": "732573769",
         "pic": [
             1,
