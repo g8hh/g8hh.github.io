@@ -189,6 +189,113 @@
         "status": 0
     },
     {
+        "title": "我的世界放置重制版",
+        "enTitle": "Grindcraft Remastered",
+        "date": "2021-09-23",
+        "update": "2021-09-23",
+        "version":"",
+        "path": "grindcraft-remastered",
+        "type": [
+            "推荐",
+            "放置",
+            "点击",
+            "经营",
+            "挂机",
+            "益智",
+            "英文",
+            "建造",
+            "模拟",
+            "怀旧"
+        ],
+        "content": [
+            "《我的世界放置重制版》是一款《我的世界》的网页放置版本，目标就是通过挖矿、打怪，收集材料，完成目标。",
+            "之前咱们发过Flash版本的，奈何Flash已经退出历史舞台了，后来群里有人发了网页版的，于是搬运过来给大家玩。",
+            "由于游戏字库的原因，没法汉化，不过直接看图标照样能玩。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/grindcraft-remastered",
+        "enUrl": "https://zh.y8.com/games/grindcraft_remastered",
+        "customUrl": "https://yx.g8hh.com/grindcraft-remastered",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/grindcraft-remastered",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "精神树",
+        "enTitle": "The Treemental",
+        "date": "2021-09-23",
+        "update": "2021-04-02",
+        "version":"0.3.1",
+        "path": "the-treemental",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "又一款树游戏，但是又不完全是树游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/the-treemental",
+        "enUrl": "https://mrredshark77.github.io/The-Treemental/",
+        "customUrl": "https://yx.g8hh.com/the-treemental",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/the-treemental",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "填充放置",
+        "enTitle": "Liquids",
+        "date": "2021-09-19",
+        "update": "2021-08-28",
+        "version":"",
+        "path": "liquids",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一款略费鼠标的游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/liquids/",
+        "enUrl": "https://mrredshark77.github.io/Liquids/",
+        "customUrl": "https://yx.g8hh.com/liquids/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/liquids/",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "字与传奇",
         "enTitle": "Zi Yu Chuan Qi",
         "date": "2021-09-10",
@@ -277,6 +384,7 @@
             "点击"
         ],
         "content": [
+            "9月22：阶段3汉化更新，用了群友 @小鸟 帮忙修正的版本。",
             "这不是炒冷饭哈，是作者之前更新了~咱没同步。现在同步一下，顺便完善一下汉化~",
             "很好玩的一个炼金术一系列游戏，游戏以地、火、气、水四种元素为主。游戏目前有4个阶段，可以依次玩下去。"
         ],
@@ -643,8 +751,8 @@
         "zhUrl": "http://idlegame.gitee.io/magic-chop-idle/",
         "customUrl": "https://yx.g8hh.com/magic-chop-idle",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl": "https://g8hh.github.io/magic-chop-idle",
-        "customUrlTit": "备用地址-GitHub",
+        "customUrl2": "https://g8hh.github.io/magic-chop-idle",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -1253,8 +1361,8 @@
         "title": "社区树",
         "enTitle": "Communitree",
         "date": "2021-06-28",
-        "update": "2021-08-05",
-        "version":"0.4.1",
+        "update": "2021-09-09",
+        "version":"0.4.2",
         "path": "communitree",
         "type": [
             "已汉化",
@@ -1268,12 +1376,14 @@
         "content": [
             "声望树的另一个Mod，这次的玩法有点骚，每个节点都是其它声望树作者。"
         ],
-        "zhUrl": "https://yx.g8hh.com/communitree",
+        "zhUrl": "http://idlegame.gitee.io/communitree/",
         "enUrl": "https://ducdat0507.github.io/communitree/",
-        "customUrl": "https://g8hh.github.io/communitree/",
-        "customUrlTit": "备用地址-GitHub",
-        "customUrl2": "https://yhvr.me/pt/mods.html",
-        "customUrlTit2": "其它树游戏集合",
+        "customUrl": "https://yx.g8hh.com/communitree",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/communitree/",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
         "pic": [
             1,
@@ -2406,8 +2516,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "JYF",
         "date": "2021-04-22",
-        "update": "2021-08-11",
-        "version":"0.6.34",
+        "update": "2021-09-21",
+        "version":"0.6.41",
         "path": "jyf",
         "type": [
             "放置",
@@ -2581,8 +2691,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2021-08-31",
-        "version":"0.6.11",
+        "update": "2021-09-15",
+        "version":"0.6.12",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -3383,8 +3493,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2021-08-25",
-        "version":"0.1.86",
+        "update": "2021-09-19",
+        "version":"0.1.87",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -4485,7 +4595,6 @@
             "画风很可爱啊，感觉是《异星工厂》的玩法，Steam售价18元。网页版是体验版。"
         ],
         "zhUrl": "https://shapez.io/",
-        "enUrl": "英文链接",
         "steamUrl": "https://store.steampowered.com/app/1318690/shapezio/",
         "pic": [
             1,
@@ -6533,7 +6642,7 @@
         "status": 1
     },
     {
-        "title": "赛车放置",
+        "title": "赛车点击者",
         "enTitle": "Racing Clicker",
         "date": "2019-05-24",
         "path": "racing-clicker",
