@@ -187,6 +187,145 @@
             5
         ],
         "status": 0
+    },{
+        "title": "质量增量",
+        "enTitle": "Incremental Mass",
+        "date": "2021-09-28",
+        "update": "2021-09-28",
+        "version":"",
+        "path": "incremental-mass",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一款以质量为主题的增量放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/incremental-mass",
+        "enUrl": "https://mrredshark77.github.io/incremental-mass/",
+        "customUrl": "https://yx.g8hh.com/incremental-mass",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/incremental-mass/",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "资源网格",
+        "enTitle": "Resource Grid",
+        "date": "2021-09-26",
+        "update": "2021-09-26",
+        "version":"",
+        "path": "resource-grid",
+        "type": [
+            "推荐",
+            "放置",
+            "点击",
+            "经营",
+            "挂机",
+            "益智",
+            "英文",
+            "建造",
+            "模拟",
+            "怀旧"
+        ],
+        "content": [
+            "类似《我的世界放置重制版》的游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/resource-grid",
+        "enUrl": "https://spotky1004.com/Resource-Grid/",
+        "customUrl": "https://yx.g8hh.com/resource-grid",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/resource-grid",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "深城",
+        "enTitle": "Deep Town",
+        "date": "2021-09-24",
+        "update": "",
+        "version":"",
+        "path": "deep-town",
+        "type": [
+            "放置",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "安卓",
+            "苹果",
+            "PC",
+            "Steam",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "iOS版本暂时搜不到，疑似下架，之前下载过的可以在已购项目里面找到。安卓版本网上可以找到。",
+            "Deep Town是一款科幻战略游戏，你作为一个AI，唯一目的是收集，建造和复制。",
+            "游戏主要玩法是挖矿、制作各种材料，最终制造出飞船，飞往太空。"
+        ],
+        "customUrl": "https://www.taptap.com/app/43431",
+        "customUrlTit": "TapTap下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "点击泰坦2",
+        "enTitle": "Tap Titan 2",
+        "date": "2021-09-24",
+        "update": "",
+        "version":"",
+        "path": "tap-titan-2",
+        "type": [
+            "放置",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "安卓",
+            "苹果",
+            "冒险"
+        ],
+        "content": [
+            "一款点点点的游戏，内容很丰富，有英雄、装备、宝宝、神器系统。这是第二部。",
+            "《点击泰坦2》继承了前作的休闲风格，一键放置，轻松挂机。面对泰坦军团的再次入侵，与剑圣宗师和伙伴们一起守护家园！"
+        ],
+        "customUrl": "https://www.taptap.com/app/202831",
+        "customUrlTit": "TapTap下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
     },
     {
         "title": "我的世界放置重制版",
@@ -3513,8 +3652,6 @@
             "游戏链接用【汉化版】（带2链接的存档建议人道毁灭，因为没法导入最新版）。",
             "【汉化版】这个链接就是最新版~"
         ],
-        "customUrl": "http://idlegame.gitee.io/ethereal-farm2",
-        "customUrlTit": "此版本弃用，请玩【汉化版】",
         "zhUrl": "http://idlegame.gitee.io/ethereal-farm",
         "enUrl": "https://lodev.org/etherealfarm/",
         "QQ": "946050761",
@@ -8588,10 +8725,10 @@
         "content": [
             ""
         ],
-        "customUrl": "https://yx.g8hh.com/cityinc/",
-        "customUrlTit": "汉化版-新",
-        "customUrl2": "http://likexia.gitee.io/cityinc/",
-        "customUrlTit2": "汉化版-已挂",
+        "customUrl": "http://likexia.gitee.io/cityinc/",
+        "customUrlTit": "汉化版",
+        "customUrl2": "https://yx.g8hh.com/cityinc/",
+        "customUrlTit2": "备用地址-g8hh",
         "enUrl": "http://cityinc.se/",
         "pic": [
             1,
