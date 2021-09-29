@@ -188,6 +188,73 @@
         ],
         "status": 0
     },{
+        "title": "生产数据",
+        "enTitle": "Productive Data",
+        "date": "2021-09-29",
+        "update": "2021-06-19",
+        "version":"0.1.5.3",
+        "path": "productive-data",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一款模拟计算机生产数据的游戏，您必须为新的互联网生成数据。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/productive-data",
+        "enUrl": "https://aarextiaokhiao.github.io/Productive-Data/",
+        "customUrl": "https://yx.g8hh.com/productive-data",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/productive-data",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "解谜X",
+        "enTitle": "UnpuzzleX Remake",
+        "date": "2021-09-29",
+        "update": "2021-09-29",
+        "version":"",
+        "path": "unpuzzle-x-remake",
+        "type": [
+            "点击",
+            "益智",
+            "策略",
+            "消除"
+        ],
+        "content": [
+            "这是一款拆解拼图碎片的益智游戏。",
+            "玩法：鼠标拖动拼图碎片往上下左右四个方向，目标是清除所有碎片。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/unpuzzle-x-remake",
+        "enUrl": "https://geogolf.github.io/UnpuzzleX-Remake/",
+        "customUrl": "https://yx.g8hh.com/unpuzzle-x-remake",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/unpuzzle-x-remake",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
         "title": "质量增量",
         "enTitle": "Incremental Mass",
         "date": "2021-09-28",
@@ -4195,7 +4262,7 @@
         "title": "我的暗黑",
         "enTitle": "My Diablo",
         "date": "2020-10-06",
-        "update": "2020-10-14",
+        "update": "2021-09-27",
         "version": "1.074",
         "path": "my-diablo",
         "type": [
