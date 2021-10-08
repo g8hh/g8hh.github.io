@@ -187,7 +187,42 @@
             5
         ],
         "status": 0
-    },{
+    },
+    {
+        "title": "循环洞穴2",
+        "enTitle": "Cavernous II",
+        "date": "2021-10-02",
+        "update": "2021-10-08",
+        "version":"2.1.5",
+        "path": "cavernous2",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "模拟",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一款类似《循环放置》的游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/cavernous2",
+        "enUrl": "https://nucaranlaeg.github.io/incremental/CavernousII/",
+        "customUrl": "https://yx.g8hh.com/cavernous2",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/cavernous2",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "生产数据",
         "enTitle": "Productive Data",
         "date": "2021-09-29",
@@ -291,7 +326,7 @@
         "title": "资源网格",
         "enTitle": "Resource Grid",
         "date": "2021-09-26",
-        "update": "2021-09-26",
+        "update": "2021-09-29",
         "version":"",
         "path": "resource-grid",
         "type": [

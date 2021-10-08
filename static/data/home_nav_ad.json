@@ -26,12 +26,12 @@
                 "title": "进化",
                 "path": "evolve",
                 "html": false,
-                "status": 1
+                "status": 0
             },{
                 "title": "支付宝每天领红包",
                 "path": "fuli",
                 "html": true,
-                "status": 0
+                "status": 1
             },
             {
                 "title": "小黑屋",
