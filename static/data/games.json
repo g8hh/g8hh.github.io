@@ -171,7 +171,7 @@
             "声望树"
         ],
         "content": [
-            "这是原版的声望树，鉴于近期没什么好玩的，咱就着手汉化起来~"
+            "生命树，挺好的题材。"
         ],
         "zhUrl": "https://yx.g8hh.com/the-tree-of-life",
         "customUrl": "https://g8hh.github.io/the-tree-of-life",
@@ -187,6 +187,38 @@
             5
         ],
         "status": 0
+    },
+    {
+        "title": "武世界3",
+        "enTitle": "Wu World 3",
+        "date": "2021-10-09",
+        "update": "2021-10-08",
+        "version": "1.13",
+        "path": "wu-world-3",
+        "type": [
+            "点击",
+            "升级",
+            "冒险",
+            "原创",
+            "武侠",
+            "PC"
+        ],
+        "content": [
+            "独立游戏开发者串烧章鱼的新作品。可以加群及时获取最新版本：453817190",
+            "百度盘密码：a3pq"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/THPZ72Uy",
+        "baiduUrl": "https://pan.baidu.com/s/1lBf-VQokCnhHeisl-lsksg",
+        "QQ": "453817190",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
     },
     {
         "title": "循环洞穴2",
@@ -326,7 +358,7 @@
         "title": "资源网格",
         "enTitle": "Resource Grid",
         "date": "2021-09-26",
-        "update": "2021-09-29",
+        "update": "2021-10-08",
         "version":"",
         "path": "resource-grid",
         "type": [
@@ -5742,6 +5774,7 @@
         "type": [
             "点击",
             "升级",
+            "武侠",
             "冒险",
             "原创",
             "PC"
