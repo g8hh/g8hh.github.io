@@ -189,6 +189,175 @@
         "status": 0
     },
     {
+        "title": "任务树",
+        "enTitle": "Tree Quest",
+        "date": "2021-10-15",
+        "update": "2021-09-11",
+        "version":"0.2.1-SR",
+        "path": "tree-quest",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "任务树，是一款解谜玩法的模组树。环环相扣，还是很有意思的。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/tree-quest/",
+        "enUrl": "https://iemory.github.io/TreeQuest/",
+        "customUrl": "https://yx.g8hh.com/tree-quest",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/tree-quest/",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "像素填充方块3",
+        "enTitle": "Idle Accelerator",
+        "date": "2021-10-11",
+        "update": "2019-02-12",
+        "version": "15.3",
+        "path": "pixels-filling-squares-3",
+        "type": [
+            "放置",
+            "点击",
+            "K站",
+            "英文版",
+            "U3D"
+        ],
+        "content": [
+            "《像素填充方块》的续作，现在第三次观看像素慢慢填充方块！",
+            "据说此游戏非常肝，技能有五层，英文看不懂可以在群里问哈~",
+            "因为是Unity 3D游戏，无法汉化。因为K站加载速度超级慢，所以搬过来方便大家玩。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/pixels-filling-squares-3",
+        "kUrl": "https://www.kongregate.com/games/Moczan/pixels-filling-squares-3-0?sfa=permalink&referrer=SunshineDad",
+        "customUrl2": "https://g8hh.github.io/pixels-filling-squares-3",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "像素填充方块",
+        "enTitle": "Pixels filling Squares DX",
+        "date": "2021-10-11",
+        "update": "2017-08-31",
+        "version":"",
+        "path": "pixels-filling-squares-dx",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "益智",
+            "K站"
+        ],
+        "content": [
+            "观看像素慢慢填满方块。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/pixels-filling-squares-dx",
+        "kUrl": "https://www.kongregate.com/games/Moczan/pixels-filling-squares-dx?sfa=permalink&referrer=SunshineDad",
+        "customUrl": "https://yx.g8hh.com/pixels-filling-squares-dx",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/pixels-filling-squares-dx",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "风雪见闻录",
+        "enTitle": "Feng Xue Jian Wen Lu",
+        "date": "2021-10-11",
+        "update": "2021-10-10",
+        "version": "0.023",
+        "path": "feng-xue-jian-wen-lu",
+        "type": [
+            "点击",
+            "升级",
+            "原创",
+            "武侠",
+            "PC"
+        ],
+        "content": [
+            "独立游戏开发者 @奈非天 的作品。可以加群及时获取最新版本：532701025",
+            "百度盘密码：hste"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/RWEgXZwY",
+        "baiduUrl": "https://pan.baidu.com/s/1h3pTH-aWhCnP8pRndjYwYQ",
+        "QQ": "453817190",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "质量增量重制版",
+        "enTitle": "Incremental Mass Rewritten",
+        "date": "2021-10-09",
+        "update": "2021-10-08",
+        "version":"0.3",
+        "path": "incremental-mass-rewritten",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "这是《质量增量》的二次开发版本，一款以质量为主题的增量放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/incremental-mass-rewritten",
+        "enUrl": "https://mrredshark77.github.io/incremental-mass-rewritten/",
+        "customUrl": "https://yx.g8hh.com/incremental-mass-rewritten",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/incremental-mass-rewritten",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "武世界3",
         "enTitle": "Wu World 3",
         "date": "2021-10-09",
@@ -2048,8 +2217,8 @@
         "title": "升级树",
         "enTitle": "The Leveling Tree",
         "date": "2021-06-04",
-        "update": "2021-01-13",
-        "version":"1.3.1",
+        "update": "2021-09-20",
+        "version":"0.1.3.2",
         "path": "the-leveling-tree",
         "type": [
             "已汉化",
@@ -2065,12 +2234,14 @@
         "content": [
             "又又又是声望树的一个Mod，游戏玩法换成了RPG冒险。"
         ],
-        "zhUrl": "http://yx.g8hh.com/the-leveling-tree/",
+        "zhUrl": "http://idlegame.gitee.io/the-leveling-tree/",
         "enUrl": "https://denisolenison.github.io/The-Leveling-Tree/",
-        "customUrl": "https://yhvr.me/pt/mods.html",
-        "customUrlTit": "其它树游戏集合",
+        "customUrl": "https://yx.g8hh.com/the-leveling-tree/",
+        "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/the-leveling-tree/",
         "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
         "pic": [
             1,
