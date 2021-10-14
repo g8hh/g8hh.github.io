@@ -157,9 +157,9 @@
     {
         "title": "生命树",
         "enTitle": "The Tree Of Life",
-        "date": "2021-07-16",
-        "update": "2021-07-29",
-        "version":"1.057",
+        "date": "2021-10-15",
+        "update": "2021-10-05",
+        "version":"1.149",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -223,6 +223,39 @@
             4,
             5
         ],
+        "status": 1
+    },
+    {
+        "title": "流亡之路",
+        "enTitle": "Liu Wang Idle",
+        "date": "2021-10-12",
+        "update": "2021-10-12",
+        "version": "2.0.1",
+        "path": "liu-wang-idle",
+        "type": [
+            "点击",
+            "升级",
+            "冒险",
+            "原创",
+            "武侠",
+            "PC"
+        ],
+        "content": [
+            "一个独立游戏开发者的新作品。",
+            "由于还在开发中，可能存在各种bug，欢迎加群反馈：892508228",
+            "加群可以备注：锅巴"
+        ],
+        "customUrl": "http://173208943.ys168.com/",
+        "customUrlTit": "最新版下载地址",
+        "QQ": "892508228",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
         "status": 1
     },
     {
@@ -328,8 +361,8 @@
         "title": "质量增量重制版",
         "enTitle": "Incremental Mass Rewritten",
         "date": "2021-10-09",
-        "update": "2021-10-08",
-        "version":"0.3",
+        "update": "2021-10-13",
+        "version":"0.3.1.1",
         "path": "incremental-mass-rewritten",
         "type": [
             "已汉化",
@@ -362,7 +395,7 @@
         "enTitle": "Wu World 3",
         "date": "2021-10-09",
         "update": "2021-10-08",
-        "version": "1.13",
+        "version": "2.0.1",
         "path": "wu-world-3",
         "type": [
             "点击",
@@ -393,8 +426,8 @@
         "title": "循环洞穴2",
         "enTitle": "Cavernous II",
         "date": "2021-10-02",
-        "update": "2021-10-08",
-        "version":"2.1.5",
+        "update": "2021-10-12",
+        "version":"2.2.0",
         "path": "cavernous2",
         "type": [
             "汉化中",
