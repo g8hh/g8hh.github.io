@@ -155,11 +155,199 @@
         "status": 1
     },
     {
+        "title": "火爆H5页游手游大全",
+        "enTitle": "h5-sy",
+        "date": "2021-10-14",
+        "update": "2021-10-14",
+        "version":"1.149",
+        "path": "h5-sy",
+        "type": [
+            "网络",
+            "放置",
+            "文字",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一直以来咱们的游戏都是单机网页放置为主，缺少联网、互动的元素。",
+            "锅巴也一直在寻找，希望弥补这方面的空缺。",
+            "毕竟有的朋友比较喜欢互动多一些的游戏，今天锅巴搞了一个游戏平台。",
+            "我看里面游戏挺多的，所以放出来给喜欢的朋友玩吧。"
+        ],
+        "customUrl": "https://h5.gityx.com",
+        "customUrlTit": "H5页游平台",
+        "customUrl2": "https://sy.gityx.com",
+        "customUrlTit2": "安卓手游平台",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "工厂任务",
+        "enTitle": "Factory Missions",
+        "date": "2021-10-20",
+        "update": "2017-11-11",
+        "version":"1.00",
+        "path": "factory-missions",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "益智",
+            "K站",
+            "英文",
+            "建造",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "工厂设计师已经搞砸了他们的设置，但现在改变建筑布局为时已晚。这些问题必须有解决方案，而您似乎是唯一可以解决它的人！",
+            "可以加群：205448831 和小伙伴们一起讨论最佳摆法。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/factory-missions",
+        "enUrl": "https://missions.factoryidle.com/",
+        "kUrl": "https://www.kongregate.com/games/Baldurans/factory-missions?sfa=permalink&referrer=SunshineDad",
+        "customUrl": "https://yx.g8hh.com/factory-missions",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/factory-missions",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "增量主义",
+        "enTitle": "Incrementalist",
+        "date": "2021-10-20",
+        "update": "2020-12-16",
+        "version":"0.6.1",
+        "path": "incrementalist",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "适配手机"
+        ],
+        "content": [
+            "《增量主义》是一款公式与变量组成的增量放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/incrementalist",
+        "enUrl": "https://geogolf.github.io/Incrementalist/",
+        "customUrl": "https://yx.g8hh.com/incrementalist",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/incrementalist",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "工厂放置",
+        "enTitle": "Factory Idle",
+        "date": "2021-10-20",
+        "update": "2017-11-11",
+        "version":"1.07",
+        "path": "idle-factory",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "益智",
+            "K站",
+            "英文",
+            "建造",
+            "策略",
+            "模拟"
+        ],
+        "content": [
+            "很好玩的放置游戏。建立工厂，控制资源运输并赚取大量资金，最终解锁全部工厂。",
+            "可以加群：205448831 和小伙伴们一起讨论最佳摆法。"
+        ],
+        "zhUrl": "https://likexia.gitee.io/idle-factory/",
+        "enUrl": "http://factoryidle.com/",
+        "kUrl": "https://www.kongregate.com/games/Baldurans/factory-idle?sfa=permalink&referrer=SunshineDad",
+        "customUrl": "https://yx.g8hh.com/idle-factory/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "http://g8hh.github.io/idle-factory",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "颜色树",
+        "enTitle": "The Color Tree",
+        "date": "2021-10-18",
+        "update": "2020-08-27",
+        "version":"Alpha 6",
+        "path": "the-color-tree",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "一款以颜色为主角的模组树游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/the-color-tree",
+        "enUrl": "https://mrredshark77.github.io/the-color-tree/",
+        "customUrl": "https://yx.g8hh.com/the-color-tree",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/the-color-tree",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2021-10-05",
-        "version":"1.149",
+        "update": "2021-10-13",
+        "version":"1.152+",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -171,13 +359,16 @@
             "声望树"
         ],
         "content": [
-            "生命树，挺好的题材。"
+            "生命树，挺好的一个题材。目前有588个成就。。是的，你没看错，588个！！！"
         ],
-        "zhUrl": "https://yx.g8hh.com/the-tree-of-life",
-        "customUrl": "https://g8hh.github.io/the-tree-of-life",
-        "customUrlTit": "备用地址-GitHub",
-        "customUrl2": "https://yhvr.me/pt/mods.html",
-        "customUrlTit2": "其它树游戏集合",
+        "zhUrl": "http://idlegame.gitee.io/the-tree-of-life/",
+        "enUrl": "http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html",
+        "customUrl": "https://yx.g8hh.com/the-tree-of-life",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/the-tree-of-life",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
         "pic": [
             1,
@@ -186,7 +377,7 @@
             4,
             5
         ],
-        "status": 0
+        "status": 1
     },
     {
         "title": "任务树",
@@ -361,8 +552,8 @@
         "title": "质量增量重制版",
         "enTitle": "Incremental Mass Rewritten",
         "date": "2021-10-09",
-        "update": "2021-10-13",
-        "version":"0.3.1.1",
+        "update": "2021-10-18",
+        "version":"0.3.2.1",
         "path": "incremental-mass-rewritten",
         "type": [
             "已汉化",
@@ -3974,8 +4165,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2021-09-19",
-        "version":"0.1.87",
+        "update": "2021-10-10",
+        "version":"0.1.88",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
