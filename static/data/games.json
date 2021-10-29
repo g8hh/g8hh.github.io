@@ -189,6 +189,107 @@
         "status": 1
     },
     {
+        "title": "增量墙",
+        "enTitle": "Incremental Wall",
+        "date": "2021-10-29",
+        "update": "2020-12-21",
+        "version":"",
+        "path": "incremental-wall",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "适配手机"
+        ],
+        "content": [
+            "《增量墙》是《增量主义》同作者的一个增量放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/incremental-wall",
+        "enUrl": "https://geogolf.github.io/Incremental-Wall/",
+        "customUrl": "https://yx.g8hh.com/incremental-wall",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/incremental-wall",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "反应堆增量",
+        "enTitle": "Idle Accelerator",
+        "date": "2021-10-11",
+        "update": "2016-04-10",
+        "version": "",
+        "path": "reactor-incremental",
+        "type": [
+            "放置",
+            "点击",
+            "K站",
+            "英文版",
+            "U3D"
+        ],
+        "content": [
+            "关于管理核反应堆的增量点击/放置游戏！ （有很多很多抽象层。）燃料电池产生电力和热量。 电力为您带来更多零件的钱，如果您积累太多，热量会让您崩溃。",
+            "这个游戏实际上很大程度上受到了 Minecraft mod IndustrialCraft 的启发。",
+            "群里小伙伴想玩，所以搬过来，英文看不懂可以在群里问哈~",
+            "因为是Unity 3D游戏，无法汉化。因为K站加载速度超级慢，所以搬过来方便大家玩。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/reactor-incremental",
+        "kUrl": "https://www.kongregate.com/games/Cael/reactor-incremental?sfa=permalink&referrer=SunshineDad",
+        "customUrl2": "https://g8hh.github.io/reactor-incremental",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "无尽的楼梯间",
+        "enTitle": "Endless Stairwell",
+        "date": "2021-10-27",
+        "update": "2021-10-27",
+        "version":"1.1.1",
+        "path": "endless-stairwell",
+        "type": [
+            "已汉化",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "冒险",
+            "养成"
+        ],
+        "content": [
+            "一款冒险探索元素的游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/endless-stairwell",
+        "enUrl": "https://demonins-item-shop.demonin.repl.co/games/endlessStairwell/",
+        "customUrl": "https://yx.g8hh.com/endless-stairwell",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/endless-stairwell",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "空值树",
         "enTitle": "The Null Tree",
         "date": "2021-10-25",
@@ -454,8 +555,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2021-10-19",
-        "version":"1.157",
+        "update": "2021-10-27",
+        "version":"1.160",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -629,8 +730,8 @@
         "title": "风雪见闻录",
         "enTitle": "Feng Xue Jian Wen Lu",
         "date": "2021-10-11",
-        "update": "2021-10-10",
-        "version": "0.023",
+        "update": "2021-10-26",
+        "version": "0.02521",
         "path": "feng-xue-jian-wen-lu",
         "type": [
             "点击",
@@ -725,8 +826,8 @@
         "title": "循环洞穴2",
         "enTitle": "Cavernous II",
         "date": "2021-10-02",
-        "update": "2021-10-16",
-        "version":"2.2.5",
+        "update": "2021-10-24",
+        "version":"2.2.9",
         "path": "cavernous2",
         "type": [
             "汉化中",
@@ -4832,8 +4933,8 @@
         "title": "我的暗黑",
         "enTitle": "My Diablo",
         "date": "2020-10-06",
-        "update": "2021-09-27",
-        "version": "1.074",
+        "update": "2021-10-26",
+        "version": "3.1",
         "path": "my-diablo",
         "type": [
             "RPG",
