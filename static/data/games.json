@@ -189,6 +189,43 @@
         "status": 1
     },
     {
+        "title": "声望矩形树",
+        "enTitle": "The Prestige Rectangle",
+        "date": "2021-11-01",
+        "update": "2021-08-30",
+        "version":"1.3",
+        "path": "the-prestige-rectangle",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "一款新颖玩法的的模组树游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/the-prestige-rectangle",
+        "enUrl": "https://gapples2.github.io/The-Prestige-Rectangle/",
+        "customUrl": "https://yx.g8hh.com/the-prestige-rectangle",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/the-prestige-rectangle",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "增量墙",
         "enTitle": "Incremental Wall",
         "date": "2021-10-29",
@@ -259,8 +296,8 @@
         "title": "无尽的楼梯间",
         "enTitle": "Endless Stairwell",
         "date": "2021-10-27",
-        "update": "2021-10-27",
-        "version":"1.1.1",
+        "update": "2021-10-31",
+        "version":"1.1.5",
         "path": "endless-stairwell",
         "type": [
             "已汉化",
@@ -826,8 +863,8 @@
         "title": "循环洞穴2",
         "enTitle": "Cavernous II",
         "date": "2021-10-02",
-        "update": "2021-10-24",
-        "version":"2.2.9",
+        "update": "2021-11-02",
+        "version":"2.2.11",
         "path": "cavernous2",
         "type": [
             "汉化中",
