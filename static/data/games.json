@@ -1,5 +1,30 @@
 [
     {
+        "title": "锅巴好货",
+        "enTitle": "G8 Shopping",
+        "date": "2021-11-03",
+        "update": "2021-11-03",
+        "version": "",
+        "path": "g8-shopping",
+        "type": [
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "锅巴的小程序，接入了外卖红包、滴滴打车、快捷购物等各种功能，欢迎大家体验。"
+        ],
+        "zhUrl": "",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
         "title": "锅巴计数器",
         "enTitle": "Guo Ba Counter",
         "date": "2020-05-22",
@@ -102,31 +127,6 @@
         "needHH": 0
     },
     {
-        "title": "林林五十音",
-        "enTitle": "Lin Lin 50 Yin",
-        "date": "2020-05-13",
-        "update": "2020-05-13",
-        "version": "",
-        "path": "lin-lin-50-yin",
-        "type": [
-            "文字",
-            "点击",
-            "益智",
-            "微信",
-            "小程序"
-        ],
-        "content": [
-            "学习日语的好帮手，再也不怕看片听不懂了~"
-        ],
-        "zhUrl": "",
-        "pic": [
-            1,
-            2
-        ],
-        "status": 1,
-        "needHH": 0
-    },
-    {
         "title": "锅巴表情包工具",
         "enTitle": "Guo Ba Emoji",
         "date": "2021-05-21",
@@ -155,6 +155,31 @@
         "status": 1
     },
     {
+        "title": "林林五十音",
+        "enTitle": "Lin Lin 50 Yin",
+        "date": "2020-05-13",
+        "update": "2020-05-13",
+        "version": "",
+        "path": "lin-lin-50-yin",
+        "type": [
+            "文字",
+            "点击",
+            "益智",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "学习日语的好帮手，再也不怕看片听不懂了~"
+        ],
+        "zhUrl": "",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 0,
+        "needHH": 0
+    },
+    {
         "title": "火爆H5页游手游大全",
         "enTitle": "h5-sy",
         "date": "2021-10-14",
@@ -178,6 +203,73 @@
         "customUrlTit": "H5页游平台",
         "customUrl2": "https://sy.gityx.com",
         "customUrlTit2": "安卓手游平台",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "宇宙收缩者",
+        "enTitle": "Universe Shrinker",
+        "date": "2021-11-03",
+        "update": "2020-12-09",
+        "version":"",
+        "path": "universe-shrinker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《宇宙收缩者》是一款《反物质维度》的换皮放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/universe-shrinker",
+        "enUrl": "https://cook1ee.github.io/universe-shrinker/",
+        "customUrl": "https://yx.g8hh.com/universe-shrinker",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/universe-shrinker",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "黑洞维度",
+        "enTitle": "Blackhole Dimensions",
+        "date": "2021-11-03",
+        "update": "2021-10-30",
+        "version":"0.271",
+        "path": "blackhole-dimensions--new-era",
+        "type": [
+            "放置",
+            "文字",
+            "点击"
+        ],
+        "content": [
+            "这又是群里的 @QwQ(放假ing) 大佬的作品的，欢迎大家体验哈~"
+        ],
+        "customUrl": "https://qwqe308.github.io/Blackhole-Dimensions--New-Era/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "http://idlegame.gitee.io/blackhole-dimensions--new-era",
+        "customUrlTit2": "锅巴搬运版",
+        "customUrl3": "https://yx.g8hh.com/blackhole-dimensions--new-era",
+        "customUrlTit3": "备用地址-g8hh",
+        "customUrl4": "https://g8hh.github.io/blackhole-dimensions--new-era",
+        "customUrlTit4": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -863,8 +955,8 @@
         "title": "循环洞穴2",
         "enTitle": "Cavernous II",
         "date": "2021-10-02",
-        "update": "2021-11-02",
-        "version":"2.2.11",
+        "update": "2021-11-03",
+        "version":"2.3.0",
         "path": "cavernous2",
         "type": [
             "汉化中",
