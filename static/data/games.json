@@ -214,6 +214,143 @@
         "status": 1
     },
     {
+        "title": "饼干点击器",
+        "enTitle": "Cookie Clicker",
+        "date": "2021-11-05",
+        "update": "2021-11-05",
+        "version":"",
+        "path": "cookieclicker",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《饼干点击器》是一款糅合《无尽的饼干》和《反物质维度》玩法的放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/cookieclicker",
+        "enUrl": "https://cook1eegames.feedia.co/cookieclicker/",
+        "customUrl": "https://yx.g8hh.com/cookieclicker",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/cookie-clicker",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "红警网页版，可联机",
+        "enTitle": "Chronodivide",
+        "date": "2021-11-05",
+        "update": "2021-11-05",
+        "version":"",
+        "path": "chronodivide",
+        "type": [
+            "汉化中",
+            "放置",
+            "策略",
+            "点击",
+            "经营",
+            "升级",
+            "联网",
+            "英文",
+            "模拟"
+        ],
+        "content": [
+            "汉化了一部分发现游戏原来内置的有多语言~登录后，在左侧下面的框里输入：/lang zhCN，但是锅巴试了好像没生效？",
+            "之前有人发过，今天突发奇想想汉化一下它，老规矩，使用外部导入方式来汉化。",
+            "进去以后简单填写个昵称、密码（密码要8位），就能看到房间列表里挤满了全世界各地的红警爱好者，不乏一眼就能看出来中文拼音的朋友。",
+            "游戏目前还处于早期阶段，但还原度已经很高了，各种细节因为使用的原版素材，就很有怀旧的味道。",
+            "可惜的是，这个网页版红警2只能联网对战，不能打电脑AI，再加上服务器在国外，延迟有些高，时不时会掉线。",
+            "外部汉化进行中，因为是网络游戏，咱们拿不到源码，只能通过外部导入汉化文件的方式汉化。",
+            "教程，锅巴已经写在第二个链接里面了，不懂的可以去群里问哈~"
+        ],
+        "enUrl": "https://game.chronodivide.com",
+        "customUrl": "https://note.youdao.com/s/2oK3ciEC",
+        "customUrlTit": "外部汉化脚本",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "在线中文DOS游戏",
+        "enTitle": "Dos",
+        "date": "2021-11-05",
+        "update": "2021-11-05",
+        "version":"",
+        "path": "dos",
+        "type": [
+            "策略",
+            "点击",
+            "经营",
+            "联网",
+            "模拟"
+        ],
+        "content": [
+            "三国志、大富翁、金庸群侠传等等经典游戏。"
+        ],
+        "customUrl": "https://dos.zczc.cz/",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "在线八位机游戏",
+        "enTitle": "PICO-8",
+        "date": "2021-11-05",
+        "update": "2021-11-05",
+        "version":"",
+        "path": "pico8",
+        "type": [
+            "汉化中",
+            "放置",
+            "策略",
+            "点击",
+            "经营",
+            "升级",
+            "联网",
+            "英文",
+            "模拟"
+        ],
+        "content": [
+            "PICO-8 (或者”Pico-8”) 是由Lexaloffle Games制作的梦幻主机，来制作，共享和玩小计算机游戏和程序。",
+            "Pico-8能够作为Windows，Mac OS X，Linux (Intel)，和树莓派程序购买。它也和PocketC.H.I.P.便携计算机捆绑在一起。购买信息请参见Pico-8网站 。",
+            "Pico-8想要表达出给1980年代小型个人计算机写程序的快乐和创造力，而没有一个晦涩难懂的平台的麻烦。规格被有意限制了，所以制作游戏又简单又有趣。这个主机有内建工具用来创造图像，声音，音乐和代码，所有都运行在主机上的128 x 128像素的屏幕上。你用Lua编程语言来给Pico-8编程。",
+            "游戏以卡带（或“卡”）形式保存，是可以在互联网上共享的小文件。你可以在Pico-8论坛上发布卡带，在那里任何人可以直接在网络浏览器里直接玩不需要Pico-8程序，讨论它，并且下载它来在程序的工具里检查它。发布卡带也可以让它从程序的Splore卡带浏览器里访问。",
+            "你也可以导出卡带，使用可以嵌入任何网页的单独播放器，适合于在如itch.io的游戏网络上商业发布。",
+            "Pico-8有一个活跃的开发者社区，数百个游戏，工具，和资源来学习怎么制作游戏。"
+        ],
+        "customUrl": "https://www.lexaloffle.com/pico-8.php",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "宇宙收缩者",
         "enTitle": "Universe Shrinker",
         "date": "2021-11-03",
@@ -684,8 +821,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2021-10-27",
-        "version":"1.160",
+        "update": "2021-11-03",
+        "version":"1.167",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -1089,7 +1226,7 @@
         "title": "资源网格",
         "enTitle": "Resource Grid",
         "date": "2021-09-26",
-        "update": "2021-10-08",
+        "update": "2021-10-30",
         "version":"",
         "path": "resource-grid",
         "type": [
