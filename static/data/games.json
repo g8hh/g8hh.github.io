@@ -214,6 +214,43 @@
         "status": 1
     },
     {
+        "title": "收集者树",
+        "enTitle": "The Collectors Tree",
+        "date": "2021-11-08",
+        "update": "2021-08-13",
+        "version":"1.3",
+        "path": "the-collectors-tree",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "一款新颖玩法的的模组树游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/the-collectors-tree",
+        "enUrl": "https://abitoftetration.github.io/The-Collectors-Tree/",
+        "customUrl": "https://yx.g8hh.com/the-collectors-tree",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/the-collectors-tree",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "饼干点击器",
         "enTitle": "Cookie Clicker",
         "date": "2021-11-05",
@@ -821,8 +858,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2021-11-03",
-        "version":"1.167",
+        "update": "2021-11-07",
+        "version":"1.171",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -1027,8 +1064,8 @@
         "title": "质量增量重制版",
         "enTitle": "Incremental Mass Rewritten",
         "date": "2021-10-09",
-        "update": "2021-10-18",
-        "version":"0.3.2.1",
+        "update": "2021-11-04",
+        "version":"0.4",
         "path": "incremental-mass-rewritten",
         "type": [
             "已汉化",
@@ -1039,7 +1076,8 @@
             "升级"
         ],
         "content": [
-            "这是《质量增量》的二次开发版本，一款以质量为主题的增量放置游戏。"
+            "这是《质量增量》的二次开发版本，一款以质量为主题的增量放置游戏。",
+            "感谢 @by22dgb 大佬跟进后续的更新、汉化。"
         ],
         "zhUrl": "http://idlegame.gitee.io/incremental-mass-rewritten",
         "enUrl": "https://mrredshark77.github.io/incremental-mass-rewritten/",
@@ -1061,7 +1099,7 @@
         "enTitle": "Wu World 3",
         "date": "2021-10-09",
         "update": "2021-10-08",
-        "version": "2.0.1",
+        "version": "2.1.6",
         "path": "wu-world-3",
         "type": [
             "点击",
@@ -1092,8 +1130,8 @@
         "title": "循环洞穴2",
         "enTitle": "Cavernous II",
         "date": "2021-10-02",
-        "update": "2021-11-03",
-        "version":"2.3.0",
+        "update": "2021-11-05",
+        "version":"2.3.2",
         "path": "cavernous2",
         "type": [
             "汉化中",
@@ -5199,8 +5237,8 @@
         "title": "我的暗黑",
         "enTitle": "My Diablo",
         "date": "2020-10-06",
-        "update": "2021-10-26",
-        "version": "3.1",
+        "update": "2021-11-03",
+        "version": "3.11103",
         "path": "my-diablo",
         "type": [
             "RPG",
