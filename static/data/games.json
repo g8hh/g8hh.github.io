@@ -25,6 +25,32 @@
         "needHH": 0
     },
     {
+        "title": "排行榜放置",
+        "enTitle": "Idle Rank",
+        "date": "2021-11-22",
+        "update": "2021-11-03",
+        "version": "1.0.5",
+        "path": "idle-rank",
+        "type": [
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "锅巴的又一款小程序，这次是多人联网互动模式的了。锅巴也是第一次使用小程序的云开发，感觉灰常棒！",
+            "目前存在若干bug，锅巴会在下个版本修复~"
+        ],
+        "zhUrl": "",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
         "title": "锅巴计数器",
         "enTitle": "Guo Ba Counter",
         "date": "2020-05-22",
@@ -152,7 +178,7 @@
             5
         ],
         "needHH":0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "林林五十音",
@@ -212,6 +238,446 @@
         ],
         "needHH": 0,
         "status": 1
+    },
+    {
+        "title": "狗子放置5",
+        "enTitle": "Dog 5",
+        "date": "2021-11-24",
+        "update": "2021-11-24",
+        "version": "2.14",
+        "path": "dog5",
+        "type": [
+            "点击",
+            "升级",
+            "挂机",
+            "原创",
+            "PC"
+        ],
+        "content": [
+            "《狗子放置5》是狗子放置1、2、3之后的又一部新作品，这次作者采用了Unity开发方式。",
+            "百度盘密码：c5mv",
+            "不能保证随时同步最新版本，可以加游戏群获取~"
+        ],
+        "weiyunUrl": "https://share.weiyun.com/uSqem0ph",
+        "baiduUrl": "https://pan.baidu.com/s/1EY-4CQUZ9WkShNvDqhOsaQ",
+        "QQ": "496088542",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "暗黑之旅",
+        "enTitle": "An Hei  Zhi Lv",
+        "update": "2021-11-24",
+        "update": "2021-11-24",
+        "path": "anheizhilv",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "挂机",
+            "联网",
+            "英文"
+        ],
+        "content": [
+            "《暗黑之旅》是一款多人在线的暗黑风格游戏，锅巴大致玩了一下，画面做的很不错。",
+            "游戏是三端互通的，电脑网页、安卓、iOS（iOS浏览器好像打不开，会卡在加载界面）。",
+            "福利码：888888 999999，在游戏左下角设置里面激活。包含1亿金币和紫色宠物蛋一个。"
+        ],
+        "customUrl": "http://xyhero.anhei.world",
+        "customUrlTit": "开始游戏",
+        "QQ": "136670957",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "合并塔",
+        "enTitle": "Tower Merge",
+        "date": "2021-11-22",
+        "update": "2021-09-12",
+        "version":"",
+        "path": "tower-merge",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《合并塔》是一款关于合并块和增加收入的游戏。 您从一座塔开始，但随后可以获得更多塔。 特殊的塔给你特殊的奖励。 尝试建造最高的塔并达到最高的数字。",
+            "还有很多声望升级。 当你有足够的钱时，你会得到金块，花它们来加速你的进度！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/tower-merge",
+        "enUrl": "https://www.crazygames.com/game/tower-merge",
+        "customUrl2": "https://g8hh.github.io/tower-merge",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "逻辑公司",
+        "enTitle": "Lorem Generator",
+        "date": "2021-11-19",
+        "update": "2021-11-19",
+        "version":"",
+        "path": "lorem-generator",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "又是一款类似《无尽的楼梯间》《时间就是金钱》这种，使用Windows98界面风格的放置游戏。",
+            "刚开始你只能自己打字获得逻辑，然后累积逻辑达到要求，就能雇佣员工，最终到达CEO的位置。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/lorem-generator",
+        "enUrl": "https://gaming-village.github.io/popups/public/index.html",
+        "customUrl": "https://yx.g8hh.com/lorem-generator/public/index.html",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/lorem-generator/public/index.html",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "连笔画：连线鲸鱼",
+        "enTitle": "Play Dot To",
+        "date": "2021-11-19",
+        "update": "2021-11-19",
+        "version": "",
+        "path": "play-dot-to",
+        "type": [
+            "已汉化",
+            "点击",
+            "益智"
+        ],
+        "content": [
+            "很可爱的小游戏，通过简单的连线操作就可以画出形象的鲸鱼，一共五关，完成的速度越快分数就越高，拿到金牌的小伙伴在下面报道！",
+            "大致玩法：",
+            "- 按数字顺序，把每个点用线连起来",
+            "- 试试能不能得到金牌！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/play-dot-to",
+        "enUrl": "https://play-dot-to.com/",
+        "customUrl": "https://yx.g8hh.com/play-dot-to",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/play-dot-to",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "无限层",
+        "enTitle": "Infinite Layers",
+        "date": "2021-11-17",
+        "update": "2021-11-17",
+        "version":"",
+        "path": "inflayers",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "又是一款模仿《反物质维度》玩法的放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/inflayers",
+        "enUrl": "https://cook1eegames.feedia.co/inflayers/",
+        "customUrl": "https://yx.g8hh.com/inflayers",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/inflayers",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "信任的进化",
+        "enTitle": "The Evolution of Trust",
+        "date": "2021-11-15",
+        "update": "2021-11-15",
+        "version":"",
+        "path": "trust",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "策略",
+            "益智"
+        ],
+        "content": [
+            "这是一款教你做人的游戏！信任自古都是一个引人思考的话题，你想被人信任吗？你想体验一个关于信任的游戏吗？",
+            "这是一个以经济学博弈论为理论基础，用生动形象的动画，演示了信任的进化的小游戏。",
+            "你猜，我这个硬币，会不会给你呀？你的每一次选择都会影响后续的发展，请做出正确的判断！",
+            "通过一个欺诈和合作的博弈小游戏，得出每个角色的受益情况，给我们全面分析了这些不同性格的人。在当今社会的生存状况下，做人既不能太友善，也不能太奸诈，“复读机”性格更能够适应人类社会。"
+        ],
+        "zhUrl": "https://dccxi.com/trust/",
+        "enUrl": "https://ncase.me/trust/",
+        "customUrl": "https://yx.g8hh.com/trust",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/trust",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "二进制数独",
+        "enTitle": "Binary Sudoku",
+        "date": "2021-11-15",
+        "update": "2021-11-15",
+        "version": "",
+        "path": "binary-sudoku",
+        "type": [
+            "已汉化",
+            "点击",
+            "益智",
+            "适配手机"
+        ],
+        "content": [
+            "一款烧脑级作品，支持多平台，智力逻辑思维小游戏，上手简单，玩转不易。不会玩的朋友可以看游戏里面的帮助。",
+            "大致玩法：",
+            "- 不允许三个红色瓷砖或三个蓝色瓷砖相连在一行或一列；",
+            "- 一个完整的行或列必须有相同数量的红色瓷砖或者蓝色瓷砖；",
+            "- 不允许任何相同的两行或两列。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/binary-sudoku",
+        "enUrl": "https://0hh1.com/",
+        "customUrl": "https://yx.g8hh.com/binary-sudoku",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/binary-sudoku",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "神奇迷宫放置",
+        "enTitle": "AMazing Idle",
+        "date": "2021-11-12",
+        "update": "2021-11-12",
+        "version":"",
+        "path": "a-mazing-idle",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "益智",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "一款以走迷宫为主题的放置游戏，玩起来很不错唷~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/a-mazing-idle",
+        "enUrl": "https://imgreghenry.github.io/A-Mazing-Idle/",
+        "customUrl": "https://yx.g8hh.com/a-mazing-idle",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/a-mazing-idle",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "眼球逃生历险记",
+        "enTitle": "Synesthesia",
+        "date": "2021-11-12",
+        "update": "2021-11-12",
+        "version":"",
+        "path": "synesthesia",
+        "type": [
+            "已汉化",
+            "动作",
+            "冒险",
+            "点击"
+        ],
+        "content": [
+            "比较有意思的一款动作冒险游戏，经典的像素画面，考究的游戏操作，关键是游戏主旨：为爱冒险，你一定会喜欢上的！",
+            "电脑上上下左右箭头操作，A是触发开关的。手机好像玩不了。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/synesthesia",
+        "enUrl": "http://synesthesiagame.com/game/",
+        "customUrl": "https://yx.g8hh.com/synesthesia",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/synesthesia",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "诈骗剧情模拟器",
+        "enTitle": "Life Restart Fraud",
+        "date": "2021-11-11",
+        "update": "2021-11-11",
+        "version":"",
+        "path": "life-restart-fraud",
+        "type": [
+            "文字",
+            "点击",
+            "益智",
+            "原创",
+            "养成",
+            "模拟"
+        ],
+        "content": [
+            "嘤嘤嘤。。。突然打不开了，大家等等看会不会恢复哈！",
+            "《人生重开模拟器》的反诈骗宣传教育版本，据作者说是警察蜀黍找作者申请授权做的。。",
+            "这样子把反诈骗知识融合在游戏里，寓教于乐，我觉得很好哇！"
+        ],
+        "customUrl": "http://103.43.17.9:8080/view/index.html",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH":0,
+        "status": 1
+    },
+    {
+        "title": "支付宝到账音效生成器",
+        "enTitle": "Say The Money",
+        "date": "2020-11-11",
+        "update": "2020-11-11",
+        "version": "",
+        "path": "say-the-money",
+        "type": [
+            "点击",
+            "益智",
+            "适配手机"
+        ],
+        "content": [
+            "《支付宝到账音效生成器》可以生成任意金额的支付宝到账音效，可以下载用于通知或者闹钟铃声。",
+            "金额可以随机生成，也可以自己输入。",
+            "想一下，在人群中突然你的手机响起：支付宝到账9999999元！是不是很装逼啊？"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/say-the-money",
+        "customUrl": "https://yx.g8hh.com/say-the-money",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/say-the-money",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "贪吃蛇",
+        "enTitle": "Tic-Tac-Toe",
+        "date": "2020-11-11",
+        "update": "2020-11-11",
+        "version": "",
+        "path": "greedy-snake",
+        "type": [
+            "点击",
+            "益智",
+            "适配手机"
+        ],
+        "content": [
+            "一款贪吃蛇小游戏，可以自适应屏幕。",
+            "手机玩的话，上下左右需要手指来滑动操作。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/greedy-snake",
+        "customUrl": "https://yx.g8hh.com/greedy-snake",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/greedy-snake",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "井字棋",
+        "enTitle": "Tic-Tac-Toe",
+        "date": "2020-11-10",
+        "update": "2020-11-10",
+        "version": "",
+        "path": "ooxx",
+        "type": [
+            "点击",
+            "益智",
+            "适配手机"
+        ],
+        "content": [
+            "井字棋，英文名叫Tic-Tac-Toe，是一种在3*3格子上进行的连珠游戏，和五子棋类似，由于棋盘一般不画边框，格线排成井字故得名。游戏需要的工具仅为纸和笔，然后由分别代表O和X的两个游戏者轮流在格子里留下标记（一般来说先手者为X），任意三个标记形成一条直线，则为获胜。"
+        ],
+        "customUrl": "http://idlegame.gitee.io/ooxx",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1,
+        "needHH": 0
     },
     {
         "title": "电力树",
@@ -462,8 +928,8 @@
         "title": "黑洞维度",
         "enTitle": "Blackhole Dimensions",
         "date": "2021-11-03",
-        "update": "2021-10-30",
-        "version":"0.271",
+        "update": "2021-11-13",
+        "version":"0.301",
         "path": "blackhole-dimensions--new-era",
         "type": [
             "放置",
@@ -895,8 +1361,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2021-11-07",
-        "version":"1.171",
+        "update": "2021-11-12",
+        "version":"180.1",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -945,7 +1411,8 @@
             "声望树"
         ],
         "content": [
-            "任务树，是一款解谜玩法的模组树。环环相扣，还是很有意思的。"
+            "任务树，是一款解谜玩法的模组树。环环相扣，还是很有意思的。",
+            "感谢 @爱学习的沉梦昂志丶 大佬帮忙修正汉化内容。"
         ],
         "zhUrl": "http://idlegame.gitee.io/tree-quest/",
         "enUrl": "https://iemory.github.io/TreeQuest/",
@@ -1167,8 +1634,8 @@
         "title": "循环洞穴2",
         "enTitle": "Cavernous II",
         "date": "2021-10-02",
-        "update": "2021-11-05",
-        "version":"2.3.2",
+        "update": "2021-11-14",
+        "version":"2.3.4",
         "path": "cavernous2",
         "type": [
             "汉化中",
@@ -5231,8 +5698,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2021-09-12",
-        "version": "0.8.9",
+        "update": "2021-09-19",
+        "version": "0.8.11",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -7436,7 +7903,8 @@
             "K站"
         ],
         "content": [
-            "带领您的英雄们永无止境的冒险！"
+            "带领您的英雄们永无止境的冒险！",
+            "感谢 @Painpain 大佬帮忙修正汉化内容。"
         ],
         "zhUrl": "http://likexia.gitee.io/incremental-adventures/",
         "kUrl": "https://www.kongregate.com/games/Gniller/incremental-adventures?sfa=permalink&referrer=SunshineDad",
