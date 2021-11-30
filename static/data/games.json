@@ -240,11 +240,143 @@
         "status": 1
     },
     {
+        "title": "属性窃取者放置",
+        "enTitle": "Stat Stealer",
+        "date": "2021-11-29",
+        "update": "2021-07-12",
+        "version":"",
+        "path": "stat-stealer",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《属性窃取者放置》是一款关于史莱姆的闲置游戏，可以吸收敌人的属性。 你与不同的怪物战斗并在胜利后获得他们的属性。 此外，你可以升级，获得装备，让你的史莱姆变得越来越强壮。 达到这个游戏的最高等级，玩得开心！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/stat-stealer",
+        "enUrl": "https://www.crazygames.com/game/stat-stealer",
+        "customUrl": "http://yx.g8hh.com/stat-stealer",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/stat-stealer",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "旋转放置重制版",
+        "enTitle": "Revolution Idle RE",
+        "date": "2021-11-29",
+        "update": "2021-05-12",
+        "version":"",
+        "path": "revolution-idle-re",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《旋转放置重制版》是《旋转放置》Flash版的重制版，一个循环放置的游戏，以获得更高的数字。",
+            "这款游戏来自同一家开发商。现在有了迷人的图像和更好的移动支持。会有更多的更新，相信它会比原来的Flash游戏更好。再次尽情玩这个2017年的酷游戏吧!",
+            "购买升级、转生、威望。更多的威望层在未来的更新!"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/revolution-idle-re",
+        "enUrl": "https://www.crazygames.com/game/revolution-idle-re",
+        "customUrl": "http://yx.g8hh.com/revolution-idle-re",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/revolution-idle-re",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "放置矿工",
+        "enTitle": "Idle Miner",
+        "date": "2021-11-26",
+        "update": "2021-10-12",
+        "version":"",
+        "path": "idle-miner",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《放置矿工》是一款关于喜欢挖矿和获取不同资源的以小猫为主角的放置游戏。 ",
+            "游戏有25种不同的资源； 您可以出售它们或使用它们来制作更好的镐。 制作越来越好的镐并深入地球深处。 此外，还有 9 项升级可帮助您获得更好的材料并制作更好的镐。 50级后，您可以通过声望使您的猫更强！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-miner",
+        "enUrl": "https://www.crazygames.com/game/idle-miner",
+        "customUrl": "http://yx.g8hh.com/idle-miner",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/idle-miner",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "飞蛾扑火放置",
+        "enTitle": "Moth Idle",
+        "date": "2021-11-26",
+        "update": "2021-11-12",
+        "version":"",
+        "path": "moth-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《飞蛾扑火放置》是一个简单的闲置游戏，你有一片灯和一些飞蛾。 飞蛾喜欢光并吸收它，每吸收一次，它们就会变得更强壮。",
+            "有 10 种不同颜色的灯，每种颜色都为这个颜色倍增器提供了奖励。 此外，还有 8 种不同的升级，例如 使飞蛾更快或获得更多光线。 有2层声望系统，您可以在其中声望或重生使飞蛾更强大。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/moth-idle",
+        "enUrl": "https://www.crazygames.com/game/moth-idle",
+        "customUrl": "http://yx.g8hh.com/moth-idle",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/moth-idle",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "狗子放置5",
         "enTitle": "Dog 5",
         "date": "2021-11-24",
         "update": "2021-11-24",
-        "version": "2.14",
+        "version": "2.16",
         "path": "dog5",
         "type": [
             "点击",
@@ -928,8 +1060,8 @@
         "title": "黑洞维度",
         "enTitle": "Blackhole Dimensions",
         "date": "2021-11-03",
-        "update": "2021-11-13",
-        "version":"0.301",
+        "update": "2021-11-25",
+        "version":"0.4",
         "path": "blackhole-dimensions--new-era",
         "type": [
             "放置",
@@ -1361,8 +1493,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2021-11-12",
-        "version":"180.1",
+        "update": "2021-11-24",
+        "version":"1.188",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -1537,8 +1669,8 @@
         "title": "风雪见闻录",
         "enTitle": "Feng Xue Jian Wen Lu",
         "date": "2021-10-11",
-        "update": "2021-10-26",
-        "version": "0.02521",
+        "update": "2021-11-16",
+        "version": "0.02626",
         "path": "feng-xue-jian-wen-lu",
         "type": [
             "点击",
@@ -1634,8 +1766,8 @@
         "title": "循环洞穴2",
         "enTitle": "Cavernous II",
         "date": "2021-10-02",
-        "update": "2021-11-14",
-        "version":"2.3.4",
+        "update": "2021-11-27",
+        "version":"2.3.6",
         "path": "cavernous2",
         "type": [
             "汉化中",
@@ -2975,8 +3107,8 @@
         "title": "酸橙经营者",
         "enTitle": "Sublime",
         "date": "2021-07-02",
-        "update": "2021-07-16",
-        "version":"0.4.3.2",
+        "update": "2021-11-29",
+        "version":"0.5.1.2",
         "path": "sublime",
         "type": [
             "已汉化",
@@ -2992,10 +3124,12 @@
         "content": [
             "一款关于酸橙的游戏，起初看英文名我还以为是那个Sublime编辑器呢..."
         ],
-        "zhUrl": "https://yx.g8hh.com/sublime",
+        "zhUrl": "http://idlegame.gitee.io/sublime/",
         "enUrl": "https://kingbecks123.github.io/Sublime/",
-        "customUrl": "https://g8hh.github.io/sublime/",
-        "customUrlTit": "备用地址-GitHub",
+        "customUrl": "http://yx.g8hh.com/sublime",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/sublime/",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -4205,8 +4339,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "JYF",
         "date": "2021-04-22",
-        "update": "2021-09-21",
-        "version":"0.6.41",
+        "update": "2021-11-21",
+        "version":"0.6.52",
         "path": "jyf",
         "type": [
             "放置",
@@ -4221,11 +4355,6 @@
             "武侠"
         ],
         "content": [
-            "注意：",
-            "正在玩 https://idlegame.gitee.io/jyf/ 这个地址的朋友，先不要刷新，点游戏右上角，导出存档。",
-            "由于锅巴我的骚操作，点错更新按钮，把 备用链接 搞废了（Gitee在整顿，没法重新发布，要等3个月后）",
-            "现在重新搞了个新链接在咱服务器上：http://yx.g8hh.com/jyf/",
-            "大家可以导入存档，或者直接去玩作者的版本。",
             "点击版本号即可进入对应版本开玩~",
             "《金庸群侠•大乱斗》是爱好者自制的游戏，仅供金庸武侠世界爱好者分享和交流，不用于商业盈利，大家可以当放置游戏玩。",
             "大部分素材来自各类金庸mod，如《金书群侠传》、《金庸群芳谱》、《金庸群侠前传》等。。",
@@ -7788,6 +7917,7 @@
         "title": "开发人生",
         "enTitle": "Dev Life",
         "date": "2019-09-01",
+        "update": "2021-10-27",
         "path": "dev-life",
         "type": [
             "汉化中",
@@ -10400,8 +10530,8 @@
         "title": "脆皮",
         "enTitle": "Trimps",
         "date": "2017-10-27",
-        "update": "2020-12-07",
-        "version": "5.4.3",
+        "update": "2021-10-18",
+        "version": "5.5.1",
         "path": "trimps",
         "type": [
             "推荐",
