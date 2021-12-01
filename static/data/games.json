@@ -240,6 +240,41 @@
         "status": 1
     },
     {
+        "title": "原型RPG",
+        "enTitle": "Proto23",
+        "date": "2021-12-01",
+        "update": "2021-12-01",
+        "version":"",
+        "path": "proto23",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《原型RPG》是一款冒险类型的RPG游戏，纯文本的，甚至游戏资源文件只有4个。",
+            "这个游戏我也记不清是从哪里发现的了，英文版地址也挂掉了。。",
+            "但是游戏真的不错，大家可以试试~",
+            "由于文本太多。汉化缓慢，大家玩着先~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/proto23",
+        "enUrl": "https://proto23.herokuapp.com/",
+        "customUrl": "http://yx.g8hh.com/proto23",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/proto23",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "属性窃取者放置",
         "enTitle": "Stat Stealer",
         "date": "2021-11-29",
@@ -387,7 +422,7 @@
         ],
         "content": [
             "《狗子放置5》是狗子放置1、2、3之后的又一部新作品，这次作者采用了Unity开发方式。",
-            "百度盘密码：c5mv",
+            "百度盘密码：tiea",
             "不能保证随时同步最新版本，可以加游戏群获取~"
         ],
         "weiyunUrl": "https://share.weiyun.com/uSqem0ph",
