@@ -240,6 +240,79 @@
         "status": 1
     },
     {
+        "title": "大数塔",
+        "enTitle": "Towers of Googology",
+        "date": "2021-12-06",
+        "update": "2021-11-26",
+        "version":"",
+        "path": "towers-of-googology",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《大数塔》是一款增量风格的英雄塔类游戏！"
+        ],
+        "zhUrl": "http://likexia.gitee.io/towers-of-googology",
+        "enUrl": "https://ducdat0507.github.io/towers/",
+        "customUrl": "http://yx.g8hh.com/towers-of-googology",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/towers-of-googology",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "梅尔沃放置",
+        "enTitle": "Melvor Idle",
+        "date": "2020-05-22",
+        "update": "2020-06-04",
+        "version": "0.15.2.1",
+        "path": "melvor-idle",
+        "type": [
+            "推荐",
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "离线",
+            "挂机",
+            "升级",
+            "冒险",
+            "联网",
+            "英文"
+        ],
+        "content": [
+            "外国的一款网络游戏，游戏内容很多，值得一玩。现在已经出了官方汉化，所以咱们的汉化可以不用了。",
+            "感谢之前 @冬天的雨 帮忙汉化、校对。",
+            "不定期更新汉化文件~所以没事儿可以刷一下~"
+        ],
+        "enUrl": "https://www.melvoridle.com/",
+        "hhUrl": "http://note.youdao.com/noteshare?id=c550acff301710204a3b283cf4f66ee8",
+        "jbUrl": "http://note.youdao.com/noteshare?id=c550acff301710204a3b283cf4f66ee8",
+        "wikiUrl": "https://wiki.melvoridle.com/index.php?title=Main_Page",
+        "QQ": "967180028",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1
+    },
+    {
         "title": "原型RPG",
         "enTitle": "Proto23",
         "date": "2021-12-01",
@@ -254,10 +327,11 @@
             "升级"
         ],
         "content": [
+            "右下角【自动保存】建议勾上，避免刷新丢档~",
             "《原型RPG》是一款冒险类型的RPG游戏，纯文本的，甚至游戏资源文件只有4个。",
             "这个游戏我也记不清是从哪里发现的了，英文版地址也挂掉了。。",
             "但是游戏真的不错，大家可以试试~",
-            "由于文本太多。汉化缓慢，大家玩着先~"
+            "由于文本太多。汉化缓慢，大家玩着先~没事儿了就刷新看看~"
         ],
         "zhUrl": "http://idlegame.gitee.io/proto23",
         "enUrl": "https://proto23.herokuapp.com/",
@@ -3178,8 +3252,8 @@
         "title": "太空公司NG",
         "enTitle": "NG Space Company",
         "date": "2021-06-28",
-        "update": "2021-09-06",
-        "version":"1.35.1",
+        "update": "2021-11-29",
+        "version":"1.37.0",
         "path": "ng-space-company",
         "type": [
             "已汉化",
@@ -7069,46 +7143,6 @@
         "status": 1
     },
     {
-        "title": "梅尔沃放置",
-        "enTitle": "Melvor Idle",
-        "date": "2020-05-22",
-        "update": "2020-06-04",
-        "version": "0.15.2.1",
-        "path": "melvor-idle",
-        "type": [
-            "推荐",
-            "汉化中",
-            "放置",
-            "文字",
-            "点击",
-            "经营",
-            "离线",
-            "挂机",
-            "升级",
-            "冒险",
-            "联网",
-            "英文"
-        ],
-        "content": [
-            "感谢 @冬天的雨 帮忙汉化、校对。",
-            "外国的一款网络游戏，游戏内容很多，值得一玩。",
-            "不定期更新汉化文件~所以没事儿可以刷一下~"
-        ],
-        "enUrl": "https://www.melvoridle.com/",
-        "hhUrl": "http://note.youdao.com/noteshare?id=c550acff301710204a3b283cf4f66ee8",
-        "jbUrl": "http://note.youdao.com/noteshare?id=c550acff301710204a3b283cf4f66ee8",
-        "wikiUrl": "https://wiki.melvoridle.com/index.php?title=Main_Page",
-        "QQ": "967180028",
-        "pic": [
-            1,
-            2,
-            3,
-            4,
-            5
-        ],
-        "status": 1
-    },
-    {
         "title": "反物质维度",
         "enTitle": "Antimatter Dimensions",
         "date": "2018-08-28",
@@ -8055,7 +8089,7 @@
         "title": "增量冒险",
         "enTitle": "Incremental Adventures",
         "date": "2019-08-14",
-        "update": "2021-07-28",
+        "update": "2021-11-11",
         "path": "incremental-adventures",
         "type": [
             "已汉化",

@@ -17,6 +17,18 @@
     "tips": "锅巴汉化，简单好记，就是当前页面地址",
     "status": 1
 },{
+    "title": "领外卖红包，就来【锅巴好货】小程序",
+    "link": "https://gityx.com/fuli/20211103/614.html",
+    "button": "前往关注",
+    "tips": "锅巴推荐，每笔消费都省钱",
+    "status": 1
+},{
+    "title": "多人在线PK，就来【排行榜放置】小程序",
+    "link": "https://mp.weixin.qq.com/s/KYxiaG8EGBCREoSq5xSaOQ",
+    "button": "前往关注",
+    "tips": "锅巴自制小程序",
+    "status": 1
+},{
     "title": "Git游戏论坛，欢迎来写攻略！",
     "link": "http://bbs.gityx.com",
     "button": "点击访问",
@@ -27,5 +39,5 @@
     "link": "http://wx.gityx.com/",
     "button": "开始游戏",
     "tips": "来一起耍啊~",
-    "status": 1
+    "status": 0
 }]
