@@ -272,6 +272,38 @@
         "status": 0
     },
     {
+        "title": "React RPG",
+        "enTitle": "React RPG",
+        "date": "2021-12-29",
+        "update": "2021-12-29",
+        "version": "1.1.0",
+        "path": "react-rpg",
+        "type": [
+            "汉化中",
+            "点击",
+            "升级",
+            "Rogue",
+            "冒险"
+        ],
+        "content": [
+            "《React RPG》是一款地牢冒险的RPG游戏，Roguelike玩法。包含两种游戏模式，剧情模式、无尽模式。",
+            "只有一条命，死亡就会重开，不过可以自行去控制台本地存储备份存档~",
+            "操作方式：上下左右箭头移动​，空格键攻击。",
+            "本游戏采用了外部汉化的方式。"
+        ],
+        "enUrl": "https://react-rpg.com/",
+        "customUrl": "https://note.youdao.com/s/5fcFV8md",
+        "customUrlTit": "外部汉化脚本",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "比特燃烧器",
         "enTitle": "Bit Burner",
         "date": "2021-12-27",
@@ -8922,7 +8954,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://likexia.gitee.io/aress",
+        "zhUrl": "http://likexia.gitee.io/ares",
         "enUrl": "https://okn1ce.github.io/Ares",
         "pic": [
             1,
