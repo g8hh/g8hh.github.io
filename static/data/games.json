@@ -272,6 +272,37 @@
         "status": 0
     },
     {
+        "title": "放置大陆",
+        "enTitle": "Idle Land",
+        "date": "2021-12-31",
+        "update": "2021-12-31",
+        "version": "",
+        "path": "idle-land",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "RPG",
+            "联网",
+            "英文"
+        ],
+        "content": [
+            "《放置大陆》是一款史诗般的放置游戏（作者说的）。",
+            "外部汉化进行中。汉化脚本导入教程，锅巴已经写在第二个链接里面了，不懂的可以去群里问哈~"
+        ],
+        "enUrl": "https://play.idle.land/",
+        "customUrl": "https://note.youdao.com/s/Llx0vYot",
+        "customUrlTit": "外部汉化脚本",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "React RPG",
         "enTitle": "React RPG",
         "date": "2021-12-29",
@@ -1602,8 +1633,8 @@
         "title": "黑洞维度",
         "enTitle": "Blackhole Dimensions",
         "date": "2021-11-03",
-        "update": "2021-11-25",
-        "version": "0.4",
+        "update": "2021-12-29",
+        "version": "0.411",
         "path": "blackhole-dimensions--new-era",
         "type": [
             "放置",
