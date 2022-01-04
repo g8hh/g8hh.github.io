@@ -272,6 +272,42 @@
         "status": 0
     },
     {
+        "title": "夸克树",
+        "enTitle": "The Quark Tree",
+        "date": "2022-01-04",
+        "update": "2022-01-04",
+        "version": "0.141",
+        "path": "the-quark-tree",
+        "type": [
+            "原创",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《夸克树》是群里 @辉影神秘 大佬制作的另一款模组树游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/the-quark-tree",
+        "customUrl": "https://shenmi124.github.io/The-Quark-Tree/",
+        "customUrlTit": "原版-Github",
+        "customUrl2": "https://yx.g8hh.com/the-quark-tree",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://g8hh.github.io/the-quark-tree",
+        "customUrlTit3": "备用地址-GitHub",
+        "customUrl4": "https://yhvr.me/pt/mods.html",
+        "customUrlTit4": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
         "title": "放置大陆",
         "enTitle": "Idle Land",
         "date": "2021-12-31",
