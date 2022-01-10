@@ -309,6 +309,43 @@
         "status": 0
     },
     {
+        "title": "皇家骰子放置",
+        "enTitle": "Royal dice: idle",
+        "date": "2022-01-10",
+        "update": "2020-04-14",
+        "version": "1.1.213",
+        "path": "royal-dice-idle",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "离线",
+            "挂机",
+            "升级",
+            "K站",
+            "英文",
+            "养成",
+            "策略"
+        ],
+        "content": [
+            "一款以科技树为主的放置游戏，没法汉化和搬运，所以是英文的，所以直接放了K站链接。"
+        ],
+        "kUrl": "https://www.kongregate.com/games/muhammad0MG/royal-dice-idle?sfa=permalink&referrer=SunshineDad",
+        "zhUrl": "http://idlegame.gitee.io/royal-dice-idle/",
+        "customUrl": "https://yx.g8hh.com/royal-dice-idle",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/royal-dice-idle",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "圣诞特辑树",
         "enTitle": "Christmas Special",
         "date": "2022-01-07",
@@ -4238,8 +4275,8 @@
         "title": "弹珠放置",
         "enTitle": "Pachinkremental",
         "date": "2021-06-07",
-        "update": "2021-07-08",
-        "version": "1.11.2",
+        "update": "2022-01-08",
+        "version": "2.0.14",
         "path": "pachinkremental",
         "type": [
             "已汉化",
@@ -4254,10 +4291,14 @@
         "content": [
             "弹珠放置，不是之前那个弹珠增量哈~游戏下面有测试版的地址，内容比正式版多了很多。"
         ],
-        "zhUrl": "http://yx.g8hh.com/pachinkremental",
+        "zhUrl": "http://idlegame.gitee.io/pachinkremental",
         "enUrl": "https://poochyexe.github.io/pachinkremental/pachinkremental.html",
-        "customUrl": "http://yx.g8hh.com/pachinkremental/beta/pachinkremental.html",
+        "customUrl": "http://idlegame.gitee.io/pachinkremental/beta/pachinkremental.html",
         "customUrlTit": "最新测试版",
+        "customUrl": "http://yx.g8hh.com/pachinkremental",
+        "customUrlTit": "最新版",
+        "customUrl2": "https://g8hh.github.io/pachinkremental/",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -4288,12 +4329,14 @@
         "content": [
             "还是声望树的Mod，这次是以工厂为主题的。"
         ],
-        "zhUrl": "http://yx.g8hh.com/the-factioree",
+        "zhUrl": "http://idlegame.gitee.io/the-factioree",
         "enUrl": "https://dystopia-user181.github.io/The-Modding-Tree/",
-        "customUrl": "https://yhvr.me/pt/mods.html",
-        "customUrlTit": "其它树游戏集合",
+        "customUrl": "http://yx.g8hh.com/the-factioree",
+        "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/the-factioree/",
         "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
         "pic": [
             1,
