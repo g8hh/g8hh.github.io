@@ -243,18 +243,20 @@
     {
         "title": "破碎空间",
         "enTitle": "Ravaged Space",
-        "date": "2021-12-17",
-        "update": "2021-12-17",
+        "date": "2022-01-12",
+        "update": "2022-01-12",
         "version": "",
         "path": "ravaged-space",
         "type": [
             "汉化中",
             "太空",
+            "益智",
+            "生存",
             "点击",
             "放置"
         ],
         "content": [
-            "《破碎空间》是一款基于文本的增量生存游戏。您的飞船在执行探索任务时被小行星击中。它损坏得很厉害。生命支持失败，大多数系统处于离线状态。你能在你的系统出现故障之前修理你的船吗？"
+            "《破碎空间》是一款基于文本的增量生存游戏。您的飞船在执行探索任务时被小行星击中。它损坏得很厉害。生命支持失败，大多数系统处于离线状态。你能在你的系统出现故障之前修理你的飞船吗？"
         ],
         "zhUrl": "http://idlegame.gitee.io/ravaged-space",
         "enUrl": "https://straker.itch.io/ravaged-space",
@@ -269,7 +271,7 @@
             4,
             5
         ],
-        "status": 0
+        "status": 1
     },
     {
         "title": "光之树+",
@@ -2420,8 +2422,8 @@
         "title": "风雪见闻录",
         "enTitle": "Feng Xue Jian Wen Lu",
         "date": "2021-10-11",
-        "update": "2021-11-16",
-        "version": "0.02626",
+        "update": "2022-01-12",
+        "version": "0.02628",
         "path": "feng-xue-jian-wen-lu",
         "type": [
             "点击",
