@@ -241,39 +241,6 @@
         "status": 1
     },
     {
-        "title": "破碎空间",
-        "enTitle": "Ravaged Space",
-        "date": "2022-01-12",
-        "update": "2022-01-12",
-        "version": "",
-        "path": "ravaged-space",
-        "type": [
-            "汉化中",
-            "太空",
-            "益智",
-            "生存",
-            "点击",
-            "放置"
-        ],
-        "content": [
-            "《破碎空间》是一款基于文本的增量生存游戏。您的飞船在执行探索任务时被小行星击中。它损坏得很厉害。生命支持失败，大多数系统处于离线状态。你能在你的系统出现故障之前修理你的飞船吗？"
-        ],
-        "zhUrl": "http://idlegame.gitee.io/ravaged-space",
-        "enUrl": "https://straker.itch.io/ravaged-space",
-        "customUrl": "https://soul-builder.g8hh.com/",
-        "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/ravaged-space",
-        "customUrlTit2": "备用地址-GitHub",
-        "pic": [
-            1,
-            2,
-            3,
-            4,
-            5
-        ],
-        "status": 1
-    },
-    {
         "title": "光之树+",
         "enTitle": "Lit+",
         "date": "2021-05-28",
@@ -309,6 +276,106 @@
             5
         ],
         "status": 0
+    },
+    {
+        "title": "错列放置",
+        "enTitle": "Alternation",
+        "date": "2022-01-14",
+        "update": "2022-01-14",
+        "version": "",
+        "path": "alternation",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "类似反物质维度，流程短。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/alternation",
+        "enUrl": "https://flamemasternxf.github.io/Alternation/",
+        "customUrl": "https://soul-builder.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/alternation",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "燃烧树",
+        "enTitle": "The Burning Tree",
+        "date": "2022-01-14",
+        "update": "2022-01-14",
+        "version": "0.2.0",
+        "path": "the-burning-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "声望树的又一个Mod，玩法很是新颖，值得一试。流程很短。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/lit-plus/",
+        "enUrl": "https://thefinaluptake.github.io/The-Burning-Tree/",
+        "customUrl": "https://yx.g8hh.com/lit",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/lit",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "破碎空间",
+        "enTitle": "Ravaged Space",
+        "date": "2022-01-12",
+        "update": "2022-01-12",
+        "version": "",
+        "path": "ravaged-space",
+        "type": [
+            "汉化中",
+            "太空",
+            "益智",
+            "生存",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "《破碎空间》是一款基于文本的增量生存游戏。您的飞船在执行探索任务时被小行星击中。它损坏得很厉害。生命支持失败，大多数系统处于离线状态。你能在你的系统出现故障之前修理你的飞船吗？"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/ravaged-space",
+        "enUrl": "https://straker.itch.io/ravaged-space",
+        "customUrl": "https://soul-builder.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/ravaged-space",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
     },
     {
         "title": "皇家骰子放置",
@@ -6348,8 +6415,12 @@
         ],
         "zhUrl": "http://idlegame.gitee.io/the-dynas-tree",
         "enUrl": "https://ducdat0507.github.io/thedynastree/",
-        "customUrl": "https://yhvr.me/pt/mods.html",
-        "customUrlTit": "其它树游戏集合",
+        "customUrl": "https://yx.g8hh.com/the-dynas-tree",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/the-dynas-tree",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
         "pic": [
             1,
