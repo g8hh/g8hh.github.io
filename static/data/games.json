@@ -278,6 +278,98 @@
         "status": 0
     },
     {
+        "title": "文物发掘放置",
+        "enTitle": "Relics",
+        "date": "2022-01-19",
+        "update": "2022-01-19",
+        "version": "",
+        "path": "relics",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "《文物发掘放置》是一款模拟考古的放置游戏，内容不算多。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/relics",
+        "enUrl": "https://bearhanded.github.io/relics/",
+        "customUrl": "https://yx.g8hh.com/relics",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/relics",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "合并个球",
+        "enTitle": "Yet Another Merge Game",
+        "date": "2021-03-05",
+        "update": "2021-12-11",
+        "version": "1.2",
+        "path": "yet-another-merge-game",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            ""
+        ],
+        "zhUrl": "http://idlegame.gitee.io/yet-another-merge-game",
+        "enUrl": "https://veprogames.github.io/yet-another-merge-game/",
+        "customUrl": "http://yx.g8hh.com/yet-another-merge-game",
+        "customUrlTit": "最新版",
+        "customUrl2": "https://g8hh.github.io/yet-another-merge-game",
+        "customUrlTit2": "备用地址-GitHub",
+        "kUrl": "https://www.kongregate.com/games/cook1eegames/yet-another-merge-game?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
+        "title": "克隆军队点击器",
+        "enTitle": "Clone Armies Clicker",
+        "date": "2022-01-17",
+        "update": "2022-01-17",
+        "version": "",
+        "path": "clone-armies-clicker",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "《克隆军队点击器》是一款参考了《无尽的饼干》玩法的放置游戏，这款游戏很棒（不是我说的，作者说的）！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/clone-armies-clicker",
+        "enUrl": "https://clonebloons.github.io/CloneArmiesClicker/",
+        "customUrl": "https://yx.g8hh.com/clone-armies-clicker",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/alternation",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "错列放置",
         "enTitle": "Alternation",
         "date": "2022-01-14",
@@ -326,11 +418,11 @@
         "content": [
             "声望树的又一个Mod，玩法很是新颖，值得一试。流程很短。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/lit-plus/",
+        "zhUrl": "http://idlegame.gitee.io/the-burning-tree",
         "enUrl": "https://thefinaluptake.github.io/The-Burning-Tree/",
-        "customUrl": "https://yx.g8hh.com/lit",
+        "customUrl": "https://yx.g8hh.com/the-burning-tree",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/lit",
+        "customUrl2": "https://g8hh.github.io/the-burning-tree",
         "customUrlTit2": "备用地址-GitHub",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -2489,8 +2581,8 @@
         "title": "风雪见闻录",
         "enTitle": "Feng Xue Jian Wen Lu",
         "date": "2021-10-11",
-        "update": "2022-01-12",
-        "version": "0.02628",
+        "update": "2022-01-17",
+        "version": "0.02629_3",
         "path": "feng-xue-jian-wen-lu",
         "type": [
             "点击",
@@ -2554,8 +2646,8 @@
         "title": "武世界3",
         "enTitle": "Wu World 3",
         "date": "2021-10-09",
-        "update": "2021-10-08",
-        "version": "2.1.6",
+        "update": "2022-01-17",
+        "version": "2.352",
         "path": "wu-world-3",
         "type": [
             "点击",
@@ -4672,8 +4764,12 @@
         "content": [
             "《偶像点击放置》是一款模拟打造偶像的放置游戏。就像你开了一家经纪公司，打造包装出一系列的明星，通过吸引粉丝来赚$。"
         ],
-        "zhUrl": "http://yx.g8hh.com/idol/",
+        "zhUrl": "http://idlegame.gitee.io/idol",
         "enUrl": "https://nyanpals.com/idol/",
+        "customUrl": "http://yx.g8hh.com/idol",
+        "customUrlTit": "最新版",
+        "customUrl2": "https://g8hh.github.io/idol",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -4701,7 +4797,11 @@
         "content": [
             "一个有关升级并找出更多实现方法的游戏。该游戏需要很多放置时间，但可以通过了解游戏来加快速度。要解锁您的第一个放置选项，请在解锁“睡眠”后放置。"
         ],
-        "zhUrl": "http://yx.g8hh.com/all-the-levels/",
+        "zhUrl": "http://idlegame.gitee.io/all-the-levels/",
+        "customUrl": "http://yx.g8hh.com/all-the-levels",
+        "customUrlTit": "最新版",
+        "customUrl2": "https://g8hh.github.io/all-the-levels/",
+        "customUrlTit2": "备用地址-GitHub",
         "kUrl": "https://www.kongregate.com/games/lom1222/all-the-levels?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -4852,10 +4952,12 @@
         "content": [
             "多项式成长增量游戏，受反物质维度的启发，具有更新功能。 完成所有更新，然后将“黑暗维度”转换为其他内容！"
         ],
-        "zhUrl": "http://yx.g8hh.com/version-control",
+        "zhUrl": "http://idlegame.gitee.io/version-control",
         "enUrl": "https://semenar.itch.io/version-control",
-        "customUrl": "https://g8hh.github.io/version-control/",
-        "customUrlTit": "备用地址-GitHub",
+        "customUrl": "http://yx.g8hh.com/version-control",
+        "customUrlTit": "最新版",
+        "customUrl2": "https://g8hh.github.io/version-control/",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -5924,33 +6026,6 @@
         "status": 1
     },
     {
-        "title": "合并个球",
-        "enTitle": "Yet Another Merge Game",
-        "date": "2021-03-05",
-        "update": "2021-03-05",
-        "version": "",
-        "path": "yet-another-merge-game",
-        "type": [
-            "已汉化",
-            "放置",
-            "点击",
-            "挂机",
-            "升级"
-        ],
-        "content": [
-            ""
-        ],
-        "zhUrl": "http://idlegame.gitee.io/yet-another-merge-game",
-        "kUrl": "https://www.kongregate.com/games/cook1eegames/yet-another-merge-game?sfa=permalink&referrer=SunshineDad",
-        "pic": [
-            1,
-            2,
-            3,
-            4
-        ],
-        "status": 1
-    },
-    {
         "title": "恐龙快跑",
         "enTitle": "Dinosaur Run",
         "date": "2021-03-05",
@@ -6056,6 +6131,10 @@
         ],
         "zhUrl": "http://idlegame.gitee.io/progress-knight/",
         "enUrl": "https://ihtasham42.github.io/progress-knight/",
+        "customUrl": "https://yx.g8hh.com/progress-knight",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/progress-knight",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -7846,11 +7925,11 @@
         "status": 1
     },
     {
-        "title": "末日崛起",
+        "title": "末日崛起 2",
         "enTitle": "Mo Ri Jue Qi",
         "date": "2020-05-27",
-        "update": "2020-07-13",
-        "version": "4.01",
+        "update": "2022-01-07",
+        "version": "1.53",
         "path": "mo-ri-jue-qi",
         "type": [
             "点击",
@@ -7864,6 +7943,7 @@
         ],
         "weiyunUrl": "https://share.weiyun.com/Ahd4eouc",
         "baiduUrl": "https://pan.baidu.com/s/1a-v8TFK3jIby_aRZWd3X6g",
+        "QQ": "453817190",
         "pic": [
             1,
             2
@@ -11330,8 +11410,8 @@
         "title": "脆皮",
         "enTitle": "Trimps",
         "date": "2017-10-27",
-        "update": "2021-12-10",
-        "version": "5.6.2",
+        "update": "2021-12-31",
+        "version": "5.6.5",
         "path": "trimps",
         "type": [
             "推荐",
@@ -11348,12 +11428,11 @@
             "这是个有点类似《小黑屋》的挂机类文字经营游戏。在这个世界我们要捕捉驯养一种名为trimp（咱们称之为：脆皮）的生物，让它们繁衍，为你采集食物、树木、金属甚至研发科技点数。也有地图可以战斗，不过派去战斗是trimp而不是我们的人物。战斗途中可以获得资源和不少解锁，主要为各种升级解锁和trimp们的装备解锁。另外，这个游戏在你关闭之后也会为你挂机。"
         ],
         "QQ": "831779769",
+        "zhUrl": "http://likexia.gitee.io/cuipi/",
         "customUrl": "https://yx.g8hh.com/cuipi/",
         "customUrlTit": "汉化版-g8hh",
-        "customUrl3": "https://g8hh.github.io/cuipi/",
-        "customUrlTit3": "备用地址-GitHub",
-        "customUrl2": "http://likexia.gitee.io/cuipi/",
-        "customUrlTit2": "汉化版-已挂",
+        "customUrl2": "https://g8hh.github.io/cuipi/",
+        "customUrlTit2": "备用地址-GitHub",
         "enUrl": "http://trimps.github.io/",
         "kUrl": "https://www.kongregate.com/games/GreenSatellite/trimps?sfa=permalink&referrer=SunshineDad",
         "pic": [
