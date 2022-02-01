@@ -278,6 +278,144 @@
         "status": 0
     },
     {
+        "title": "新年树",
+        "enTitle": "Happy Lunar New Year Tree",
+        "date": "2022-02-02",
+        "update": "2022-01-02",
+        "version": "2022.2.1",
+        "path": "the-factory-of-automation",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《新年树》是群里的 @QwQ(放假ing) 大佬花费了13个小时，赶在春节时候做出来的树，迫不及待的想给大家玩玩~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/happy-lunar-new-year-tree",
+        "enUrl": "https://qwqe308.github.io/Happy-Lunar-New-Year-Tree/",
+        "customUrl": "https://yx.g8hh.com/happy-lunar-new-year-tree",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/happy-lunar-new-year-tree",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "筑基",
+        "enTitle": "Zhu Ji",
+        "date": "2022-01-21",
+        "update": "2022-01-21",
+        "version": "0.0.1",
+        "path": "zhu-ji",
+        "type": [
+            "放置",
+            "原创",
+            "文字",
+            "点击",
+            "挂机",
+            "修仙"
+        ],
+        "content": [
+            "《魔法理论群》的 @Mr.Pldada 小伙伴在《魔法理论群》的基础上进行了二次开发，搞了一个修仙版本。",
+            "目前还在开发中，锅巴特此推荐~欢迎小伙伴们体验！"
+        ],
+        "customUrl": "http://mostlai.ink/HD-TEST/",
+        "customUrlTit": "开始游戏",
+        "customUrl4": "https://qm.qq.com/cgi-bin/qm/qr?k=_WETFhR5KeqdgsMcbxUgIltMCRA_Py3Y&jump_from=webapi",
+        "customUrlTit4": "加入魔法理论群",
+        "QQ": "281738137",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "黏黏世界塔",
+        "enTitle": "Tower Builder",
+        "date": "2022-01-21",
+        "update": "2022-01-21",
+        "version": "",
+        "path": "tower-builder",
+        "type": [
+            "益智",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "《黏黏世界塔》是一款关于量子力学知识的游戏。游戏中的目标是建造一座足够稳定的塔，以达到目标。为此，您可以为塔建立一个稳定的基础，并在前进的过程中继续稳定它。",
+            "您的塔需要保持平衡几秒钟才能完成关卡。随着您的进步，难度级别会增加，目标点会更高。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/tower-builder",
+        "enUrl": "https://www.scienceathome.org/games/tower-builder/play-tower-builder-v2/",
+        "customUrl": "https://yx.g8hh.com/tower-builder",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/tower-builder",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "自动化工厂",
+        "enTitle": "The Factory Of Automation",
+        "date": "2022-01-19",
+        "update": "2022-01-19",
+        "version": "0.3",
+        "path": "the-factory-of-automation",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《自动化工厂》是一款工厂类的放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/the-factory-of-automation/",
+        "enUrl": "https://jacorb90.me/The-Factory-Of-Automation/",
+        "customUrl": "https://yx.g8hh.com/the-factory-of-automation",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/the-factory-of-automation",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "文物发掘放置",
         "enTitle": "Relics",
         "date": "2022-01-19",
@@ -305,7 +443,7 @@
             4,
             5
         ],
-        "status": 0
+        "status": 1
     },
     {
         "title": "合并个球",
