@@ -278,6 +278,76 @@
         "status": 0
     },
     {
+        "title": "吸血鬼幸存者",
+        "enTitle": "Vampire Survivors",
+        "date": "2022-02-11",
+        "update": "2022-02-11",
+        "version": "",
+        "path": "vampire-survivors",
+        "type": [
+            "汉化中",
+            "生存",
+            "升级",
+            "Rogue",
+            "冒险"
+        ],
+        "content": [
+            "收割成千上万的夜间生物并生存到黎明！",
+            " 《吸血鬼幸存者》 是一款带有 rogue-lite 元素的哥特式恐怖休闲游戏，您的选择可以让您快速滚雪球，对抗向您蜂拥而来的数百个怪物。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/vampire-survivors",
+        "enUrl": "https://poncle.itch.io/vampire-survivors",
+        "customUrl": "https://yx.g8hh.com/vampire-survivors",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/vampire-survivors",
+        "customUrlTit2": "备用地址-GitHub",
+        "steamUrl": "https://store.steampowered.com/app/259680/Tales_of_MajEyal/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1
+    },
+    {
+        "title": "时间到了",
+        "enTitle": "There Was Time Now",
+        "date": "2022-02-09",
+        "update": "2022-02-09",
+        "version": "0.7",
+        "path": "there-was-time-now",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《时间到了》是一款以 “科技” 和 “时间” 为主题的放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/there-was-time-now",
+        "enUrl": "https://pbr4ne.github.io/there-was-time-now/",
+        "customUrl": "https://yx.g8hh.com/there-was-time-now",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/there-was-time-now",
+        "customUrlTit2": "备用地址-GitHub",
+        "QQ": "",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "新年树",
         "enTitle": "Happy Lunar New Year Tree",
         "date": "2022-02-02",
@@ -391,8 +461,7 @@
             "文字",
             "点击",
             "挂机",
-            "升级",
-            "声望树"
+            "升级"
         ],
         "content": [
             "《自动化工厂》是一款工厂类的放置游戏。"
