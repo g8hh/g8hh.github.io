@@ -243,8 +243,8 @@
     {
         "title": "光之树+",
         "enTitle": "Lit+",
-        "date": "2021-05-28",
-        "update": "2021-05-27",
+        "date": "2022-02-14",
+        "update": "2022-02-14",
         "version": "1.0",
         "path": "lit-plus",
         "type": [
@@ -276,6 +276,43 @@
             5
         ],
         "status": 0
+    },
+    {
+        "title": "增量开发树",
+        "enTitle": "The Incremental Dev Tree",
+        "date": "2022-02-14",
+        "update": "2022-02-14",
+        "version": "1.1",
+        "path": "the-modding-tree-omeganum",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "声望树的又一个Mod，玩法很是新颖，值得一试。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/the-modding-tree-omeganum/",
+        "enUrl": "https://icecreamdudes.github.io/The-Modding-Tree-Omeganum/",
+        "customUrl": "https://yx.g8hh.com/the-modding-tree-omeganum",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/the-modding-tree-omeganum",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
     },
     {
         "title": "吸血鬼幸存者",
