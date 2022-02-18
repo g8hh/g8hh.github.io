@@ -278,6 +278,77 @@
         "status": 0
     },
     {
+        "title": "时间函数树",
+        "enTitle": "The Function of Time",
+        "date": "2022-02-18",
+        "update": "2022-02-18",
+        "version": "1.4.n+",
+        "path": "the-function-of-time",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "声望树的又一个Mod，玩法很是新颖，值得一试。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/the-function-of-time/",
+        "enUrl": "https://mikosss.github.io/The-Modding-Tree/",
+        "customUrl": "https://yx.g8hh.com/the-function-of-time",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/the-function-of-time",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "升级链",
+        "enTitle": "Tree Game Rewritten",
+        "date": "2022-02-16",
+        "update": "2022-02-16",
+        "version": "",
+        "path": "tg-rewritten",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《升级链》是一款类似树，但是不是树的放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/tg-rewritten",
+        "enUrl": "https://yhvr.me/tg/",
+        "customUrl": "https://yx.g8hh.com/tg-rewritten",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/tg-rewritten",
+        "customUrlTit2": "备用地址-GitHub",
+        "QQ": "",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "增量开发树",
         "enTitle": "The Incremental Dev Tree",
         "date": "2022-02-14",
@@ -6466,8 +6537,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2021-12-28",
-        "version": "0.1.94",
+        "update": "2022-22-09",
+        "version": "0.1.96",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
