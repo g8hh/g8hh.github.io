@@ -21,6 +21,54 @@
             4,
             5
         ],
+        "status": 0,
+        "needHH": 0
+    },
+    {
+        "title": "美团、饿了么外卖大红包，每天可领",
+        "enTitle": "",
+        "date": "2022-02-25",
+        "update": "2022-02-25",
+        "version": "",
+        "path": "waimai",
+        "type": [
+            "经营"
+        ],
+        "content": [
+            "点外卖前，先扫码领红包，帮你省钱，欢迎大家使用。"
+        ],
+        "zhUrl": "",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "各种网站、APP超低价会员",
+        "enTitle": "",
+        "date": "2022-02-25",
+        "update": "2022-02-25",
+        "version": "",
+        "path": "vip",
+        "type": [
+            "经营"
+        ],
+        "content": [
+            "各种网站、APP的会员，可以超低价购买，帮你省钱，欢迎大家体验。"
+        ],
+        "zhUrl": "",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
         "status": 1,
         "needHH": 0
     },
@@ -276,6 +324,113 @@
             5
         ],
         "status": 0
+    },
+    {
+        "title": "宇宙时间",
+        "enTitle": "Universe Time",
+        "date": "2022-02-25",
+        "update": "2022-02-25",
+        "version": "",
+        "path": "universe-time",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《宇宙时间》是《物质增量重制版》作者的另一个游戏。用作者的话，这个游戏流程大概3小时（其实并不~）",
+            "游戏目标：达到137.7亿年！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/universe-time",
+        "enUrl": "https://mrredshark77.github.io/Universe-Time/",
+        "customUrl": "https://yx.g8hh.com/universe-time",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/universe-time",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "存在模拟器",
+        "enTitle": "Existence Simulator",
+        "date": "2022-02-23",
+        "update": "2022-02-23",
+        "version": "",
+        "path": "existence-simulator",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "模拟",
+            "升级"
+        ],
+        "content": [
+            "《存在模拟器》是一款模拟人生类的游戏。",
+            "游戏目标是：尽可能的活下去！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/existence-simulator",
+        "enUrl": "https://jelworks.itch.io/existence-simulator",
+        "customUrl": "https://yx.g8hh.com/existence-simulator",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/existence-simulator",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "股市放置",
+        "enTitle": "Stonk Idle",
+        "date": "2022-02-21",
+        "update": "2022-02-21",
+        "version": "0.7",
+        "path": "stonk-idle",
+        "type": [
+            "汉化中",
+            "放置",
+            "经营",
+            "文字",
+            "点击",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "《股市放置》是一款模拟炒股的放置游戏，在这个股票市场模拟器中，您可以将资金投资于不同的业务，并尝试获得尽可能多的收入。 ",
+            "注意：这只是游戏，现实生活中请勿轻易碰股票，很容易赔得裤衩都不剩。。",
+            "提示： ",
+            "1、把你的钱投资在股票上；",
+            "2、用你感兴趣的收入去上学（先学商店）；",
+            "3、尝试获得更多的利息期，这样您的利息收入就不会停止；",
+            "4、致富。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/stonk-idle",
+        "enUrl": "https://timtimtstuff.itch.io/idlestonks",
+        "customUrl": "https://yx.g8hh.com/stonk-idle",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/stonk-idle",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
     },
     {
         "title": "时间函数树",
@@ -2720,8 +2875,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2021-12-27",
-        "version": "1.230",
+        "update": "2022-02-13",
+        "version": "1.268+2",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -2961,8 +3116,8 @@
         "title": "武世界3",
         "enTitle": "Wu World 3",
         "date": "2021-10-09",
-        "update": "2022-01-17",
-        "version": "2.352",
+        "update": "2022-02-08",
+        "version": "2.381",
         "path": "wu-world-3",
         "type": [
             "点击",
