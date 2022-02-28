@@ -321,6 +321,38 @@
         "status": 0
     },
     {
+        "title": "无尽的字母",
+        "enTitle": "Unlimited Alphabets",
+        "date": "2022-02-28",
+        "update": "2022-02-28",
+        "version": "1.0.2",
+        "path": "unlimited-alphabets",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "这个还是《合并增量》《宇宙时间》《电气增量》等游戏作者的另一个作品~"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/unlimited-alphabets",
+        "enUrl": "https://mrredshark77.github.io/unlimited-alphabets/",
+        "customUrl": "https://yx.g8hh.com/universe-time",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/universe-time",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "宇宙时间",
         "enTitle": "Universe Time",
         "date": "2022-02-25",
@@ -4437,9 +4469,12 @@
         "content": [
             "《平衡升级》是一款关于平衡数值的放置游戏。"
         ],
-        "zhUrl": "https://yx.g8hh.com/the-balanced-game/",
-        "customUrl": "https://g8hh.github.io/the-balanced-game/",
-        "customUrlTit": "备用地址-GitHub",
+        "zhUrl": "http://idlegame.gitee.io/the-balanced-game/",
+        "enUrl": "https://mrredshark77.github.io/The-Balanced-Game/",
+        "customUrl": "https://yx.g8hh.com/the-balanced-game/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/the-balanced-game/",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -4468,9 +4503,12 @@
         "content": [
             "新的一款放置游戏。"
         ],
-        "zhUrl": "https://yx.g8hh.com/electrical-incremental",
-        "customUrl": "https://g8hh.github.io/electrical-incremental/",
-        "customUrlTit": "备用地址-GitHub",
+        "zhUrl": "http://idlegame.gitee.io/electrical-incremental/",
+        "enUrl": "https://mrredshark77.github.io/Electrical-Incremental/",
+        "customUrl": "https://yx.g8hh.com/electrical-incremental",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/electrical-incremental/",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -6565,6 +6603,10 @@
             "很有意思的合并、升级类放置游戏，带有转生系统。"
         ],
         "zhUrl": "http://idlegame.gitee.io/incremental-merge",
+        "customUrl": "https://yx.g8hh.com/incremental-merge",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/incremental-merge",
+        "customUrlTit2": "备用地址-GitHub",
         "enUrl": "https://mrredshark77.github.io/incremental-merge/",
         "pic": [
             1,
