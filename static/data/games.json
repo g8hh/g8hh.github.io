@@ -321,6 +321,75 @@
         "status": 0
     },
     {
+        "title": "转生链",
+        "enTitle": "The Prestige Chain",
+        "date": "2022-03-09",
+        "update": "2022-03-09",
+        "version": "8.47",
+        "path": "the-prestige-chain",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《生命树》作者的又一个Mod，玩法很是新颖，值得一试。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/the-prestige-chain",
+        "enUrl": "http://raw.githack.com/pg132/The-Modding-Tree/buyables/index.html",
+        "customUrl": "https://yx.g8hh.com/the-prestige-chain",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/the-prestige-chain",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "银河商人",
+        "enTitle": "Galaxy Trader",
+        "date": "2022-03-04",
+        "update": "2022-03-04",
+        "version": "0.0.3",
+        "path": "galaxy-trader",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《银河商人》是一款模拟经营类的太空元素放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/galaxy-trader",
+        "enUrl": "https://idle-js-games.github.io/GalaxyTrader/",
+        "customUrl": "https://yx.g8hh.com/galaxy-trader",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/galaxy-trader",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "无尽的字母",
         "enTitle": "Unlimited Alphabets",
         "date": "2022-02-28",
