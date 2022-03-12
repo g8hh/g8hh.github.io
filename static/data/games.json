@@ -321,6 +321,38 @@
         "status": 0
     },
     {
+        "title": "招聘市场放置",
+        "enTitle": "Idle Job Market",
+        "date": "2022-03-11",
+        "update": "2022-03-11",
+        "version": "0.2",
+        "path": "idle-job-market",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《招聘市场放置》是一款模拟经营类型的放置游戏，您可以在其中选择在各种职业中表现出色以接管世界。 游戏具有广泛的天赋系统和复杂的进度系统，以确保可重玩性。 现在准备好接管世界！"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-job-market",
+        "enUrl": "https://swingshock.itch.io/idle-job-market",
+        "customUrl": "https://yx.g8hh.com/idle-job-market",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/idle-job-market",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "转生链",
         "enTitle": "The Prestige Chain",
         "date": "2022-03-09",
@@ -6543,8 +6575,8 @@
         "title": "掉了个球",
         "enTitle": "Plinko Idle",
         "date": "2021-03-15",
-        "update": "2021-03-12",
-        "version": "0.1.4",
+        "update": "2022-03-09",
+        "version": "0.1.6",
         "path": "plinko-idle",
         "type": [
             "汉化中",
@@ -6561,6 +6593,11 @@
             "球多掉下去一层，就多得一次钱~"
         ],
         "zhUrl": "http://idlegame.gitee.io/plinko-idle/",
+        "enUrl": "https://lomaz.itch.io/idle-plinko",
+        "customUrl": "https://yx.g8hh.com/plinko-idle",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/plinko-idle",
+        "customUrlTit2": "备用地址-GitHub",
         "kUrl": "https://www.kongregate.com/games/Zamol/the-black-box?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
