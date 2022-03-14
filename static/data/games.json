@@ -321,6 +321,39 @@
         "status": 0
     },
     {
+        "title": "地下世界放置",
+        "enTitle": "Underworld Idle",
+        "date": "2022-03-14",
+        "update": "2022-03-14",
+        "version": "",
+        "path": "underworld-idle",
+        "type": [
+            "英文",
+            "放置",
+            "文字",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "一款放置类型的地下城管理游戏，高级单位可以创建低级单位。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/underworld-idle",
+        "enUrl": "https://echa.itch.io/underworld-idle",
+        "customUrl": "https://yx.g8hh.com/underworld-idle",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/underworld-idle",
+        "customUrlTit2": "备用地址-GitHub",
+        "steamUrl": "https://store.steampowered.com/app/1540960/Underworld_Idle/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "招聘市场放置",
         "enTitle": "Idle Job Market",
         "date": "2022-03-11",
