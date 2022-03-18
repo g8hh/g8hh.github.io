@@ -321,6 +321,36 @@
         "status": 0
     },
     {
+        "title": "戳泡泡放置",
+        "enTitle": "Pop It Idle",
+        "date": "2022-03-18",
+        "update": "2022-03-18",
+        "version": "",
+        "path": "pop-it-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《戳泡泡放置》是一款放置游戏，可以尽可能多地戳泡泡。购买不同的升级、制作光标、收集宝石，还可以购买会为您戳泡泡的帮手。 "
+        ],
+        "zhUrl": "http://idlegame.gitee.io/pop-it-idle",
+        "enUrl": "https://www.crazygames.com/game/pop-it-idle",
+        "customUrl": "https://yx.g8hh.com/pop-it-idle",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/pop-it-idle",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "匿名修仙",
         "enTitle": "Ni Ming Xiu Xian",
         "date": "2022-03-16",
@@ -341,7 +371,7 @@
             "《匿名修仙》是之前《云顶修仙》作者的新作品，玩法跟之前类似。"
         ],
         "zhUrl": "https://game.nimingxx.com",
-        "QQ": "173059029",
+        "QQ": "348148551",
         "pic": [
             1,
             2,
