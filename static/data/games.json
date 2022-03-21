@@ -321,6 +321,39 @@
         "status": 0
     },
     {
+        "title": "被遗忘的国度之放置勇士",
+        "enTitle": "Idle Champions of the Forgotten Realms",
+        "date": "2022-03-21",
+        "update": "2022-03-21",
+        "version": "",
+        "path": "idle-champions-of-the-forgotten-realms",
+        "type": [
+            "放置",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "冒险",
+            "Steam",
+            "策略"
+        ],
+        "content": [
+            "《被遗忘的国度之放置勇士》是一款官方授权的 Dungeons & Dragons 战略经营视频游戏，在一段史诗般的冒险旅程中向您呈现各种小说、活动和表演中的标志性人物。"
+        ],
+        "customUrl": "https://gityx.com/computer/steam/20220321/700.html",
+        "customUrlTit": "宝箱码集合",
+        "steamUrl": "https://store.steampowered.com/app/1351500/SimPocalypse/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "戳泡泡放置",
         "enTitle": "Pop It Idle",
         "date": "2022-03-18",
@@ -9980,6 +10013,10 @@
             "游戏不能直接刷新哦，刷新可能会404错误。请把链接删除到：/villager-kings/后面这个位置，回车即可继续游戏。"
         ],
         "zhUrl": "http://likexia.gitee.io/villager-kings/",
+        "customUrl": "https://yx.g8hh.com/villager-kings",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/villager-kings",
+        "customUrlTit2": "备用地址-GitHub",
         "kUrl": "https://www.kongregate.com/games/Xamer/villager-kings?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
