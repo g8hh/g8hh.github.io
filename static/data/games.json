@@ -321,6 +321,73 @@
         "status": 0
     },
     {
+        "title": "Tubas树重制版",
+        "enTitle": "Tubas Tree Rewritten",
+        "date": "2022-03-25",
+        "update": "2022-03-25",
+        "version": "0.1",
+        "path": "tubas-tree-rewritten",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "又一个模组树的Mod，玩法很是新颖，值得一试。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/tubas-tree-rewritten",
+        "enUrl": "https://randomtuba.github.io/Tubas-Tree-Rewritten/",
+        "customUrl": "https://yx.g8hh.com/tubas-tree-rewritten",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/tubas-tree-rewritten",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "代数递进重制版",
+        "enTitle": "Algebraic Progression",
+        "date": "2022-03-23",
+        "update": "2022-03-23",
+        "version": "",
+        "path": "algebraic-progression",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《代数递进重制版》是一款数学元素的游戏，在这个游戏中，你从几座建筑开始，必须获得 X 和 Y 才能解锁新内容！该游戏拥有一系列成就、许多机制、自动化和声望层。 "
+        ],
+        "zhUrl": "http://idlegame.gitee.io/algebraic-progression",
+        "enUrl": "https://randomtuba.github.io/Algebraic-Progression/",
+        "customUrl": "https://yx.g8hh.com/algebraic-progression",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/algebraic-progression",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "被遗忘的国度之放置勇士",
         "enTitle": "Idle Champions of the Forgotten Realms",
         "date": "2022-03-21",
@@ -3404,8 +3471,8 @@
         "title": "循环洞穴2",
         "enTitle": "Cavernous II",
         "date": "2021-10-02",
-        "update": "2021-11-27",
-        "version": "2.3.6",
+        "update": "2022-02-25",
+        "version": "2.4.12",
         "path": "cavernous2",
         "type": [
             "汉化中",
@@ -7025,7 +7092,7 @@
         "title": "能量发生器",
         "enTitle": "Energy Generator",
         "date": "2021-01-27",
-        "update": "2021-02-18",
+        "update": "2022-03-22",
         "version": "",
         "path": "energy-generator",
         "type": [
@@ -7041,6 +7108,10 @@
         ],
         "zhUrl": "http://idlegame.gitee.io/energy-generator/",
         "enUrl": "https://eyewars.github.io/Energy-Generator/",
+        "customUrl": "https://yx.g8hh.com/energy-generator",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/energy-generator",
+        "customUrlTit2": "备用地址-g8hh",
         "kUrl": "https://www.kongregate.com/games/eyewars/test?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
