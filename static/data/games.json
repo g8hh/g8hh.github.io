@@ -321,6 +321,36 @@
         "status": 0
     },
     {
+        "title": "火车帝国",
+        "enTitle": "mfi Metro",
+        "date": "2022-03-28",
+        "update": "2022-03-28",
+        "version": "0.51",
+        "path": "mfi-metro",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《火车帝国》是一款基于浏览器的增量游戏，旨在建立一个不断扩大的火车帝国。 "
+        ],
+        "zhUrl": "http://idlegame.gitee.io/mfi-metro",
+        "enUrl": "https://smmdesign.github.io/mfiMetro/",
+        "customUrl": "https://yx.g8hh.com/mfi-metro",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/mfi-metro/alpha",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "Tubas树重制版",
         "enTitle": "Tubas Tree Rewritten",
         "date": "2022-03-25",
