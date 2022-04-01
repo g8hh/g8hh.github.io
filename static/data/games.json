@@ -321,6 +321,69 @@
         "status": 0
     },
     {
+        "title": "机械装置",
+        "enTitle": "Machinery",
+        "date": "2022-04-01",
+        "update": "2022-04-01",
+        "version": "0.99.1",
+        "path": "machinery",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《机械装置》是一款科幻增量游戏，具有令人上瘾的机制和不断增长的内容。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/machinery",
+        "enUrl": "https://louigiverona.com/machinery/0.99.1/",
+        "customUrl": "https://yx.g8hh.com/machinery",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/machinery",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "骑士进度条2",
+        "enTitle": "Progress Knight 2",
+        "date": "2022-03-30",
+        "update": "2022-03-30",
+        "version": "",
+        "path": "progress-knight2",
+        "type": [
+            "汉化中",
+            "模拟",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《骑士进度条2》是爱好者在《骑士进度条》的基础上，新增了：15个新“工作”和22个新“技能”（现在重命名为职业和能力）；新的邪恶升级；还有 18 件商品；超越系统：精华 - 添加了超越货币。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/progress-knight2",
+        "enUrl": "https://symb1.github.io/progress_knight_2/",
+        "customUrl": "https://yx.g8hh.com/progress-knight2",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/progress-knight2",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "火车帝国",
         "enTitle": "mfi Metro",
         "date": "2022-03-28",
