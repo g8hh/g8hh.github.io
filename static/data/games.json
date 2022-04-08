@@ -321,6 +321,114 @@
         "status": 0
     },
     {
+        "title": "公司树",
+        "enTitle": "Tree Inc",
+        "date": "2022-04-08",
+        "update": "2022-04-08",
+        "version": "1.0.0",
+        "path": "tree-inc",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "声望树",
+            "模拟"
+        ],
+        "content": [
+            "《公司树》是一款模拟公司的模组树类游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/tree-inc",
+        "enUrl": "https://randomtuba.github.io/Tree-Inc/",
+        "customUrl": "https://yx.g8hh.com/tree-inc",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/tree-inc",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "猫猫竞赛",
+        "enTitle": "WTF Game",
+        "date": "2022-04-08",
+        "update": "2022-04-08",
+        "path": "wtfgame",
+        "type": [
+            "多人",
+            "动作",
+            "策略",
+            "联网"
+        ],
+        "content": [
+            "以前在U77上很火的扔猫猫游戏，一个房间最多16个人，人越多越好玩儿哈~",
+            "口令：正在游戏时切换其它房间：按回车键进入打字模式，输入：/room 02，02为房间号，默认是从01开始的，以此类推。",
+            "操作：",
+            "1、左右箭头：移动；",
+            "2、下箭头：趴下；",
+            "3、上箭头：跳跃；",
+            "4、空格键：扔人。",
+            "5、回车键：打字。",
+            "玩法：",
+            "【竞速模式】",
+            "1、从起点跑到旗子的终点。",
+            "2、每隔3-5秒屏幕会闪红光，如果闪屏时没趴下，就会回到起点；需要自己预估时间趴下。",
+            "3、尽快达到终点。",
+            "【瘟疫模式】",
+            "1、游戏开始随机产生一个瘟疫母体。",
+            "2、瘟疫母体需要感染其他人所有人；普通人尽量躲避不被扔到。",
+            "3、如果被感染就可以去抓其他人。",
+            "4、如果母体不动弹，过一会会产生第二个母体。"
+        ],
+        "customUrl": "https://game.elfive.cn:91/wtfgame/",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "恐惧之森",
+        "enTitle": "Fear Tress",
+        "date": "2022-04-06",
+        "update": "2022-04-06",
+        "version": "0.2",
+        "path": "feartress",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "建造",
+            "模拟",
+            "升级"
+        ],
+        "content": [
+            "《恐惧之森》是一款包含了建造、生产、攻城略地等元素的模拟放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/feartress",
+        "enUrl": "https://feartress.com/v0.2/play.html",
+        "customUrl": "https://yx.g8hh.com/feartress",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/feartress",
+        "customUrlTit2": "备用地址-GitHub",
+        "steamUrl": "https://store.steampowered.com/app/1904280/Feartress/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "机械装置",
         "enTitle": "Machinery",
         "date": "2022-04-01",
@@ -387,8 +495,8 @@
         "title": "火车帝国",
         "enTitle": "mfi Metro",
         "date": "2022-03-28",
-        "update": "2022-03-28",
-        "version": "0.51",
+        "update": "2022-04-08",
+        "version": "0.52",
         "path": "mfi-metro",
         "type": [
             "已汉化",
@@ -7124,8 +7232,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-03-06",
-        "version": "0.1.96",
+        "update": "2022-04-04",
+        "version": "0.1.99",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -7146,6 +7254,8 @@
         ],
         "zhUrl": "http://idlegame.gitee.io/ethereal-farm",
         "enUrl": "https://lodev.org/etherealfarm/",
+        "customUrl": "https://yx.g8hh.com/ethereal-farm",
+        "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/ethereal-farm",
         "customUrlTit2": "备用地址-GitHub",
         "QQ": "946050761",
@@ -12117,6 +12227,10 @@
             "这是一款放点击置型经营游戏，你可以建造各种元件生产能量，然后卖掉能量，解锁元件、升级、研究等。"
         ],
         "zhUrl": "http://likexia.gitee.io/reactoridle/",
+        "customUrl": "https://yx.g8hh.com/reactoridle",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/reactoridle",
+        "customUrlTit2": "备用地址-GitHub",
         "enUrl": "http://reactoridle.com/",
         "QQ": "205448831",
         "pic": [
