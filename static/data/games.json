@@ -3707,8 +3707,8 @@
         "title": "质量增量重制版",
         "enTitle": "Incremental Mass Rewritten",
         "date": "2021-10-09",
-        "update": "2021-11-04",
-        "version": "0.4",
+        "update": "2022-04-16",
+        "version": "0.5.1.3",
         "path": "incremental-mass-rewritten",
         "type": [
             "已汉化",
@@ -4728,10 +4728,12 @@
             "收获植物以获得食物",
             "花费你的食物来激活技能以提高你的生成率"
         ],
-        "zhUrl": "https://yx.g8hh.com/xxxy",
+        "zhUrl": "http://idlegame.gitee.io/xxxy/",
         "enUrl": "https://sshulin.itch.io/xxxy",
-        "customUrl": "https://g8hh.github.io/xxxy",
-        "customUrlTit": "备用地址-GitHub",
+        "customUrl": "https://yx.g8hh.com/xxxy",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/xxxy",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -4764,9 +4766,11 @@
             "《灵魂回响》是一款具有空闲和离线进度的增量游戏！",
             "亡灵法师刚刚输掉了这场大战，他准备重建自己的军队，并以自己的方式重新登上顶峰。在这个过程中，他找到了他的良心，并改变了他的生活方式，成为一个正义的巫师与他的意愿死亡。"
         ],
-        "zhUrl": "https://yx.g8hh.com/soul-not-found",
-        "customUrl": "https://g8hh.github.io/soul-not-found",
-        "customUrlTit": "备用地址-GitHub",
+        "zhUrl": "http://idlegame.gitee.io/soul-not-found/",
+        "customUrl": "https://yx.g8hh.com/soul-not-found",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/soul-not-found",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -4834,9 +4838,11 @@
         "content": [
             "《公式升级放置》是一款升级数学公式的游戏。 达到最高数字，升级您的变量，玩得开心！ 您可以通过声望获得更多指数。 共有30栋建筑。"
         ],
-        "zhUrl": "https://yx.g8hh.com/formula-upgrade-idle",
-        "customUrl": "https://g8hh.github.io/formula-upgrade-idle",
-        "customUrlTit": "备用地址-GitHub",
+        "zhUrl": "http://idlegame.gitee.io/formula-upgrade-idle/",
+        "customUrl": "https://yx.g8hh.com/formula-upgrade-idle",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/formula-upgrade-idle",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -4866,9 +4872,11 @@
             "《银河帝国》是一款出色的点击式游戏，您必须在其中尝试创建一个蓬勃发展的生产设施并生成资源以到达太空。 您必须首先单击地球并选择要创建的生产建筑。 创建初始建筑物后，您可以单击它以提高资源生成率。 每个建筑都有一系列不同的能力，可以通过多种方式提高你的产量。",
             "随着您的进步，您可以成倍地增加产量并继续改进您的生产设施。 该游戏具有多种不同的选项和升级，并且具有很好的可玩性。 看看你能进步多远，以及你是否能创建一个跨越银河系的帝国。"
         ],
-        "zhUrl": "https://yx.g8hh.com/galactic-grind",
-        "customUrl": "https://g8hh.github.io/galactic-grind",
-        "customUrlTit": "备用地址-GitHub",
+        "zhUrl": "http://idlegame.gitee.io/galactic-grind/",
+        "customUrl": "https://yx.g8hh.com/galactic-grind",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/galactic-grind",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -4967,9 +4975,11 @@
         "content": [
             "《宝石掉落》是一款有趣的宝石制作和掉落游戏！ 通过点击容器生产宝石； 当它已满时，单击“丢弃”按钮出售它们。 用你赚的钱购买工厂，随着时间的推移生产更多的宝石。 您还可以升级您的点击能力并研究新的升级。 在后期，出售低价的宝石生产工厂，专注于利润最高的工厂。 研究自动掉落以使容器偶尔掉落。 玩得开心！"
         ],
-        "zhUrl": "https://yx.g8hh.com/gem-drop",
-        "customUrl": "https://g8hh.github.io/gem-drop",
-        "customUrlTit": "备用地址-GitHub",
+        "zhUrl": "http://idlegame.gitee.io/gem-drop/",
+        "customUrl": "https://yx.g8hh.com/gem-drop",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/gem-drop",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -4999,9 +5009,11 @@
         "content": [
             "斐波那契点击是一个超级简单的点击游戏，您的工作是创建最大的斐波那契数列。"
         ],
-        "zhUrl": "https://yx.g8hh.com/fibonacci-clicker",
-        "customUrl": "https://g8hh.github.io/fibonacci-clicker",
-        "customUrlTit": "备用地址-GitHub",
+        "zhUrl": "http://idlegame.gitee.io/fibonacci-clicker/",
+        "customUrl": "https://yx.g8hh.com/fibonacci-clicker",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/fibonacci-clicker",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -5033,9 +5045,11 @@
         "content": [
             "基于某个流行的维京生存游戏的增量游戏。"
         ],
-        "zhUrl": "https://yx.g8hh.com/vikincremental",
-        "customUrl": "https://g8hh.github.io/vikincremental",
-        "customUrlTit": "备用地址-GitHub",
+        "zhUrl": "http://idlegame.gitee.io/vikincremental/",
+        "customUrl": "https://yx.g8hh.com/vikincremental",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/vikincremental",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -5246,10 +5260,12 @@
         "content": [
             "这是《能源增量》作者的另一个作品。"
         ],
-        "zhUrl": "https://yx.g8hh.com/escape-from-vantablack",
+        "zhUrl": "http://idlegame.gitee.io/escape-from-vantablack/",
         "enUrl": "https://jacorb90.me/Escape-from-Vantablack/",
-        "customUrl": "https://g8hh.github.io/Escape-from-Vantablack/",
-        "customUrlTit": "备用地址-Github",
+        "customUrl": "https://yx.g8hh.com/escape-from-vantablack",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/Escape-from-Vantablack/",
+        "customUrlTit2": "备用地址-Github",
         "pic": [
             1,
             2,
@@ -5310,12 +5326,14 @@
         "content": [
             "声望树的另一个Mod，这次以合并为主。"
         ],
-        "zhUrl": "https://yx.g8hh.com/merging-prestige-tree/",
+        "zhUrl": "http://idlegame.gitee.io/merging-prestige-tree/",
         "enUrl": "https://technokaguya.itch.io/aptmam",
-        "customUrl": "https://g8hh.github.io/merging-prestige-tree/",
-        "customUrlTit": "备用地址-GitHub",
-        "customUrl2": "https://yhvr.me/pt/mods.html",
-        "customUrlTit2": "其它树游戏集合",
+        "customUrl": "https://yx.g8hh.com/merging-prestige-tree/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/merging-prestige-tree/",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
         "pic": [
             1,
@@ -5345,10 +5363,12 @@
         "content": [
             "《能源增量》是某个声望树的作者的另一款游戏。"
         ],
-        "zhUrl": "https://yx.g8hh.com/Incremenergy/",
+        "zhUrl": "http://idlegame.gitee.io/incremenergy/",
         "enUrl": "https://jacorb90.me/Incremenergy/",
-        "customUrl": "https://g8hh.github.io/Incremenergy/",
-        "customUrlTit": "备用地址-GitHub",
+        "customUrl": "https://yx.g8hh.com/Incremenergy/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/Incremenergy/",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -7860,8 +7880,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2021-12-21",
-        "version": "0.8.13",
+        "update": "2022-04-14",
+        "version": "0.9.1",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -10318,8 +10338,8 @@
         "title": "进化",
         "enTitle": "Evolve",
         "date": "2019-07-01",
-        "update": "2021-08-19",
-        "version": "1.1.12",
+        "update": "2022-04-04",
+        "version": "1.2.14",
         "path": "evolve",
         "type": [
             "推荐",
@@ -10337,8 +10357,10 @@
         "QQ": "685458364",
         "zhUrl": "http://likexia.gitee.io/evolve",
         "enUrl": "https://pmotschmann.github.io/Evolve/",
-        "customUrl": "https://g8hh.github.io/evolve",
-        "customUrlTit": "备用地址-GitHub",
+        "customUrl": "https://yx.g8hh.com/evolve",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/evolve",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2
