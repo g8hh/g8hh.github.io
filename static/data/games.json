@@ -321,6 +321,105 @@
         "status": 0
     },
     {
+        "title": "弹珠突围放置",
+        "enTitle": "Idle Pinball Breakout",
+        "date": "2022-04-15",
+        "update": "2022-04-15",
+        "version": "",
+        "path": "idle-pinball-breakout",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《弹珠突围放置》是又一款放置小球的消除类放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-pinball-breakout",
+        "customUrl": "https://yx.g8hh.com/idle-pinball-breakout",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/idle-pinball-breakout",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1
+    },
+    {
+        "title": "阴谋点击器",
+        "enTitle": "Conspiracy Clicker",
+        "date": "2022-04-15",
+        "update": "2022-04-15",
+        "version": "",
+        "path": "conspiracy-clicker",
+        "type": [
+            "已汉化",
+            "放置",
+            "模拟",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "这个游戏由三个不同的部门组成 - 工业、政治、媒体 - 以及三种不同的货币：金钱、选票和受控思想。 每个部门都有它是自有资金和它自己的专长。 行业的主要工作是赚钱；政治可以产生选票或金钱； 媒体可以产生受控制的思想或金钱。",
+            "要玩这个游戏，您将利用三个主要功能：",
+            "1、单击扇区图标-每次点击都会产生金钱。 您拥有的升级越多，每次点击产生的钱就越多。",
+            "2、购买升级-这些列在每个扇区图标下方； 单击按钮购买一次升级（如果您有资金），或单击 升级查看更多详细信息。 一个扇区的一些升级将有助于另一个扇区。",
+            "3、转移-货币可以在扇区之间转移 通过激活连接三个扇区图标的箭头/按钮之一。 在 一次。 融资和捐款会转移金钱， 税收减免将选票变为金钱，宣传将精神控制变为选票， 广告将精神控制变为金钱 行业。 竞选活动使用金钱来创造 votes，而大规模广播将金钱转化为精神控制。",
+            "为了赢得胜利，你需要有数十亿的选民和思想在你的控制之下 安全。您可以使用顶部的进度条来衡量您的进度。 。"
+        ],
+        "zhUrl": "http://likexia.gitee.io/conspiracy-clicker",
+        "enUrl": "http://deathraygames.com/play-online/conspiracy-clicker/",
+        "customUrl": "https://yx.g8hh.com/conspiracy-clicker",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/conspiracy-clicker",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "死灵术2",
+        "enTitle": "Nekromantik 2",
+        "date": "2022-04-11",
+        "update": "2022-04-11",
+        "version": "",
+        "path": "nekromantik2",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《死灵术2》是又一款《反物质维度》风格的放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/nekromantik2",
+        "enUrl": "https://nekromantik2.monkeh.us/",
+        "customUrl": "https://yx.g8hh.com/nekromantik2",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/nekromantik2",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "公司树",
         "enTitle": "Tree Inc",
         "date": "2022-04-08",
@@ -375,6 +474,7 @@
             "3、上箭头：跳跃；",
             "4、空格键：扔人。",
             "5、回车键：打字。",
+            "6、Q：查看分数、排名、聊天记录。",
             "玩法：",
             "【竞速模式】",
             "1、从起点跑到旗子的终点。",
@@ -9900,6 +10000,7 @@
         ],
         "zhUrl": "http://likexia.gitee.io/incremental-adventures/",
         "kUrl": "https://www.kongregate.com/games/Gniller/incremental-adventures?sfa=permalink&referrer=SunshineDad",
+        "steamUrl": "https://store.steampowered.com/app/1371630/Incremental_Adventures/",
         "pic": [
             1,
             2
