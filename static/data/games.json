@@ -321,6 +321,67 @@
         "status": 0
     },
     {
+        "title": "元素增量",
+        "enTitle": "Elemental Incremental",
+        "date": "2022-04-20",
+        "update": "2022-04-20",
+        "version": "",
+        "path": "elemental-incremental",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《元素增量》是一款围绕构建原子和分子而设计的增量游戏。 这个游戏的最终目标是让每个元素都达到 Oganesson（一种化学元素名称，新元素周期表118号）。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/elemental-incremental",
+        "customUrl": "https://yx.g8hh.com/elemental-incremental",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/elemental-incremental",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "放置小球2",
+        "enTitle": "Idle Orbs 2",
+        "date": "2022-04-18",
+        "update": "2022-04-18",
+        "version": "",
+        "path": "idle-orbs-2",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《弹珠突围放置》是又一款放置小球的消除类放置游戏。"
+        ],
+        "zhUrl": "http://idlegame.gitee.io/idle-orbs-2",
+        "enUrl": "https://jacoby-y.itch.io/idle-orbs-2",
+        "customUrl": "https://yx.g8hh.com/idle-orbs-2",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/idle-orbs-2",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "弹珠突围放置",
         "enTitle": "Idle Pinball Breakout",
         "date": "2022-04-15",
@@ -3500,8 +3561,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-02-13",
-        "version": "1.268+2",
+        "update": "2022-04-08",
+        "version": "1.289+",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -6044,8 +6105,10 @@
         "content": [
             "一款点击游戏，随着进度增加，升级也会逐步解锁。"
         ],
-        "zhUrl": "http://yx.g8hh.com/mouse-pro/",
+        "zhUrl": "http://idlegame.gitee.io/mouse-pro/",
         "enUrl": "https://eregrith.github.io/MousePro/",
+        "customUrl": "http://yx.g8hh.com/version-control",
+        "customUrlTit": "最新版",
         "pic": [
             1,
             2,
@@ -7556,7 +7619,7 @@
         "title": "距离增量",
         "enTitle": "Distance Incremental",
         "date": "2021-01-15",
-        "update": "2021-06-14",
+        "update": "2022-04-09",
         "version": "2.0.6",
         "path": "distance-incremental",
         "type": [
@@ -7573,6 +7636,10 @@
         ],
         "zhUrl": "http://idlegame.gitee.io/distance-incremental/main.html",
         "enUrl": "https://jacorb90.github.io/DistInc.github.io/main.html",
+        "customUrl": "https://yx.g8hh.com/distance-incremental/main.html",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.com/distance-incremental/main.html",
+        "customUrlTit2": "备用地址-Github",
         "pic": [
             1,
             2
@@ -9199,8 +9266,8 @@
         "title": "协同放置",
         "enTitle": "Synergism",
         "date": "2020-05-05",
-        "update": "2021-08-20",
-        "version": "2.5.7",
+        "update": "2022-04-13",
+        "version": "2.9.1",
         "path": "synergism",
         "type": [
             "汉化中",
@@ -9218,10 +9285,10 @@
         "QQ": "952923286",
         "zhUrl": "http://idlegame.gitee.io/synergism",
         "kUrl": "https://www.kongregate.com/games/Platonic/synergism?sfa=permalink&referrer=SunshineDad",
-        "customUrl": "https://g8hh.github.io/Synergism/",
-        "customUrlTit": "备用地址-GitHub",
-        "customUrl2": "https://yx.g8hh.com/Synergism",
-        "customUrlTit2": "备用地址-g8hh",
+        "customUrl": "https://yx.g8hh.com/synergism",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/Synergism/",
+        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -11855,6 +11922,7 @@
         "title": "口袋妖怪放置",
         "enTitle": "Pokemon",
         "date": "2018-12-05",
+        "update": "2022-04-16",
         "path": "pokemon",
         "type": [
             "已汉化",
@@ -11870,8 +11938,10 @@
             "感谢@Lunatic。、@大道、@寒天 等大佬帮忙汉化。"
         ],
         "zhUrl": "http://likexia.gitee.io/pokemon",
-        "enUrl": "https://richardpaulastley.github.io/",
+        "enUrl": "https://pokeidle.net/",
         "wikiUrl": "http://likexia.gitee.io/piddb/",
+        "customUrl": "https://yx.g8hh.com/pokemon/",
+        "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
             2
