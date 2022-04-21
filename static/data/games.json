@@ -222,7 +222,7 @@
             5
         ],
         "needHH": 0,
-        "status": 0
+        "status": 1
     },
     {
         "title": "林林五十音",
@@ -319,6 +319,37 @@
             5
         ],
         "status": 0
+    },
+    {
+        "title": "Increlution",
+        "enTitle": "Increlution",
+        "date": "2022-04-21",
+        "update": "2022-04-21",
+        "path": "increlution",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "冒险",
+            "挂机",
+            "Steam"
+        ],
+        "content": [
+            "《Increlution》这个游戏，是咱们汉化的《增量冒险》的作者，在Steam上的第二款游戏。",
+            "《Increlution》是一款关于时间管理的简约增量游戏，灵感来自 roguelite 游戏，重点是元进度。",
+            "每一代人都有更好的生存机会，因为前世会影响其本能。",
+            "尽可能长时间地度过不断增加的时间压力！ ",
+            "欢迎大家加锅巴好友~ 锅巴的Steam ID：449627308"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1593350/Increlution/",
+        "customUrl": "https://gityx.com/help/gonglue/2022/0420/723.html",
+        "customUrlTit": "汉化教程",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
     },
     {
         "title": "元素增量",
