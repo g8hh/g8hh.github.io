@@ -321,6 +321,36 @@
         "status": 0
     },
     {
+        "title": "数码矿工放置",
+        "enTitle": "Coiner",
+        "date": "2022-04-24",
+        "update": "2022-04-24",
+        "version": "0.7c1",
+        "path": "coiner",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《数码矿工放置》是一款比特币挖矿的模拟经营放置游戏。"
+        ],
+        "enUrl": "https://magic.uber.space/coiner/",
+        "customUrl": "https://yx.g8hh.com/coiner",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g8hh.github.io/coiner",
+        "customUrlTit2": "备用地址-GitHub",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "Increlution",
         "enTitle": "Increlution",
         "date": "2022-04-21",
@@ -386,7 +416,7 @@
         "enTitle": "Idle Orbs 2",
         "date": "2022-04-18",
         "update": "2022-04-18",
-        "version": "",
+        "version": "1.0.4",
         "path": "idle-orbs-2",
         "type": [
             "已汉化",
@@ -668,7 +698,6 @@
         "content": [
             "《骑士进度条2》是爱好者在《骑士进度条》的基础上，新增了：15个新“工作”和22个新“技能”（现在重命名为职业和能力）；新的邪恶升级；还有 18 件商品；超越系统：精华 - 添加了超越货币。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/progress-knight2",
         "enUrl": "https://symb1.github.io/progress_knight_2/",
         "customUrl": "https://yx.g8hh.com/progress-knight2",
         "customUrlTit": "备用地址-g8hh",
@@ -7353,7 +7382,6 @@
             "这个游戏是群友在灵动那边发现的，但是灵动的汉化方式太粗暴了，导出的存档里面变量是中文？？？",
             "于是咱就找到英文版，自己汉化了给大家玩。灵动的存档无法导入咱汉化的版本哦~"
         ],
-        "zhUrl": "http://idlegame.gitee.io/progress-knight/",
         "enUrl": "https://ihtasham42.github.io/progress-knight/",
         "customUrl": "https://yx.g8hh.com/progress-knight",
         "customUrlTit": "备用地址-g8hh",
@@ -7446,8 +7474,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-04-04",
-        "version": "0.1.99",
+        "update": "2022-04-18",
+        "version": "0.1.102c",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -10117,6 +10145,10 @@
             "感谢 @Painpain 大佬帮忙修正汉化内容。"
         ],
         "zhUrl": "http://likexia.gitee.io/incremental-adventures/",
+        "customUrlTit": "备用-g8hh",
+        "customUrl": "https://yx.g8hh.com/incremental-adventures",
+        "customUrlTit2": "备用-GitHub",
+        "customUrl2": "https://g8hh.github.io/incremental-adventures",
         "kUrl": "https://www.kongregate.com/games/Gniller/incremental-adventures?sfa=permalink&referrer=SunshineDad",
         "steamUrl": "https://store.steampowered.com/app/1371630/Incremental_Adventures/",
         "pic": [
@@ -11683,10 +11715,12 @@
             "模拟"
         ],
         "content": [
-            ""
+            "一款模拟人生的小游戏。"
         ],
-        "zhUrl": "http://likexia.gitee.io/drowning",
+        "zhUrl": "https://yx.g8hh.com/drowning",
         "enUrl": "http://game.notch.net/drowning/",
+        "customUrl": "https://g1tyx.github.io/drowning/",
+        "customUrlTit": "备用地址-github",
         "pic": [
             1,
             2
@@ -12146,9 +12180,8 @@
             "感谢小伙伴：@TG303 帮忙汉化。",
             "这是一款类似于小黑屋的放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步探索13个层面。"
         ],
-        "zhUrl": "http://likexia.gitee.io/level13",
         "enUrl": "https://nroutasuo.github.io/level13/",
-        "customUrl": "https://likexia.gitee.io/level13/index2.html",
+        "customUrl": "https://yx.g8hh.com/level13/index2.html",
         "customUrlTit": "白色摸鱼主题",
         "customUrl2": "https://yx.g8hh.com/level13/",
         "customUrlTit2": "汉化版-g8hh",
@@ -12650,6 +12683,7 @@
         "customUrlTit": "汉化版-g8hh",
         "customUrl2": "https://g8hh.github.io/cuipi/",
         "customUrlTit2": "备用地址-GitHub",
+        "steamUrl": "https://store.steampowered.com/app/1877960/Trimps/",
         "enUrl": "http://trimps.github.io/",
         "kUrl": "https://www.kongregate.com/games/GreenSatellite/trimps?sfa=permalink&referrer=SunshineDad",
         "pic": [
