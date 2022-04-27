@@ -629,7 +629,6 @@
         "content": [
             "《恐惧之森》是一款包含了建造、生产、攻城略地等元素的模拟放置游戏。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/feartress",
         "enUrl": "https://feartress.com/v0.2/play.html",
         "customUrl": "https://yx.g8hh.com/feartress",
         "customUrlTit": "备用地址-g8hh",
@@ -661,7 +660,6 @@
         "content": [
             "《机械装置》是一款科幻增量游戏，具有令人上瘾的机制和不断增长的内容。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/machinery",
         "enUrl": "https://louigiverona.com/machinery/0.99.1/",
         "customUrl": "https://yx.g8hh.com/machinery",
         "customUrlTit": "备用地址-g8hh",
@@ -3838,7 +3836,6 @@
             "这是《质量增量》的二次开发版本，一款以质量为主题的增量放置游戏。",
             "感谢 @by22dgb 大佬跟进后续的更新、汉化。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/incremental-mass-rewritten",
         "enUrl": "https://mrredshark77.github.io/incremental-mass-rewritten/",
         "customUrl": "https://yx.g8hh.com/incremental-mass-rewritten",
         "customUrlTit": "备用地址-g8hh",
@@ -3904,7 +3901,6 @@
         "content": [
             "一款类似《循环放置》的游戏。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/cavernous2",
         "enUrl": "https://nucaranlaeg.github.io/incremental/CavernousII/",
         "customUrl": "https://yx.g8hh.com/cavernous2",
         "customUrlTit": "备用地址-g8hh",
@@ -4004,7 +4000,6 @@
         "content": [
             "一款以质量为主题的增量放置游戏。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/incremental-mass",
         "enUrl": "https://mrredshark77.github.io/incremental-mass/",
         "customUrl": "https://yx.g8hh.com/incremental-mass",
         "customUrlTit": "备用地址-g8hh",
@@ -8448,7 +8443,6 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://idlegame.gitee.io/forge-fortune/",
         "enUrl": "https://www.forgeandfortune.com/",
         "customUrl": "https://yx.g8hh.com/forge-fortune",
         "customUrlTit": "备用地址-g8hh",
@@ -8807,10 +8801,12 @@
             "通过维度获得反物质!获得无限反物质来瓦解宇宙!",
             "本游戏是反物质维度的Mod版，可以自己玩多种模式。由 @大企鹅 推荐并汉化，大佬威武！"
         ],
-        "zhUrl": "http://idlegame.gitee.io/antimatter-dimensions-ng/",
+        "zhUrl": "https://yx.g8hh.com/antimatter-dimensions-ng",
         "enUrl": "http://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/",
-        "customUrl": "https://shimo.im/sheets/pyCqXCVvGgr8t9TP/MODOC/",
-        "customUrlTit": "Mod介绍",
+        "customUrl": "https://g1tyx.github.io/antimatter-dimensions-ng/",
+        "customUrlTit": "备用地址-Github",
+        "customUrl2": "https://shimo.im/sheets/pyCqXCVvGgr8t9TP/MODOC/",
+        "customUrlTit2": "Mod介绍",
         "wikiUrl": "https://note.youdao.com/ynoteshare1/index.html?id=4d1255cd7120831d582d75739b12a642&type=note",
         "QQ": "1050424901",
         "pic": [
@@ -9195,7 +9191,10 @@
         "content": [
             "通过维度获得反物质!获得无限反物质来瓦解宇宙!"
         ],
-        "zhUrl": "https://likexia.gitee.io/fwzwd",
+        "customUrl": "https://yx.g8hh.com/antimatter-dimensions-ng",
+        "customUrlTit": "开始游戏",
+        "customUrl2": " https://g1tyx.github.io/antimatter-dimensions/",
+        "customUrlTit2": "备用地址-github",
         "enUrl": "https://ivark.github.io/",
         "kUrl": "https://www.kongregate.com/games/Hevipelle/antimatter-dimensions?sfa=permalink&referrer=SunshineDad",
         "QQ": "1050424901",
@@ -9337,7 +9336,6 @@
             "点点点！买买买！"
         ],
         "QQ": "952923286",
-        "zhUrl": "http://idlegame.gitee.io/synergism",
         "kUrl": "https://www.kongregate.com/games/Platonic/synergism?sfa=permalink&referrer=SunshineDad",
         "customUrl": "https://yx.g8hh.com/synergism",
         "customUrlTit": "备用地址-g8hh",
@@ -9947,14 +9945,14 @@
             "由于原版作者跑路了，留下了一堆bug（容易炸档，进不去游戏等等），所以搞了个二次开发版本。",
             "二次开发版本是大佬在原版基础上，修复了若干bug（可能制造了若干bug）。"
         ],
-        "zhUrl": "https://idlegame.gitee.io/arcanum",
+        "zhUrl": "https://yx.g8hh.com/arcanum",
         "kUrl": "https://www.kongregate.com/games/lerpinglemur/theory-of-magic?sfa=permalink&referrer=SunshineDad",
-        "customUrl": "http://likexia.gitee.io/theory-of-magic",
-        "customUrlTit": "原版(各种bug)",
+        "customUrl": "https://g1tyx.github.io/arcanum/",
+        "customUrlTit": "二次开发备用地址-GitHub",
         "customUrl2": "https://g8hh.github.io/theory-of-magic/",
-        "customUrlTit2": "备用地址-GitHub",
+        "customUrlTit2": "原版备用地址-GitHub",
         "customUrl3": "https://yx.g8hh.com/theory-of-magic/",
-        "customUrlTit3": "备用地址-g8hh",
+        "customUrlTit3": "原版备用地址-g8hh",
         "customUrl4": "https://qm.qq.com/cgi-bin/qm/qr?k=_WETFhR5KeqdgsMcbxUgIltMCRA_Py3Y&jump_from=webapi",
         "customUrlTit4": "加入魔法理论群",
         "QQ": "281738137",
@@ -10480,7 +10478,6 @@
             "感谢各位大佬：@克瓦瑟利，@耗子飞飞，@by22dgb，@麦子 帮忙汉化。"
         ],
         "QQ": "685458364",
-        "zhUrl": "http://likexia.gitee.io/evolve",
         "enUrl": "https://pmotschmann.github.io/Evolve/",
         "customUrl": "https://yx.g8hh.com/evolve",
         "customUrlTit": "备用地址-g8hh",
@@ -10540,7 +10537,6 @@
             "《土皇帝》是一款模拟城市建设类的战略性放置游戏。你扮演着村庄之王的角色，统治着你的人民。你需要在建造，研究，制造，战斗和更多之间做出决定。",
             "游戏不能直接刷新哦，刷新可能会404错误。请把链接删除到：/villager-kings/后面这个位置，回车即可继续游戏。"
         ],
-        "zhUrl": "http://likexia.gitee.io/villager-kings/",
         "customUrl": "https://yx.g8hh.com/villager-kings",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/villager-kings",
@@ -12044,7 +12040,10 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://likexia.gitee.io/basic",
+        "customUrl2": "https://yx.g8hh.com/basic",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/basic",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "http://minmaxia.com/basic/",
         "pic": [
             1,
