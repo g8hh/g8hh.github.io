@@ -2267,7 +2267,6 @@
         "content": [
             "《大数塔》是一款增量风格的英雄塔类游戏！"
         ],
-        "zhUrl": "http://likexia.gitee.io/towers-of-googology",
         "enUrl": "https://ducdat0507.github.io/towers/",
         "customUrl": "https://yx.g8hh.com/towers-of-googology",
         "customUrlTit": "备用地址-g8hh",
@@ -2345,7 +2344,6 @@
             "但是游戏真的不错，大家可以试试~",
             "由于文本太多。汉化缓慢，大家玩着先~没事儿了就刷新看看~"
         ],
-        "zhUrl": "http://idlegame.gitee.io/proto23",
         "enUrl": "https://proto23.herokuapp.com/",
         "customUrl": "https://yx.g8hh.com/proto23",
         "customUrlTit": "备用地址-g8hh",
@@ -3969,7 +3967,7 @@
         "zhUrl": "http://idlegame.gitee.io/unpuzzle-x-remake",
         "enUrl": "https://geogolf.github.io/UnpuzzleX-Remake/",
         "customUrl": "https://yx.g8hh.com/unpuzzle-x-remake",
-        "customUrlTit": "备用地址-g8hh",
+        "customUrlTit": "��用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/unpuzzle-x-remake",
         "customUrlTit2": "备用地址-GitHub",
         "pic": [
@@ -4394,7 +4392,6 @@
         "content": [
             "这是《循环放置》《梯田》作者的另一个作品。和之前咱们发的那几个跟光相关的游戏，是在一个榜单里面的。"
         ],
-        "zhUrl": "https://likexia.gitee.io/stopsign/Dyson_Light/",
         "enUrl": "https://stop-sign.itch.io/dyson-light",
         "customUrl": "https://yx.g8hh.com/dyson-light",
         "customUrlTit": "备用地址-g8hh",
@@ -7157,7 +7154,10 @@
         "content": [
             "以字母为主题的放置游戏。肝爆了。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/azinc",
+        "customUrl2": "https://yx.g8hh.com/azinc",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/azinc",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "https://xecutor.github.io/azinc/",
         "pic": [
             1,
@@ -7255,8 +7255,10 @@
         "content": [
             "从光子到原子，从虚无到宇宙~"
         ],
-        "zhUrl": "http://idlegame.gitee.io/genesis",
-        "enUrl": "https://v6p9d9t4.ssl.hwcdn.net/html/3431426/index.html",
+        "customUrl2": "https://yx.g8hh.com/genesis",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/genesis",
+        "customUrlTit3": "汉化版-GitHub",
         "pic": [
             1,
             2,
@@ -7281,7 +7283,10 @@
         "content": [
             "简单的玩法，丰富的趣味~"
         ],
-        "customUrl": "http://idlegame.gitee.io/dinosaur-run/",
+        "customUrl2": "https://yx.g8hh.com/dinosaur-run",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/dinosaur-run",
+        "customUrlTit3": "汉化版-GitHub",
         "customUrlTit": "开始游戏",
         "pic": [
             1,
@@ -7309,7 +7314,10 @@
         "content": [
             "一款类似点击英雄玩法的游戏。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/loot-clicker/",
+        "customUrl2": "https://yx.g8hh.com/loot-clicker",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/loot-clicker",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "https://spotky1004.github.io/LootClicker/",
         "pic": [
             1,
@@ -8505,7 +8513,10 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://idlegame.gitee.io/alphabet-incremental",
+        "customUrl2": "https://yx.g8hh.com/alphabet-incremental",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g8hh.github.io/alphabet-incremental",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "https://naoxink.github.io/alphabet/",
         "pic": [
             1,
@@ -9196,9 +9207,9 @@
         "content": [
             "通过维度获得反物质!获得无限反物质来瓦解宇宙!"
         ],
-        "customUrl": "https://yx.g8hh.com/antimatter-dimensions-ng",
+        "customUrl": "https://yx.g8hh.com/antimatter-dimensions",
         "customUrlTit": "开始游戏",
-        "customUrl2": " https://g1tyx.github.io/antimatter-dimensions/",
+        "customUrl2": "https://g1tyx.github.io/antimatter-dimensions/",
         "customUrlTit2": "备用地址-github",
         "enUrl": "https://ivark.github.io/",
         "kUrl": "https://www.kongregate.com/games/Hevipelle/antimatter-dimensions?sfa=permalink&referrer=SunshineDad",
@@ -9890,7 +9901,10 @@
         "content": [
             "应该是爱好者在原作者基础上自行开发的。"
         ],
-        "zhUrl": "http://likexia.gitee.io/omsi6/loops/",
+        "customUrl2": "https://yx.g8hh.com/idle-loops2",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/idle-loops2",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "https://omsi6.github.io/loops/",
         "pic": [
             1,
@@ -10056,7 +10070,7 @@
             "经营"
         ],
         "content": [
-            "本游戏不会自动保存，所以，刷新、关闭前请手动点“保存”按钮，否则会丢档。"
+            "本���戏不会自动保存，所以，刷新、关闭前请手动点“保存”按钮，否则会丢档。"
         ],
         "zhUrl": "http://likexia.gitee.io/idletea",
         "kUrl": "http://naoxink.ga/idletea/?lang=en",
@@ -11817,9 +11831,12 @@
             "原创"
         ],
         "content": [
-            ""
+            "《循环放置》作者的另一个游戏。"
         ],
-        "zhUrl": "http://likexia.gitee.io/stopsign/Nanospread/index.html",
+        "customUrl2": "https://yx.g8hh.com/nanospread",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/nanospread",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "http://stopsign.github.io/Nanospread/",
         "pic": [
             1,
@@ -11842,9 +11859,12 @@
             "冒险"
         ],
         "content": [
-            ""
+            "《循环放置》作者的另一个游戏。"
         ],
-        "zhUrl": "http://likexia.gitee.io/stopsign/KingsPerfectWar/",
+        "customUrl2": "https://yx.g8hh.com/kings-perfect-war",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/kings-perfect-war",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "http://stopsign.github.io/KingsPerfectWar/",
         "pic": [
             1,
@@ -11868,9 +11888,12 @@
             "冒险"
         ],
         "content": [
-            ""
+            "很有意思的玩法，欢迎体验。"
         ],
-        "zhUrl": "http://likexia.gitee.io/stopsign/idleLoops/index.html",
+        "customUrl2": "https://yx.g8hh.com/idle-loops",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/idle-loops",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "http://stopsign.github.io/idleLoops/",
         "pic": [
             1,
@@ -11896,7 +11919,10 @@
         "content": [
             "提示：飞船飞出去的时候，不要刷新页面，会导致飞船丢失。。"
         ],
-        "zhUrl": "http://likexia.gitee.io/stopsign/Terrafold/index.html",
+        "customUrl2": "https://yx.g8hh.com/terrafold",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/terrafold",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "http://stopsign.github.io/Terrafold/",
         "pic": [
             1,
