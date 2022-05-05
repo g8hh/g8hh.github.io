@@ -1,5 +1,4 @@
-[
-    {
+[{
         "title": "锅巴好货",
         "enTitle": "G8 Shopping",
         "date": "2021-11-03",
@@ -342,8 +341,7 @@
         "enUrl": "https://patfr.github.io/The-Synergism-Tree/",
         "customUrl": "https://yx.g8hh.com/the-synergism-tree",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g1tyx.github.io/the-synergism-tree",
-        "customUrlTit2": "备用地址-GitHub",
+        "zhUrl": "https://g1tyx.github.io/the-synergism-tree",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
@@ -593,8 +591,7 @@
         "enUrl": "https://randomtuba.github.io/Tree-Inc/",
         "customUrl": "https://yx.g8hh.com/tree-inc",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/tree-inc",
-        "customUrlTit2": "备用地址-GitHub",
+        "zhUrl": "https://g8hh.github.io/tree-inc",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "pic": [
@@ -668,8 +665,7 @@
         "enUrl": "https://feartress.com/v0.2/play.html",
         "customUrl": "https://yx.g8hh.com/feartress",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/feartress",
-        "customUrlTit2": "备用地址-GitHub",
+        "zhUrl": "https://g8hh.github.io/feartress",
         "steamUrl": "https://store.steampowered.com/app/1904280/Feartress/",
         "pic": [
             1,
@@ -791,12 +787,10 @@
         "content": [
             "又一个模组树的Mod，玩法很是新颖，值得一试。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/tubas-tree-rewritten",
+        "zhUrl": "https://g8hh.github.io/tubas-tree-rewritten",
         "enUrl": "https://randomtuba.github.io/Tubas-Tree-Rewritten/",
         "customUrl": "https://yx.g8hh.com/tubas-tree-rewritten",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/tubas-tree-rewritten",
-        "customUrlTit2": "备用地址-GitHub",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
@@ -1767,12 +1761,10 @@
         "content": [
             "声望树的又一个圣诞主题的Mod，本来想留到明年圣诞的，想了想太久了，就发出来吧，哈哈！"
         ],
-        "zhUrl": "http://idlegame.gitee.io/christmas-special",
+        "zhUrl": "https://g8hh.github.io/christmas-special",
         "enUrl": "https://raw.githack.com/Dystopia-user181/The-Modding-Tree/Christmas-Special/index.html",
         "customUrl": "https://yx.g8hh.com/christmas-special",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/christmas-special",
-        "customUrlTit2": "备用地址-GitHub",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
@@ -2167,7 +2159,7 @@
         ],
         "content": [
             "群里小伙伴们 @天空之城 写的一款游戏，目前有安卓和电脑网页版本。",
-            "没找到作者的群号，后面找到了再加上~", 
+            "没找到作者的群号，后面找到了再加上~",
             "安卓版百度盘密码：o1gq"
         ],
         "zhUrl": "http://idlegame.gitee.io/shop-idle",
@@ -3697,12 +3689,10 @@
             "任务树，是一款解谜玩法的模组树。环环相扣，还是很有意思的。",
             "感谢 @爱学习的沉梦昂志丶 大佬帮忙修正汉化内容。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/tree-quest/",
+        "zhUrl": "https://g8hh.github.io/tree-quest/",
         "enUrl": "https://iemory.github.io/TreeQuest/",
         "customUrl": "https://yx.g8hh.com/tree-quest",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/tree-quest/",
-        "customUrlTit2": "备用地址-GitHub",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
@@ -4746,12 +4736,10 @@
             "感谢 @QwQ(放假ing) 大佬帮忙汉化。",
             "《版本控制》《点亮城市》作者的另一力作，因为太忙了，拖拖拉拉汉化了好久，最后还是交给群里的 @QwQ(放假ing) 大佬帮忙汉化了。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/matter-dimensions/",
+        "zhUrl": "https://g8hh.github.io/matter-dimensions/",
         "enUrl": "http://semenar.ru/matter-dim-test/index.html",
         "customUrl": "https://yx.g8hh.com/matter-dimensions",
         "customUrlTit": "备用地址",
-        "customUrl2": "https://g8hh.github.io/matter-dimensions/",
-        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -5362,7 +5350,6 @@
         "content": [
             "声望树的另一个Mod，这次的玩法有点骚，每个节点都是其它声望树作者。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/communitree/",
         "enUrl": "https://ducdat0507.github.io/communitree/",
         "customUrl": "https://yx.g8hh.com/communitree",
         "customUrlTit": "备用地址-g8hh",
@@ -5788,12 +5775,10 @@
         "content": [
             "又又又是声望树的一个Mod，游戏玩法换成了RPG冒险。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/the-leveling-tree/",
+        "zhUrl": "https://g8hh.github.io/the-leveling-tree/",
         "enUrl": "https://denisolenison.github.io/The-Leveling-Tree/",
         "customUrl": "https://yx.g8hh.com/the-leveling-tree/",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/the-leveling-tree/",
-        "customUrlTit2": "备用地址-GitHub",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
@@ -6598,8 +6583,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/veprogames/idle-football-manager/",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/veprogames/idle-football-manager/",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/veprogames/idle-football-manager/",
         "enUrl": "https://veprogames.github.io/idle-football-manager/",
         "pic": [
             1,
@@ -6722,12 +6706,10 @@
         "content": [
             "感谢 @公子羽 大佬帮忙汉化此游戏。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/c0v1d-modding-tree/",
+        "zhUrl": "https://g8hh.github.io/c0v1d-modding-tree/",
         "enUrl": "https://raw.githack.com/c0v1d-9119361/The-Modding-Tree/master/",
-        "customUrl": "https://g8hh.github.io/c0v1d-modding-tree/",
-        "customUrlTit": "备用地址-GitHub",
-        "customUrl2": "https://yx.g8hh.com/c0v1d-modding-tree/",
-        "customUrlTit2": "备用地址-g8hh",
+        "customUrl": "https://yx.g8hh.com/c0v1d-modding-tree/",
+        "customUrlTit": "备用地址-g8hh",
         "QQ": "963150347",
         "pic": [
             1,
@@ -7073,7 +7055,9 @@
             "不能直接刷新，需要把链接删除到/cividlization2/这里，然后回车即可。",
             "因为最近补充了一些汉化，所以再发一次~"
         ],
-        "zhUrl": "http://idlegame.gitee.io/cividlization2",
+        "zhUrl": "https://g1tyx.github.io/cividlization2",
+        "customUrl": "https://yx.g8hh.com/cividlization2",
+        "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/to_change_later/cividlization-2?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -7191,8 +7175,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/azinc",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/azinc",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/azinc",
         "enUrl": "https://xecutor.github.io/azinc/",
         "pic": [
             1,
@@ -7292,8 +7275,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/genesis",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/genesis",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/genesis",
         "pic": [
             1,
             2,
@@ -7320,8 +7302,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/dinosaur-run",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/dinosaur-run",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/dinosaur-run",
         "customUrlTit": "开始游戏",
         "pic": [
             1,
@@ -7351,8 +7332,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/loot-clicker",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/loot-clicker",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/loot-clicker",
         "enUrl": "https://spotky1004.github.io/LootClicker/",
         "pic": [
             1,
@@ -7876,8 +7856,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/veprogames/omega-layers/",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/veprogames/omega-layers/",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/veprogames/omega-layers/",
         "enUrl": "https://veprogames.github.io/omega-layers/",
         "pic": [
             1,
@@ -8459,8 +8438,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/idlespace2",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/idlespace2",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/idlespace2",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idlespace-2?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -8851,10 +8829,10 @@
             "通过维度获得反物质!获得无限反物质来瓦解宇宙!",
             "本游戏是反物质维度的Mod版，可以自己玩多种模式。由 @大企鹅 推荐并汉化，大佬威武！"
         ],
-        "zhUrl": "https://yx.g8hh.com/antimatter-dimensions-ng",
+        "zhUrl": "https://g1tyx.github.io/antimatter-dimensions-ng/",
         "enUrl": "http://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/",
-        "customUrl": "https://g1tyx.github.io/antimatter-dimensions-ng/",
-        "customUrlTit": "备用地址-Github",
+        "customUrl": "https://yx.g8hh.com/antimatter-dimensions-ng",
+        "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://shimo.im/sheets/pyCqXCVvGgr8t9TP/MODOC/",
         "customUrlTit2": "Mod介绍",
         "wikiUrl": "https://note.youdao.com/ynoteshare1/index.html?id=4d1255cd7120831d582d75739b12a642&type=note",
@@ -9007,8 +8985,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/idle-five2",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/idle-five-2",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/idle-five-2",
         "enUrl": "https://goldenlys.github.io/IdleFive-V2/",
         "pic": [
             1,
@@ -9046,8 +9023,8 @@
             "因为游戏的原因，如果你点按钮没反应（一般发生在清理缓存后），游戏读取本地存档的时候出错。",
             "解决方法：请点击“更多” → “保存” → 手动保存下面的“保存”按钮一次，然后刷新页面即可正常游戏。"
         ],
-        "zhUrl": "https://yx.g8hh.com/space-company",
-        "customUrl": "https://g1tyx.github.io/space-company/",
+        "zhUrl": "https://g1tyx.github.io/space-company/",
+        "customUrl": "https://yx.g8hh.com/space-company",
         "customUrlTit": "备用地址-github",
         "enUrl": "https://sparticle999.github.io/SpaceCompany/",
         "kUrl": "https://www.kongregate.com/games/sparticle999/space-company?sfa=permalink&referrer=SunshineDad",
@@ -9166,8 +9143,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/devlife2",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/devlife2",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/devlife2",
         "kUrl": "http://naoxink.epizy.com/devlife2/",
         "pic": [
             1,
@@ -9198,8 +9174,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/ordinal-markup",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/ordinal-markup",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/ordinal-markup",
         "kUrl": "https://www.kongregate.com/games/Patcail/ordinal-markup?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -9255,8 +9230,7 @@
         ],
         "customUrl": "https://yx.g8hh.com/antimatter-dimensions",
         "customUrlTit": "开始游戏",
-        "customUrl2": "https://g1tyx.github.io/antimatter-dimensions/",
-        "customUrlTit2": "备用地址-github",
+        "zhUrl": "https://g1tyx.github.io/antimatter-dimensions/",
         "enUrl": "https://ivark.github.io/",
         "kUrl": "https://www.kongregate.com/games/Hevipelle/antimatter-dimensions?sfa=permalink&referrer=SunshineDad",
         "QQ": "1050424901",
@@ -9711,7 +9685,9 @@
         "content": [
             "一起来砍树吧！这是《骰子放置》的作者另一个作品。"
         ],
-        "zhUrl": "http://likexia.gitee.io/luts91/idle-chopper/index.html",
+        "zhUrl": "https://g1tyx.github.io/luts91/idle-chopper/index.html",
+        "customUrl": "https://yx.g8hh.com/luts91/idle-chopper/index.html",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://luts91.github.io/idle-chopper/",
         "kUrl": "https://www.kongregate.com/games/Luts91/idle-chopper?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -9949,8 +9925,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/idle-loops2",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/idle-loops2",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/idle-loops2",
         "enUrl": "https://omsi6.github.io/loops/",
         "pic": [
             1,
@@ -10010,10 +9985,10 @@
             "由于原版作者跑路了，留下了一堆bug（容易炸档，进不去游戏等等），所以搞了个二次开发版本。",
             "二次开发版本是大佬在原版基础上，修复了若干bug（可能制造了若干bug）。"
         ],
-        "zhUrl": "https://yx.g8hh.com/arcanum",
+        "zhUrl": "https://g1tyx.github.io/arcanum/",
         "kUrl": "https://www.kongregate.com/games/lerpinglemur/theory-of-magic?sfa=permalink&referrer=SunshineDad",
-        "customUrl": "https://g1tyx.github.io/arcanum/",
-        "customUrlTit": "二次开发备用地址-GitHub",
+        "customUrl": "https://yx.g8hh.com/arcanum",
+        "customUrlTit": "二次开发备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/theory-of-magic/",
         "customUrlTit2": "原版备用地址-GitHub",
         "customUrl3": "https://yx.g8hh.com/theory-of-magic/",
@@ -10097,8 +10072,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/devlife",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/devlife",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/devlife",
         "kUrl": "http://naoxink.ga/devlife/",
         "pic": [
             1,
@@ -10264,7 +10238,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://likexia.gitee.io/luts91/idle-idle-gamedev/index.html",
+        "zhUrl": "https://g1tyx.github.io/luts91/idle-idle-gamedev/index.html",
+        "customUrl": "https://yx.g8hh.com/luts91/idle-idle-gamedev/index.html",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://luts91.github.io/idle-idle-gamedev/index.html",
         "pic": [
             1,
@@ -11331,7 +11307,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://likexia.gitee.io/paperclips",
+        "zhUrl": "https://g1tyx.github.io/paperclips",
+        "customUrl": "https://yx.g8hh.com/paperclips",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://www.decisionproblem.com/paperclips/index2.html",
         "pic": [
             1,
@@ -11435,8 +11413,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/idlespace",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/idlespace",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/idlespace",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idle-space?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -11779,10 +11756,10 @@
         "content": [
             "一款模拟人生的小游戏。"
         ],
-        "zhUrl": "https://yx.g8hh.com/drowning",
+        "zhUrl": "https://g1tyx.github.io/drowning/",
         "enUrl": "http://game.notch.net/drowning/",
-        "customUrl": "https://g1tyx.github.io/drowning/",
-        "customUrlTit": "备用地址-github",
+        "customUrl": "https://yx.g8hh.com/drowning",
+        "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
             2
@@ -11887,8 +11864,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/nanospread",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/nanospread",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/nanospread",
         "enUrl": "http://stopsign.github.io/Nanospread/",
         "pic": [
             1,
@@ -11915,8 +11891,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/kings-perfect-war",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/kings-perfect-war",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/kings-perfect-war",
         "enUrl": "http://stopsign.github.io/KingsPerfectWar/",
         "pic": [
             1,
@@ -11944,8 +11919,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/idle-loops",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/idle-loops",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/idle-loops",
         "enUrl": "http://stopsign.github.io/idleLoops/",
         "pic": [
             1,
@@ -11973,8 +11947,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/terrafold",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/terrafold",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/terrafold",
         "enUrl": "http://stopsign.github.io/Terrafold/",
         "pic": [
             1,
@@ -11999,7 +11972,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://likexia.gitee.io/idle-dice/",
+        "zhUrl": "https://g1tyx.github.io/idle-dice",
+        "customUrl": "https://yx.g8hh.com/idle-dice",
+        "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/Luts91/idle-dice?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -12051,8 +12026,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/rgb-idle",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/rgb-idle",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/rgb-idle",
         "enUrl": "https://ikerstreamer.github.io/RGB-Idle/",
         "pic": [
             1,
@@ -12079,7 +12053,7 @@
             "这是精灵宝可梦的网页放置版，你的目标是抓齐图鉴里面全部的宝宝。",
             "感谢@Lunatic。、@大道、@寒天 等大佬帮忙汉化。"
         ],
-        "zhUrl": "http://likexia.gitee.io/pokemon",
+        "zhUrl": "https://g1tyx.github.io/pokemon/",
         "enUrl": "https://pokeidle.net/",
         "wikiUrl": "http://likexia.gitee.io/piddb/",
         "customUrl": "https://yx.g8hh.com/pokemon/",
@@ -12128,8 +12102,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/basic",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/basic",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/basic",
         "enUrl": "http://minmaxia.com/basic/",
         "pic": [
             1,
@@ -12290,8 +12263,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/heart-of-sharkness",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/heart-of-sharkness",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/heart-of-sharkness",
         "enUrl": "http://cirri.al/sharks/#",
         "pic": [
             1,
@@ -12676,8 +12648,7 @@
         ],
         "customUrl2": "https://yx.g8hh.com/adarkroom/?lang=zh_cn",
         "customUrlTit2": "汉化版-g8hh",
-        "customUrl3": "https://g1tyx.github.io/adarkroom/?lang=zh_cn",
-        "customUrlTit3": "汉化版-GitHub",
+        "zhUrl": "https://g1tyx.github.io/adarkroom/?lang=zh_cn",
         "enUrl": "http://adarkroom.doublespeakgames.com/?lang=en",
         "pic": [
             1,
