@@ -321,6 +321,42 @@
         "status": 0
     },
     {
+        "title": "协同树",
+        "enTitle": "The Synergism Tree",
+        "date": "2022-05-05",
+        "update": "2022-05-05",
+        "version": "0.006",
+        "path": "the-synergism-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《协同树》是一款作者受到《协同放置》启发，然后开发的模组树游戏。"
+        ],
+        "enUrl": "https://patfr.github.io/The-Synergism-Tree/",
+        "customUrl": "https://yx.g8hh.com/the-synergism-tree",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://g1tyx.github.io/the-synergism-tree",
+        "customUrlTit2": "备用地址-GitHub",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "数码矿工放置",
         "enTitle": "Coiner",
         "date": "2022-04-24",
@@ -1468,7 +1504,6 @@
         "content": [
             "《自动化工厂》是一款工厂类的放置游戏。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/the-factory-of-automation/",
         "enUrl": "https://jacorb90.me/The-Factory-Of-Automation/",
         "customUrl": "https://yx.g8hh.com/the-factory-of-automation",
         "customUrlTit": "备用地址-g8hh",
@@ -1501,7 +1536,6 @@
         "content": [
             "《文物发掘放置》是一款模拟考古的放置游戏，内容不算多。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/relics",
         "enUrl": "https://bearhanded.github.io/relics/",
         "customUrl": "https://yx.g8hh.com/relics",
         "customUrlTit": "备用地址-g8hh",
@@ -1533,7 +1567,6 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://idlegame.gitee.io/yet-another-merge-game",
         "enUrl": "https://veprogames.github.io/yet-another-merge-game/",
         "customUrl": "https://yx.g8hh.com/yet-another-merge-game",
         "customUrlTit": "最新版",
@@ -1886,8 +1919,8 @@
         "title": "比特燃烧器",
         "enTitle": "Bit Burner",
         "date": "2021-12-27",
-        "update": "2022-01-26",
-        "version": "1.4.0",
+        "update": "2022-04-26",
+        "version": "1.6.4",
         "path": "bit-burner",
         "type": [
             "模拟",
@@ -1898,12 +1931,12 @@
         "content": [
             "《比特燃烧器》 是一款基于编程的增量游戏，围绕黑客和赛博朋克主题展开。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/bit-burner",
         "enUrl": "https://danielyxie.github.io/bitburner/",
         "customUrl": "https://yx.g8hh.com/bit-burner",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/bit-burner",
         "customUrlTit2": "备用地址-GitHub",
+        "steamUrl": "https://store.steampowered.com/app/1812820/Bitburner/",
         "pic": [
             1,
             2,
@@ -3612,8 +3645,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-04-08",
-        "version": "1.289+",
+        "update": "2022-05-05",
+        "version": "1.294",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -3627,7 +3660,6 @@
         "content": [
             "生命树，挺好的一个题材。目前有588个成就。。是的，你没看错，588个！！！"
         ],
-        "zhUrl": "http://idlegame.gitee.io/the-tree-of-life/",
         "enUrl": "http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html",
         "customUrl": "https://yx.g8hh.com/the-tree-of-life",
         "customUrlTit": "备用地址-g8hh",
@@ -4872,7 +4904,7 @@
             "《灵魂回响》是一款具有空闲和离线进度的增量游戏！",
             "亡灵法师刚刚输掉了这场大战，他准备重建自己的军队，并以自己的方式重新登上顶峰。在这个过程中，他找到了他的良心，并改变了他的生活方式，成为一个正义的巫师与他的意愿死亡。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/soul-not-found/",
+        "enUrl": "https://spiritdungeons.com/legacy",
         "customUrl": "https://yx.g8hh.com/soul-not-found",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/soul-not-found",
@@ -6564,7 +6596,10 @@
         "content": [
             "《欧米伽层级》作者的新作，还在更新中~"
         ],
-        "zhUrl": "http://idlegame.gitee.io/veprogames/idle-football-manager/",
+        "customUrl2": "https://yx.g8hh.com/veprogames/idle-football-manager/",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/veprogames/idle-football-manager/",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "https://veprogames.github.io/idle-football-manager/",
         "pic": [
             1,
@@ -6831,7 +6866,7 @@
         ],
         "zhUrl": "https://gsui5051.gitee.io/incrementreeverse-cn/",
         "enUrl": "https://gsui5051.gitee.io/incrementreeverse",
-        "customUrl": "http://idlegame.gitee.io/incrementreeverse-cn",
+        "customUrl": "https://yx.g8hh.com/incrementreeverse-cn",
         "customUrlTit": "Git游戏搬运版",
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
@@ -7472,8 +7507,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-04-18",
-        "version": "0.1.102c",
+        "update": "2022-04-27",
+        "version": "0.1.103b",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -7492,7 +7527,6 @@
             "游戏链接用【汉化版】（带2链接的存档建议人道毁灭，因为没法导入最新版）。",
             "【汉化版】这个链接就是最新版~"
         ],
-        "zhUrl": "http://idlegame.gitee.io/ethereal-farm",
         "enUrl": "https://lodev.org/etherealfarm/",
         "customUrl": "https://yx.g8hh.com/ethereal-farm",
         "customUrlTit": "备用地址-g8hh",
@@ -7840,7 +7874,10 @@
             "感谢 @by22dgb 大佬帮忙汉化。",
             "类似《反物质维度》的一款游戏，界面好看，玩法自己感受哈~"
         ],
-        "zhUrl": "http://idlegame.gitee.io/veprogames/omega-layers/",
+        "customUrl2": "https://yx.g8hh.com/veprogames/omega-layers/",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/veprogames/omega-layers/",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "https://veprogames.github.io/omega-layers/",
         "pic": [
             1,
@@ -8420,7 +8457,10 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://idlegame.gitee.io/idlespace2",
+        "customUrl2": "https://yx.g8hh.com/idlespace2",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/idlespace2",
+        "customUrlTit3": "汉化版-GitHub",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idlespace-2?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -9124,7 +9164,10 @@
         "content": [
             "《开发人生》的续作，模拟程序员接项目，开发项目，然后卖掉项目，实现人生目标。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/devlife2/",
+        "customUrl2": "https://yx.g8hh.com/devlife2",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/devlife2",
+        "customUrlTit3": "汉化版-GitHub",
         "kUrl": "http://naoxink.epizy.com/devlife2/",
         "pic": [
             1,
@@ -9153,7 +9196,10 @@
             "感谢 @Doppio 帮忙汉化。",
             "类似《反物质维度》的一款游戏，欢迎体验！"
         ],
-        "zhUrl": "http://idlegame.gitee.io/ordinal-markup",
+        "customUrl2": "https://yx.g8hh.com/ordinal-markup",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/ordinal-markup",
+        "customUrlTit3": "汉化版-GitHub",
         "kUrl": "https://www.kongregate.com/games/Patcail/ordinal-markup?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -10049,7 +10095,10 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://likexia.gitee.io/devlife",
+        "customUrl2": "https://yx.g8hh.com/devlife",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/devlife",
+        "customUrlTit3": "汉化版-GitHub",
         "kUrl": "http://naoxink.ga/devlife/",
         "pic": [
             1,
@@ -11384,7 +11433,10 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://likexia.gitee.io/idlespace/",
+        "customUrl2": "https://yx.g8hh.com/idlespace",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/idlespace",
+        "customUrlTit3": "汉化版-GitHub",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idle-space?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -11997,7 +12049,10 @@
         "content": [
             "这是一款放置型经营游戏，刚开始你需要点击三种颜色的条（偷懒做法是长按空格键，然后按ALt+Tab键，切换到别的程序，再回来就会自动点进度条了），后面通过升级可以解放双手。本游戏包含转生系统。。"
         ],
-        "zhUrl": "http://likexia.gitee.io/rgb-idle",
+        "customUrl2": "https://yx.g8hh.com/rgb-idle",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/rgb-idle",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "https://ikerstreamer.github.io/RGB-Idle/",
         "pic": [
             1,
@@ -12233,7 +12288,10 @@
         "content": [
             "非常感谢群友@TG303大佬帮忙完成《鲨鱼游戏》汉化！"
         ],
-        "zhUrl": "http://likexia.gitee.io/sharks/",
+        "customUrl2": "https://yx.g8hh.com/heart-of-sharkness",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/heart-of-sharkness",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "http://cirri.al/sharks/#",
         "pic": [
             1,
@@ -12508,7 +12566,6 @@
         "content": [
             "这是一款放点击置型经营游戏，你可以建造各种元件生产能量，然后卖掉能量，解锁元件、升级、研究等。"
         ],
-        "zhUrl": "http://likexia.gitee.io/reactoridle/",
         "customUrl": "https://yx.g8hh.com/reactoridle",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/reactoridle",
@@ -12614,9 +12671,13 @@
             "冒险"
         ],
         "content": [
-            "小黑屋是一款纯文字的冒险游戏，通过壮大自己的村庄，收集材料后，制作冒险所需的物品，然后就可以开始冒险之旅。"
+            "小黑屋是一款纯文字的冒险游戏，通过壮大自己的村庄，收集材料后，制作冒险所需的物品，然后就可以开始冒险之旅。",
+            "游戏右下角可以选语言。"
         ],
-        "zhUrl": "http://likexia.gitee.io/adarkroom/?lang=zh_cn",
+        "customUrl2": "https://yx.g8hh.com/adarkroom/?lang=zh_cn",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl3": "https://g1tyx.github.io/adarkroom/?lang=zh_cn",
+        "customUrlTit3": "汉化版-GitHub",
         "enUrl": "http://adarkroom.doublespeakgames.com/?lang=en",
         "pic": [
             1,
@@ -12668,10 +12729,11 @@
             "这是一款放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步完善你的小猫王国。游戏虽然没什么精美的图片和动听的音乐，但还是有相当的经营乐趣。",
             "注意：现在 中文版已经集成了小猫科学家 ，请在游戏右上角 “选项” 里面通过 “点击启用小猫科学家”启用。"
         ],
-        "zhUrl": "http://likexia.gitee.io/cat-zh",
-        "customUrl": "https://petercheney.gitee.io/kitten-game-cn/",
+        "customUrl2": "https://yx.g8hh.com/kittens-game",
+        "customUrlTit2": "汉化版-g8hh",
+        "customUrl": "https://lolitalibrary.com/maomao/",
         "customUrlTit": "备用地址",
-        "enUrl": "http://bloodrizer.ru/games/kittens/",
+        "enUrl": "https://kittensgame.com/web/",
         "kUrl": "https://www.kongregate.com/games/bloodrizer/kittens-game?sfa=permalink&referrer=SunshineDad",
         "wikiUrl": "http://petercheney.gitee.io/baike/",
         "QQ": "499256691",
@@ -12685,9 +12747,9 @@
         "title": "脆皮",
         "enTitle": "Trimps",
         "date": "2017-10-27",
-        "update": "2021-12-31",
-        "version": "5.6.5",
-        "path": "trimps",
+        "update": "2022-05-03",
+        "version": "5.7.0",
+        "path": "trimps-steam",
         "type": [
             "推荐",
             "汉化中",
@@ -12712,7 +12774,10 @@
         "kUrl": "https://www.kongregate.com/games/GreenSatellite/trimps?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
-            2
+            2,
+            3,
+            4,
+            5
         ],
         "status": 1
     }
