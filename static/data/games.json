@@ -320,6 +320,122 @@
         "status": 0
     },
     {
+        "title": "无尽的地下城",
+        "enTitle": "Endless Dungeon",
+        "date": "2022-05-11",
+        "update": "2022-05-11",
+        "version": "0.8.6",
+        "path": "endless-dungeon",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《无尽的地下城》是一款类似《点击英雄》的放置游戏。！"
+        ],
+        "enUrl": "https://endlessdungeon.github.io/",
+        "customUrl": "https://yx.g8hh.com/endless-dungeon",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g8hh.github.io/endless-dungeon",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "炮兵突击",
+        "enTitle": "Corruption II",
+        "date": "2022-05-11",
+        "update": "2022-05-11",
+        "version": "",
+        "path": "corruption-ii",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《炮兵突击》是一款回合制的战棋类游戏，在这个简单而优雅的回合制游戏中为统治而战！玩法类似于接水管，通过转换炮管方向，尽可能地占领领土。游戏有两种玩法，统治模式和抹杀模式。"
+        ],
+        "enUrl": "https://lomaz.itch.io/corruption-ii",
+        "customUrl": "https://yx.g8hh.com/corruption-ii",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g8hh.github.io/corruption-ii",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "经验模拟器",
+        "enTitle": "EXP Simulator",
+        "date": "2022-05-09",
+        "update": "2022-05-09",
+        "version": "2.3.103",
+        "path": "exp-simulator",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《经验模拟器》是一款模拟不断升级和声望的放置游戏。！"
+        ],
+        "enUrl": "https://zakuro98.github.io/EXP-Simulator/",
+        "customUrl": "https://yx.g8hh.com/exp-simulator",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/exp-simulator",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "调色板放置",
+        "enTitle": "Rgblender",
+        "date": "2022-05-07",
+        "update": "2022-05-07",
+        "version": "",
+        "path": "rgblender",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《调色板放置》是一款模拟调色的放置游戏，调色板将两种颜色混合在一起制成一种新颜色。 颜色由其十六进制 RGB 代码表示。 混合时，结果颜色的每个数字都有 45% 的概率匹配任一父数字，外加 5% 的随机值概率。 调色板可以升级为每次混合最多输出 3 种颜色。 当您从颜色库中混合您未见过的颜色时，您将获得一个调色板点并解锁永久引用该颜色进行混合的能力。 匹配所有颜色 来通关游戏！"
+        ],
+        "enUrl": "https://rgblender.github.io/rgblender",
+        "customUrl": "https://yx.g8hh.com/rgblender",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g8hh.github.io/rgblender",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "协同树",
         "enTitle": "The Synergism Tree",
         "date": "2022-05-05",
@@ -400,6 +516,7 @@
             "Steam"
         ],
         "content": [
+            "感谢群里的小伙伴 @董诗达 帮忙校对润色！",
             "《Increlution》这个游戏，是咱们汉化的《增量冒险》的作者，在Steam上的第二款游戏。",
             "《Increlution》是一款关于时间管理的简约增量游戏，灵感来自 roguelite 游戏，重点是元进度。",
             "每一代人都有更好的生存机会，因为前世会影响其本能。",
@@ -914,10 +1031,10 @@
             "修仙"
         ],
         "content": [
-            "《匿名修仙》是之前《云顶修仙》作者的新作品，玩法跟之前类似。"
+            "《匿名修仙》是之前《云顶修仙》作者的新作品，玩法跟之前类似。一群已满，请加二群：257419807"
         ],
         "zhUrl": "https://game.nimingxx.com",
-        "QQ": "348148551",
+        "QQ": "257419807",
         "pic": [
             1,
             2,
@@ -3466,13 +3583,11 @@
             "工厂设计师已经搞砸了他们的设置，但现在改变建筑布局为时已晚。这些问题必须有解决方案，而您似乎是唯一可以解决它的人！",
             "可以加群：205448831 和小伙伴们一起讨论最佳摆法。"
         ],
-        "zhUrl": "http://idlegame.gitee.io/factory-missions",
+        "zhUrl": "https://g8hh.github.io/factory-missions",
         "enUrl": "https://missions.factoryidle.com/",
         "kUrl": "https://www.kongregate.com/games/Baldurans/factory-missions?sfa=permalink&referrer=SunshineDad",
         "customUrl": "https://yx.g8hh.com/factory-missions",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/factory-missions",
-        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2,
@@ -8676,9 +8791,9 @@
             "这是一款放置型增量游戏，从只有几只幼虫和一小堆肉开始，建立一个巨大的异种虫群。",
             "最近启动重新汉化，可以跟上作者的新版本。"
         ],
-        "zhUrl": "https://idlegame.gitee.io/swarmsim/",
-        "customUrl": "https://likexia.gitee.io/mncq",
-        "customUrlTit": "旧汉化版",
+        "zhUrl": "https://g1tyx.github.io/swarmsim",
+        "customUrl": "https://yx.g8hh.com/swarmsim",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://www.swarmsim.com",
         "pic": [
             1,
@@ -12055,7 +12170,7 @@
         ],
         "zhUrl": "https://g1tyx.github.io/pokemon/",
         "enUrl": "https://pokeidle.net/",
-        "wikiUrl": "http://likexia.gitee.io/piddb/",
+        "wikiUrl": "https://yx.g8hh.com/piddb/",
         "customUrl": "https://yx.g8hh.com/pokemon/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
@@ -12215,8 +12330,8 @@
         "title": "13层",
         "enTitle": "Level 13",
         "date": "2018-05-09",
-        "update": "2022-04-27",
-        "version": "0.4.1",
+        "update": "2022-05-04",
+        "version": "0.4.2",
         "path": "level-13",
         "type": [
             "汉化中",
@@ -12700,6 +12815,7 @@
             "这是一款放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步完善你的小猫王国。游戏虽然没什么精美的图片和动听的音乐，但还是有相当的经营乐趣。",
             "注意：现在 中文版已经集成了小猫科学家 ，请在游戏右上角 “选项” 里面通过 “点击启用小猫科学家”启用。"
         ],
+        "zhUrl": "http://likexia.gitee.io/cat-zh",
         "customUrl2": "https://yx.g8hh.com/kittens-game",
         "customUrlTit2": "汉化版-g8hh",
         "customUrl": "https://lolitalibrary.com/maomao/",
@@ -12718,8 +12834,8 @@
         "title": "脆皮",
         "enTitle": "Trimps",
         "date": "2017-10-27",
-        "update": "2022-05-03",
-        "version": "5.7.0",
+        "update": "2022-05-07",
+        "version": "5.7.1",
         "path": "trimps-steam",
         "type": [
             "推荐",

@@ -60,7 +60,6 @@
      'Combat Level': '战斗等级',
      'Combat': '战斗',
      'Combat Options': '战斗选项',
-     'Combat Potions': '战斗药剂',
      'Cook': '烹饪',
      'Completion Log': '完成记录',
      'Current Axe': '当前斧子',
@@ -88,7 +87,6 @@
      'Unlock an extra equipment set for combat.': '解锁额外的战斗装备。',
      'Total Mining Mastery Level of 270 required to mine.': '采矿所需的精通等级为270。',
      'Test Environment': '测试环境',
-     'Skill Potions': '技能药水',
      'Scroll of Aeris': '风之卷轴',
      'Scroll of Glacia': '水之卷轴',
      'Scroll of Ragnar': '火之卷轴',
@@ -307,7 +305,6 @@
      'Bank Value': '仓库价值',
      'Barbarian Fishing': '野蛮人钓鱼',
      'Base ingredient for Potions.': '魔药的基本成分',
-     'Bird Nests Potion': '鸟巢药剂',
      'Blue Dragonhide': '蓝龙皮',
      'Bonfire Status': '篝火状态',
      'Bowstring': '弓弦',
@@ -618,8 +615,6 @@
      '. These dungeons are very dangerous, and should only be attempted by the prepared and willing. Highly Recommended stats: 85+ All Combats, and yes you will need all 3 styles to complete them all (or suffer). Do not try to complete them without sufficient Damage Reduction, you will die."': '- 这些地下城非常危险， 建议完全准备好了之后再挑战。 建议的属性： 所有战斗等级大于等于85，你需要所有3种战斗方式才能完成这些地下城（不然会非常难）。在没有足够高伤害减免时也不建议尝试，不然会死的很快。',
      '"The Numbers, mason, What do they mean?!"': '这些数字究竟是什么意思呢?',
      '10 All Defences': '10%的防御加成',
-     '10 Melee Attack Bonus': '10%的近战攻击加成',
-     '10 Melee Strength Bonus': '10%的近战力量加成',
      '10 new Fish have been introduced to the game.': '增加10种新的鱼',
      '10% grow chance per Compost': '每次合成提高10%的成功机会',
      '10% Thieving success rate when equipped': '装备时提升10%的偷窃成功率',
@@ -685,16 +680,16 @@
      'Fanfish': '方鱼',
      'Farming Skillcape now provides +20% Harvest Qty on top of the existing perk.': '现在，农耕技能斗篷可以在现有技能之上多提供20％的收获数量。',
      'Firemaking Mastery Tokens and the Signet Ring Half (a) should now correctly drop from offline Firemaking.': '现在，可以正确地从离线生火中去除获得生火专精徽章和图章戒指（a部分）的可能。',
-     'Raw Anglerfish': '生的琵琶鱼',
-     'Raw Herring': '生的鲱鱼',
-     'Raw Lobster': '生的龙虾',
-     'Raw Magic Fish does not need to be cooked to be eaten.': '生的魔法鱼（你不需要煮熟它，它能生吃！）',
-     'Raw Poison Fish': '生的毒液鱼',
-     'Raw Salmon': '生的大马哈鱼',
-     'Raw Seahorse': '生的海马',
-     'Raw Skeleton Fish': '生的骷髅鱼',
-     'Raw Swordfish': '生的剑鱼',
-     'Raw Trout': '生的鳟鱼',
+     'Raw Anglerfish': '生琵琶鱼',
+     'Raw Herring': '生鲱鱼',
+     'Raw Lobster': '生龙虾',
+     'Raw Magic Fish does not need to be cooked to be eaten.': '生魔法鱼（你不需要煮熟它，它能生吃！）',
+     'Raw Poison Fish': '生毒液鱼',
+     'Raw Salmon': '生大马哈鱼',
+     'Raw Seahorse': '生海马',
+     'Raw Skeleton Fish': '生骷髅鱼',
+     'Raw Swordfish': '生剑鱼',
+     'Raw Trout': '生鳟鱼',
      'Remaining Actions': '剩余的战斗',
      'REMOVED': '已移除',
      'Ruby': '红宝石',
@@ -741,7 +736,7 @@
      'Leaping Broadfish': '跳跃的宽鱼',
      'local save': '本地保存',
      'Rune Axe': '符文斧子',
-     'Seeing Gold Potion now works as intended.': '观察金药水现在可以正常工作了。',
+     ' now works as intended.': '现在可以正常工作了。',
      'Success': '成功',
      'Stop Fishing': '停止钓鱼',
      'Teak Cooking Fire': '柚木烹饪火',
@@ -897,7 +892,7 @@
      'New Save Compression': '新的存档压缩',
      'New Desired Username': '新的所需用户名',
      'Log Files': '日志文件',
-     'Melee Evasion & Damage Reduction Potions now only use charges on enemy attack': '近战闪避和减少伤害药剂现在只对敌人的攻击使用',
+     'Melee Evasion & Damage Reduction Potions now only use charges on enemy attack': '近战闪避和减少伤害药水现在只对敌人的攻击使用',
      'Melvor Cloud Settings': '梅尔沃云设置',
      '- Gain 10%-200% of damage dealt in GP based on your current GP amount. Capped at 50M for 200%. Purchased from the Slayer Shop.': '基于你当前的GP数量获得10%-200%的伤害免疫。伤害免疫上限为5千万，比率上限为200%。购自杀戮者商店。',
      '- A new type of compost, only purchased in the Shop at a cost of 2 x Compost and 10 x Rune Essence. This item fills your compost bar up to 100% with 1 use and also provides +10% Increased Harvest amount..': '一种新型堆肥，仅能在商店购买，成本为2倍堆肥和10倍符文精华。这个物品使用一次就可以填满你的堆肥栏，还提供了10%的额外收获量。',
@@ -907,7 +902,7 @@
      'Cooking no longer provides 2x XP offline.': '离线时烹饪不再提供2倍经验',
      'Combat area selection will no longer collapse when you select the Drops button, or the dungeon reward links.': '当你收集战利品或地下城宝箱时战斗区域将不再崩溃',
      'Combat areas now correctly deselects when a monster is chosen.': '当另一种怪物被选中战斗时，战斗区域将正确地取消选中第一种怪物。',
-     'Divine Potions now only use charges upon Prayers being used': '神圣药剂现在只在祈祷时使用',
+     'Divine Potions now only use charges upon Prayers being used': '神圣药水现在只在祈祷时使用',
      'Fixed an issue where Ranged Attack Bonuses would always display as zero in the upgrade item screen.': '修正了远程攻击奖励总是显示为零的问题。',
      'Fixed an issue where it was not possible to log out of the Melvor Cloud.': '修正了无法从梅尔沃云注销的问题。',
      'Fixed an issue where changing to an Equipment Set that contains a Stormsnap while the next enemy was loading would cause the game to error out.': '修正了当下一个敌人正在加载时，装备包含风暴属性的装备将导致游戏错误的问题',
@@ -927,7 +922,7 @@
      'These dungeons are different to your standard dungeon. Each monster kill drops elemental shards which can be collected and combined to create respective dungeon chests - Air, Water, Earth & Fire. (You can collect shards and leave without completing the dungeon).': '这些神殿不同于标准地下城。每个杀死的怪物都会掉落元素碎片，这些元素碎片可以被收集并组合成各自的宝箱——风、水、土和火。(你可以收集碎片并在未打通地下城的情况下离开)。',
      'There\'s a lot of choice here, and it will seem pretty overwhelming at first. But I can tell you now that Ranged packs a pretty decent punch. However, to be able to reach those high DPS numbers, you will need the skill levels and resources to be able to do so.': '这里有很多选择，一开始看起来会让人不知所措。但是我现在可以告诉你，远程攻击的威力相当可观。然而，为了能够达到这些高的每秒输出伤害，您将需要能够做到这一点的技能级别和资源。',
      'There is now an option to change your Cloud password from the user dropdown menu (Where you force save': '现在可以从用户下拉菜单(强制保存)中更改云密码',
-     'There is now a small damage marker for enemies and players showing the damage dealt, as well as missed attacks.': '现在有一个小的伤害标记，它显示敌人和玩家所造成的伤害，以及闪避过的攻击。',
+     'There is now a small damage marker for enemies and players showing the damage dealt, as well as missed attacks.': '现在有一个小的伤害印记，它显示敌人和玩家所造成的伤害，以及闪避过的攻击。',
      'There is now a confirmation dialogue when you attempt to sell an item, or buy something from the Shop': '现在，当您试图出售商品或从商店购买商品时，会出现确认方框',
      'The Ranged Skillcape works on all ammo types.': '所有类型的弹药都可以远程攻击。',
      'The compression used for saves has changed this update. The change reduces save file sizes by around 92%.': '这次更新更改了保存文件的压缩方式。这个改变减少了大约92%的文件大小。',
@@ -1152,14 +1147,9 @@
      'Chivalry': '骑士精神',
      'Clarity of Thought': '思想清晰',
      'Cloudburst Staff': '爆云法杖',
-     'Controlled Heat Potion': '控制热药水',
-     'Crafting Potion': '工艺药剂',
-     'Damage Reduction Potion': '减少伤害药剂',
      'Desired Username': '用户名',
      'Desolate Plains (Slayer Area': '荒凉平原（杀戮区',
      'Diamond Bolts': '钻石弩箭',
-     'Diamond Potion': '钻石药剂',
-     'Divine Potion': '神圣药剂',
      'Dragon 2H Sword': '龙双手剑',
      'Dragon Arrows': '龙晶箭',
      'Dragon Arrowtips': '龙晶箭头',
@@ -1196,7 +1186,6 @@
      'Earth Surge': '大地涌浪',
      'Earth Wave': '地震波',
      'Easter Shop - You have': '复活节商店-您有',
-     'Elemental Potion': '元素药水',
      'Emerald Bolts': '绿宝石弩箭',
      'Fire Battlestaff': '战斗之火法杖',
      'Fire Blast': '火焰爆炸',
@@ -1205,12 +1194,8 @@
      'Fire Strike': '火焰之击',
      'Fire Surge': '火焰涌浪',
      'Fire Wave': '火焰波',
-     'Fishermans Potion': '渔夫药水',
      'Fix my Save': '修正我的存档',
      'Garum Herbs': '加鲁姆草药',
-     'Generous Cook Potion': '慷慨的药水',
-     'Generous Harvest Potion': '丰硕的药水',
-     'Gentle Hands Potion': '温和的双手药水',
      'Gold Diamond Necklace': '钻石金项链',
      'Gold Diamond Ring': '钻石金戒指',
      'Gold Emerald Necklace': '绿宝石金项链',
@@ -1223,7 +1208,6 @@
      'Amulet of Strength': '力量护身符',
      'Barbarian Gloves': '野蛮人手套',
      'Bird Nest': '鸟巢',
-     'Bird Nest Potion I': '一级鸟巢药剂',
      'Blue D-hide Body': '蓝龙皮铠甲',
      'Blue D-hide Chaps': '蓝龙皮护腿',
      'Blue D-hide Shield': '蓝龙皮盾',
@@ -1255,7 +1239,6 @@
      'Hard Leather Vambraces': '硬皮臂甲',
      'Hawk Eye': '鹰眼',
      'Herb Sack': '草药袋',
-     'Herblore Potion': '草药药水',
      'High Lands (Slayer Area': '高地(杀手区域',
      'Holy Isles (Slayer Area': '圣岛(杀手区域',
      'Incredible Reflexes': '令人难以置信的反应',
@@ -1269,7 +1252,6 @@
      'Loading Melvor Cloud...': '正在加载梅尔沃云。。。',
      'Loading your offline progress. Please wait...': '正在加载你的本地进度，请等待。。。。。。',
      'Lock Item': '锁定物品',
-     'Magic Damage Potion': '魔法伤害药水',
      'Magic Longbow': '魔法长弓',
      'Magic Shortbow': '魔法短弓',
      'Magic Tree': '魔法树',
@@ -1363,7 +1345,6 @@
      'S) Iron Platebody': 'S)铁质护甲',
      'Sapphire Bolts': '蓝宝石弩箭',
      'Seaweed': '海草',
-     'Seeing Gold Potion': '炼金药',
      'Select your preferences and you\'ll be ready before you know it.': '选择你的首选项，它会以极快的速度准备好',
      'Sell': '出售',
      'Sell Item': '出售物品',
@@ -1443,12 +1424,7 @@
      'Feathers': '羽毛',
      'If you have not switched devices since your last session, please load your local save': '如果上次登录至今期间没有切换过其他的设备登录，请直接调用本地保存文档',
      'Lemontyle Herbs': '柠檬草',
-     'Lucky Herb Potion': '幸运草药药剂',
-     'Magic Assistance Potion': '魔法辅助药剂',
      'Mantalyme Herbs': '曼德拉草',
-     'Melee Accuracy Potion': '近战精准药剂',
-     'Melee Evasion Potion': '近战躲避药剂',
-     'Melee Strength Potion': '近战力量药剂',
      'Mystic Lore': '神秘学识',
      'Mystic Might': '神秘力量',
      'Mystic Will': '神秘意志',
@@ -1460,13 +1436,9 @@
      'Protect from Melee, Ranged & Magic prayers now provide 85% protection, down from 95%.': '近战保护，远程和魔法祈祷从原来95%降低到现在的85%',
      'Protect from Ranged': '远程保护',
      'Provides Melee Strength Bonus': '提供近战力量加成',
-     'Ranged Assistance Potion': '远程协助药剂',
-     'Ranged Strength Potion': '远程力量药剂',
-     'Regeneration Potion': '再生药剂',
      'Removed duplicate Black Sword drop from Black Knight.': '修复了黑骑士被击败时重复掉落黑剑的问题',
      'Rigour': '精确',
      'Runite Ore': '符文矿石',
-     'Skilled Fletching Potion': '熟练造箭药剂',
      'Strawberry Seeds': '草莓种子',
      'Piety': '祈祷',
      'Ranger Boots': '游骑兵靴子',
@@ -1481,7 +1453,7 @@
      'We use cookies for the following purposes': '我们将cookie用于以下目的',
      'XP': '经验值',
      'You can no longer receive two of the same Slayer Task in a row.': '你不能再连续接受两个相同的杀手任务。',
-     'You can now see how many charges a potion has from the Bank tooltip.': '你现在可以从仓库的提示框中看到一种药剂花费多少费用。',
+     'You can now see how many charges a potion has from the Bank tooltip.': '你现在可以从仓库的提示框中看到一种药水花费多少费用。',
      'You can now see the exact Mastery XP progress on the skill screen for each item (Except Farming).': '现在你可以在技能界面上看到每个物品的专精等级(除了耕种)。',
      'You can now select the Bank as your Default Page on Load.': '您现在可以选择仓库作为您的默认页面加载。',
      'You can now toggle the Auto Use Potion setting directly from the Potions menu.': '你现在可以从制药栏目中直接切换自动使用魔药的设置。',
@@ -1592,8 +1564,8 @@
      'Halved the sale price of Throwing Knives to accommodate for the above change.': '为适应上述变化，将飞刀的售价减半。',
      'Harvest All for': '收获全部',
      'He spent a very long time planning this update, so please pass on all thanks and credit to him for his hard work.': '他花了很长时间计划这次更新，所以请把所有的感谢和赞扬传递给他的努力工作。',
-     'Herblore potion now provides a second potion of a random tier, rather than replacing the potion you create.': '草药药剂现在提供另一种随机的药水，而不是代替你所制造的药水。',
-     'Herblore Tier IV potions are now unlocked at Mastery Level 65, down from 80.': '药草IV级药剂在专精等级65时可以解锁，原来是80。',
+     'Herblore potion now provides a second potion of a random tier, rather than replacing the potion you create.': '草药药水现在提供另一种随机的药水，而不是代替你所制造的药水。',
+     'Herblore Tier IV potions are now unlocked at Mastery Level 65, down from 80.': '药草IV级药水在专精等级65时可以解锁，原来是80。',
      'HP notifications have been disabled (These cause too much lag': 'HP通知已被禁用(这将导致太多的延迟',
      'I appreciate your patience and support during this time! Thank you.': '感谢您在这段时间的耐心和支持!谢谢你！',
      'If you run out of M-Bucks to spend - go cry to your parents and hope they give you some. If not, steal their credit card and purchase some in our totally fair, not Pay2Win shop that provides a significant advantage to those with money.': '如果你花光了钱，去向父母哭诉，希望他们能给你一些。如果没有，偷他们的信用卡，然后在我们完全公平的，而不是Pay2Win的商店购买一些，因为这对那些有钱的人来说是非常有利的。',
@@ -1627,7 +1599,7 @@
      'Melvor Idle has been migrated to a brand new server to accomodate for the large increase in traffic. I will continue to monitor performance and make adjustments where required.': '梅尔沃放置已经被迁移到一个全新的服务器上，以适应通信量的大幅增长。我会继续监督工作表现，并在需要时作出调整。',
      'Minor Fishing stats have been added and adjusted.': '小鱼的钓鱼属性已经添加和调整。',
      'New Combat Herblore Potion - Divine Potion - Chance to not consume Prayer Points. This one was created by': '新的战斗药草药水-神圣药水-有可能不消耗祈祷点。这个是由',
-     'New Combat Herblore Potion - Lucky Herb Potion - Chance to turn a dropped Herb Seed into a grown Herb. This potion idea was submitted without a username.': '新的战斗药草药水-幸运药草药水-有机会将掉落的药草种子变成长大后的药草。这个药剂的想法提交时没有用户名。',
+     'New Combat Herblore Potion - Lucky Herb Potion - Chance to turn a dropped Herb Seed into a grown Herb. This potion idea was submitted without a username.': '新的战斗药草药水-幸运药草药水-有机会将掉落的药草种子变成长大后的药草。这个药水的想法提交时没有用户名。',
      'New Item - Guardian Amulet - Gain +2% damage reduction when hit by an enemy. Capped at': '新物品-守护护身符-被敌人攻击时获得+2%的伤害减免。限制在',
      'New item graphics for all Logs have been added. Please pass on thanks to': '为所有日志添加了新的项目图形。请对下面这些人转达谢意：',
      'New Patreon Item - Aorpheat\'s Signet Ring (Aorpheat': '新的Patreon项目- Aorpheat的图章戒指(Aorpheat)',
@@ -1641,7 +1613,7 @@
      'Pirates Lost Ring (Increased Fishing XP': '海盗丢失的戒指(增加捕鱼经验值)',
      'Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you.': '请注意，关闭cookies可能会对许多网站的功能产生负面影响，也包括我们的网站。您可能无法使用本网站的某些功能。',
      'Potentially fixed issue with crops insta-growing in some specific circumstances.': '可能修复了在某些特定情况下作物会瞬间成长的问题。',
-     'Potion Menu in the Header now displays the amount of potion charges.': '右上方的药剂栏现在会显示药剂的可用次数。',
+     'Potion Menu in the Header now displays the amount of potion charges.': '右上方的药水栏现在会显示药水的可用次数。',
      'Quantity': '数量',
      'As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider), the browser you used to visit our site (such as Google Chrome or Firefox), the time you visited our site and which pages you visited throughout our site.': '与大多数其他网站一样，我们收集和使用包含在日志文件中的数据。日志文件中的信息包括您的IP (internet protocol)地址、您的ISP (internet service provider)、您访问我们网站时使用的浏览器(如谷歌Chrome或Firefox)、您访问我们网站的时间以及您在整个网站中访问的页面。',
      '- All GP drops are doubled, +5% chance to obtain double loot from slain monsters or Thieving, +10% chance to gain double resources from any skill. Can only be obtained by combining / upgrading Signet Ring Half A & B. One half is found during normal combat, the other half is found while skilling.': '所有的GP掉落加倍，+5%几率从被杀死的怪物或偷窃得到双倍的战利品，+10%几率从任何技能得到双倍的资源。只有结合/升级印戒才能获得一半A戒指和一半B戒指，一半在正常战斗中找到，另一半在技能使用中找到。',
@@ -1670,7 +1642,7 @@
      'The artwork for Prat, the Protector of Secrets has been updated.': 'Prat,秘密的守护者的美术形象被升级了',
      'We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google‘s privacy policy is available at: https://www.google.com/policies/privacy/': '我们使用谷歌分析来分析我们网站的使用情况。谷歌分析通过cookies收集网站使用信息。收集到的有关我们网站的信息被用于创建关于我们网站使用情况的报告。谷歌的隐私政策可在以下网址获得:https://www.google.com/policies/privacy/',
      'These dungeons were made to be challenging and shouldn\'t be idle-able (maybe possible with god armour and pots). These dungeons should only be attempted by late-game players who have: Dungeon Equipment Swapping, BiS gear for all 3 combats, lots of food, prayer points and potions.': '这些神殿有挑战性，不应该被闲置(也许有神的盔甲和武器)。这些神殿只有在游戏后期的玩家才会尝试:地牢装备交换，三种战斗的BiS装备，大量的食物，祈祷点和药水。',
-     'Most Herblore potions work offline (If you have Auto Re-use Potion active). The potions that do not work will say so in their description. Currently, the potions that do not work are all Combat Potions (of course), Fisherman\'s Potion, Controlled Heat Potion, and Perfect Swing Potion': '大部分的药草药剂可以离线工作(如果你有自动重复使用药剂)。不能这样做的的药剂会在描述中告诉你。目前，不能这样的药水都是战斗药水(当然)，渔夫药水，控制热药水，和完美挥杆药水',
+     'Most Herblore potions work offline (If you have Auto Re-use Potion active). The potions that do not work will say so in their description. Currently, the potions that do not work are all Combat Potions (of course), Fisherman\'s Potion, Controlled Heat Potion, and Perfect Swing Potion': '大部分的药草药水可以离线工作(如果你有自动重复使用药水)。不能这样做的的药水会在描述中告诉你。目前，不能这样的药水都是战斗药水(当然)，渔夫药水，控制热药水，和完美挥杆药水',
      'California law gives residents the right to opt out of the “sale” of their personal information to third parties, including for advertising purposes. Under California law, the sharing of your information with a service provider for advertising purposes could be considered a “sale.” To opt out of the sharing of your information for advertising information, [if not infinite scroll: click the opt out link provided in the footer of this page] [if infinite scroll: click the opt out link provided at the end of the post]. You also have the right to request from us the categories of personal information that we have shared and the categories of third parties to whom the information was provided. To make such a request, please contact us at': '加州法律赋予居民选择不向第三方“出售”个人信息的权利，包括出于广告目的的出售。根据加州法律，出于广告目的与服务提供商共享您的信息可以被视为“销售”。"选择不分享您的广告信息，[如果不是无限滚动，请点击页脚提供的退出链接][如果无限滚动，请点击文章结尾提供的退出链接]。您也有权向我们索取我们已共享的个人信息类别以及该信息提供给的第三方的类别。如欲提出上述要求，请致电',
      'Sweetcorn Seeds': '甜玉米种子',
      'Oak Tree Seeds': '橡树种子',
@@ -1836,7 +1808,7 @@
      'bonuses.': '奖励',
      'Boots': '靴子',
      'Bounty Hunter': '赏金猎人',
-     'Brew countless Potions that provide benefits to all Skills within the game by using Herbs you grow within Farming.': '通过使用你在农场中种植的草药，酿造无数的药剂，为游戏中的所有技能提供好处。',
+     'Brew countless Potions that provide benefits to all Skills within the game by using Herbs you grow within Farming.': '通过使用你在农场中种植的草药，酿造无数的药水，为游戏中的所有技能提供好处。',
      'Bronze': '青铜',
      'Bulk Selling': '批量销售',
      'Burn Logs obtained from': '获取日志',
@@ -1844,10 +1816,10 @@
      'Burnt Fish': '烤焦的鱼',
      'Burnt Logs have a chance to provide': '燃烧的原木有机会木炭',
      'Bury Item': '埋葬物品',
-     'Button in the top right of the screen on the respective page associated with that Potion.': '与药剂相关的页面上，屏幕右上方药水按钮',
+     'Button in the top right of the screen on the respective page associated with that Potion.': '与药水相关的页面上，屏幕右上方药水按钮',
      'By defeating Into the Mist': '打败迷雾迷宫',
      'By playing this game, you agree that not all content has been added, major changes will occur to systems at any given time, and saves may be lost due to unintended bugs.': '玩此游戏即表示您同意并非所有内容都已添加，系统会在任何给定时间发生重大变化，并且可能会因意外错误而丢失保存。',
-     'By simply activating the option at the top of the Bank, you will be able to mark any unlocked item for Sale to quickly remove them from your Bank.': '通过简单地激活银行顶部的选项，您将能够标记任何未解锁的项目出售，以快速从您的银行删除它们。',
+     'By simply activating the option at the top of the Bank, you will be able to mark any unlocked item for Sale to quickly remove them from your Bank.': '通过简单地激活银行顶部的选项，您将能够印记任何未解锁的项目出售，以快速从您的银行删除它们。',
      'Bypass equipment requirements for Slayer Areas. +25% Flat Area Effect Negation. +5% Damage Dealt against Slayer Task Enemies.': '杀手任务。+ 25%命中+ 5%伤害对杀手任务的敌人。',
      'can be used to create': '可以被用于制作',
      'Cape of Completion': '完成',
@@ -2005,7 +1977,7 @@
      'Heals for': '治疗',
      'Helmets': '头盔',
      'Herblore interacts with every Skill within the game.': '草食动物与游戏中的每一个技能互动。',
-     'Herbs are the main resource required to create any Potion within': '草药是创建任何药剂所需的主要资源',
+     'Herbs are the main resource required to create any Potion within': '草药是创建任何药水所需的主要资源',
      'Hi,': '你好',
      'higher': '更高的',
      'Highest Wave': '最终一波',
@@ -2185,9 +2157,9 @@
      'Unlock the toggle option to automatically fight new Slayer Task Enemies': '解锁切换选项以自动对抗新的杀手任务敌人',
      'Unlocked at Magic Level': '解锁魔法',
      'Unlocks after 15 more Normal Slayer Task Completions': '完成 15 个普通杀手任务后解锁',
-     'Unlocks after 25 more Hard Slayer Task Completions': '完成 25个普通杀手任务后解锁',
-     'Unlocks after 30 more Elite Slayer Task Completions': '完成 30个普通杀手任务后解锁',
-     'Unlocks after 40 more Master Slayer Task Completions': '完成 40个普通杀手任务后解锁',
+     'Unlocks after 25 more Hard Slayer Task Completions': '完成 25个困难杀手任务后解锁',
+     'Unlocks after 30 more Elite Slayer Task Completions': '完成 30个精英杀手任务后解锁',
+     'Unlocks after 40 more Master Slayer Task Completions': '完成 40个大师杀手任务后解锁',
      'Yet to complete.': '尚未完成',
      'You are able to perform all Farming actions alongside any other Skill.': '您可以与任何其他技能一起执行所有农业操作。',
      'You are about to reset and delete your character. Are you sure you want to do this? If you are mad or something, I recommend sleeping on it. Maybe try some yoga or meditation before clicking the button.': '您即将重置并删除您的角色。你确定要这么做吗？如果你生气或什么的，我建议你睡在上面。在单击按钮之前，也许可以尝试一些瑜伽或冥想。',
@@ -2353,7 +2325,7 @@
      'Total items sold': '出售物品总计',
      'Total Mastery level': '精通等级总计',
      'Total Ores mined': '开采的矿石总计',
-     'Total potion charges used': '所用药剂费用合计',
+     'Total potion charges used': '所用药水费用合计',
      'Total potions brewed': '制作的药水总计',
      'Total potions used': '使用的药水总计',
      'Total runes crafted': '制作的符文总计',
@@ -2604,6 +2576,1077 @@
      ", and": ", 和",
      "(Safari); and": "(Safari); 和",
      "a": "一个",
+     "+10% increased success rate for all NPC": "所有NPC的（偷窃）成功率提高10%。",
+     "+10% resource preservation chance for Runecrafting": "符文制作的资源保存机会增加10%",
+     "+10% resource preservation chance for Summoning": "召唤的资源保存机会增加10%",
+     "+100% increased gold from Thieving": "偷取的金币增加100%。",
+     "+15% Agility Obstacle Item cost reduction": "敏捷障碍物品消耗减少15%",
+     "+3% increased Herblore Skill XP": "制药技能经验值增加3%",
+     "+5% increased Agility Mastery XP": "敏捷精通经验值增加5%",
+     "+5% increased chance to get double Fish": "增加5%的机会获得双倍鱼",
+     "+5% increased chance to receive double Logs per action": "增加5%的每次行动获得双倍原木机会",
+     "+5% increased Crafting Mastery XP": "增加5%的工艺精通经验值",
+     "+5% increased Crop harvest": "增加5%的作物收成",
+     "+5% increased Farming Mastery XP": "增加5%的耕种精通经验值",
+     "+5% increased Firemaking Mastery XP": "增加5%的生火精通经验值",
+     "+5% increased Fishing Mastery XP": "增加5%的钓鱼精通经验值",
+     "+5% increased Fletching Mastery XP": "增加5%的箭术精通经验值",
+     "+5% increased Global Mastery XP": "+增加5%的全局精通经验值",
+     "+5% increased Herblore Mastery XP": "+增加5%的制药精通经验值",
+     "+5% increased Mining Mastery XP": "+增加5%的采矿精通经验值",
+     "+5% increased Runecrafting Mastery XP": "+增加5%的符文制作精通经验值",
+     "+5% increased Smithing Mastery XP": "+增加5%的锻造精通经验值",
+     "+5% increased Summoning Mastery XP": "增加5%的召唤精通经验值",
+     "+5% increased Thieving Mastery XP": "增加5%的偷窃精通经验值",
+     "+5% increased Woodcutting Mastery XP": "增加5%的伐木精通经验值",
+     "+5% resource preservation chance for Crafting.": "工艺的资源保存机会增加5%。",
+     "+5% resource preservation chance for Herblore": "制药的资源保存几率增加5%。",
+     "+5% resource preservation chance for Smithing": "锻造的资源保存机会增加5%",
+     "(Except Shortbows and Longbows) require resources obtained via": "（短弓和长弓除外）需要通过以下途径获得资源",
+     "+1 Shard Cost Reduction for Tier 1 & Tier 2 Summoning Tablets": "+1 一级和二级召唤石的碎片消耗降低",
+     "+1 Shard Cost Reduction for Tier 3 Summoning Tablets. +10 Base Quantity for Summoning Tablet Creation.": "+1 三级召唤石的碎片消耗降低 +10创建召唤石的起始数量",
+     "+10% chance to double items in Smithing.": "锻造中+10%的机会使物品翻倍",
+     "+10% chance to double Potions per action in Herblore": "在制药中每次行动有+10%的机会使药水翻倍",
+     "+10% chance to receive double items from Thieving": "偷窃时有+10%的机会获得双倍物品",
+     "+10% Global Agility Obstacle cost reduction.": "+10%的全局敏捷性障碍物费用减少。",
+     "+10% GP from Agility": "敏捷+10%的GP获得",
+     "1 Prayer Level for Golbin Raid": "哥布林突袭中+1祈祷等级",
+     "1 Shard Cost Reduction for this Summoning Tablet only.": "仅在本召唤项目中-1碎片消耗",
+     "10 Base Quantity for this Summoning Tablet only.": "仅在本召唤项目中增加10基础产出",
+     "10 Ranged Attack Bonus": "10远程攻击加成",
+     "10% Agility Obstacle cost reduction for this Obstacle only.": "仅在本障碍中减少10%敏捷障碍消耗",
+     "10% base chance to preserve resources": "10%的保留资源基本概率",
+     "10% Chance to preserve Summoning Charges +20% Chance to Preserve Resources in Summoning. +10 Base Quantity for Summoning Tablet Creation": "10%的概率保留召唤物次数+20%的概率保留召唤（技能）资源。召唤碑创作的基本数量+10",
+     "10% decreased Burning interval": "生火需要时间减少了10%。",
+     "10% Mining Interval for a total of -40% applied from your Pickaxe. +1% chance to double ores per action for a total of +6% from your Pickaxe.": "减少10%的采矿耗时，从你的镐上共获得-40%耗时。在每次行动中有+1%的机会使矿石翻倍，从你的镐中共获得+6%的机会。",
+     "10% Success Rate and +5% Success Rate Cap when worn, until depleted.": "佩戴后有10%的成功率和+5%的成功率上限，直到耗尽。",
+     "100% chance to activate that lasts for 3 Attack Turns.": "100%机会激活，持续3个攻击回合。",
+     "11 Runes Produced per Runecraft.": "每次符文工艺生产11个符文。",
+     "15% base chance to preserve resources": "基础的保存资源机会为15%。",
+     "15% Base Cooking, Firemaking & Smithing Interval.": "15%的基础烹饪、生火和锻造耗时减少。",
+     "15% Base Crafting & Fletching Interval.": "15%工艺和制箭基础耗时减少。",
+     "15% Base Herblore & Runecrafting Interval.": "15%制药和符文工艺基础耗时减少。",
+     "15% Base Mining & Woodcutting Interval.": "15%的基础采矿和伐木耗时减少。",
+     "15% Ranged Ammo Preservation": "15%远程弹药保留机会",
+     "15% Woodcutting Interval": "15%伐木耗时减少",
+     "2 Runes Produced per Runecraft.": "每次符文工艺生产2个符文。",
+     "2% Thieving Mastery XP": "+2% 盗贼精通经验值",
+     "20% Agility Obstacle Build Costs": "20%的敏捷障碍建造成本",
+     "20% base chance to preserve resources": "+20%保留资源的基本概率",
+     "20% chance to preserve all runes when casting a Magic Spell in Combat.": "在战斗中释放魔法时有20%的几率保留所有消耗的符文。",
+     "20% Farming Yield. 10% reduced grow time for this Crop. Receive up to 8 Allotment or Herb seeds back from harvesting.": "+20%的种植产量。该作物的生长时间减少10%。收获时最多可获得8个作物或草药种子。",
+     "2400 Attack Speed": "攻击速度2400(ms)",
+     "3 Runes Produced per Runecraft.": "每个符文工艺生产3个符文。",
+     "3% Agility Interval for this Obstacle only.": "3%的敏捷区间仅适用于此障碍。",
+     "3% chance to receive special items.": "3%的机会获得特殊物品。",
+     "30% base chance to preserve resources. +35% chance to obtain 2 items.": "30%保存资源的基本机会。+35%的机会获得2件物品。",
+     "4 Mastery XP": "4 精通经验值",
+     "4 Runes Produced per Runecraft.": "每个符文工艺生产4个符文。",
+     "5 Runes Produced per Runecraft.": "每个符文工艺生产5个符文。",
+     "5 to Minimum Food Qty per purchase": "5至每次购买的最低食品数量",
+     "5% base chance to preserve resources": "5%的基本机会保存资源",
+     "5% Bird Nest drop rate": "5%的鸟窝掉落率",
+     "5% chance to preserve resources for this Potion only.": "5%的几率为该药水保留资源。",
+     "5% chance to preserve resources.": "5%的机会保存资源。",
+     "5% Cooking XP for a total of +15% Cooking XP from your Cooking Fire.": "5%的烹饪经验值，从你的烹饪之火中获得总共+15%的烹饪经验值。",
+     "5% Cooking XP for a total of +20% Cooking XP from your Cooking Fire.": "5%的烹饪经验值，从你的烹饪之火中获得总共+20%的烹饪经验值。",
+     "5% Cost Reduction, excluding Shards, for this Summoning Tablet only.": "减少5%的费用，不包括碎片，只适用于这个召唤碑。",
+     "5% Global Skill XP Bonus. +100% chance for coal per log burnt.": "5%的全局技能经验值奖励。每根原木燃烧后有100%的机会获得煤炭。",
+     "5% to Maximum Ranged Ammo Qty possible.": "可能的最大射程弹药数量的5%。",
+     "5% to Maximum Runes Qty possible.": "可能有5%的最大符文数量。",
+     "5% Woodcutting Cut Interval for a total of -40% applied from your Axe.": "5%的砍伐间隔，从你的斧头上共应用了-40%。",
+     "50 charges per use": "每次使用50次收费",
+     "6 Runes Produced per Runecraft.": "每件符文工艺品可生产6个符文。",
+     "60% Smithing XP when worn, until depleted.": "佩戴后可获得60%铁匠的经验值，直至耗尽。",
+     "7 Ranged Attack Bonus": "7个射程攻击奖励",
+     "7 Runes Produced per Runecraft.": "每件符文工艺品生产7个符文。",
+     "A fix has been pushed to rectify the issue with Mastery Tokens not dropping. Please refresh an ensure you are running at least Alpha v0.21 (?1023) for the fix to be active.": "已推动修复以纠正精通代币不掉落的问题。 请刷新以确保您至少运行 Alpha v0.21 (?1023) 以使修复程序处于活动状态。",
+     "A fix has been released for the Into the Mist boss where a special attack was causing Combat to stop.": "已针对 雾状 首领发布了一个修复程序，其中特殊攻击导致战斗停止。",
+     "A fix has been released to address the Cloud Save Successful popup spam.": "已发布修复程序以解决“云保存成功”弹出式垃圾邮件问题。",
+     "A fix has been released to combat the issue of Logs not displaying in the bank, as well as default bank item tabs not setting correctly.": "已发布修复程序以解决银行中未显示日志以及默认银行项目选项卡设置不正确的问题。",
+     "A hotfix has been released to address Memory Leak issues reported in the Steam client.": "一个热补丁已经发布，以解决在Steam客户端报告的内存泄漏问题。",
+     "A Tale of the Past, a future's prophecy": "一个过去的故事，一个未来的预言",
+     "Access to Barbarian Fishing Area when equipped.": "装备后可进入野蛮人钓鱼区。",
+     "Adamant Fishing Rod": "精金鱼竿",
+     "Air God Dungeon Cleared": "气神地牢已完成次数",
+     "All Logs sell for +50% GP Value": "所有原木以+50%的GP值出售",
+     "All Rocks gain +10 Max HP (Bonus applied on Rock Respawn)": "所有矿物获得+10最大HP（奖励在矿物刷新时适用）。",
+     "All Skills, includng Combat, are placed into \"Offline Mode\" during a Raid. Once a Raid is finished, you will be rewarded with progress for the Skill.": "所有的技能，包括战斗，都会在突袭期间进入 \"离线模式\"。一旦突袭结束，你将获得技能的进展奖励。",
+     "Always catch a minimum quantity of 2 Fish": "始终捕获至少2条鱼的数量",
+     "Always Craft a base quantity of 2 for Rings and Necklaces": "戒指和项链的基本数量始终为2个。",
+     "Ammo": "弹药",
+     "Attack Interval": "攻击间隔",
+     "Attacks Missed": "攻击未命中",
+     "Attempting to login on Firefox causes the page to reload has been fixed": "在火狐浏览器上尝试登录导致页面重新加载的问题已被修复。",
+     "Barbara Scott": "芭芭拉·斯科特",
+     "Base ingredient used in Herblore": "在Herblore中使用的基本成分",
+     "Broken Mastery Token drop rates have been recitfied": "破碎的精通令牌掉落率已被重新确认",
+     "Build": "创建",
+     "Build Obstacle?": "建造障碍？",
+     "Building an Obstacle will provide +4% Item Cost Reduction to that Obstacle only. Stacks up to 10 times!": "建造一个障碍物将只为该障碍物提供+4%的物品成本降低。最多可以叠加10次!",
+     "Built": "已建成",
+     "Burnt Swordfish": "烧毁的剑鱼",
+     "Buy X button issues with the new Quick Buy setting fixed": "新的快速购买设置中的购买X按钮问题得到修复",
+     "California law gives residents the right to opt out of the “sale” of their personal information to third parties, including for advertising purposes. Under California law, the sharing of your information with a service provider for advertising purposes could be considered a “sale.” To opt out of the sharing of your information for advertising information, [if not infinite scroll: click the opt out link provided in the footer of this page] [if infinite scroll: click the opt out link provided at the end of the post]. You also have the right to request from us the categories of personal information that we have shared and the categories of third parties to whom the information was provided. To make such a request, please contact us at info@adthrive.com. To be clear we do not share your name, contact information, or any other sensitive information with third parties, and the categories of third parties that we share information with for advertising purposes are supply side platforms, programmatic advertising exchanges, and demand side platforms.": "加州法律规定，居民有权选择不将其个人信息 \"出售\"给第三方，包括用于广告目的。根据加州法律，为广告目的与服务提供商共享您的信息可被视为 \"销售\"。要选择退出为广告信息而共享您的信息，[如果不是无限滚动：点击本页页脚提供的退出链接] 。[如果是无限滚动：点击帖子末尾提供的退出链接]。你也有权要求我们提供我们所共享的个人信息的类别，以及向其提供信息的第三方的类别。要提出这样的要求，请与我们联系，info@adthrive.com。明确地说，我们不会与第三方分享你的姓名、联系信息或任何其他敏感信息，我们为广告目的分享信息的第三方类别是供应方平台、程序化广告交易所和需求方平台。",
+     "Capped at 100% Chance.": "上限为100%的几率。",
+     "Capped at 80% Chance.": "上限为80%的几率。",
+     "Cargo Net\n\t": "货网\n\t",
+     "Chance to double Items.": "有机会获得双倍物品。",
+     "Chance to preserve Recipe Resources.": "有机会保存食谱资源。",
+     "Chances below 0% will act as 0% chance.": "低于0%的机会将作为0%的机会。",
+     "Claim Tokens in Bank (": "在银行领取代币 (",
+     "Click here to see the Official Development Roadmap": "点击这里查看官方发展路线图",
+     "Cloud Save Popup Fix": "云保存弹出式修复",
+     "Cloud save successful popup spam no longer occurs": "云保存成功后不再出现弹出式垃圾邮件",
+     "Cloud saving issues while having the game open for more than 12 hours have been fixed.": "打开游戏超过12小时时的云端保存问题已被修复。",
+     "Combat Settings": "战斗设置",
+     "Combat Skills": "战斗技能",
+     "Combat training.": "战斗训练。",
+     "Compiled List of Fixes": "已编译的修复列表",
+     "Connection established. Fetching Cloud Saves...": "连接建立。获取云计算保存...",
+     "Continue to level up your Marks to unlock Synergies between other Familiars.": "继续提升你的印记等级，以解锁其他召唤石之间的协同作用。",
+     "Conversion of Standard and Ancient spells causing the game to not load has been fixed.": "标准和古代法术的转换导致游戏无法加载的问题已经修复。",
+     "Convert selected item into 1 Rune Essence.": "将所选物品转化为1个符文精华。",
+     "Copper Ore": "铜矿石",
+     "Cost Reduction": "降低成本",
+     "Crops cannot die (Bonus applied when crop grows).": "庄稼不能死（庄稼生长时应用奖金）。",
+     "Damage Dealt": "造成的损失",
+     "Damage Taken whilst Equipped": "装备时受到的伤害",
+     "Decreased cut interval by 0.2s for this Tree.": "为这棵树减少了0.2秒的切割间隔。",
+     "Default Bank Tab issues for items should now be fixed": "项目的默认银行标签问题现在应该被修复了",
+     "Defeat Volcanic Cave 1 time to unlock": "击败Volcanic Cave1次，解锁",
+     "Defeat Volcanic Cave 100 times to unlock": "击败Volcanic Cave100次，解锁",
+     "Destroy Obstacle": "摧毁障碍物",
+     "Determines the colours used for Enemy Special Attack Modifier descriptions. Colours are determined by the game's general perspective of a Buff / Debuff.": "决定敌人特殊攻击修改器的描述所使用的颜色。颜色由游戏中的增益/减益的一般视角决定。",
+     "Disable Combat Damage Splashes": "禁用战斗伤害溅射",
+     "Disable Combat Progress Bars": "禁用战斗进度条",
+     "Discover Marks, create and Summon Familiars, and unlock Synergies to assist you throughout the entire game.": "发现印记，创建和召唤召唤石，并解锁协同作用，在整个游戏中协助你。",
+     "Discovered in": "发现于",
+     "Discovering 1 Mark will allow you to create Summoning Tablets. These Tablets can then be equipped from the Bank to provide passive bonuses for you.": "发现1个印记将允许你创建召唤石。然后可以从银行装备这些召唤石，为你提供被动奖励。",
+     "Discovering Marks is the first step in your Summoning journey.": "发现印记是你召唤之旅的第一步。",
+     "Discovery (Level) Progress": "发现（等级）进展",
+     "Dismiss Message": "解散消息",
+     "Don't forget to backup your saves locally!": "不要忘了在本地备份你的保存资料!",
+     "DOUBLE": "双倍",
+     "Drops button in combat area selection no longer closes selection": "战斗区域选择中的下降按钮不再关闭选择",
+     "Each level provides +0.2% chance to preserve resources.": "每级提供+0.2%的机会来保存资源。",
+     "Each level provides a slight increase in success rate as well as increased % GP acquired equal to your Mastery Level.": "每一级都会使成功率略有提高，并使获得的GP百分比增加，相当于你的精通程度。",
+     "Each level provides increased Farming Yield.": "每一级都提供增加的耕作产量。",
+     "Each Mastery Level +0.2% chance to preserve resources for this Potion only.": "每一精通程度+0.2%的机会，只为该药水保存资源。",
+     "Each Mastery Level grants -0.1% Firemaking Interval for the respective Log.": "每一个精通程度都能为各自的日志提供-0.1%的生火间隔。",
+     "Each Mastery level increases the chance to receive 2 Fish by +": "每一个精通的等级都会使获得2条鱼的机会增加+。",
+     "EARLY ACCESS": "提前进入",
+     "Earth God Dungeon Cleared": "大地之神地牢已通关",
+     "Enable Offline Combat": "启用离线战斗",
+     "Equipped Items": "装备的项目",
+     "Equipping two Familiars with an unlocked Synergy will grant an extra bonus on top of their existing passives.": "装备两个具有解锁协同作用的召唤石，将在他们现有的被动上获得额外的奖励。",
+     "Every 10 levels provides +5% chance to receive 2x Logs per action.": "每10级提供+5%的机会，每次行动获得2个日志。",
+     "Eye of Fear": "恐惧之眼",
+     "Familiars": "召唤石",
+     "Familiars use 1 charge per action in it's relative Skill. Combat Familairs uses 1 charge each time it attacks in Combat.": "召唤石在其相关的技能中每次行动使用1个电荷。战斗型召唤石在战斗中每次攻击时使用1个电荷。",
+     "Familiars use an extra 1 charge each per action with the Synergy active.": "在协同作用的情况下，召唤石每次行动都会额外使用1个电荷。",
+     "Fills Farming Compost to 100% per use. +10% Increased crop harvest": "每次使用时将耕作堆肥填充到100%。+10% 农作物收获量增加",
+     "Filter Familiars": "筛选召唤石",
+     "Finalise Mechanics": "最后确定机制",
+     "Fix for Bank Tab issues and WC Log Issues": "修复银行标签问题和WC日志问题",
+     "Fix for broken Into the Mist special attack": "修复破损的 \"进入迷雾\" 特殊攻击",
+     "Fix Pause action for Skills Setting for Combat. This setting now correctly pauses Combat when tabbing out or minimising the app (If Offline Combat is Enabled).": "修复战斗的技能设置的暂停动作。该设置现在可以在退出或最小化应用程序时正确暂停战斗（如果离线战斗已启用）。",
+     "Fixed attack style tooltips": "修正了攻击方式的工具提示",
+     "Fixed Auto Eat working incorrectly with efficiency that isn't": "修正了自动吃的工作方式不正确，效率不高的问题。",
+     "Fixed Golbin Raid images for Golbins": "修正了戈尔宾斯的突袭图像",
+     "Fixed Item Stats link in Crafting being broken": "修正了手工制作中的物品统计链接被破坏的问题",
+     "Fixed Mastery conversion from old save files that prevented the game loading": "修正了从旧的保存文件中转换精通的问题，使游戏无法加载。",
+     "Fixed most missing icons": "修复了大部分丢失的图标",
+     "Fixed Passive Slot providing equipment stats (Lol whoops, blame Coolrox": "修复了提供装备状态的被动槽（Lol whoops，责备Coolrox",
+     "Fixed Prayer and Magic being unaccessible in Golbin Raid in Adventure Mode": "修正了在冒险模式下Golbin Raid中祈祷和魔法无法进入的问题",
+     "Fixed running out of Javelins or Throwing Knives in Golbin Raid not equipping default weapon": "修复了Golbin Raid中标枪或投掷刀用完后不能装备默认武器的问题",
+     "Fixed Spellbooks not updating on exiting and entering of Golbin Raid": "修复了退出和进入Golbin Raid时法术书不更新的问题",
+     "Fixes for Multi-Hit Attacks": "多重攻击的修复",
+     "Fixes have been released to address issues reported around multi-hit attacks in Combat.": "已经发布了修复措施，以解决围绕战斗中的多击攻击所报告的问题。",
+     "For Desktop users, you are able to drag any item into any tab you wish. For everyone else, there is an option at the top of the bank to quickly move items into new tabs. Kind of like a Bulk Move Item mode.": "对于桌面用户，你能够将任何项目拖到你希望的任何标签中。对于其他所有人来说，在银行的顶部有一个选项，可以快速地将项目移动到新的标签。有点像批量移动项目模式。",
+     "For every action you perform within a Skill, extra": "对于你在一个技能中的每一个动作，额外的",
+     "For every action you perform within a Skill, you gain separate": "你在一个技能中的每一个动作，你都会获得单独的",
+     "For Standard Players, your Health Regenerates over time.": "对于标准玩家来说，你的健康会随着时间的推移而再生。",
+     "Gain XP in the respective Skills to have a chance at discovering a Mark.": "获得相应技能的经验值，就有机会发现一个印记。",
+     "Generous Resupply": "慷慨的补给",
+     "Getting a Rhaelyx piece drop from Summoning while Offline no longer causes an error": "在离线状态下从召唤中获得Rhaelyx碎片不再导致错误。",
+     "Global Active Passives": "全局主动被动",
+     "GP Gained from sales": "销售所得的GP",
+     "Grants +0.25% Global Mastery XP": "授予+0.25%的全局精通经验值。",
+     "Grants 250% base Runecrafting XP from Runes": "从符文中获得250%的基础符文术经验值。",
+     "Grants an extra 5 Runes per craft": "每项工艺可获得额外的5个符文",
+     "Grants GP on-hit based on your current total GP | Capped at 250% of damage dealt when you have 50M GP. Requires Bolts as Ammunition.": "当你有5千万GP时，你的GP值将达到所受伤害的250%。需要螺栓作为弹药。",
+     "Grants Mastery Pool XP equal to 0.1% of the maximum Mastery Pool XP for the respective skill.": "授予精通池经验值，相当于相应技能的最大精通池经验值的0.1%。",
+     "Grants per Obstacle Completion": "每个障碍物完成的补助金",
+     "Green (Any Buff": "绿色（任何布夫",
+     "has been added to the game.": "已被添加到游戏中。",
+     "have a tendency to lure a few useless items known as": "倾向于引诱一些无用的物品，称为",
+     "Having the respective Familiar equipped will double the Mark's drop rate.": "装备了相应的熟悉者将使印记的掉落率翻倍。",
+     "Havoc Rune": "浩劫符文",
+     "Healed for": "治愈",
+     "Herb": "草药",
+     "Here is a compiled list of fixes applied to the game within the last 24 hours. Please ensure you are running Alpha v0.21 (?1033) for all of these changes to be in place.": "以下是过去24小时内应用于游戏的修正清单。请确保你运行的是Alpha v0.21 (?1033)，以便所有这些变化都能到位。",
+     "Hide 99's": "隐藏99的",
+     "Hint: Achieve Max Level in all Summoning Marks": "提示：在所有召唤印记中达到最高等级",
+     "Hint: Combat": "提示：战斗",
+     "Hint: Cooking": "提示：烹饪",
+     "Hint: Farming": "提示：耕种",
+     "Hint: Firemaking": "提示：生火",
+     "Hint: Fishing": "提示：钓鱼",
+     "Hint: Hitpoints": "提示：击中点",
+     "Hint: Infernal Stronghold": "提示：地狱要塞",
+     "Hint: Mastery": "提示：精通",
+     "Hint: Mining": "提示：采矿",
+     "Hint: Miolite Caves": "提示：米奥利特洞穴",
+     "Hint: Ranged": "提示:远程",
+     "Hint: Smithing": "提示：锻造",
+     "Hint: Spider Forest": "提示：蜘蛛森林",
+     "Hint: Thieving": "提示：偷窃",
+     "Hint: Volcanic Cave": "提示：火山洞",
+     "Willow Longbow (u": "柳树长弓 (u",
+     "Willow Shortbow (u": "柳树短弓 (u",
+     "XP for +1 Levels": "级别+1的经验值",
+     "Yew Longbow (u": "紫杉长弓 (u",
+     "Yew Shortbow (u": "紫杉短弓 (u",
+     "You can build up to 10 different Obstacles, categorized into their own sections of the Obstacle Course.": "你可以建立多达10个不同的障碍物，并将其归入障碍赛的各自部分。",
+     "You can no longer equip Summoning Tablets into both Summoning slots": "你不能再将召唤石装备到两个召唤槽中了。",
+     "You cannot equip / unequip from this screen": "你不能在这个页面装备或卸下装备",
+     "You don't have the required materials to brew that.": "你没有必要的材料来酿造它",
+     "You don't have the required runes to Cast that.": "你没有必要的符文来施放它",
+     "you earn from the action is added to your": "你从行动中获得的收入将添加到你的",
+     "You have no available potions for this skill.": "你没有这个技能的可用药水",
+     "You no longer catch Junk.": "你不会抓到垃圾了",
+     "You unlocked the new Combat Passive Slot": "你解锁了新的战斗被动插槽",
+     "Your companion throughout the game.": "你的同伴将持续整个游戏",
+     "times.": "次。",
+     "Tin Ore": "锡矿石",
+     "to ensure I am prepared for all Combat scenarios that could occur while Offline.": "以确保我对离线时可能发生的所有战斗情况有所准备。",
+     "Toggles the Offline Combat functionality.": "切换离线战斗功能。",
+     "Training the respective Skill while that Familiar is equipped will": "装备该召唤石时训练各自的技能将",
+     "Trains": "训练",
+     "Try out the brand new Skill, plus there is a whole lot of changes and new stuff to explore!": "试试全新的技能，另外还有一大堆的变化和新的东西可以探索!",
+     "Unlock the ability to cut 2 different trees in Woodcutting. Logs, Skill XP and Mastery XP granted based on highest interval.": "解锁在伐木中砍伐2种不同树木的能力。根据最高的间隔时间授予原木、技能经验值和精通经验值。",
+     "Use Combination Runes": "使用组合符文",
+     "Use to create Familiars in Summoning": "用来在召唤中创造召唤石",
+     "View Obstacle Selection": "查看障碍物选择",
+     "Volcanic Cave Cleared": "火山洞已通关",
+     "Warning": "警告",
+     "Water God Dungeon Cleared": "水神地牢已通关",
+     "When you catch a Special Item, there is a 25% chance to receive one extra Special Item. It is possible to receive a different item than the original.": "当你抓到一个特殊物品时，有25%的机会获得一个额外的特殊物品。有可能会收到与原来不同的物品。",
+     "When you receive a Birds Nest, always receive a base minimum of 2.": "当你收到一个鸟巢时，总是收到一个基本的最低数量的2个。",
+     "will not": "将不会",
+     "The Monkey Familiar": "猴子召唤石",
+     "The Occultist Familiar": "隐士召唤石",
+     "The Octopus Familiar": "章鱼召唤石",
+     "The Pig Familiar": "猪召唤石",
+     "The Salamander Familiar": "蝾螈召唤石",
+     "The Unicorn Familiar": "独角兽召唤石",
+     "The Witch Familiar": "女巫召唤石",
+     "The Wolf Familiar": "狼召唤石",
+     "The Yak Familiar": "牦牛召唤石",
+     "These can be discovered by performing any action in the Skill that the Mark defines. Continue to perform actions in this Skill to find more Marks, and level up.": "这些印记可以通过执行该印记所定义的技能中的任何动作来发现。继续执行该技能中的动作可以发现更多的印记，并提高等级。",
+     "This cannot be undone.": "这是不可能被撤销的。",
+     "This cooked product heals you for an extra 20% when eaten.": "这种煮熟的产品在食用时能使你的身体得到额外20%的治疗。",
+     "This is disabled by default. To enable it, please agree to all the below important points": "这在默认情况下是禁用的。要启用它，请同意以下所有要点",
+     "This will replace any existing obstacle that may be present.": "这将取代可能存在的任何现有障碍。",
+     "The Bear Familiar": "熊召唤石",
+     "The below important fixes have been applied to the game. Please restart your Client for changes to take effect.": "以下重要的修复措施已经应用到游戏中。请重新启动你的客户端以使更改生效。",
+     "The Centaur Familiar": "半人马召唤石",
+     "The Crow Familiar": "乌鸦召唤石",
+     "The Cyclops Familiar": "独眼巨人召唤石",
+     "The Devil Familiar": "恶魔召唤石",
+     "The Dragon Familiar": "龙召唤石",
+     "the drop rate of its Marks.": "其印记的掉落率。",
+     "The Ent Familiar": "枯树召唤石",
+     "The Golbin Thief Familiar": "哥布林小偷召唤石",
+     "The Leprechaun Familiar": "妖精召唤石",
+     "The Minotaur Familiar": "牛头人召唤石",
+     "The Mole Familiar": "鼹鼠召唤石",
+     "Show Unlocked": "显示已解锁",
+     "Shrouded Badlands": "笼罩的荒地",
+     "Slayer Task already extended": "杀手任务已经延长",
+     "Special Attack Modifier Colour": "特殊攻击修改器的颜色",
+     "Special Attack(s": "特殊攻击(s",
+     "Spend": "花费",
+     "STEAM USERS": "STEAM用户",
+     "Summon": "召唤",
+     "Summoning": "召唤",
+     "Summoning is here!": "召唤来了!",
+     "Summoning Shards are purchased from the Shop.": "召唤碎片可从商店购买。",
+     "Summoning Skillcape": "召唤技能景观",
+     "Superior Eyed Monster": "高级眼怪",
+     "Synergies": "协同作用",
+     "Synergies are unlocked by levelling up a Familiar's Marks! They start to unlock at Mark Level 2.": "协同作用是通过提升熟悉的印记等级来解锁的!它们从印记等级2开始解锁。",
+     "Tablets/Familiars": "召唤牌/召唤石",
+     "Reduces the cost of Wave Skipping by 1% per purchase": "每次购买可减少1%的跳波费用",
+     "Redwood Longbow (u": "红木长弓臂 (u",
+     "Redwood Shortbow (u": "红木短弓臂 (u",
+     "Report a Bug": "报告BUG",
+     "Required to cast Magic Spells in Combat. Provides Rune reduction cost for most Magic Spells.": "在战斗中施放魔法需要。为大多数魔法提供符文减免费用。",
+     "Required to create": "需要创建",
+     "Requires Level": "需要级别",
+     "Rope Climb\n\t": "绳索攀登\n\t",
+     "Rope Swing\n\t": "绳索秋千\n\t",
+     "Save Importing Re-enabled - Alpha v0.21 (?": "重新启用保存导入功能 - Alpha v0.21 (?",
+     "Search Summoning Synergies": "搜索召唤的协同作用",
+     "Search terms include Familiar Name or Synergy Description.": "搜索条件包括熟悉的名字或协同效应描述。",
+     "Select Recipe": "选择菜谱",
+     "Select Runecrafting Category": "选择润彩客网类别",
+     "Select Summoning Category": "选择召唤类别",
+     "Sells for": "售价",
+     "Set Default Bank Sorting": "设置默认的银行排序",
+     "Show \"You are now Alseep\" Notifications in Combat.": "在战斗中显示 \"你现在睡着了\" 通知。",
+     "Show \"You have been Stunned\" Notifications in Combat.": "在战斗中显示 \"你被惊呆了\" 通知。",
+     "Show Notification when you discover a Summoning Mark (Level up popups will always show).": "发现召唤印记时显示通知（等级提升弹出窗口将一直显示）。",
+     "Receive GP equal to 25% of the value of the Log you are burning": "获得相当于你所燃烧的原木价值25%的GP",
+     "Receive no more Junk": "不再接收垃圾邮件",
+     "Recent Announcements - Melvor Idle": "近期公告 - 梅尔沃放置",
+     "Recent News": "近期新闻",
+     "Recognizing that they could not defeat them they could instead seal them. Willingly they would sacrifice themselves in the process of creating a powerful seal under their leader. But it took a huge toll. Almost all perish in the end to complete the seal, but it works, with Malcs now a saviour in the eyes of others. Knowing that if he were defeated it would mean the end. And so he leaves in grief, exiling himself for an eternity.": "认识到他们不可能打败他们，他们反而可以封印他们。他们心甘情愿地牺牲自己，在他们的领袖下创造一个强大的封印。但这需要付出巨大的代价。为了完成封印，最后几乎所有人都丧生了，但它是有效的，马尔奇现在在其他人眼中是一个救世主。知道如果他被打败了，就意味着结束。于是他在悲痛中离开，将自己放逐到永恒的地方。",
+     "Recoil Shield description fixed": "修复了反冲力护盾的描述",
+     "Red (Any Debuff": "红色（任何减益",
+     "Reduce Fletching Interval by": "缩短开刀间隔时间",
+     "Reduce Mining interval by": "缩短采矿间隔时间",
+     "Reduced crop grow time by 10% (Bonus applied when crop is planted)": "减少10%的作物生长时间（作物种植时适用的奖励）。",
+     "Reduced Ore respawn time by 10%": "矿石重生时间减少了10%。",
+     "Rancora Spider": "兰科拉蜘蛛",
+     "Ragnar - The Fire God": "拉格纳 - 火神",
+     "Produce 1 extra Gem-Tipped Bolt per Fletch (Applied to base quantity)": "每枚弹片可多生产1枚宝石弹头（适用于基本数量）。",
+     "Produce 1 extra Javelin per Fletch (Applied to base quantity)": "每支标枪可额外生产1支标枪（适用于基本数量）。",
+     "Progressing in": "进展中的",
+     "Progressing in Mastery Levels for the Item will unlock extra bonuses that generally apply to that Item only, with the exception of some Skills.": "在物品的精通程度上取得进展将解锁额外的奖励，这些奖励通常只适用于该物品，但某些技能除外。",
+     "Provides Melee Attack Bonus": "提供近战攻击奖励",
+     "Quantity Sold": "销售数量",
+     "Quick Buy Item": "快速购买项目",
+     "Potion": "药水",
+     "Potion Tier": "药水等级",
+     "Please \"Verify Integrity of game files\" before reporting the bug to ensure you have the latest stable Steam Client.": "在报告这个问题之前，请 \"验证游戏文件的完整性\"，以确保你有最新的稳定的Steam客户端。",
+     "Please enable it if you wish to use this feature - or dismiss this message and enable it via Settings later.": "如果你想使用这个功能，请启用它--或者取消这个消息，以后再通过设置启用它。",
+     "Performance Settings": "性能设置",
+     "Passive Debuffs (Red) are halved for this Obstacle only.": "被动的减益（红色）只对这个障碍物减半。",
+     "Passive: +2 Base Quantity for Summoning Tablet Creation +2% Summoning Skill XP": "被动的。召唤碑创作的基本数量+2%  +2%召唤技能经验值",
+     "Passive: +5% Slayer Skill XP. +5% Flat Slayer Area Effect Negation.": "被动。被动：+5%杀手技能经验值。+5%平坦的杀手区域效果否定。",
+     "Pause actions for skills (Except for Farming) when the game is minimised or placed in the background to activate offline progression upon return.": "当游戏最小化或放置在后台时，暂停技能的操作（耕种除外），以便在返回时激活离线进展。",
+     "Only enabled when using \"Plant All\" option.": "仅在使用 \"全部种植\" 选项时启用。",
+     "Obstacles": "障碍物",
+     "Obstacles will become inactive if there is a gap in your Obstacle Course. This means the Global Active Passives will become Inactive. The game will tell you when this happens.": "如果你的障碍赛场上有一个缺口，障碍物将变得不活跃。这意味着全局活跃的被动者将变得不活跃。当这种情况发生时，游戏会告诉你。",
+     "Offensive Stats Comparison": "进攻数据比较",
+     "Official": "官方",
+     "Official Development Roadmap": "官方发展路线图",
+     "Offline Combat": "离线战斗",
+     "Offline Combat is not enabled on this Character.": "此角色未启用离线战斗。",
+     "Offline Combat Warning": "离线战斗警告",
+     "OLD SAVE": "旧的存档",
+     "On Mobile devices, this Bank Sidebar will pop-out for you when selecting an item.": "在移动设备上，当选择一个项目时，这个银行侧边栏将为你弹出。",
+     "One-Handed Ranged Weaponary. Requires Gem-Tipped Bolts as Ammo.": "单手远程武器。需要宝石弹头作为弹药。",
+     "Owned": "拥有的",
+     "Normal Attack": "普通攻击",
+     "Normal Longbow (u": "普通长弓 (u",
+     "Not Connected": "未连接",
+     "Not Discovered": "未被发现",
+     "NOTE: You can click an unlocked Synergy to \"Quick Equip\" it.": "注意：你可以点击已解锁的协同作用来 \"快速装备\" 它。",
+     "Note: You must create at least 1 Summoning Tablet for this Mark to find more after the first one is found.": "注意：你必须为这个印记创建至少1个召唤碑，才能在找到第一个后找到更多的召唤碑。",
+     "notify me if I die while Offline until I actually load into my Character.": "如果我在离线时死亡，就通知我，直到我真正加载到我的角色。",
+     "Now with what little power she has left she offers it to you, “Vorloran, you must find a way to stop the Herald at all costs, search the lands and oceans for anything that will help you, you are our final hope now.”": "现在她用仅剩的一点力量把它献给了你。\"沃洛兰，你必须不惜一切代价找到阻止先驱者的方法，在陆地和海洋上寻找任何能帮助你的东西，你现在是我们最后的希望。\"",
+     "Oak Longbow (u": "橡木长弓 (u",
+     "Oak Shortbow (u": "橡木短弓 (u",
+     "Obstacle": "障碍物",
+     "Obstacle reductions are capped at 95%.": "障碍物减少的上限为95%。",
+     "Mumma Chicken": "姆妈鸡",
+     "Necromancer": "亡灵法师",
+     "Necromancer Boots": "亡灵法师靴",
+     "Necromancer Bottoms": "亡灵法师下装",
+     "Necromancer Hat": "亡灵法师帽",
+     "Necromancer Robes": "亡灵法师长袍",
+     "Neutral (Buffs & Debuffs": "中立（增益&减益",
+     "Never fail a pickpocket attempt.": "永远不要让扒手的尝试失败。",
+     "New Bank Sorting Options": "新的银行分类选项",
+     "New Dawn": "新的曙光",
+     "No Area Effect": "无区域效果",
+     "No item description.": "没有项目描述。",
+     "No Monster Selected": "未选择怪物",
+     "No requirements": "无要求",
+     "No Synergy Active": "没有协同可用",
+     "Non-Combat": "非战斗",
+     "None :(": "无 :(",
+     "loss of my Hardcore Character": "失去我的硬核角色",
+     "Magic & Alt. Magic": "魔术和Alt. 魔术",
+     "Magic Longbow (u": "魔法长弓 (u",
+     "Magic Shortbow (u": "魔法短弓 (u",
+     "main purpose is to provide Global XP Modifiers to other Skills.": "主要目的是为其他技能提供全局经验值修改器。",
+     "Major Update - Alpha v": "主要更新 - 阿尔法 v",
+     "MAJOR UPDATE - Alpha v": "重大更新--Alpha v",
+     "Many Fixes Released - Alpha v0.21 (?": "许多修复发布 - Alpha v0.21 (?",
+     "Maple Longbow (u": "枫叶长弓 (u",
+     "Maple Shortbow (u": "枫树短弓 (u",
+     "Mark not yet located": "尚未找到印记",
+     "Mark of the": "印记关于",
+     "Marks": "印记",
+     "Marks are required to be found in order to create Familiars.": "需要找到印记才能创造召唤石。",
+     "Marks Discovered: 0 /": "发现的印记: 0 /",
+     "Mastery Item Bonuses": "精通物品的奖励",
+     "Mastery Pool": "精通池",
+     "Mastery Pool Checkpoints": "精通池检查点",
+     "Mastery Pool Checkpoints are unlocked when your Mastery Pool is filled to 10%, 25%, 50% and 95%. All four bonuses can be active at the same time.": "当你的精通池充满10%、25%、50%和95%时，精通池检查点就会被解锁。所有四种奖励都可以同时激活。",
+     "Mastery Pool XP can only be used to level up the item.": "精通池经验值只能用于提升物品等级。",
+     "Mastery Token Drops Fixed": "精通令牌掉落问题得到解决",
+     "Mastery XP": "精通经验值",
+     "Melvor Idle has been updated! Check the changelog for more info.": "梅尔沃放置已经更新了!请查看更新日志以了解更多信息。",
+     "Melvor Idle is currently in active Alpha Development.": "梅尔沃放置目前正在积极进行Alpha开发。",
+     "Logging out of the Cloud...": "退出云计算...",
+     "Login to Cloud": "登录到云端",
+     "Logs are one of the main resources required for most items in": "木头是大多数物品所需的主要资源之一",
+     "Longest Raid": "最长的突袭",
+     "Memory Leak Fix for Steam": "蒸汽的内存泄漏修复",
+     "Memory Leak issues caused by Bank Tooltips": "银行工具提示引起的内存泄漏问题",
+     "Min Hit": "最小伤害",
+     "Mine various types of Rocks to receive resources that can be used to progress in": "挖掘各种类型的岩石以获得资源，这些资源可以用来在游戏中取得进展。",
+     "Missed Attacks by Monster": "怪物的攻击失误",
+     "Missed Attacks to Monster": "错过了对怪物的攻击",
+     "Mobile Push Notification Settings": "移动推送通知设置",
+     "Modifiers": "修饰符",
+     "Monster": "怪物",
+     "Monsters have varying Attack Styles. These Attack Styles determine": "怪兽有不同的攻击方式。这些攻击方式决定了",
+     "Move Item Mode": "移动物品模式",
+     "Into the Mist Boss Special Attack that caused Combat to stop has been fixed": "导致战斗停止的 \"进入迷雾\"BOSS特殊攻击已被修复。",
+     "Issue with logs from Woodcutting not appearing in the Bank has been fixed": "伐木的日志没有出现在银行中的问题已被修复。",
+     "Issues that caused various Import Save functions to be disabled have been fixed.": "导致各种导入保存功能被禁用的问题已被修复。",
+     "it is my responsibility": "这是我的责任",
+     "it is possible to die while Offline": "有可能在离线时死亡",
+     "Jerry the Giraffe": "长颈鹿杰瑞",
+     "Jump to Enemy": "跳转到敌人",
+     "Just Learning": "只是学习",
+     "Large Variety of Monsters and Drops.": "种类繁多的怪物和掉落物。",
+     "Last Saved": "上次保存",
+     "LIST OF FIXES": "补丁列表",
+     "Locating...": "定位...",
+     "Logging off while fighting the hidden monster no longer breaks combat": "与隐藏的怪物战斗时注销不再破坏战斗力",
+     "Hint: Woodcutting": "提示：砍伐木材",
+     "How long an action will take.": "一项行动将需要多长时间。",
+     "I have just released a bunch of fixes to the game. Please ensure you are running Alpha v0.21 (?1111) for these fixes to be in effect.": "我刚刚发布了一系列的游戏修复措施。请确保你运行的是Alpha v0.21 (?1111)，以使这些修正生效。",
+     "I understand that": "我明白",
+     "I understand that dying Offline with a Hardcore Character will result in the": "我明白，在离线状态下使用硬核角色死亡将导致",
+     "I understand that I can enable or disable Offline Combat from the Settings Page.": "我明白，我可以在 \"设置\" 页面启用或禁用 \"离线战斗\"。",
+     "I understand that the game": "我明白，游戏",
+     "If enabled, player and enemy damage splashes will not render.": "如果启用，玩家和敌人的伤害飞溅将不会呈现。",
+     "If enabled, you will continue Thieving after a set time if you are stunned.": "如果启用，如果你被击晕了，你将在设定的时间后继续盗取。",
+     "If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its furtherprocessing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at **insert contact email address here** or contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.": "如果您居住在欧洲经济区（EEA）的一个国家，那么根据GDPR和适用的数据保护法，您有权，除其他外，访问您的个人数据，让我们删除它，和/或限制其进一步处理。如果您希望访问或删除我们或AdThrive保存的与网站上的广告有关的个人数据（如果有的话），您可以通过**插入联系电子邮件地址**联系我们，或通过info@adthrive.com 联系AdThrive。如果您希望看到与我们合作的广告合作伙伴的名单，或改变其中哪些合作伙伴使用cookies追踪您的行为，请点击网站底部的广告偏好链接。(在欧盟可用。",
+     "If your bank becomes full after performing an action, then continue the action without acquiring the item (But still get the XP for it, if any": "如果你的银行在执行一个行动后变得满了，那么就继续行动，不要获得该物品（但仍然可以获得经验值，如果有的话）。",
+     "Important Auto Eat Fixes + More": "重要的自动吃食物修复+更多",
+     "IMPORTANT: After finding the first Mark, you are required to create at least 1 Summoning Tablet for the respective Familiar in order to find more Marks.": "重要提示：在找到第一个印记后，你需要为相应的召唤石创建至少1个召唤碑，以便找到更多的印记。",
+     "In a future update, you will be able to see where your bonuses come from.": "在未来的更新中，你将能够看到你的奖金来自哪里。",
+     "Infernal Cape": "地狱斗篷",
+     "Infernal Core": "地狱核心",
+     "Infernal Stronghold": "炼狱要塞",
+     "Information about your cutting actions will display here.": "有关你的切割行动的信息将显示在这里。",
+     "Inherits all Skillcape perks. All Mastery Pool bonuses are active. 5% Damage Reduction.": "继承所有技能景观的好处。所有精通池的奖励都被激活。减少5%的伤害。",
+     "Initial Release": "首次发布",
+     "Insane": "疯了",
+     "Into the Mist": "进入迷雾中",
+     "\nPlease restart the client for the fixes to be applied.": "请重新启动客户端，以便应用这些修复程序。",
+     "\nPlease restart the game for changes to take effect, this way you won't run into this bug.": "请重新启动游戏以使变化生效，这样你就不会遇到这个错误。",
+     "\nPlease restart the game for changes to take effect. This will also fix issues with the Cloud Save in general this was causing.": "请重新启动游戏以使变化生效。这也将修复云端保存所造成的问题。",
+     "\nSome inconsistencies will remain, but the issue will no longer occur from here.": "一些不一致的地方仍将存在，但从这里开始，问题将不再发生。",
+     ", and that it is possible to lose equipped items in the process.": "而在这个过程中，有可能会丢失配备的物品。",
+     ", providing all required resources necessary to progress.": "提供所有必要的资源，以取得进展。",
+     "??? Locked Synergy ???": "??? 未解锁协同 ???",
+     ". Be sure to watch out for them.": ".一定要注意他们。",
+     ". Cooked Fish can be eaten during": ".煮熟的鱼可以在以下期间食用",
+     ". Generally, these items are fairly useless.": ".一般来说，这些项目是相当无用的。",
+     ". These items are used for": "这些物品将被用于",
+     ". These provide huge increases in": "这些提供了巨大的增长",
+     "\nAll Save Importing has now been re-enabled.": "\n现在已重新启用所有保存导入。",
+     "\nFixes": "\n修复",
+     "\nFixes for some DOT effects have been released as well.": "\n一些 DOT 效果的修复也已发布。",
+     "\nI will continue to work on reported issues over the next few days, including the unfortunate iOS 13 bug players are facing!": "\n我将在接下来的几天内继续处理报告的问题，包括玩家面临的不幸的 iOS 13 错误！",
+     "\nMulti-hit attacks no longer count down turn based effects once per attack, they now count down on the last attack.": "\多次攻击不再倒计时每次攻击一次基于回合的效果，它们现在倒计时最后一次攻击。",
+     "\nPlease ensure you are running version Alpha v0.21 (?1038) for these changes to have an effect.": "\n请确保您正在运行版本 Alpha v0.21 (?1038) 以使这些更改生效。",
+     "\nShout out to Coolrox95 for providing these fixes while I was away last week!": "\感谢 Cool Rx95 在我上周不在时提供这些修复程序！",
+     "1 x M-Buck": "1 x M-雄鹿",
+     "Disabled": "已禁用",
+     "Earn SC from Slayer Tasks": "从杀手任务中赚取杀手币",
+     "Enemy Passive": "敌人被动",
+     "Oxilyme Herbs": "氧化酶草",
+     "Pigtayle Herb": "猪蹄草",
+     "Platebodies": "板甲",
+     "Platelegs": "板腿",
+     "Poraxx Herbs": "波拉克斯草药",
+     "Preston the Platypus": "普雷斯顿鸭嘴兽",
+     "If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at **insert contact email address here** or contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.": "如果您居住在欧洲经济区 (EEA) 的国家/地区，则根据 GDPR 和适用的数据保护法，您有权访问您的个人数据、让我们删除它和/或进一步限制其 加工。 如果您希望访问或删除由我们或 AdThrive 维护的与网站广告相关的个人数据（如果有），您可以通过**在此处插入联系电子邮件地址**与我们联系，或通过 info@adthrive.com 联系 AdThrive。 如果您希望查看与我们合作的广告合作伙伴列表或更改其中哪些合作伙伴使用 cookie 跟踪您的行为，请单击网站底部的广告首选项链接。 （适用于欧盟。",
+     "Your Attack resets when eating manually": "手动进食时你的攻击会重置",
+     "Your Mining level is now": "你的挖矿等级现在是",
+     "Your Strength is now level": "你的力量现在是水平的",
+     "1000 to starting Elemental Rune count.": "1000 开始元素符文计数。",
+     "Always Drops": "总是掉落",
+     "Bat": "蝙蝠",
+     "Click this image on any page to view the Game Guide for the respective Page.": "单击任何页面上的此图像可查看相应页面的游戏指南。",
+     "Congratulations!": "恭喜！",
+     "I guess you don't like your username? Probably should have thought about that to begin with. I'm not the one to judge, you can change it below.": "我猜你不喜欢你的用户名？或许应该一开始就考虑到这一点。我不是评判的人，你可以在下面改变它。",
+     "In order of most common to least common": "按照最常见到最不常见的顺序",
+     "It looks like you lost your": "看起来你失去了你的",
+     "NaN": "NaN",
+     "New milestones unlocked": "解锁了新的里程碑",
+     "Only enabled when using the \"Plant All\" option.": "仅在使用 \"全部种植\" 选项时启用。",
+     "Possible Extra Drops": "可能的额外掉落",
+     "s": "",
+     "s\n\t": "\n\t",
+     "Save Settings": "保存设置",
+     "Tree cutting limit reached": "已达到砍树上限",
+     "Unlocks at": "解锁于",
+     "- De-duplicated attack damage calculation in rendering and actual game": "- 渲染和实际游戏中的重复攻击伤害计算",
+     "Amulet of Accuracy": "近战精准护符",
+     "Amulet of Fury": "狂怒护符",
+     "Amulet of Glory": "荣耀护身符",
+     "Amulet of Magic": "魔法护身符",
+     "Amulet of Ranged": "远程护身符",
+     "Amulet of Torture": "酷刑护身符",
+     "Ancient 2H Sword": "远古2H剑",
+     "Ancient Claw Fragment": "远古之爪碎片",
+     "Ancient Sword": "吸血弯刀",
+     "Barrentoe Seeds": "巴伦托种子",
+     "Big Bones": "大骨头",
+     "Black Dragonhide": "黑龙皮",
+     "Book of Eli": "以利法典",
+     "Book of Occults": "神秘学之书",
+     "Cape of Prat": "普拉特披风",
+     "Unlocked at Prayer Level": "解锁于祈祷等级",
+     "Wasteful Ring": "暴食戒指",
+     "www.cafemedia.com/publisher-advertising-privacy-policy": "广告隐私声明链接",
+     " Select Recipe": "选择食谱",
+     "- Block players from making equipment changes during golbin raid": "阻止玩家在哥尔宾突袭期间更改装备",
+     "- Fixed enemy/player stat calculation when loading the game": "修复了加载游戏时敌人/玩家统计数据的计算",
+     "- Fixed target modifiers being added to characters when not in a fight": "- 修复了不在战斗中添加到角色的目标修饰符 ",
+     "- Optimized shop cost update function which should reduce lag throughout the bank.": "优化商店成本更新功能，减少整个银行的延迟。",
+     "- Removed console logging when selecting equipment items in bank": "在银行选择设备项目时删除控制台日志记录",
+     "- Removed duplicate calls to shop cost update function": "删除了对商店成本更新功能的重复调用",
+     "5% Magic Accuracy & Evasion Rating": "5% 魔法准确度和闪避等级",
+     "5% Melee Accuracy Rating": "5% 近战精度等级",
+     "5% Melee Evasion Rating": "5% 近战回避率",
+     "5% Ranged Accuracy Rating": "5% 远程精度等级",
+     "Sand Treaders": "攻速鞋",
+     "Sandstorm Ring": "狂沙戒指",
+     "Sanguine Blade": "流血之刃",
+     "Shaman Ring": "萨满戒指",
+     "Shark": "鲨鱼",
+     "Shockwave Fragment": "冲击波之弩碎片",
+     "Slayer Crossbow Head": "杀手弩头",
+     "Snape Grass Seeds": "斯内普草种子",
+     "Summoning Synergy Search": "召唤协同搜索",
+     "Sunset Rapier": "日落佩剑",
+     "This Monster does not drop Bones.": "这个怪物不会掉落骨头。",
+     "Tidal Edge Fragment": "潮汐边缘碎片",
+     "Tormented Ring": "折磨戒指",
+     "Twin Exiles": "重击双镰",
+     "Ocean Song Fragment": "海洋之歌碎片",
+     "Oxilyme Herb": "氧化酶草",
+     "Oxilyme Seeds": "氧化酶草种子",
+     "Paladin Gloves": "圣骑士手套",
+     "per": "每",
+     "Pigtayle Seeds": "皮泰尔之种",
+     "PLAYER": "玩家",
+     "Poraxx Seeds": "波拉克斯之种",
+     "Prayer Point Cost": "祈祷点费用",
+     "Priest Hat": "牧师帽",
+     "Provides extra Prayer XP based on damage dealt to enemy": "根据对敌人造成的伤害提供额外的祈祷 XP",
+     "Recoil Shield": "反伤盾",
+     "Magic Bones": "魔法骨头",
+     "Magic Tree Seeds": "魔法树种子 ",
+     "Magic Wand (Basic": "魔杖（基本）",
+     "Magic Wand (Elite": "魔杖（精英）",
+     "Magic Wand (Powerful": "魔杖（卓越）",
+     "Mining XP": "采矿经验 ",
+     "Miolite Boots": "米奥莱特靴子",
+     "Miolite Helmet": "米奥莱特头盔",
+     "Miolite Platebody": "米奥莱特盔甲",
+     "Miolite Platelegs": "米奥莱特腿甲",
+     "Miolite Sceptre": "米奥莱特权杖",
+     "Miolite Shield": "米奥莱特盾牌",
+     "Obsidian Cape": "黑曜石披风 ",
+     "Elder Crown": "上古冠",
+     "Elder Dragonhide": "上古龙皮",
+     "Elementalist Gloves": "元素师手套",
+     "Enchanted Cape": "魔法披风",
+     "Enchanted Shield": "魔法盾牌",
+     "Eyeball": "眼球",
+     "Free": "免费",
+     "Gloves of Silence": "沉默手套",
+     "Hunter's Ring": "猎人戒指",
+     "Jadestone Bolts": "绿晶弩箭",
+     "Large Horn": "大兽角",
+     "Cape of Ranged Preservation": "远程保护披风",
+     "Chest of Witwix": "维特维克斯之箱",
+     "Darksteel Dagger": "玄钢匕首",
+     "Desert Sabre": "沙漠军刀",
+     "Desert Shortbow": "沙漠短弓",
+     "Desert Wrappings": "沙漠裹手",
+     "Dragon Bones": "龙骨",
+     "Dragon Claw Fragment": "龙爪碎片",
+     "Bear": "熊",
+     " Fletching": "制箭",
+     "2% Lifesteal": "2% 生命偷取",
+     "Yak": "牦牛",
+     "Wolf": "狼",
+     "Witch": "女巫",
+     "Whale": "鲸鱼",
+     "Buy Slayer Platebody (Basic)?": "购买杀手板甲（初级）？",
+     "Buy Slayer Wizard Hat (Basic)?": "购买杀手巫师帽（初级）？",
+     "Buy Smithing Skillcape?": "购买锻造技能披风？",
+     "Buy Standard Resupply?": "购买中级补给？",
+     "Buy Thieving Skillcape?": "购买盗窃技能披风？",
+     "Buy Woodcutting Skillcape?": "购买伐木技能披风？",
+     "Buy Agility Skillcape?": "购买敏捷技能披风？",
+     "Buy Basic Resupply?": "购买初级补给？",
+     "Buy Cooking Skillcape?": "购买烹饪技能披风？",
+     "Buy Desert Hat?": "购买沙漠帽？",
+     "Buy Firemaking Skillcape?": "购买生火技能披风？",
+     "Buy Fishing Skillcape?": "购买钓鱼技能披风？",
+     "Buy Fletching Skillcape?": "购买造箭技能披风？",
+     "Buy Magical Ring?": "购买魔法戒指？",
+     "Buy Mirror Shield?": "购买镜盾？",
+     "Buy Necromancer Hat?": "购买死灵法师帽？",
+     "Buy Slayer Cowl (Basic)?": "购买杀手兜帽（初级）",
+     "Buy Slayer Helmet (Basic)?": "购买杀手头盔（初级）",
+     "Buy Slayer Leather Body (Basic)?": "购买杀手皮夹（初级）",
+     "This bonus is increased to 25% if there is at least 1 Charge of Rhaelyx in your bank. There is a 0.1% chance a Charge will be destroyed per action.": "如果您的银行中至少有 1 个雷利克斯冲锋石.，则此奖励将增加至 25%。每次行动有 0.1% 的机会摧毁雷利克斯冲锋石.。",
+     "Time Left: About": "剩余时间：大约",
+     "Tree": "树",
+     "U) Green D-hide Shield": "U）绿龙皮盾",
+     "Unlocked at Mastery Level": "解锁于精通级别",
+     "Upon being hit by an Enemy, grants GP equal to (20 * Your Damage Reduction). This can only proc once every Enemy Attack Turn.": "被敌人击中后，获得等于 (20 * 你的伤害减免) 的 GP。 这只能在每个敌人攻击回合触发一次。",
+     "Upon killing a Slayer Task Enemy, grants +50% GP.": "杀死 杀手任务敌人后，获得 +50% GP。",
+     "Upon killing an Enemy, grants GP equal to 10% of their highest base Evasion Rating.": "杀死敌人后，获得相当于其最高基础闪避值 10% 的 GP。",
+     "View Summoning Synergy Search": "查看召唤协同搜索",
+     "Wandering Bard": "流浪的吟游诗人",
+     "When receiving a Gem from Mining or Fishing, there is a +15% chance to get another random Gem.": "从采矿或钓鱼中获得宝石时，有 +15% 的几率获得另一个随机宝石。 ",
+     "When successfully pickpocketing the Lumberjack in Thieving, grants +1 Bird Nest instead of GP.": "在盗贼模式中成功扒窃伐木工人时，授予+1鸟巢，而不是GP。",
+     "When successfully pickpocketing the Miner in Thieving, +20% chance to get a random Gem.": "在盗贼模式中成功扒窃矿工时，+20% 几率获得随机宝石。 ",
+     "While creating Dragon Gear in Smithing, grants +5% Smithing Preservation chance.": "在锻造中制造龙晶装备时，获得 +5% 的锻造保存几率。",
+     "You must have Desert Hat equipped to fight this monster.": "你必须装备沙漠帽才能对抗这个怪物。",
+     "You pet Larry, the Lonely Lizard.": "孤独的蜥蜴拉里",
+     "You preserved your resources!": "你保留了你的资源！",
+     "You preserved your resources.": "你保留了你的资源。",
+     "Your Familiar has run out of charges.": "您的召唤石已耗尽",
+     "Mole": "鼹鼠",
+     "Monkey": "猴子",
+     "Must be in your Bank": "必须在你的银行",
+     "Mysterious Stone": "神秘石",
+     "Occultist": "神秘主义者",
+     "Octopus": "章鱼",
+     "Opened": "已打开",
+     "Passive: +10% chance to receive double loot from slain monsters or Thieving.": "被动：+10% 几率从被杀死的怪物或偷窃获得双倍的战利品。",
+     "Passive: +10% Hitpoint Regeneration": "被动：+10% 生命值回复 ",
+     "Passive: +15 Minimum Damage when using Air Spells.": "被动：使用空气法术时 +15 最小伤害。 ",
+     "Passive: +15 Minimum Damage when using Earth Spells.": "被动：使用土系法术时 +15 最小伤害。",
+     "Passive: +15 Minimum Damage when using Fire Spells.": "被动：使用火系法术时 +15 最小伤害。",
+     "Passive: +15 Minimum Damage when using Water Spells.": "被动：使用水系法术时 +15 最小伤害。",
+     "Passive: +20 Minimum Damage when using Air Spells.": "被动：使用空气法术时 +20最小伤害。 ",
+     "Passive: +20 Minimum Damage when using Water Spells.": "被动：使用水系法术时 +20最小伤害。",
+     "Passive: +5 Minimum Damage when using Air Spells.": "被动：使用空气法术时 +5 最小伤害。",
+     "Passive: +5 Minimum Damage when using Air, Water, Earth or Fire Spells.": "被动：使用气、水、土或火法术时+5 最小伤害。",
+     "Passive: +5 Minimum Damage when using Earth Spells.": "被动：使用土系法术时 +5 最小伤害。",
+     "Passive: +5 Minimum Damage when using Fire Spells.": "被动：使用火焰法术时 +5 最小伤害。",
+     "Passive: +5 Minimum Damage when using Water Spells.": "被动：使用水系法术时 +5 最小伤害。",
+     "Passive: +7% Combat XP. Does not work with Slayer or Alt. Magic.": "被动：+7% 战斗经验。 不适用于杀手技能或生活魔法技能。",
+     "Passive: 15% extra gold per kill. Maybe you should keep this item equipped for something else.": "被动：每次击杀额外获得 15% 的金币。 也许你应该把这件装备放在别的东西上。",
+     "Passive: Grants +150 GP upon killing an Enemy in Combat, or successfully pickpocketing an NPC in Thieving. +5% Thieving Success Rate.": "被动：在战斗中杀死敌人或在盗贼中成功扒窃 NPC 时获得 +150 GP。 +5% 偷窃成功率。",
+     "Passive: Reflects 0 to 30 damage per attack turn (Reflect dmg cannot activate more than once every 2 seconds. Reflect dmg cannot kill an enemy nor provide XP).": "被动：每个攻击回合反射 0 到 30 点伤害（反射伤害每 2 秒内只能激活一次。反射 dmg 不能杀死敌人，也不能提供 XP）。",
+     "Pet: Larry, the Lonely Lizard": "宠物：孤独的蜥蜴拉里",
+     "Pig": "猪",
+     "Poraxx Herb": "波拉克斯草药",
+     "Potion charges used.": "使用了药水次数",
+     "Provides charges for the Crown of Rhaelyx": "为雷利克斯之冠提供费用",
+     "Provides Damage Reduction": "提供伤害减免",
+     "Provides Global Active Passives. This is not an obstacle.": "提供全局主动被动。 这不是障碍。",
+     "Provides Melee Attack & Defence Bonus": "提供近战攻击和防御奖励",
+     "Provides Melee Attack, Strength and Defence Bonus": "提供近战攻击、力量和防御加成",
+     "Provides Melee Defence Bonus": "提供近战防御奖励",
+     "Provides Ranged Attack & Ranged Strength Bonus": "提供远程攻击和远程力量加成",
+     "Provides Ranged Attack Bonus": "提供远程攻击加成",
+     "Provides Ranged Defence Bonus": "提供远程防御加成",
+     "Provides Ranged Strength Bonus": "提供远程力量加成",
+     "Ranged Level Required": "需要远程等级",
+     "Reduces the Air Rune cost of Magic Spells by 1 when equipped as a Weapon.": "作为武器装备时，魔法法术的空气符文消耗减少 1。",
+     "Reduces the Air Rune cost of Magic Spells by 3 when equipped as a Weapon.": "作为武器装备时，魔法法术的空气符文消耗减少 3。",
+     "Reduces the Air Rune cost of Magic Spells by 5 when equipped as a Weapon.": "作为武器装备时，魔法法术的空气符文消耗减少 5。",
+     "Reduces the Earth Rune cost of Magic Spells by 1 when equipped as a Weapon.": "作为武器装备时，魔法法术的土符文消耗减少 1。",
+     "Reduces the Earth Rune cost of Magic Spells by 3 when equipped as a Weapon.": "作为武器装备时，魔法法术的土符文消耗减少3。",
+     "Reduces the Fire Rune cost of Magic Spells by 1 when equipped as a Weapon.": "作为武器装备时，魔法法术的火符文消耗减少 1。",
+     "Reduces the Fire Rune cost of Magic Spells by 3 when equipped as a Weapon.": "作为武器装备时，魔法法术的火符文消耗减少 3。",
+     "Reduces the Water Rune cost of Magic Spells by 1 when equipped as a Weapon.": "作为武器装备时，魔法法术的水符文消耗减少 1。",
+     "Reduces the Water Rune cost of Magic Spells by 3 when equipped as a Weapon.": "作为武器装备时，魔法法术的水符文消耗减少 3。",
+     "Redwood Cooking Fire": "红木烹饪火",
+     "Rock Climb": "攀岩",
+     "Rock Climb\n\t": "攀岩\n\t",
+     "Runecrafting XP": "符文制作经验",
+     "S) Dragon Boots": "S)龙晶靴",
+     "S) Dragon Platebody": "S龙晶盔甲",
+     "S) Dragon Platelegs": "S)龙护腿",
+     "Salamander": "蝾",
+     "Signet Ring Half (a": "图章戒指半 (a",
+     "Slayer Coins": "杀手币",
+     "Spike Trap": "尖刺陷阱",
+     "Spike Trap\n\t": "尖刺陷阱\n\t",
+     "Successfully pickpocketting the Miner in Thieving will now grant +1 Rune Essence.": "在盗贼模式中成功扒窃矿工现在将获得 +1 符文精华。",
+     "Summoning Shard (Black": "召唤碎片（黑色",
+     "Summoning Shard (Blue": "召唤碎片（蓝色",
+     "Summoning Shard (Gold": "召唤碎片（金色",
+     "Summoning Shard (Green": "召唤碎片（绿色",
+     "Summoning Shard (Red": "召唤碎片（红色",
+     "Summoning Shard (Silver": "召唤碎片（银色",
+     "Summoning XP": "召唤经验值",
+     "Combination Rune: Air & Fire": "组合符文：风与火",
+     "Combination Rune: Air & Water": "组合符文：空气和水",
+     "Combination Rune: Earth & Fire": "组合符文：土与火",
+     "Combination Rune: Water & Earth": "组合符文：水与土",
+     "Combination Rune: Water & Fire": "组合符文：水与火",
+     "Combine this with the Jewel of Rhaelyx": "将此与雷利克斯的宝石结合使用",
+     "Convert selected item into GP worth 100% of the item base sell value.": "将所选物品转换为价值 100% 的物品基本售价的 GP。 ",
+     "Convert selected item into GP worth 40% of the item base sell value.": "将所选物品转换为价值 40% 的物品基本售价的 GP。 ",
+     "Convert selected Junk item obtained from Fishing into a random Gem.": "将从钓鱼中获得的选定垃圾物品转换为随机宝石。",
+     "15% chance to receive 2x items per Fletch": "每个造箭有 15% 的几率获得 2x 物品",
+     "15% chance to receive a smithed verion of the Ore you are Mining.": "15% 的几率获得您正在开采的矿石的金属锭。",
+     "15% Enemy Melee Evasion Rating.": "15% 敌人近战回避率。",
+     "15% Fishing interval.": "15% 钓鱼间隔。",
+     "15% Fishing Skill XP when equipped.": "当你装备时有15%的钓鱼经验",
+     "18% Chance to Preserve Resources in Skills": "18%的机会保存技能中的资源",
+     "2% chance per action in Woodcutting to gain a random Gem.": "伐木中每次行动有2%的机会获得一个随机宝石",
+     "2% Damage Reduction": "2%的伤害减少",
+     "2% Decreased Agility Interval": "2% 减少的敏捷间隔",
+     "2% Herblore Mastery XP": "2%的制药精通XP",
+     "2% Herblore Skill XP": "2%的制药技能XP",
+     "10% Chance to Preserve Resources in Cooking": "10% 的机会在烹饪中保留资源",
+     "10% chance to preserve resources in non-combat skills (Does not work with Alt. Magic).": "10% 的几率在非战斗技能中保留资源（不适用于生活魔法）。",
+     "10% Chance to Preserve Resources in Skills": "10% 机会保留技能资源",
+     "10% Food Healing Value": "10% 食物治疗值",
+     "10% increased chance to recieve an off-item (An item from a skill that is not the main resource you are gathering": "获得额外物品的几率增加 10%（来自不是您正在收集的主要资源的技能的物品",
+     "10% Slayer Coins": "10% 杀手币",
+     "100 Magic Defence Bonus.": "100 魔法防御加成。",
+     "12% Increased Melee Accuracy Rating": "近战命中率提高 12%",
+     "138 Mastery XP": "138 精通经验值",
+     "15 charges per use": "每次使用 15 次费用",
+     "15 Harvest Quantity": "15 收获量",
+     "15% chance to receive +1 Cooked Food in Cooking. Cannot be doubled.": "15% 的几率在烹饪中获得 +1 熟食。 不能加倍。",
+     "1% Damage Reduction": "1% 伤害减免",
+     "1% Increased Magic Damage": "增加 1% 魔法伤害",
+     "1% Increased Melee Strength": "近战力量增加 1%",
+     "10 charges per use": "每次使用 10 次费用",
+     "10 Mining Node 生命值": "10 矿石耐久",
+     "10% chance for double Thieving rewards": "10% 几率获得双倍偷窃奖励",
+     "10% chance for Silver Ore to also produce a Gold Bar when smithed": "银矿石在锻造时也有 10% 的几率产生金锭",
+     "10% chance to do zero damage to Ores and Rune Essence": "10% 几率对矿石和符文精华造成零伤害",
+     "10% Chance to gain +1 additional resource in Woodcutting. Cannot be doubled": "有 10% 的几率在伐木中获得 +1 额外资源。 不能加倍",
+     "10% Chance to not consume Prayer Points": "10% 几率不消耗祈祷点数",
+     "Burnt Manta Ray": "烧焦的蝠鲼",
+     "Burnt Sardine": "烧焦的沙丁鱼",
+     "Burnt Shark": "烧焦的鲨鱼",
+     "Burnt Shrimp": "烧焦的虾",
+     "Burnt Whale": "烧焦的鲸鱼",
+     "Carrot": "胡萝卜",
+     "Cave Fish": "洞穴鱼",
+     "Chapeau Noir": "黑色宽檐帽",
+     "Charge Stone of Rhaelyx": "雷利克斯的冲锋石",
+     "Circlet of Rhaelyx": "雷利克斯的头饰",
+     "Click to Equip if Owned": "如果拥有，请单击以装备",
+     "Clue Chasers Insignia": "线索追逐者徽章",
+     "Combination Rune: Air & Earth": "组合符文：风与土",
+     "1 Base Summoning Tablets created.": "已创建 1 个基础召唤石。",
+     "Amount used in combat": "战斗使用量",
+     "Amulet of Fishing": "钓鱼护身符",
+     "Ancient Ring of Mastery": "远古精通之戒",
+     "Ancient Ring of Skills": "远古技能戒指",
+     "Attack Level Required": "需要的攻击等级",
+     "Automatically relight Bonfires for free using the currently selected Logs.": "使用当前选择的木头自动免费重新点燃篝火。",
+     "Base quantity for Rune Essence in Mining is doubled.": "采矿中符文精华的基础数量翻倍。",
+     "Blessed Offering": "祝福祭祀",
+     "Bobby's Pocket": "鲍比的口袋",
+     "Bone Offering": "骨祭",
+     "A mysterious stone that can be upgraded.": "可以升级的神秘宝石。",
+     "Almighty Lute": "吟游诗人琵琶",
+     "5% Chance to Double Items in Fishing": "钓鱼时 5% 几率双倍物品",
+     "5% Chance to Double Items in Mining": "5% 几率在采矿中双倍物品",
+     "5% Chance to Double Items in Thieving": "5% 几率在盗贼中获得双倍物品",
+     "5% Chance to Double Items in Woodcutting": "5% 的几率在伐木中获得双倍的物品",
+     "5% chance to gain +1 Base Logs from Woodcutting, or produced Items from Smithing.": "有 5% 的几率从伐木或通过锻造生产的物品获得 +1 基础原木。",
+     "5% chance to preserve resources in Cooking, and when creating Runes in Runecrafting.": "在烹饪中以及在符文制作中创建符文时，有 5% 的几率保存资源。",
+     "5% Chance to Preserve Resources in Skills": "5% 机会保留技能资源",
+     "5% Increased Ranged Strength": "远程力量增加 5%",
+     "5% Magic Max Hit. +5% Magic Accuracy Rating.": "5% 魔法最大命中。 +5% 魔法准确率。",
+     "5% Rune Preservation": "5% 符文保存",
+     "40 Maximum Hitpoints": "40 最大生命值",
+     "5 charges per use": "每次使用 5 次费用",
+     "5% Ammo Preservation": "5% 弹药保存",
+     "5% chance to catch 2x Fish.": "5% 的几率钓到 2 条鱼。",
+     "5% Chance to Double Items Globally": "5% 几率在全球范围内双倍物品",
+     "5% chance to Double Items in Crafting.": "5% 的几率使制作中的物品翻倍。",
+     "50% Thieving Skill Interval for Fisherman only. Also grants +2 Base Thieving Item Qty from Fisherman only.": "仅适用于渔夫的 50% 窃贼技能间隔。 也仅从渔夫那里获得 +2 基础盗贼物品数量。",
+     "75% chance to recieve an extra Fish as a Cooked version while Fishing.": "钓鱼时有 75% 的几率获得一条额外的鱼作为熟食版本。",
+     "8% Increased Melee Evasion Rating": "近战回避率提高 8%",
+     "A crop is ready to harvest.": "庄稼准备收割了。",
+     "3% Increased Hitpoints Regeneration": "增加 3% 生命值再生",
+     "3% Increased Special Item chance in Fishing. +3% Increased chance to obtain a Bird Nests in Woodcutting.": "钓鱼时特殊物品几率增加 3%。 +3% 在木刻中获得鸟巢的几率增加。",
+     "30 charges per use": "每次使用 30 次费用",
+     "30 GP Gained on successful Enemy Hit": "成功击中敌人获得 30 GP",
+     "30% Chance for dropped Herb Seeds from killing monsters to turn into grown Herbs and also provide an extra 3 Herbs.": "杀死怪物时有 30% 的几率将掉落的草药种子转化为草药，并额外提供 3 种草药。 ",
+     "326 x Turkul Archers": "326 x 特库尔弓箭手",
+     "4% Firemaking Interval": "4% 生火间隔",
+     "4% Increased Magic Accuracy & Evasion Rating": "4% 提高魔法命中率和闪避率",
+     "4% Increased Ranged Accuracy & Evasion Rating": "增加 4% 远程准确率和闪避等级",
+     "40 charges per use": "每次使用 40 次费用",
+     "mins": "分钟",
+     "20 Maximum Hitpoints": "20 最大生命值",
+     "20 Mining Node 生命值": "20 矿物耐久",
+     "20% chance of producing 2x Cooked Food in Cooking": "20% 的几率在烹饪中产生 2x 熟食",
+     "20% Cooking XP for a total of +70% Cooking XP from your Cooking Fire.": "20% 烹饪 XP，从你的烹饪火中获得总共 +70% 烹饪 XP。",
+     "20% Runecrafting Preservation Chance when creating Staves.": "创建法杖时有 20% 符文制作保存几率。",
+     "200% GP granted from slain Monsters.": "200% GP 从被杀死的怪物中获得。",
+     "25% base burn chance in Cooking. Grants 100 Coal Ore when burning Food.": "烹饪中有 25% 的基础烧伤几率。 燃烧食物时获得 100 煤炭矿石。",
+     "25% chance to gain 6 of a random Elemental Rune per Runecraft": "每个符文制作有 25% 的几率获得 6 个随机元素符文",
+     "3% Chance to Preserve Resources in Herblore": "3% 几率在制药中保存资源",
+     "3% Chance to Preserve Resources in Skills": "3% 机会保留技能资源",
+     "Jewel of Rhaelyx": "雷利克斯的宝石",
+     "Leprechaun": "妖精",
+     "Manta Ray": "蝠鲼",
+     "Mark Level": "印记级别",
+     "Mastery Token (Agility": "精通令牌（敏捷",
+     "Mastery Token (Farming": "精通令牌（种植",
+     "Mastery Token (Herblore": "精通令牌（药剂",
+     "Mastery Token (Summoning": "精通令牌（召唤",
+     "Mastery Token (Thieving": "精通令牌（盗窃",
+     "Minotaur": "牛头怪",
+     "If enabled, a completed dungeon will automatically be restarted. Loot will be collected upon completion.": "如果启用，已完成的地牢将自动重新启动。 战利品将在完成后收集。",
+     "If enabled, you will be notified when your crops are ready to harvest.": "如果启用，您将在庄稼准备收割时收到通知。",
+     "If enabled, you will see a confirmation when you attempt to buy an item from the shop.": "如果启用，当您尝试从商店购买商品时，您会看到确认信息。",
+     "In Runecrafting, when creating a Combination Rune that requires Water Runes as an ingredient, produce +5 extra Combination Runes.": "在符文制作中，创建需要水符文作为成分的组合符文时，产生 +5 额外组合符文。",
+     "gityx": "吉地克斯",
+     "Golbin Thief": "地精小偷",
+     "Grants GP equal to 15% of your MAGIC damage dealt.": "给予相当于你造成的魔法伤害 15% 的 GP。",
+     "Grants GP equal to 25% of your MELEE damage dealt.": "获得相当于你造成的近战伤害 25% 的 GP。",
+     "Growing: Pigtayle Seeds": "种植：皮泰尔种子",
+     "Growing: Poraxx Seeds": "种植：波拉克斯种子",
+     "Growing: Potato Seeds": "种植：土豆种子",
+     "Growing: Sweetcorn Seeds": "种植：甜玉米种子",
+     "Growing: Yew Tree Seeds": "种植：紫杉种子",
+     "Harvest": "收获",
+     "Herring": "鲱鱼",
+     "Ice Jump": "冰上跳跃",
+     "Farming Skillcape Equipped": "农耕技能装备",
+     "fish": "鱼",
+     "G) Dragon Boots": "G)龙晶靴",
+     "G) Dragon Platebody": "G)龙晶盔甲",
+     "G) Dragon Platelegs": "G)龙护腿",
+     "Crown of Rhaelyx": "雷利克斯之冠",
+     "Current Global Active Passives from Agility": "当前的全球主动被动效果",
+     "Cyclops": "独眼巨人",
+     "Defence Level Required": "防御等级要求",
+     "Destroy": "破坏",
+     "Does not show disabled passives": "不显示禁用的被动",
+     "Does not work Offline": "不能离线使用",
+     "Dragonite Ore": "龙晶矿石",
+     "Elder Wizard": "老巫师",
+     "Enemies killed": "被杀的敌人",
+     "Creates 2 x Bones": "创建 2 x 骨头",
+     "Creates 2 x Holy Dust": "制造 2 x 圣尘",
+     "Crop deaths": "农作物死亡",
+     "Crow": "乌鸦",
+     "Create a Passive Pillar": "创建被动支柱",
+     "Create Familiar Tablets": "创建召唤石",
+     "Pipe Balance": "管道平衡",
+     "Pipe Balance\n\t": "管道平衡\n\t",
+     "Mud Crawl": "泥里爬",
+     "Mud Crawl\n\t": "泥里爬\n\t",
+     "Monkey Bars": "单杠",
+     "Monkey Bars\n\t": "单杠\n\t",
+     "Tree Hop": "树跳",
+     "Tree Hop\n\t": "树跳\n\t",
+     "The Chef in Thieving now deals no damage to you.": "盗贼大厨现在不会对你造成伤害。",
+     "Created by Patreon (ChapeauNoir": "",
+     "Crow Tablet charges used.": "使用乌鸦平板收费。",
+     "Ent": "耳鼻喉",
+     "A Lovely Jog": "可爱的慢跑",
+     "A Lovely Jog\n\t": "可爱的慢跑\n\t",
+     "Ice Jump\n\t": "冰跳\n\t",
+     "20 charges per use": "每次使用 20 费用",
+     "Piercing Arrow (": "穿刺箭 (",
+     "Reduces the Light Rune cost of Auroras only by 1 when equipped as an Off-hand. Grants access to Tier III Auroras when equipped.": "作为副手装备时，仅将极光的光符文消耗降低 1。 装备后可访问 III 级极光。",
+     "Requires Arrows as Ammunition.": "需要箭作为弹药。",
+     "Summon L": "召唤 L",
+     "Summon L) Nothing": "召唤 L) 无",
+     "Summon L) Witch (": "召唤 L) 女巫 (",
+     "Summon R) Nothing": "召唤 R) 无",
+     "Woodcutting XP": "伐木经验",
+     "You do not have the required Mole tablets.": "您没有必要的鼹鼠石。",
+     "Equip Summon R": "装备召唤 R",
+     "An unavoidable attack for 200% of your max hit.": "一次不可避免的攻击，达到你最大命中的200%。",
+     "Equip Summon L": "装备召唤 L",
+     "Are you sure you want to delete this save? This cannot be undone!": "确定要删除此保存吗？ 这不能被撤消！",
+     "Cloud Save Successful": "云保存成功",
+     "Delete": "删除",
+     "Save deleted successfully. Let's hope you were supposed to do that.": "保存删除成功。 让我们希望你应该这样做。",
+     "Save imported successfully.": "保存导入成功。",
+     "Take a deep breath, you're safe now.": "深呼吸，你现在安全了。",
+     "We tried to give you": "我们试图给你",
+     "Bird Nest, but your bank was full :(": "鸟巢，但你的银行是满的:(",
+     "Sweetcorn": "玉米",
+     "Hint: Dark Waters": "提示：黑暗之水",
+     "Hint: Deep Sea Ship": "提示：深海船",
+     "Hint: Dragons Den": "提示：龙穴",
+     "Hint: Earth God Dungeon": "提示：土神地牢",
+     "Hint: Fire God Dungeon": "提示：火神地牢",
+     "Hint: Frozen Cove": "提示：冰冻湾",
+     "Hint: Into the Mist": "提示：进入迷雾",
+     "Hint: Perilous Peaks": "提示：危险的山峰",
+     "Hint: Water God Dungeon": "提示：水神地牢",
+     "If enabled, you will be notified when you are asleep in Combat.": "如果启用，当你在战斗中睡着时，你将得到通知。",
+     "If enabled, you will be notified when you are stunned in Combat.": "如果启用，当你在战斗中被击晕时，你将得到通知。",
+     "If enabled, you will be notified when you discover a Summoning Mark.": "如果启用，当你发现一个召唤标记时，你将得到通知。",
+     "If enabled, you will be notified when you have reached the 12 hour Offline Time Cap.": "如果启用，当您达到12小时的离线时间上限时，您将得到通知。",
+     "If enabled, you will see a confirmation when you attempt to sell an item.": "如果启用，当你试图出售一个项目时，你会看到一个确认。",
+     "If enabled, you will see a small notification when an item is added to your bank.": "如果启用，当一个项目被添加到你的银行时，你会看到一个小通知。",
+     "If enabled, you will see a small notification when you receive GP.": "如果启用，当你收到GP时，你会看到一个小通知。",
+     "If enabled, your save will syncronise with the cloud every 5 minutes.": "如果启用，你的保存将每5分钟与云同步。",
+     "If the Enemy has more combined Evasion Ratings than the Player, grants +200% Hitpoint Regeneration.": "如果敌人的综合回避率比玩家高，则给予+200%的生命值再生。",
+     "If the Enemy is your current Slayer Task, -15% Enemy Accuracy Rating.": "如果敌人是你当前的杀手任务，则敌人的准确率为-15%。",
+     "If the Player is BURNING, grants +75 Melee, Ranged and Magic Defence Bonus.": "如果玩家正在燃烧，则给予+75的近战、远程和魔法防御奖励。",
+     "If using a Magic Attack Style, grants +2% Lifesteal.": "如果使用魔法攻击风格，授予+2%生命值。",
+     "If using a Ranged Attack Style, grants +4% Lifesteal.": "如果使用远程攻击方式，授予+4%生命值。",
+     "If enabled, combat progress bars will not render.": "如果启用，战斗进度条将不会呈现。",
+     "If enabled, the Combat Minibar will display upon entering Combat.": "如果启用，进入战斗时将显示战斗迷你吧。",
+     "If enabled, the Skilling Minibar will display on each non-combat Skill page.": "如果启用，技能迷你栏将显示在每个非战斗技能页面。",
+     "If enabled, this will automatically consume the same potion when it runs out of charges.": "如果启用，这将在它耗尽电荷时自动消耗相同的药水。",
+     "If enabled, this will display your actual skill level above Level 99.": "如果启用，这将显示你超过99级的实际技能水平。",
+     "If enabled, this will remove commas from all numbers in the game (Helps if your locale is not used to the formatting provided).": "如果启用，这将去除游戏中所有数字的逗号（如果你的地区设置不习惯所提供的格式，则需要帮助）。",
+     "If enabled, will display a warning if attempting to close the game.": "如果启用，如果试图关闭游戏，将显示一个警告。",
+     "If enabled, you will be asked to confirm the spending of Mastery Pool XP if you are going to dip below a Mastery Checkpoint.": "如果启用，你将被要求确认掌握池XP的花费，如果你要浸泡在掌握检查点以下。",
+     "Buy Ammo Gatherer?": "购买 \"弹药收集器\"？",
+     "Buy Attack Skillcape?": "购买攻击技能披风？",
+     "Buy Blazing Lantern?": "购买《烈焰灯》？",
+     "Buy Climbing Boots?": "购买攀岩靴？",
+     "Buy Confetti Crossbow?": "购买彩纸弩？",
+     "Buy Crafting Skillcape?": "购买 \"制作技能披风\"？",
+     "Buy Defence Skillcape?": "购买防御技能披风？",
+     "Buy Farming Skillcape?": "购买耕作技能披风？",
+     "Buy Food Bonus?": "购买食品奖励？",
+     "Buy Generous Resupply?": "购买慷慨的补给品？",
+     "Hint: Air God Dungeon": "提示：气神地牢",
+     "Bouncing Bob": "蹦蹦跳跳的鲍勃",
+     "Bruce": "布鲁斯",
+     "Burning Logs in Firemaking grants GP equal to 400% of its base sale price.": "在生火中燃烧原木可获得相当于其基本销售价格400%的GP。",
+     "Burnt Anglerfish": "烧焦的鮟鱇鱼",
+     "Burnt Carp": "烧焦的鲤鱼",
+     "Burnt Cave Fish": "烧焦的山洞鱼",
+     "Burnt Crab": "烧焦的螃蟹",
+     "Burnt Salmon": "烧焦的鲑鱼",
+     "Burnt Trout": "烧焦的鳟鱼",
+     "Salem": "塞勒姆",
+     "Sam": "山姆",
+     "Sandstorm (": "沙尘暴 (",
+     "Santa Hat": "圣诞帽",
+     "Sell Item?": "出售物品？",
+     "Shockwave": "冲击波",
+     "Signet Ring Half (b": "标志环的一半 (b",
+     "Slicing Winds": "切片风",
+     "Snek": "斯内克",
+     "SPECIAL ATTACK": "特殊攻击",
+     "Spell Damage": "法术伤害",
+     "Spider": "蜘蛛",
+     "Spider King": "蜘蛛王",
+     "Spike Jump": "尖刺跳跃",
+     "Spike Jump\n\t": "尖刺跳跃\n\t",
+     "U) Black D-hide Body": "黑龙皮甲",
+     "U) Black D-hide Chaps": "黑龙皮裤",
+     "U) Black D-hide Vambraces": "黑龙皮护手",
+     "U) Green D-hide Body": "绿龙皮甲",
+     "U) Green D-hide Chaps": "绿龙皮裤",
+     "U) Green D-hide Vambraces": "绿龙皮护手",
+     "U) Red D-hide Body": "红龙皮甲",
+     "U) Red D-hide Chaps": "红龙皮裤",
+     "U) Red D-hide Vambraces": "红龙皮护手",
+     "Undead Graveyard Boss Pet": "亡灵墓地Boss宠物",
+     "Unicorn": "独角兽",
+     "Unlocked at Magic level": "魔法等级解锁",
+     "The Eye": "眼睛",
+     "The Kraken": "海妖",
+     "The Miserable jahnald": "悲惨的贾纳尔德",
+     "The Trustworthy Nordy": "值得信赖的诺迪",
+     "This was Prat's idea": "这是普拉特的主意",
+     "Tim the Wolf": "蒂姆狼",
+     "Torso": "躯干",
+     "Torso) Necromancer Robes": "躯干）死灵法师长袍",
+     "Trap the enemy in sand, dealing 120% of your normal damage and gives the enemy": "将敌人困在沙子中，造成 120% 的正常伤害并给予敌人",
+     "Tree Balance\n\t": "树平衡\n\t",
+     "Tree Climb\n\t": "爬树\n\t",
+     "Tree Hang\n\t": "树挂\n\t",
+     "Tree seeds will only show if you have the level requirement, and at least 1 in your bank": "树种子仅在您有等级要求时才会显示，并且您的银行中至少有 1 个",
+     "Ty": "泰",
+     "Unlocks after 15 more Hard Slayer Task Completions": "完成 15 个以上的 困难任务后解锁",
+     "Unlocks after 39 more Master Slayer Task Completions": "完成 39 次大师级杀手任务后解锁 ",
+     "until the end of the fight.": "直到战斗结束。",
+     "Upon killing an Enemy, grants +200 GP.": "杀死敌人后，获得 +200 GP。",
+     "Upon receiving an item in Thieving, grants GP equal to 2000% of its sale price.": "在盗窃中收到物品后，授予等于其售价 2000% 的 GP。",
+     "Upon successfully pickpocketting an item from the Miner in Thieving, 50% chance to receive a random Bar.": "在 盗窃中成功从矿工那里扒窃一件物品后，有 50% 的几率获得一个随机条。",
+     "Used to create Black Dragonhide gear in Crafting.": "用于在工艺中制作黑色龙皮装备。",
+     "Vicious Serpent": "毒蛇",
+     "View Passive Pillar Selection": "查看被动支柱选择",
+     "Voltaire": "伏尔泰",
+     "Warlock Ring": "术士戒指",
+     "Water Chest": "水箱子",
+     "When player has full HP, effects from the Occultist Familiar are tripled.": "当玩家的生命值全满时，秘术师魔宠的效果会增加三倍。",
+     "While equipped, you have a +50% chance to preserve Compost or Weird Gloop applied to Farming Plots when harvesting": "装备后，你有 +50% 的几率在收割时保留应用于农田的堆肥或奇怪的粘液",
+     "While fighting a Magic Enemy, grants +15 Ranged Accuracy Bonus and +15 Ranged Strength Bonus.": "与魔法敌人战斗时，获得 +15 远程准确度奖励和 +15 远程力量奖励。",
+     "While the Bird Nest Potion is active in Woodcutting, grants +1 minimum Bird Nest.": "当鸟巢药水在伐木活动中有效时，最少获得 +1 鸟巢。",
+     "While the Elemental Potion is active in Runecrafting, grants a chance to get random Combination Runes. The chance and quantity is equal to that of the Elemental Potion.": "当元素药水在符文制作中处于激活状态时，有机会获得随机组合符文。 几率和数量和元素药水一样。",
+     "While the Perfect Swing Potion is active in Mining, all Mining Nodes have +20 Max HP.": "当完美摇摆药水在采矿中处于活动状态时，所有矿石耐久最大值 +20。",
+     "While Thieving any NPC, 50% chance to grant +100% GP, 35% chance to grant 4x Items, or 15% chance to receive no items or GP at all.": "窃取任何 NPC 时，有 50% 的几率获得 +100% GP，35% 的几率获得 4x 物品，或 15% 的几率根本没有获得任何物品或 GP。",
+     "While using the Controlled Heat Potions, +5% Firemaking Skill XP and Bonfire duration is doubled. Charges are used per Firemaking action.": "使用受控加热药水时，+5% 的制火技能 XP 和篝火持续时间加倍。 每次生火行动都会使用费用。",
+     "While using the Seeing Gold Potion in Smithing, double Silver & Gold Bar output.": "在锻造中使用看炼金药水时，双倍银条和金条输出。",
+     "You found": "你发现了",
+     "You have a set 85% chance to dodge Magic Attacks": "你有 85% 的几率躲避魔法攻击",
+     "You have a set 85% chance to dodge Melee Attacks": "你有 85% 的几率躲避近战攻击",
+     "You have a set 85% chance to dodge Ranged Attacks": "你有 85% 的几率躲避远程攻击",
+     "You must have Blazing Lantern equipped to fight this monster.": "你必须装备炽焰灯笼才能与这个怪物战斗。",
+     "You must have Climbing Boots equipped to fight this monster.": "你必须装备登山靴才能对抗这个怪物。",
+     "You're more accurate when you're naked.": "当你赤身裸体时，你会更准确。",
+     "Your attack heals you for 25% of the damage dealt.": "你的攻击可以治疗你造成伤害的 25%。",
+     "Your chance to hit an enemy is lucky (Roll twice, take the better result": "你有机会击中敌人是幸运的（掷两次，取更好的结果）",
+     "Zarrah": "扎拉",
+     "Zombie Leader": "僵尸领袖",
+     "Passive: Automatically buries bones that drop from combat and rewards 2x the amount of Prayer Points.": "被动：自动埋葬战斗中掉落的骨头，并奖励 2 倍的祈祷点数。",
+     "Passive: Grants +30 Maximum HP.": "被动：提供 +30 最大生命值。",
+     "Passive: When equipped - +100% GP granted from all sources except Alt. Magic and Item Selling, +5% chance to obtain double loot from slain monsters or Thieving, +10% chance to gain double resources from any skill.": "被动：装备后 - 除了魔法和物品出售之外的所有来源获得 +100% GP，从被杀死的怪物或盗贼那里获得双倍战利品的几率 +5%，从任何技能中获得双倍资源的几率 +10%。",
+     "Passive) Aorpheat's Signet Ring": "被动) 奥尔菲特的图章戒指",
+     "Perform 3 unavoidable attacks.": "进行 3 次不可避免的攻击。",
+     "Perform 4 consecutive attacks.": "连续进行4次攻击。",
+     "Perform a Normal attack.": "进行普通攻击。",
+     "You're more accurate when you're naked.": "当你赤身裸体时，你会更准确。",
+     "Your attack heals you for 25% of the damage dealt.": "你的攻击可以治疗你造成伤害的 25%。",
+     "Your chance to hit an enemy is lucky (Roll twice, take the better result": "你有机会击中敌人是幸运的（掷两次，取更好的结果）",
+     "Zarrah": "扎拉",
+     "Zombie Leader": "僵尸领袖",
+     "Passive: Automatically buries bones that drop from combat and rewards 2x the amount of Prayer Points.": "被动：自动埋葬战斗中掉落的骨头，并奖励 2 倍的祈祷点数。",
+     "Passive: Grants +30 Maximum HP.": "被动：提供 +30 最大生命值。",
+     "Passive: When equipped - +100% GP granted from all sources except Alt. Magic and Item Selling, +5% chance to obtain double loot from slain monsters or Thieving, +10% chance to gain double resources from any skill.": "被动：装备后 - 除了魔法和物品出售之外的所有来源获得 +100% GP，从被杀死的怪物或盗贼那里获得双倍战利品的几率 +5%，从任何技能中获得双倍资源的几率 +10%。",
+     "Passive) Aorpheat's Signet Ring": "被动) 奥尔菲特的图章戒指",
+     "Perform 3 unavoidable attacks.": "进行 3 次不可避免的攻击。",
+     "Perform 4 consecutive attacks.": "连续进行4次攻击。",
+     "Perform a Normal attack.": "进行普通攻击。",
+     "Perform a normal attack. On a hit, inflicts Bleed that deals 200 and 4% of the enemy's max hitpoints as damage over 10s.": "进行普通攻击。 命中时，造成流血，在 10 秒内造成敌人200点和最大生命值的  4% 的伤害",
+     "Pet does not count towards completion.": "宠物不计入完成。",
+     "Phoenix": "凤凰",
+     "Pillar of Combat": "战斗之柱",
+     "Pillar of Generosity": "慷慨之柱",
+     "Pillar of Skilling": "技能之柱",
+     "Pipe Climb": "爬管",
+     "Pirate": "海盗",
+     "Pirate Captain": "海盗船",
+     "Potions disabled during Golbin Raid": "戈尔宾突袭时禁用药水",
+     "Prat, the Guardian of Secrets": "普拉特，秘密的守护者",
+     "Protector of Ice": "冰的保护者",
+     "Provides": "提供",
+     "Provides no extra Prayer XP": "不提供额外的祈祷XP",
+     "Pudding Duckie": "布丁鸭子",
+     "Puff, the Baby Dragon": "泡芙，龙宝宝",
+     "Purple Party Hat": "紫色派对帽",
+     "Puts up a wall that gives the enemy": "竖起一堵墙，给敌人",
      "": "",
      "": "",
      "": "",
@@ -2659,111 +3702,6 @@
      "": "",
      "": "",
      "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     "": "",
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
-     '': '',
  }
  var cnPrefix = {
      "(-": "(-",
@@ -2798,6 +3736,54 @@
      "Skill XP": "技能经验",
      "Last Save: ": "上次保存于：",
      'Dmg Reduction': '伤害降低',
+     'Lucky Herb Potion': '幸运药水',
+     "Item Alchemy": "物品炼金术",
+     "Skill: ": "技能: ",
+     'Skilled Fletching Potion': '熟练造箭药水',
+     'Seeing Gold Potion': '炼金药水',
+     'Regeneration Potion': '再生药水',
+     'Ranged Assistance Potion': '远程协助药水',
+     'Ranged Strength Potion': '远程力量药水',
+     'Melee Accuracy Potion': '近战精准药水',
+     'Melee Evasion Potion': '近战躲避药水',
+     'Melee Strength Potion': '近战力量药水',
+     'Magic Damage Potion': '魔法伤害药水',
+     'Fishermans Potion': '渔夫药水',
+     'Elemental Potion': '元素药水',
+     'Diamond Potion': '钻石药水',
+     'Controlled Heat Potion': '控热药水',
+     'Bird Nests Potion': '鸟巢药水',
+     'Skill Potions': '技能药水',
+     'Combat Potions': '战斗药水',
+     "Perfect Swing Potion": "完美摇摆药水",
+     "Performance Enhancing Potion": "性能提升药水",
+     'Crafting Potion': '工艺药水',
+     'Damage Reduction Potion': '减少伤害药水',
+     'Divine Potion': '神圣药水',
+     'Generous Cook Potion': '慷慨的药水',
+     'Generous Harvest Potion': '丰硕的药水',
+     'Gentle Hands Potion': '温和的双手药水',
+     'Magic Assistance Potion': '魔法辅助药水',
+     'Herblore Potion': '草药药水',
+     "Superheat": "魔法冶炼",
+     "Necromancer Potion": "亡灵法师药水",
+     "Rags to Riches": "白手起家",
+     "Remaining Actions: ": "剩余行动: ",
+     "Bird Nest Potion": "鸟巢药水",
+     "Blinding": "失明",
+     "Soul Split": "灵魂分裂",
+     "Diamond Luck Potion": "钻石幸运药水",
+     "Weakening": "削弱",
+     "Anguish": "痛苦",
+     "Fervor": "炽热",
+     "  Active Fervor": "激活炽热",
+     "  Active Charged": "激活充能",
+     "  Active Fury": "激活狂怒",
+     "  Active Surge": "激活巨浪",
+     "Surge": "巨浪",
+     "Active Surge": "激活巨浪",
+     "Fury": "狂怒",
+     "Charged": "充能",
      "": "",
      "": "",
      "": "",
@@ -2858,15 +3844,24 @@
     /^x?\d+(\.\d+)?[A-Za-z%]{0,2}(\s.C)?\s*$/, //12.34K,23.4 °C
     /^x?\d+(\.\d+)?(e[+\-]?\d+)?\s*$/, //12.34e+4
     /^\s*$/, //纯空格
-    /^\n$/, //换行
-    /^([\d\.,]+)$/, //换行
-    /^([\d\.,]+) 费用$/, //换行
-    /^([\d\.,]+) 生命值$/, //换行
-    /^([\d\.,]+) 经验 \/ ([\d\.]+) 秒$/, //换行
-    /^([\d\.]+) 秒$/, //换行
-    /^\$([\d\.,]+)$/, //换行
-    /^([\d\.,]+) \/$/, //换行
-    /^\- Fix (.+)$/, //换行
+    /^\n$/, 
+    /^http:(.+)$/, 
+    /^(.+)中国标准时间$/, 
+    /^([\d\.,]+) GP$/, 
+    /^([\d\.,]+)$/, 
+    /^([\d\.,]+)M GP$/, 
+    /^([\d\.,]+) GP$/, 
+    /^([\d\.,]+)K GP$/, 
+    /^([\d\.,]+)M SC$/, 
+    /^([\d\.,]+) SC$/, 
+    /^([\d\.,]+)K SC$/, 
+    /^([\d\.,]+) 费用$/, 
+    /^([\d\.,]+) 生命值$/, 
+    /^([\d\.,]+) 经验 \/ ([\d\.]+) 秒$/, 
+    /^([\d\.]+) 秒$/, 
+    /^\$([\d\.,]+)$/, 
+    /^([\d\.,]+) \/$/, 
+    /^\- Fix (.+)$/, 
     /^\d+(\.\d+)?[A-Za-z]{0,2}.?\(?([+\-]?(\d+(\.\d+)?[A-Za-z]{0,2})?)?$/, //12.34M (+34.34K
     /^(\d+(\.\d+)?[A-Za-z]{0,2}\/s)?.?\(?([+\-]?\d+(\.\d+)?[A-Za-z]{0,2})?\/s\stot$/, //2.74M/s (112.4K/s tot
     /^\d+(\.\d+)?(e[+\-]?\d+)?.?\(?([+\-]?(\d+(\.\d+)?(e[+\-]?\d+)?)?)?$/, //2.177e+6 (+4.01+4
@@ -2883,10 +3878,91 @@
  //小数点：([\d\.]+)
  //原样输出的字段：(.+)
  var cnRegReplace = new Map([
-    [/^(.+) x M-Bucks$/, '$1 M-雄鹿'],
+    [/^Up to (.+) x$/, '最多 $1 个'],
+    [/^You opened (.+) Treasure Chests$/, '您打开了 $1 个宝箱'],
+    [/^You opened (.+) Magic Chests$/, '你打开了 $1 个魔法宝箱'],
+    [/^You were gone for roughly (.+) hours$/, '你离开了大约 $1 个小时'],
+    [/^Marks Discovered: ([\d\.,]+) \/$/, '发现的印记：$1 \/'],
+    [/^Buy x([\d\.,]+)$/, '购买 x$1'],
+    [/^since (.+) minutes ago$/, '从 $1 分钟前'],
+    [/^Create (.+) bar using (.+) required ores.$/, '使用 $2 矿石冶炼 $1 对应的金属锭'],
+    [/^Buy (.+) x Bowstring\?$/, '买 $1 x 弓弦？'],
+    [/^Buy (.+) x Compost\?$/, '买 $1 x 堆肥？'],
+    [/^Buy (.+) x Feathers\?$/, '买 $1 x 羽毛？'],
+    [/^Buy (.+) x Leather\?$/, '买 $1 x 皮革？'],
+    [/^Buy (.+) x Blue Dragonhide\?$/, '买 $1 x 蓝龙皮？'],
+    [/^Buy (.+) x Summoning Shard \(Black\)\?$/, '购买 $1 x 召唤碎片 \(黑色\)？'],
+    [/^Buy (.+) x Summoning Shard \(Blue\)\?$/, '购买 $1 x 召唤碎片 \(蓝色\)？'],
+    [/^Buy (.+) x Summoning Shard \(Gold\)\?$/, '购买 $1 x 召唤碎片 \(金色\)？'],
+    [/^Buy (.+) x Summoning Shard \(Green\)\?$/, '购买 $1 x 召唤碎片 \(绿色\)？'],
+    [/^Buy (.+) x Summoning Shard \(Red\)\?$/, '购买 $1 x 召唤碎片 \(红色\)？'],
+    [/^Buy (.+) x Summoning Shard \(Silver\)\?$/, '购买 $1 x 召唤碎片 \(银色\)？'],
+    [/^Tier ([\d\.,]+) Summon$/, '$1 级召唤'],
     [/^([\d\.,]+) XP remaining \(([\d\.,]+) XP$/, '$1 经验值 剩余 \($2 经验值'],
     [/^([\d\.,]+) XP$/, '$1 经验值'],
+    [/^([\d\.,]+) Maximum Bank Space$/, '$1 银行最大存储空间'],
+    [/^([\d\.,]+) x Frozen Archer$/, '$1 x 冰霜射手'],
+    [/^([\d\.,]+) Bragging Rights$/, '$1 炫耀的权利'],
+    [/^([\d\.,]+) x Bragging Rights$/, '$1 x 炫耀的权利'],
+    [/^([\d\.,]+) x Turkul General$/, '$1 x 突库将军'],
+    [/^([\d\.,]+) x Magic Defence Bonus$/, '$1 x 魔法防御加成'],
+    [/^([\d\.,]+) x Raw Blowfish$/, '$1 x 生河豚'],
+    [/^([\d\.,]+) x Redwood Logs$/, '$1 x 红杉木'],
+    [/^([\d\.,]+) x Weird Gloop$/, '$1 x 奇怪的黏液'],
+    [/^([\d\.,]+) x Maximum Bank Space$/, '$1 x 最大仓库容量'],
+    [/^([\d\.,]+) x Melee Strength Bonus$/, '$1 x 近战力量加成'],
+    [/^([\d\.,]+) x M-Bucks$/, '$1 x M-雄鹿'],
+    [/^([\d\.,]+) x Red Dragonhide$/, '$1 x 红龙皮'],
+    [/^([\d\.,]+) x Blue Dragonhide$/, '$1 x 蓝龙皮'],
+    [/^([\d\.,]+) x Bowstring$/, '$1 x 弓弦'],
+    [/^([\d\.,]+) x Hunting Greater Dragon$/, '$1 x 狩猎巨龙'],
+    [/^([\d\.,]+) x Compost$/, '$1 x 堆肥'],
+    [/^([\d\.,]+) x Smithing Gloves$/, '$1 x 铁匠手套'],
+    [/^([\d\.,]+) x Thieving Gloves$/, '$1 x 盗贼手套'],
+    [/^([\d\.,]+) x Cooking Gloves$/, '$1 x 烹饪手套'],
+    [/^([\d\.,]+) x Mining Gloves$/, '$1 x 采矿手套'],
+    [/^([\d\.,]+) x Gem Gloves$/, '$1 x 宝石手套'],
+    [/^([\d\.,]+) x Feathers$/, '$1 x 羽毛'],
+    [/^([\d\.,]+) x Green Dragonhide$/, '$1 x 绿龙皮'],
+    [/^([\d\.,]+) x Raw Trout$/, '$1 x 生鳟鱼'],
+    [/^([\d\.,]+) x Oak Logs$/, '$1 x 橡木原木'],
+    [/^([\d\.,]+) x Leather$/, '$1 x 皮革'],
+    [/^([\d\.,]+) x Red Party Hat$/, '$1 x 红色派对帽'],
+    [/^([\d\.,]+) x Summoning Shard \(Black$/, '$1 x 召唤碎片（黑色'],
+    [/^([\d\.,]+) x Summoning Shard \(Blue$/, '$1 x 召唤碎片（蓝色'],
+    [/^([\d\.,]+) x Summoning Shard \(Gold$/, '$1 x 召唤碎片（黄金'],
+    [/^([\d\.,]+) x Summoning Shard \(Green$/, '$1 x 召唤碎片（绿色'],
+    [/^([\d\.,]+) x Summoning Shard \(Red$/, '$1 x 召唤碎片（红色'],
+    [/^([\d\.,]+) x Summoning Shard \(Silver$/, '$1 x 召唤碎片（银色'],
     [/^([\d\.,]+) seconds$/, '$1 秒'],
+    [/^([\d\.,]+) minutes$/, '$1 分钟'],
+    [/^([\d\.,]+)K Carrot$/, '$1K 胡萝卜'],
+    [/^([\d\.,]+)K Pigtayle Herb$/, '$1K 猪蹄草'],
+    [/^([\d\.,]+)K Oxilyme Herb$/, '$1K 氧化酶草'],
+    [/^([\d\.,]+)K Lemontyle Herb$/, '$1K 柠檬草'],
+    [/^([\d\.,]+)K Sourweed Herb$/, '$1K 酸草'],
+    [/^([\d\.,]+)K Poraxx Herb$/, '$1K 波拉克斯草药'],
+    [/^([\d\.,]+) Mastery Pool XP$/, '$1 精通池经验值'],
+    [/^([\d\.,]+) Skill XP$/, '$1 技能经验值'],
+    [/^([\d\.,]+)\% Slayer Skill XP$/, '$1\% 杀手技能经验值'],
+    [/^([\d\.,]+)\% Global Skill XP$/, '$1\% 全局技能经验值'],
+    [/^([\d\.,]+) Mastery XP$/, '$1 精通经验值'],
+    [/^([\d\.,]+)\% Global Mastery XP$/, '$1\% 全局精通经验值'],
+    [/^([\d\.,]+)\% Farming Yield$/, '$1\% 农业产量'],
+    [/^([\d\.,]+) Ranged Strength Bonus$/, '$1 远程力量加成'],
+    [/^([\d\.,]+) Slayer Coins$/, '$1 杀手币'],
+    [/^([\d\.,]+) Magic Attack Bonus$/, '$1 魔法攻击奖励'],
+    [/^([\d\.,]+) Magic Defence Bonus$/, '$1 魔法防御奖励'],
+    [/^([\d\.,]+) Ranged Defence Bonus$/, '$1 远程防御奖励'],
+    [/^([\d\.,]+) Ranged Attack Bonus$/, '$1 远程攻击奖励'],
+    [/^([\d\.,]+) Melee Block bonus$/, '$1 近战格挡奖励'],
+    [/^([\d\.,]+) Melee Slash Bonus$/, '$1 近战斩击奖励'],
+    [/^([\d\.,]+) Melee Stab Bonus$/, '$1 近战刺杀奖励'],
+    [/^([\d\.,]+) Melee Defence Bonus$/, '$1 近战防御奖励'],
+    [/^([\d\.,]+) Melee Strength Bonus$/, '$1 近战力量奖励'],
+    [/^([\d\.,]+)\% Melee Strength Bonus$/, '$1\% 近战力量奖励'],
+    [/^([\d\.,]+) Melee Attack Bonus$/, '$1 近战攻击奖励'],
+    [/^(.+)\% Fishing Interval for a total of (.+)\% applied from your Fishing Rod.$/, '$1\% 钓鱼间隔，总计 $2\% 从你的钓鱼竿中应用。'],
     [/^You gained (.+) Cooking XP$/, '你获得了 $1 烹饪经验'],
     [/^You gained (.+) Crafting XP$/, '你获得了 $1 制作经验'],
     [/^You gained (.+) Farming XP$/, '你获得了 $1 种地经验'],
@@ -2908,6 +3984,7 @@
     [/^You gained (.+) Strength XP$/, '你获得了 $1 力量经验'],
     [/^(.+) Total Skill Level \/ (.+) GP \/ (.+)$/, '$1 总技能等级 \/ $2 GP \/ $3'],
     [/^(.+) \/ (.+),$/, '$1 \/ $2.'],
+    [/^since (.+) hours ago$/, '自 $1 小时前'],
     [/^([\d\.]+) seconds$/, '$1 秒'],
     [/^([\d\.]+)h ([\d\.]+)m ([\d\.]+)s ago$/, '$1小时 $2分钟 $3秒 前'],
     [/^Loot to Collect (.+)$/, '收集战利品 $1'],
@@ -2933,6 +4010,7 @@
     [/^(.+) HP Regen per interval$/, '每次恢复 $1 生命值'],
     [/^(.+) charcoal$/, '$1 木炭'],
     [/^(.+) XP \/ (.+) seconds$/, '$1 经验 \/ $2 秒'],
+	[/^([\d\.,]+) XP \/$/, '$1 经验值 \/'],
     [/^(.+) Quest Points$/, '$1 任务点'],
     [/^Skill Upgrades(.+)$/, '技能升级'],
     [/^Requires level (.+) mining to obtain.$/, '需要$1级采矿才能获得。'],
@@ -2948,235 +4026,237 @@
 
 ]);
  var CNITEM_DEBUG = 0;
-function cnItemByTag(text, itemgroup, node, textori){
-	for (let i in itemgroup){
-		if (i[0] == '.') { //匹配节点及其父节点的class
-			let current_node = node;
-			while (current_node){
-				if ( current_node.classList && current_node.classList.contains(i.substr(1)) ){
-					return itemgroup[i];
-				}
-				else if( current_node.parentElement && current_node.parentElement != document.documentElement ) {
-					current_node = current_node.parentElement;
-				}
-				else {
-					break;
-				}
-			}
-		}
-		else if (i[0] == '#'){ //匹配节点及其父节点的id
-			let current_node = node;
-			while (current_node){
-				if ( current_node.id == i.substr(1) ){
-					return itemgroup[i];
-				}
-				else if( current_node.parentElement && current_node.parentElement != document.documentElement ) {
-					current_node = current_node.parentElement;
-				}
-				else {
-					break;
-				}
-			}
-		}
-		else if (i[0] == '$'){	//执行document.querySelector
-			if (document.querySelector(i.substr(1)) != null){
-				return itemgroup[i];
-			}
-		}
-		else if (i[0] == '*'){	//搜索原始文本
-			if ( textori.includes(i.substr(1)) ){
-				return itemgroup[i];
-			}
-		}
-		// and more ...
-		else{
-			CNITEM_DEBUG && console.log({text, itemgroup, dsc:"不识别的标签" + i})
-		}
-	}
-	return null;
-}
 
-//2.采集新词
-//20190320@JAR  rewrite by 麦子
-var cnItem = function (text, node) {
+ function cnItemByTag(text, itemgroup, node, textori) {
+     for (let i in itemgroup) {
+         if (i[0] == '.') { //匹配节点及其父节点的class
+             let current_node = node;
+             while (current_node) {
+                 if (current_node.classList && current_node.classList.contains(i.substr(1))) {
+                     return itemgroup[i];
+                 } else if (current_node.parentElement && current_node.parentElement != document.documentElement) {
+                     current_node = current_node.parentElement;
+                 } else {
+                     break;
+                 }
+             }
+         } else if (i[0] == '#') { //匹配节点及其父节点的id
+             let current_node = node;
+             while (current_node) {
+                 if (current_node.id == i.substr(1)) {
+                     return itemgroup[i];
+                 } else if (current_node.parentElement && current_node.parentElement != document.documentElement) {
+                     current_node = current_node.parentElement;
+                 } else {
+                     break;
+                 }
+             }
+         } else if (i[0] == '$') { //执行document.querySelector
+             if (document.querySelector(i.substr(1)) != null) {
+                 return itemgroup[i];
+             }
+         } else if (i[0] == '*') { //搜索原始文本
+             if (textori.includes(i.substr(1))) {
+                 return itemgroup[i];
+             }
+         }
+         // and more ...
+         else {
+             CNITEM_DEBUG && console.log({
+                 text,
+                 itemgroup,
+                 dsc: "不识别的标签" + i
+             })
+         }
+     }
+     return null;
+ }
 
-    if (typeof (text) != "string")
-        return text;
-	let textori = text;
-    //处理前缀
-    let text_prefix = "";
-    for (let prefix in cnPrefix) {
-        if (text.substr(0, prefix.length) === prefix) {
-            text_prefix += cnPrefix[prefix];
-            text = text.substr(prefix.length);
-        }
-    }
-    //处理后缀
-    let text_postfix = "";
-    for (let postfix in cnPostfix) {
-        if (text.substr(-postfix.length) === postfix) {
-            text_postfix = cnPostfix[postfix] + text_postfix;
-            text = text.substr(0, text.length - postfix.length);
-        }
-    }
-    //处理正则后缀
-    let text_reg_exclude_postfix = "";
-    for (let reg of cnExcludePostfix) {
-        let result = text.match(reg);
-        if (result) {
-            text_reg_exclude_postfix = result[0] + text_reg_exclude_postfix;
-            text = text.substr(0, text.length - result[0].length);
-        }
-    }
+ //2.采集新词
+ //20190320@JAR  rewrite by 麦子
+ var cnItem = function (text, node) {
 
-    //检验字典是否可存
-    if (!cnItems._OTHER_) cnItems._OTHER_ = [];
+     if (typeof (text) != "string")
+         return text;
+     let textori = text;
+     //处理前缀
+     let text_prefix = "";
+     for (let prefix in cnPrefix) {
+         if (text.substr(0, prefix.length) === prefix) {
+             text_prefix += cnPrefix[prefix];
+             text = text.substr(prefix.length);
+         }
+     }
+     //处理后缀
+     let text_postfix = "";
+     for (let postfix in cnPostfix) {
+         if (text.substr(-postfix.length) === postfix) {
+             text_postfix = cnPostfix[postfix] + text_postfix;
+             text = text.substr(0, text.length - postfix.length);
+         }
+     }
+     //处理正则后缀
+     let text_reg_exclude_postfix = "";
+     for (let reg of cnExcludePostfix) {
+         let result = text.match(reg);
+         if (result) {
+             text_reg_exclude_postfix = result[0] + text_reg_exclude_postfix;
+             text = text.substr(0, text.length - result[0].length);
+         }
+     }
 
-    //检查是否排除
-    for (let reg of cnExcludeWhole) {
-        if (reg.test(text)) {
-            return text_prefix + text + text_reg_exclude_postfix + text_postfix;;
-        }
-    }
+     //检验字典是否可存
+     if (!cnItems._OTHER_) cnItems._OTHER_ = [];
 
-    //尝试正则替换
-    for (let [key, value] of cnRegReplace.entries()) {
-        if (key.test(text)) {
-            return text_prefix + text.replace(key, value) + text_reg_exclude_postfix + text_postfix;
-        }
-    }
+     //检查是否排除
+     for (let reg of cnExcludeWhole) {
+         if (reg.test(text)) {
+             return text_prefix + text + text_reg_exclude_postfix + text_postfix;;
+         }
+     }
 
-    //遍历尝试匹配
-    for (let i in cnItems) {
-        //字典已有词汇或译文、且译文不为空，则返回译文
-        if (typeof(cnItems[i]) == "string" && (text == i || text == cnItems[i])){
-			return text_prefix + cnItems[i] + text_reg_exclude_postfix + text_postfix;
-		} else if ( typeof(cnItems[i]) == "object" && text == i ){
-			let result = cnItemByTag(i, cnItems[i], node, textori);
-			if (result != null){
-				return text_prefix + result + text_reg_exclude_postfix + text_postfix;
-			} else {
-				CNITEM_DEBUG && console.log({text:i, cnitem:cnItems[i], node});
-			}
-		} else {
-            // continue;
-        }
-    }
+     //尝试正则替换
+     for (let [key, value] of cnRegReplace.entries()) {
+         if (key.test(text)) {
+             return text_prefix + text.replace(key, value) + text_reg_exclude_postfix + text_postfix;
+         }
+     }
 
-    //调整收录的词条，0=收录原文，1=收录去除前后缀的文本
-    let save_cfg = 1;
-    let save_text = save_cfg ? text : textori;
-    //遍历生词表是否收录
-    for (
-        let i = 0; i < cnItems._OTHER_.length; i++
-    ) {
-        //已收录则直接返回
-        if (save_text == cnItems._OTHER_[i])
-            return text_prefix + text + text_reg_exclude_postfix + text_postfix;
-    }
+     //遍历尝试匹配
+     for (let i in cnItems) {
+         //字典已有词汇或译文、且译文不为空，则返回译文
+         if (typeof (cnItems[i]) == "string" && (text == i || text == cnItems[i])) {
+             return text_prefix + cnItems[i] + text_reg_exclude_postfix + text_postfix;
+         } else if (typeof (cnItems[i]) == "object" && text == i) {
+             let result = cnItemByTag(i, cnItems[i], node, textori);
+             if (result != null) {
+                 return text_prefix + result + text_reg_exclude_postfix + text_postfix;
+             } else {
+                 CNITEM_DEBUG && console.log({
+                     text: i,
+                     cnitem: cnItems[i],
+                     node
+                 });
+             }
+         } else {
+             // continue;
+         }
+     }
 
-    if (cnItems._OTHER_.length < 1000) {
-        //未收录则保存
-        cnItems._OTHER_.push(save_text);
-        cnItems._OTHER_.sort(
-            function (a, b) {
-                return a.localeCompare(b)
-            }
-        );
-    }
+     //调整收录的词条，0=收录原文，1=收录去除前后缀的文本
+     let save_cfg = 1;
+     let save_text = save_cfg ? text : textori;
+     //遍历生词表是否收录
+     for (
+         let i = 0; i < cnItems._OTHER_.length; i++
+     ) {
+         //已收录则直接返回
+         if (save_text == cnItems._OTHER_[i])
+             return text_prefix + text + text_reg_exclude_postfix + text_postfix;
+     }
 
-    //开启生词打印
-        CNITEM_DEBUG && console.log(
-            '有需要汉化的英文：', text
-        );
+     if (cnItems._OTHER_.length < 1000) {
+         //未收录则保存
+         cnItems._OTHER_.push(save_text);
+         cnItems._OTHER_.sort(
+             function (a, b) {
+                 return a.localeCompare(b)
+             }
+         );
+     }
 
-    //返回生词字串
-    return text_prefix + text + text_reg_exclude_postfix + text_postfix;
-};
+     //开启生词打印
+     CNITEM_DEBUG && console.log(
+         '有需要汉化的英文：', text
+     );
 
-transTaskMgr = {
-    tasks: [],
-    addTask: function (node, attr, text) {
-        this.tasks.push({
-            node,
-            attr,
-            text
-        })
-    },
-    doTask: function () {
-        let task = null;
-        while (task = this.tasks.pop())
-            task.node[task.attr] = task.text;
-    },
-}
+     //返回生词字串
+     return text_prefix + text + text_reg_exclude_postfix + text_postfix;
+ };
 
-function TransSubTextNode(node) {
-    if (node.childNodes.length > 0) {
-        for (let subnode of node.childNodes) {
-            if (subnode.nodeName === "#text") {
-                let text = subnode.textContent;
-                let cnText = cnItem(text, subnode);
-                cnText !== text && transTaskMgr.addTask(subnode, 'textContent', cnText);
-                //console.log(subnode);
-            } else if (subnode.nodeName !== "SCRIPT" && subnode.nodeName !== "STYLE" && subnode.nodeName !== "TEXTAREA") {
-                if (!subnode.childNodes || subnode.childNodes.length == 0) {
-                    let text = subnode.innerText;
-                    let cnText = cnItem(text, subnode);
-                    cnText !== text && transTaskMgr.addTask(subnode, 'innerText', cnText);
-                    //console.log(subnode);
-                } else {
-                    TransSubTextNode(subnode);
-                }
-            } else {
-                // do nothing;
-            }
-        }
-    }
-}
+ transTaskMgr = {
+     tasks: [],
+     addTask: function (node, attr, text) {
+         this.tasks.push({
+             node,
+             attr,
+             text
+         })
+     },
+     doTask: function () {
+         let task = null;
+         while (task = this.tasks.pop())
+             task.node[task.attr] = task.text;
+     },
+ }
 
-! function () {
-    console.log("加载汉化模块");
+ function TransSubTextNode(node) {
+     if (node.childNodes.length > 0) {
+         for (let subnode of node.childNodes) {
+             if (subnode.nodeName === "#text") {
+                 let text = subnode.textContent;
+                 let cnText = cnItem(text, subnode);
+                 cnText !== text && transTaskMgr.addTask(subnode, 'textContent', cnText);
+                 //console.log(subnode);
+             } else if (subnode.nodeName !== "SCRIPT" && subnode.nodeName !== "STYLE" && subnode.nodeName !== "TEXTAREA") {
+                 if (!subnode.childNodes || subnode.childNodes.length == 0) {
+                     let text = subnode.innerText;
+                     let cnText = cnItem(text, subnode);
+                     cnText !== text && transTaskMgr.addTask(subnode, 'innerText', cnText);
+                     //console.log(subnode);
+                 } else {
+                     TransSubTextNode(subnode);
+                 }
+             } else {
+                 // do nothing;
+             }
+         }
+     }
+ }
 
-    let observer_config = {
-        attributes: false,
-        characterData: true,
-        childList: true,
-        subtree: true
-    };
-    let targetNode = document.body;
-    //汉化静态页面内容
-    TransSubTextNode(targetNode);
-    transTaskMgr.doTask();
-    //监听页面变化并汉化动态内容
-    let observer = new MutationObserver(function (e) {
-        //window.beforeTransTime = performance.now();
-        observer.disconnect();
-        for (let mutation of e) {
-            if (mutation.target.nodeName === "SCRIPT"|| mutation.target.nodeName === "STYLE" || mutation.target.nodeName === "TEXTAREA") continue;
-			if (mutation.target.nodeName === "#text") {
-                mutation.target.textContent = cnItem(mutation.target.textContent, mutation.target);
-            } else if (!mutation.target.childNodes || mutation.target.childNodes.length == 0) {
-                mutation.target.innerText = cnItem(mutation.target.innerText, mutation.target);
-            } else if (mutation.addedNodes.length > 0) {
-                for (let node of mutation.addedNodes) {
-                    if (node.nodeName === "#text") {
-                        node.textContent = cnItem(node.textContent, node);
-                        //console.log(node);
-                    } else if (node.nodeName !== "SCRIPT" && node.nodeName !== "STYLE" && node.nodeName !== "TEXTAREA") {
-                        if (!node.childNodes || node.childNodes.length == 0) {
-							if (node.innerText)
-								node.innerText = cnItem(node.innerText, node);
-                        } else {
-                            TransSubTextNode(node);
-                            transTaskMgr.doTask();
-                        }
-                    }
-                }
-            }
-        }
-        observer.observe(targetNode, observer_config);
-        //window.afterTransTime = performance.now();
-        //console.log("捕获到页面变化并执行汉化，耗时" + (afterTransTime - beforeTransTime) + "毫秒");
-    });
-    observer.observe(targetNode, observer_config);
-}();
+ ! function () {
+     console.log("加载汉化模块");
+
+     let observer_config = {
+         attributes: false,
+         characterData: true,
+         childList: true,
+         subtree: true
+     };
+     let targetNode = document.body;
+     //汉化静态页面内容
+     TransSubTextNode(targetNode);
+     transTaskMgr.doTask();
+     //监听页面变化并汉化动态内容
+     let observer = new MutationObserver(function (e) {
+         //window.beforeTransTime = performance.now();
+         observer.disconnect();
+         for (let mutation of e) {
+             if (mutation.target.nodeName === "SCRIPT" || mutation.target.nodeName === "STYLE" || mutation.target.nodeName === "TEXTAREA") continue;
+             if (mutation.target.nodeName === "#text") {
+                 mutation.target.textContent = cnItem(mutation.target.textContent, mutation.target);
+             } else if (!mutation.target.childNodes || mutation.target.childNodes.length == 0) {
+                 mutation.target.innerText = cnItem(mutation.target.innerText, mutation.target);
+             } else if (mutation.addedNodes.length > 0) {
+                 for (let node of mutation.addedNodes) {
+                     if (node.nodeName === "#text") {
+                         node.textContent = cnItem(node.textContent, node);
+                         //console.log(node);
+                     } else if (node.nodeName !== "SCRIPT" && node.nodeName !== "STYLE" && node.nodeName !== "TEXTAREA") {
+                         if (!node.childNodes || node.childNodes.length == 0) {
+                             if (node.innerText)
+                                 node.innerText = cnItem(node.innerText, node);
+                         } else {
+                             TransSubTextNode(node);
+                             transTaskMgr.doTask();
+                         }
+                     }
+                 }
+             }
+         }
+         observer.observe(targetNode, observer_config);
+         //window.afterTransTime = performance.now();
+         //console.log("捕获到页面变化并执行汉化，耗时" + (afterTransTime - beforeTransTime) + "毫秒");
+     });
+     observer.observe(targetNode, observer_config);
+ }();
