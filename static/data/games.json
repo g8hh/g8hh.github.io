@@ -349,6 +349,35 @@
         "status": 0
     },
     {
+        "title": "复制增量",
+        "enTitle": "Replicanti Incremental",
+        "date": "2022-05-13",
+        "update": "2022-05-13",
+        "version": "",
+        "path": "replicanti-incremental",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《复制增量》又是一款受到《反物质维度》启发的放置游戏。"
+        ],
+        "enUrl": "https://mrredshark77.github.io/Replicanti-Incremental/",
+        "customUrl": "https://yx.g8hh.com/replicanti-incremental",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/replicanti-incremental",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "炮兵突击",
         "enTitle": "Corruption II",
         "date": "2022-05-11",
