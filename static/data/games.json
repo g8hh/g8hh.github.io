@@ -376,6 +376,31 @@
         "status": 1
     },
     {
+        "title": "Idle Spiral",
+        "enTitle": "",
+        "date": "2021-05-25",
+        "update": "2021-05-25",
+        "version": "",
+        "path": "idle-spiral",
+        "type": [
+            "Steam"
+        ],
+        "content": [
+            "这是一款基于螺旋和数学的精美“空闲”、“增量”游戏。 你的目标是让螺旋越来越远离原点。 游戏很简单，但是很有深度，可以玩很久！"
+        ],
+        "customUrl": "https://store.steampowered.com/app/1827980/Idle_Spiral/",
+        "customUrlTit": "Steam地址",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "复制增量",
         "enTitle": "Replicanti Incremental",
         "date": "2022-05-13",
@@ -3700,7 +3725,7 @@
             "生命树，挺好的一个题材。目前有588个成就。。是的，你没看错，588个！！！"
         ],
         "enUrl": "http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html",
-        "customUrl": "https://yx.g8hh.com/the-tree-of-life",
+        "customUrl": "https://the-tree-of-life.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/the-tree-of-life",
         "customUrlTit2": "备用地址-GitHub",
