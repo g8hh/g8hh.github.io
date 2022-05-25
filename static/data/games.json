@@ -347,6 +347,35 @@
         "status": 0
     },
     {
+        "title": "恶魔学识",
+        "enTitle": "Demonology",
+        "date": "2022-05-25",
+        "update": "2022-05-25",
+        "version": "",
+        "path": "demonology",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "这是一个关于灵魂收获和邪恶成长的增量游戏。"
+        ],
+        "enUrl": "https://demonology.agate.blue/",
+        "customUrl": "https://demonology.g8hh.com",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/demonology",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "复制增量",
         "enTitle": "Replicanti Incremental",
         "date": "2022-05-13",
@@ -866,7 +895,7 @@
             "《骑士进度条2》是爱好者在《骑士进度条》的基础上，新增了：15个新“工作”和22个新“技能”（现在重命名为职业和能力）；新的邪恶升级；还有 18 件商品；超越系统：精华 - 添加了超越货币。"
         ],
         "enUrl": "https://symb1.github.io/progress_knight_2/",
-        "customUrl": "https://yx.g8hh.com/progress-knight2",
+        "customUrl": "https://progress-knight2.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/progress-knight2",
         "customUrlTit2": "备用地址-GitHub",
@@ -2018,7 +2047,7 @@
             "《比特燃烧器》 是一款基于编程的增量游戏，围绕黑客和赛博朋克主题展开。"
         ],
         "enUrl": "https://danielyxie.github.io/bitburner/",
-        "customUrl": "https://yx.g8hh.com/bit-burner",
+        "customUrl": "https://bit-burner.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/bit-burner",
         "customUrlTit2": "备用地址-GitHub",
@@ -4764,7 +4793,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/clickpocalypse2/",
         "enUrl": "http://minmaxia.com/c2/",
-        "customUrl": "https://yx.g8hh.com/clickpocalypse2",
+        "customUrl": "https://clickpocalypse2.g8hh.com/",
         "customUrlTit": "备用地址-gityx",
         "customUrl2": "https://g8hh.github.io/clickpocalypse2/index2.html",
         "customUrlTit2": "白底色-适合摸鱼",
@@ -7989,7 +8018,7 @@
         "enUrl": "https://www.pokeclicker.com/",
         "customUrl": "https://g8hh.github.io/pokeclicker/",
         "customUrlTit": "备用地址-GitHub",
-        "customUrl2": "https://yx.g8hh.com/pokeclicker/",
+        "customUrl2": "https://pokeclicker.g8hh.com/",
         "customUrlTit2": "备用地址-g8hh",
         "wikiUrl": "http://likexia.gitee.io/piddb/",
         "wikiUrl2": "https://wiki.52poke.com/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%88%97%E8%A1%A8%EF%BC%88%E6%8C%89%E5%85%A8%E5%9B%BD%E5%9B%BE%E9%89%B4%E7%BC%96%E5%8F%B7%EF%BC%89/%E7%AE%80%E5%8D%95%E7%89%88",
