@@ -347,6 +347,35 @@
         "status": 0
     },
     {
+        "title": "废料点击器++",
+        "enTitle": "Scrap Clicker ++",
+        "date": "2022-05-27",
+        "update": "2022-05-27",
+        "version": "0.3.1",
+        "path": "scrap-clicker-xx",
+        "type": [
+            "汉化中",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "这是一个关于回收废料的放置游戏。"
+        ],
+        "enUrl": "https://bullz04.github.io/scrap-clicker++/game/",
+        "customUrl": "https://scrap-clicker-xx.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/scrap-clicker-xx",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
         "title": "恶魔学识",
         "enTitle": "Demonology",
         "date": "2022-05-25",
@@ -8020,8 +8049,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-04-14",
-        "version": "0.9.1",
+        "update": "2022-05-26",
+        "version": "0.9.5",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -11058,7 +11087,7 @@
             1,
             2
         ],
-        "status": 1
+        "status": 0
     },
     {
         "title": "文明点击",
@@ -12236,9 +12265,9 @@
         ],
         "enUrl": "https://nroutasuo.github.io/level13/",
         "zhUrl": "https://g8hh.github.io/level13/",
-        "customUrl": "https://yx.g8hh.com/level13/index2.html",
+        "customUrl": "https://level13.g8hh.com/index2.html",
         "customUrlTit": "白色摸鱼主题",
-        "customUrl2": "https://yx.g8hh.com/level13/",
+        "customUrl2": "https://level13.g8hh.com/",
         "customUrlTit2": "汉化版-g8hh",
         "pic": [
             1,
