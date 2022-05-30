@@ -347,6 +347,41 @@
         "status": 0
     },
     {
+        "title": "数字树",
+        "enTitle": "The Number Tree",
+        "date": "2022-05-3-",
+        "update": "2022-05-30",
+        "version": "v0.3.2.1",
+        "path": "the-number-tree",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《数字树》是一款挺肝的模组树游戏。锅巴汉化的时候发现，这个树跟生命树有点像，不同时期显示的内容都不一样，汉化起来着实蛋疼​，还是那句话，发现英文随时发存档给我哈~"
+        ],
+        "enUrl": "https://factorxxx.github.io/Profectus/index.html",
+        "customUrl": "https://the-number-tree.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/the-number-tree",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "废料点击器++",
         "enTitle": "Scrap Clicker ++",
         "date": "2022-05-27",
@@ -1230,7 +1265,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-prestige-chain",
         "enUrl": "http://raw.githack.com/pg132/The-Modding-Tree/buyables/index.html",
-        "customUrl": "https://yx.g8hh.com/the-prestige-chain",
+        "customUrl": "https://the-prestige-chain.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -3077,8 +3112,9 @@
         "content": [
             "井字棋，英文名叫Tic-Tac-Toe，是一种在3*3格子上进行的连珠游戏，和五子棋类似，由于棋盘一般不画边框，格线排成井字故得名。游戏需要的工具仅为纸和笔，然后由分别代表O和X的两个游戏者轮流在格子里留下标记（一般来说先手者为X），任意三个标记形成一条直线，则为获胜。"
         ],
-        "customUrl": "http://idlegame.gitee.io/ooxx",
-        "customUrlTit": "开始游戏",
+        "zhUrl": "https://g1tyx.github.io/ooxx/",
+        "customUrl": "https://ooxx.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
             2
@@ -6911,10 +6947,10 @@
         "content": [
             "此游戏是反物质维度群里 @The Loader 在模型树的基础上二次开发，后续还会继续更新。"
         ],
-        "zhUrl": "https://qq1010903229.gitee.io/milestone-tree/index2.html",
+        "zhUrl": "https://g1tyx.github.io/milestone-tree",
+        "customUrl": "https://milestone-tree.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://qq1010903229.gitee.io/milestone-tree/index.html",
-        "customUrl": "http://idlegame.gitee.io/milestone-tree/index2.html",
-        "customUrlTit": "Git游戏版",
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
         "QQ": "963150347",
@@ -7086,7 +7122,7 @@
             "因为最近补充了一些汉化，所以再发一次~"
         ],
         "zhUrl": "https://g1tyx.github.io/cividlization2",
-        "customUrl": "https://yx.g8hh.com/cividlization2",
+        "customUrl": "https://cividlization2.g8hh.com",
         "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/to_change_later/cividlization-2?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -7151,7 +7187,9 @@
         "content": [
             "魔性又费鼠标的放置游戏~充满了欢乐~"
         ],
-        "zhUrl": "http://idlegame.gitee.io/idle-emoji-factory/",
+        "zhUrl": "https://g1tyx.github.io/idle-emoji-factory",
+        "customUrl": "https://idle-emoji-factory.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://www.crazygames.com/game/idle-emoji-factory",
         "pic": [
             1,
@@ -7568,7 +7606,9 @@
         "content": [
             "一款小型放置模拟病毒扫描程序的游戏，包含若干随机事件~"
         ],
-        "zhUrl": "http://idlegame.gitee.io/overseer/",
+        "zhUrl": "https://g1tyx.github.io/overseer",
+        "customUrl": "https://overseer.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://mrsperry.github.io/overseer/",
         "pic": [
             1,
@@ -7620,9 +7660,9 @@
             "一夜爆火的小游戏，合成大西瓜。",
             "如果链接挂了，请尝试另一个链接"
         ],
-        "customUrl": "http://idlegame.gitee.io/synthesis-of-watermelon",
-        "zhUrl": "https://yx.g8hh.com/synthesis-of-watermelon/",
-        "customUrlTit": "开始游戏",
+        "zhUrl": "https://g1tyx.github.io/synthesis-of-watermelon",
+        "customUrl": "https://synthesis-of-watermelon.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
             2
@@ -7881,7 +7921,7 @@
             "感谢 @by22dgb 大佬帮忙汉化。",
             "类似《反物质维度》的一款游戏，界面好看，玩法自己感受哈~"
         ],
-        "customUrl2": "https://yx.g8hh.com/veprogames/omega-layers/",
+        "customUrl2": "https://matter-dimensions.g8hh.com/",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/veprogames/omega-layers/",
         "enUrl": "https://veprogames.github.io/omega-layers/",
@@ -10210,7 +10250,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/incremental-adventures",
         "customUrlTit": "备用-g8hh",
-        "customUrl": "https://yx.g8hh.com/incremental-adventures",
+        "customUrl": "https://incremental-adventures.g8hh.com/",
         "kUrl": "https://www.kongregate.com/games/Gniller/incremental-adventures?sfa=permalink&referrer=SunshineDad",
         "steamUrl": "https://store.steampowered.com/app/1371630/Incremental_Adventures/",
         "pic": [
@@ -12565,7 +12605,7 @@
         "content": [
             "这是一款放点击置型经营游戏，你可以建造各种元件生产能量，然后卖掉能量，解锁元件、升级、研究等。"
         ],
-        "customUrl": "https://yx.g8hh.com/reactoridle",
+        "customUrl": "https://reactor-idle.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/reactoridle",
         "customUrlTit2": "备用地址-GitHub",
