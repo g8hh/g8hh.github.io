@@ -347,6 +347,35 @@
         "status": 0
     },
     {
+        "title": "绝对按钮模拟器",
+        "enTitle": "Absolute Button Simulator",
+        "date": "2022-05-31",
+        "update": "2022-05-31",
+        "version": "",
+        "path": "absolute-button-simulator",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "群里小伙伴推荐的，游戏主题就是点按钮、买升级，转生变强！"
+        ],
+        "enUrl": "https://demonins-item-shop.demonin.repl.co/games/absoluteButtonSimulator/",
+        "customUrl": "https://absolute-button-simulator.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/absolute-button-simulator",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "数字树",
         "enTitle": "The Number Tree",
         "date": "2022-05-3-",
@@ -1461,7 +1490,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-function-of-time",
         "enUrl": "https://mikosss.github.io/The-Modding-Tree/",
-        "customUrl": "https://yx.g8hh.com/the-function-of-time",
+        "customUrl": "https://the-function-of-time.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -12512,7 +12541,7 @@
             "这是一款放置型经营游戏，你可以建造多种建筑来生产制作饼干。"
         ],
         "zhUrl": "https://g8hh.github.io/cookieclicker/",
-        "customUrl": "https://yx.g8hh.com/cookieclicker/",
+        "customUrl": "https://cookieclicker.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "http://orteil.dashnet.org/cookieclicker/",
         "pic": [
