@@ -347,6 +347,60 @@
         "status": 0
     },
     {
+        "title": "城市点击器",
+        "enTitle": "City Clicker",
+        "date": "2022-06-02",
+        "update": "2022-06-02",
+        "version": "",
+        "path": "city-clicker",
+        "type": [
+            "已汉化",
+            "模拟",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《城市点击器》是一款受 SimCity 启发的 Javascript 增量城市建设游戏。",
+            "你需要平衡住宅区、商业区和工业区及其税率，以发展特大城市（建议先建造一个）。"
+        ],
+        "enUrl": "http://johntoopublic.github.io/cityclicker/",
+        "customUrl": "https://cityclicker.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/cityclicker",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "Godsbane Idle",
+        "enTitle": "",
+        "date": "2022-06-01",
+        "update": "2022-06-01",
+        "version": "",
+        "path": "godsbane-idle",
+        "type": [
+            "Steam",
+            "英文"
+        ],
+        "content": [
+            "《Godsbane Idle》是对流放之路等游戏的全新闲置体验。 它将寻找强大的战利品与放置系统相结合，即使当天时间很短，也能保证您的进度。 它试图远离线性路径，并提供多种方式来定制你的设备、技能甚至更多。"
+        ],
+        "customUrl": "https://nyrio.itch.io/godsbane",
+        "customUrlTit": "网页版",
+        "steamUrl": "https://store.steampowered.com/app/1565140/Godsbane_Idle/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "绝对按钮模拟器",
         "enTitle": "Absolute Button Simulator",
         "date": "2022-05-31",
@@ -471,8 +525,8 @@
     {
         "title": "Idle Spiral",
         "enTitle": "",
-        "date": "2021-05-25",
-        "update": "2021-05-25",
+        "date": "2022-05-25",
+        "update": "2022-05-25",
         "version": "",
         "path": "idle-spiral",
         "type": [
