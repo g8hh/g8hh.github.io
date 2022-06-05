@@ -348,6 +348,32 @@
     },
     {
         "title": "城市点击器",
+        "enTitle": "Unit amalgamator",
+        "date": "2022-06-05",
+        "update": "2022-06-05",
+        "version": "1.1.0",
+        "path": "unit-amalgamator",
+        "type": [
+            "已汉化",
+            "合并",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "游戏里您可以组合单位来创建新单位。"
+        ],
+        "enUrl": "https://stampyzfanz.github.io/unit-amalgamator/",
+        "customUrl": "https://unit-amalgamator.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/unit-amalgamator",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "城市点击器",
         "enTitle": "City Clicker",
         "date": "2022-06-02",
         "update": "2022-06-02",
@@ -8829,7 +8855,7 @@
             "最近启动重新汉化，可以跟上作者的新版本。"
         ],
         "zhUrl": "https://g1tyx.github.io/swarmsim",
-        "customUrl": "https://yx.g8hh.com/swarmsim",
+        "customUrl": "https://swarmsim.g8hh.com/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://www.swarmsim.com",
         "pic": [
@@ -12208,7 +12234,7 @@
         "zhUrl": "https://g1tyx.github.io/pokemon/",
         "enUrl": "https://pokeidle.net/",
         "wikiUrl": "https://yx.g8hh.com/piddb/",
-        "customUrl": "https://yx.g8hh.com/pokemon/",
+        "customUrl": "https://pokemon.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
