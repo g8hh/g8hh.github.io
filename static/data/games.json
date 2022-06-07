@@ -2434,7 +2434,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/chickens",
         "enUrl": "http://gamehelp16.github.io/chickens/index.html",
-        "customUrl": "https://yx.g8hh.com/chickens",
+        "customUrl": "https://chickens.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -7045,10 +7045,12 @@
         "content": [
             "本游戏由反物质维度群的 @χγζ5051 大佬汉化推荐。"
         ],
-        "zhUrl": "https://gsui5051.gitee.io/incrementreeverse-cn/",
+        "zhUrl": "https://g1tyx.github.io/incrementreeverse-cn",
+        "customUrl": "https://incrementreeverse-cn.g8hh.com/",
+        "customUrlTit": "备用-g8hh",
+        "customUrl3": "https://gsui5051.gitee.io/incrementreeverse-cn/",
+        "customUrlTit3": "原版汉化",
         "enUrl": "https://gsui5051.gitee.io/incrementreeverse",
-        "customUrl": "https://yx.g8hh.com/incrementreeverse-cn",
-        "customUrlTit": "Git游戏搬运版",
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
         "QQ": "963150347",
