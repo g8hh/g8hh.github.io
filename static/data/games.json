@@ -951,7 +951,7 @@
             "《死灵术2》是又一款《反物质维度》风格的放置游戏。"
         ],
         "enUrl": "https://nekromantik2.monkeh.us/",
-        "customUrl": "https://yx.g8hh.com/nekromantik2",
+        "customUrl": "https://nekromantik2.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/nekromantik2",
         "customUrlTit2": "备用地址-GitHub",
@@ -3690,7 +3690,7 @@
         "title": "WOG",
         "enTitle": "WOG",
         "date": "2021-10-25",
-        "update": "2021-10-25",
+        "update": "2022-06-07",
         "version": "4.5",
         "path": "wog",
         "type": [
@@ -3706,7 +3706,7 @@
         "content": [
             "群里朋友推荐的，经典页游，作者开源了，只肝不氪。"
         ],
-        "customUrl": "http://wog.gityx.com/",
+        "customUrl": "http://101.33.224.254:4399/",
         "customUrlTit": "开始游戏",
         "pic": [
             1,
@@ -3905,8 +3905,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-05-16",
-        "version": "1.298+",
+        "update": "2022-06-07",
+        "version": "1.305.1+2",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -4105,8 +4105,8 @@
         "title": "质量增量重制版",
         "enTitle": "Incremental Mass Rewritten",
         "date": "2021-10-09",
-        "update": "2022-05-29",
-        "version": "0.5.3.4.2",
+        "update": "2022-06-05",
+        "version": "0.5.4",
         "path": "incremental-mass-rewritten",
         "type": [
             "已汉化",
@@ -10579,7 +10579,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/computer-evolution",
+        "zhUrl": "https://g1tyx.github.io/computer-evolution",
+        "customUrl": "https://computer-evolution.g8hh.com",
+        "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/joao8991/computer-evolution?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -12343,7 +12345,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/xianxia-idle/",
+        "zhUrl": "https://g1tyx.github.io/xianxia-idle",
+        "customUrl": "https://xianxia-idle.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/AdamT/xianxia-idle?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
