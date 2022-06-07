@@ -8191,7 +8191,7 @@
         "title": "Vue放置",
         "enTitle": "Vue Idle Game",
         "date": "2020-10-14",
-        "update": "2021-01-15",
+        "update": "2022-06-07",
         "version": "1.3.3",
         "path": "vue-idle-game",
         "type": [
@@ -8210,9 +8210,13 @@
             "装备分为四个等级：破旧、普通、神话、史诗。",
             "主角默认每秒回血2%；默认暴击伤害150%"
         ],
-        "zhUrl": "http://idlegame.gitee.io/vue-idle-game",
-        "customUrl": "http://couy.xyz",
-        "customUrlTit": "原版",
+        "zhUrl": "https://g1tyx.github.io/vue-idle-game",
+        "customUrl": "https://vue-idle-game.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
+        "customUrl2": "http://couy.xyz",
+        "customUrlTit2": "原版",
+        "customUrl3": "https://www.taptap.com/app/229315",
+        "customUrlTit3": "作者授权安卓版",
         "pic": [
             1,
             2
