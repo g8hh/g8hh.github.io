@@ -1,4 +1,5 @@
-[{
+[
+    {
         "title": "锅巴好货",
         "enTitle": "G8 Shopping",
         "date": "2021-11-03",
@@ -354,7 +355,7 @@
         "version": "",
         "path": "infinitode2",
         "type": [
-            "Steam",
+            "Steam"
         ],
         "content": [
             "Infinitode 2 - 塔防类型的策略放置游戏，玩家必须建造塔来保护他的基地免受无尽的敌人浪潮。游戏具有巨大的地图，大量的塔，资源挖掘器，升级树和地图编辑器。"
@@ -2483,7 +2484,6 @@
         "title": "商店放置",
         "enTitle": "Shop Idle",
         "update": "2021-12-13",
-        "update": "2021-12-13",
         "path": "shop-idle",
         "type": [
             "放置",
@@ -2868,7 +2868,6 @@
     {
         "title": "暗黑之旅",
         "enTitle": "An Hei  Zhi Lv",
-        "update": "2021-11-24",
         "update": "2021-11-24",
         "path": "anheizhilv",
         "type": [
@@ -4917,8 +4916,6 @@
         ],
         "zhUrl": "https://yx.g8hh.com/succubox",
         "enUrl": "http://www.glaielgames.com/succubox/",
-        "customUrl": "https://yx.g8hh.com/succubox",
-        "customUrlTit": "备用地址-g8hh",
         "customUrl": "https://g8hh.github.io/succubox",
         "customUrlTit": "备用地址-GitHub",
         "pic": [
@@ -7712,7 +7709,7 @@
             "【汉化版】这个链接就是最新版~"
         ],
         "enUrl": "https://lodev.org/etherealfarm/",
-        "customUrl": "https://yx.g8hh.com/ethereal-farm",
+        "customUrl": "https://ethereal-farm.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/ethereal-farm",
         "customUrlTit2": "备用地址-GitHub",
@@ -11990,7 +11987,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/structure",
+        "zhUrl": "https://g1tyx.github.io/structure",
+        "customUrl": "https://structure.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://zhaolinxu.github.io/structure/",
         "pic": [
             1,
