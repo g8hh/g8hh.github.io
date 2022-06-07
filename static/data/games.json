@@ -347,6 +347,31 @@
         "status": 0
     },
     {
+        "title": "无限塔防2",
+        "enTitle": "Infinitode 2 - Infinite Tower Defense 2",
+        "date": "2022-06-06",
+        "update": "2022-06-06",
+        "version": "",
+        "path": "infinitode2",
+        "type": [
+            "Steam",
+        ],
+        "content": [
+            "Infinitode 2 - 塔防类型的策略放置游戏，玩家必须建造塔来保护他的基地免受无尽的敌人浪潮。游戏具有巨大的地图，大量的塔，资源挖掘器，升级树和地图编辑器。"
+        ],
+        "customUrl": "https://nyrio.itch.io/godsbane",
+        "customUrlTit": "网页版",
+        "steamUrl": "https://store.steampowered.com/app/1565140/Godsbane_Idle/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "单位合并器",
         "enTitle": "Unit amalgamator",
         "date": "2022-06-05",
@@ -1032,7 +1057,7 @@
             "《恐惧之森》是一款包含了建造、生产、攻城略地等元素的模拟放置游戏。"
         ],
         "enUrl": "https://feartress.com/v0.2/play.html",
-        "customUrl": "https://yx.g8hh.com/feartress",
+        "customUrl": "https://feartress.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/feartress",
         "steamUrl": "https://store.steampowered.com/app/1904280/Feartress/",
@@ -1435,9 +1460,9 @@
         "content": [
             "这个还是《合并增量》《宇宙时间》《电气增量》等游戏作者的另一个作品~"
         ],
-        "zhUrl": "https://g8hh.github.io/universe-time",
+        "zhUrl": "https://g8hh.github.io/unlimited-alphabets",
         "enUrl": "https://mrredshark77.github.io/unlimited-alphabets/",
-        "customUrl": "https://yx.g8hh.com/universe-time",
+        "customUrl": "https://unlimited-alphabets.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -1620,8 +1645,8 @@
         "title": "增量开发树",
         "enTitle": "The Incremental Dev Tree",
         "date": "2022-02-14",
-        "update": "2022-02-14",
-        "version": "1.1",
+        "update": "2022-05-30",
+        "version": "1.3.2",
         "path": "the-modding-tree-omeganum",
         "type": [
             "已汉化",
@@ -3321,7 +3346,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/cookie-clicker",
         "enUrl": "https://cook1eegames.feedia.co/cookieclicker/",
-        "customUrl": "https://yx.g8hh.com/cookieclicker",
+        "customUrl": "https://cookie-clicker.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -4641,7 +4666,7 @@
             "这是《循环放置》《梯田》作者的另一个作品。和之前咱们发的那几个跟光相关的游戏，是在一个榜单里面的。"
         ],
         "enUrl": "https://stop-sign.itch.io/dyson-light",
-        "customUrl": "https://yx.g8hh.com/dyson-light",
+        "customUrl": "https://dyson-light.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/dyson-light",
         "customUrlTit2": "备用地址-GitHub",
@@ -4680,7 +4705,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/legacy/",
         "enUrl": "http://orteil.dashnet.org/legacy/",
-        "customUrl": "https://yx.g8hh.com/legacy",
+        "customUrl": "https://legacy.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -5476,7 +5501,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/sublime/",
         "enUrl": "https://kingbecks123.github.io/Sublime/",
-        "customUrl": "https://yx.g8hh.com/sublime",
+        "customUrl": "https://sublime.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -6652,7 +6677,9 @@
         "content": [
             "塔防塔防！"
         ],
-        "zhUrl": "https://yx.g8hh.com/dualforce-idle",
+        "zhUrl": "https://g1tyx.github.io/dualforce-idle",
+        "customUrl": "https://dualforce-idle.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/nerderror/dualforce-idle?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -6883,7 +6910,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/c0v1d-modding-tree/",
         "enUrl": "https://raw.githack.com/c0v1d-9119361/The-Modding-Tree/master/",
-        "customUrl": "https://yx.g8hh.com/c0v1d-modding-tree/",
+        "customUrl": "https://c0v1d-modding-tree.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "QQ": "963150347",
         "pic": [
@@ -10757,7 +10784,7 @@
             "《土皇帝》是一款模拟城市建设类的战略性放置游戏。你扮演着村庄之王的角色，统治着你的人民。你需要在建造，研究，制造，战斗和更多之间做出决定。",
             "游戏不能直接刷新哦，刷新可能会404错误。请把链接删除到：/villager-kings/后面这个位置，回车即可继续游戏。"
         ],
-        "customUrl": "https://yx.g8hh.com/villager-kings",
+        "customUrl": "https://villager-kings.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/villager-kings",
         "customUrlTit2": "备用地址-GitHub",
