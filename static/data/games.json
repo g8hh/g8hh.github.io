@@ -1661,7 +1661,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-modding-tree-omeganum",
         "enUrl": "https://icecreamdudes.github.io/The-Modding-Tree-Omeganum/",
-        "customUrl": "https://yx.g8hh.com/the-modding-tree-omeganum",
+        "customUrl": "https://the-modding-tree-omeganum.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -6842,7 +6842,9 @@
         "content": [
             "导入有问题，请用图5的方式进行导入导出~"
         ],
-        "zhUrl": "https://yx.g8hh.com/hexaclicker",
+        "zhUrl": "https://g1tyx.github.io/hexaclicker",
+        "customUrl": "https://hexaclicker.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "pic": [
             1,
             2,
@@ -8788,7 +8790,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://idlegame.gitee.io/pincremental/",
+        "zhUrl": "https://g1tyx.github.io/pincremental",
+        "customUrl": "https://pincremental.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/Makopaz/pincremental?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -9035,7 +9039,7 @@
         ],
         "zhUrl": "https://g1tyx.github.io/antimatter-dimensions-ng/",
         "enUrl": "http://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/",
-        "customUrl": "https://yx.g8hh.com/antimatter-dimensions-ng",
+        "customUrl": "https://antimatter-dimensions-ng.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://shimo.im/sheets/pyCqXCVvGgr8t9TP/MODOC/",
         "customUrlTit2": "Mod介绍",
@@ -9432,7 +9436,7 @@
         "content": [
             "通过维度获得反物质!获得无限反物质来瓦解宇宙!"
         ],
-        "customUrl": "https://yx.g8hh.com/antimatter-dimensions",
+        "customUrl": "https://antimatter-dimensions.g8hh.com",
         "customUrlTit": "开始游戏",
         "zhUrl": "https://g1tyx.github.io/antimatter-dimensions/",
         "enUrl": "https://ivark.github.io/",
@@ -9461,8 +9465,9 @@
         "content": [
             "《超级英雄消消乐》是一款消除类的小游戏，偶尔放松一下也是不错的。"
         ],
-        "customUrl": "http://idlegame.gitee.io/superhero-eliminate",
-        "customUrlTit": "开始游戏",
+        "zhUrl": "https://g1tyx.github.io/superhero-eliminate",
+        "customUrl": "https://superhero-eliminate.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "pic": [
             1,
             2
@@ -9487,8 +9492,9 @@
             "操作：选择模式、关卡，然后按空格键开始，随着音乐的节奏来跳跃。",
             "本游戏是爱好者参照手游版写的。"
         ],
-        "customUrl": "http://idlegame.gitee.io/never-give-up/",
-        "customUrlTit": "开始游戏",
+        "zhUrl": "https://g1tyx.github.io/never-give-up",
+        "customUrl": "https://never-give-up.g8hh.com/",
+        "customUrlTit": "备用-g8hh",
         "pic": [
             1,
             2
