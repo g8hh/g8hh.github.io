@@ -348,6 +348,64 @@
         "status": 0
     },
     {
+        "title": "异星工厂网页版",
+        "enTitle": "FG Factory",
+        "date": "2022-06-08",
+        "update": "2022-06-08",
+        "version": "",
+        "path": "fgfactory",
+        "type": [
+            "汉化中",
+            "工厂",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《异星工厂网页版》是一款爱好者自制的网页放置版的《异星工厂》游戏。《异星工厂》在Steam是售价90元的，让很多人望而却步，但是锅巴想说的是，对于喜欢流水线游戏的小伙伴，异星工厂YYDS。"
+        ],
+        "enUrl": "https://freddecgames.github.io/fgfactory/",
+        "customUrl": "https://fgfactory.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/fgfactory",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "字母点击器",
+        "enTitle": "Alphabet Clicker",
+        "date": "2022-06-08",
+        "update": "2022-06-09",
+        "version": "",
+        "path": "alphabet-clicker",
+        "type": [
+            "已汉化",
+            "合并",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "这是一款模拟字母递进的放置游戏，有点类似反物质维度。游戏包含声望、元声望两种转生。可以直接按对应字母快捷键，可以节省不少操作。"
+        ],
+        "enUrl": "https://ploot-o.github.io/",
+        "customUrl": "https://alphabet-clicker.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/alphabet-clicker",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "无限塔防2",
         "enTitle": "Infinitode 2 - Infinite Tower Defense 2",
         "date": "2022-06-06",
