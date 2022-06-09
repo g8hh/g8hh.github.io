@@ -7657,7 +7657,7 @@
             "于是咱就找到英文版，自己汉化了给大家玩。灵动的存档无法导入咱汉化的版本哦~"
         ],
         "enUrl": "https://ihtasham42.github.io/progress-knight/",
-        "customUrl": "https://yx.g8hh.com/progress-knight",
+        "customUrl": "https://progress-knight.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/progress-knight",
         "customUrlTit2": "备用地址-GitHub",
@@ -8234,7 +8234,7 @@
             "游戏开始你需要在厨师乔治的指导下进行工作和获取经营餐馆的知识，初期你需要通过刷碗来赚取一些初始资金，之后逐步实现你的餐馆梦。"
         ],
         "zhUrl": "https://g8hh.github.io/idle-restaurant/t",
-        "customUrl": "https://yx.g8hh.com/idle-restaurant/",
+        "customUrl": "https://idle-restaurant.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://restaurantidle.com/game.html",
         "kUrl": "https://www.kongregate.com/games/86com/testhtml1231?sfa=permalink&referrer=SunshineDad",
@@ -8702,7 +8702,7 @@
         "content": [
             ""
         ],
-        "customUrl2": "https://yx.g8hh.com/idlespace2",
+        "customUrl2": "https://idlespace2.g8hh.com/",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/idlespace2",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idlespace-2?sfa=permalink&referrer=SunshineDad",
@@ -11685,7 +11685,7 @@
         "content": [
             ""
         ],
-        "customUrl2": "https://yx.g8hh.com/idlespace",
+        "customUrl2": "https://idlespace.g8hh.com/",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/idlespace",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idle-space?sfa=permalink&referrer=SunshineDad",
@@ -12432,7 +12432,9 @@
         "content": [
             "这是一款关于蚂蚁的放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步完善你的蚂蚁王国。这是蚂蚁放置的续作，作者用了另一种方式开发的游戏，增加了一些玩法。 "
         ],
-        "zhUrl": "https://yx.g8hh.com/idleant2",
+        "zhUrl": "https://g1tyx.github.io/idleant2",
+        "customUrl": "https://idleant2.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://scorzy.github.io/IdleAnt2/",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idle-ants-2?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -12842,7 +12844,9 @@
         "content": [
             "这是一款关于蚂蚁的放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步完善你的蚂蚁王国。 "
         ],
-        "zhUrl": "https://yx.g8hh.com/idleant",
+        "zhUrl": "https://g1tyx.github.io/idleant",
+        "customUrl": "https://idleant.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://scorzy.github.io/IdleAnt",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idle-ants?sfa=permalink&referrer=SunshineDad",
         "pic": [
