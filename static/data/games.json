@@ -2970,6 +2970,8 @@
             "还有很多声望升级。 当你有足够的钱时，你会得到金块，花它们来加速你的进度！"
         ],
         "zhUrl": "https://g8hh.github.io/tower-merge",
+        "customUrl": "https://yx.g8hh.com/tower-merge",
+        "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://www.crazygames.com/game/tower-merge",
         "pic": [
             1,
@@ -3094,7 +3096,7 @@
         ],
         "zhUrl": "https://dccxi.com/trust/",
         "enUrl": "https://ncase.me/trust/",
-        "customUrl": "https://yx.g8hh.com/trust",
+        "customUrl": "https://trust.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/trust",
         "customUrlTit2": "备用地址-GitHub",
@@ -4551,7 +4553,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/liquids/",
         "enUrl": "https://mrredshark77.github.io/Liquids/",
-        "customUrl": "https://yx.g8hh.com/liquids/",
+        "customUrl": "https://liquids.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -9613,7 +9615,9 @@
             "快来挑战下你的反应速度，看你能坚持多少秒？",
             "手机体验更佳"
         ],
-        "customUrl": "http://idlegame.gitee.io/none-can-die/",
+        "zhUrl": "https://g1tyx.github.io/",
+        "customUrl": "https://yx.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "customUrlTit": "开始游戏",
         "pic": [
             1,
@@ -13001,8 +13005,8 @@
         "title": "脆皮",
         "enTitle": "Trimps",
         "date": "2017-10-27",
-        "update": "2022-05-07",
-        "version": "5.7.1",
+        "update": "2022-06-08",
+        "version": "5.7.2",
         "path": "trimps-steam",
         "type": [
             "推荐",
