@@ -348,6 +348,34 @@
         "status": 0
     },
     {
+        "title": "迷你梦幻，怀旧多人在线游戏",
+        "enTitle": "",
+        "date": "2022-06-10",
+        "update": "2022-06-10",
+        "version": "",
+        "path": "mini-mh",
+        "type": [
+            "联网",
+            "文字"
+        ],
+        "content": [
+            "今天给大家推荐一个文字版的梦幻游戏，三端互通。群里小伙伴推荐的，适合挂机、摸鱼。欧皇可以试试，出极品装备了会有人回收的，还可以搞点零花。"
+        ],
+        "customUrl": "http://uuuyx.com/112581",
+        "customUrlTit": "网页版",
+        "customUrl2": "https://gityx.com/app/mnmh112581.apk",
+        "customUrlTit2": "安卓版",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "异星工厂网页版",
         "enTitle": "FG Factory",
         "date": "2022-06-08",
