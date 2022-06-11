@@ -941,7 +941,7 @@
             "《弹珠突围放置》是又一款放置小球的消除类放置游戏。"
         ],
         "enUrl": "https://jacoby-y.itch.io/idle-orbs-2",
-        "customUrl": "https://yx.g8hh.com/idle-orbs-2",
+        "customUrl": "https://life-restart.g8hh.com/view/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/idle-orbs-2",
         "customUrlTit2": "备用地址-GitHub",
@@ -1714,7 +1714,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/tg-rewritten",
         "enUrl": "https://yhvr.me/tg/",
-        "customUrl": "https://yx.g8hh.com/tg-rewritten",
+        "customUrl": "https://tg-rewritten.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "QQ": "",
         "pic": [
@@ -3031,7 +3031,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/lorem-generator/public/index.html",
         "enUrl": "https://gaming-village.github.io/popups/public/index.html",
-        "customUrl": "https://yx.g8hh.com/lorem-generator/public/index.html",
+        "customUrl": "https://lorem-generator.g8hh.com/public/index.html",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -4406,7 +4406,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/resource-grid",
         "enUrl": "https://spotky1004.com/Resource-Grid/",
-        "customUrl": "https://yx.g8hh.com/resource-grid",
+        "customUrl": "https://resource-grid.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -4655,7 +4655,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/time-is-money",
         "enUrl": "https://piesku.itch.io/time-is-money",
-        "customUrl": "https://yx.g8hh.com/time-is-money",
+        "customUrl": "https://time-is-money.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -4713,7 +4713,7 @@
         "content": [
             "群里突然火起来的游戏，貌似有点意思，搬过来给大家玩~"
         ],
-        "zhUrl": "https://yx.g8hh.com/life-restart/view/",
+        "zhUrl": "https://life-restart.g8hh.com/view/",
         "enUrl": "https://liferestart.syaro.io/view/",
         "customUrl": "https://g8hh.github.io/life-restart/view/",
         "customUrlTit": "备用地址-GitHub",
@@ -6456,7 +6456,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/mouse-pro/",
         "enUrl": "https://eregrith.github.io/MousePro/",
-        "customUrl": "https://yx.g8hh.com/version-control",
+        "customUrl": "https://version-control.g8hh.com",
         "customUrlTit": "最新版",
         "pic": [
             1,
@@ -8148,6 +8148,7 @@
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/veprogames/omega-layers/",
         "enUrl": "https://veprogames.github.io/omega-layers/",
+        "QQ": "752171714",
         "pic": [
             1,
             2
@@ -9643,10 +9644,9 @@
             "快来挑战下你的反应速度，看你能坚持多少秒？",
             "手机体验更佳"
         ],
-        "zhUrl": "https://g1tyx.github.io/",
-        "customUrl": "https://yx.g8hh.com/",
+        "zhUrl": "https://g1tyx.github.io/none-can-die",
+        "customUrl": "https://yx.g8hh.com/none-can-die",
         "customUrlTit": "汉化版-g8hh",
-        "customUrlTit": "开始游戏",
         "pic": [
             1,
             2,
@@ -10291,11 +10291,11 @@
         ],
         "zhUrl": "https://g1tyx.github.io/arcanum/",
         "kUrl": "https://www.kongregate.com/games/lerpinglemur/theory-of-magic?sfa=permalink&referrer=SunshineDad",
-        "customUrl": "https://yx.g8hh.com/arcanum",
+        "customUrl": "https://arcanum.g8hh.com/",
         "customUrlTit": "二次开发备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/theory-of-magic/",
         "customUrlTit2": "原版备用地址-GitHub",
-        "customUrl3": "https://yx.g8hh.com/theory-of-magic/",
+        "customUrl3": "https://theory-of-magic.g8hh.com/",
         "customUrlTit3": "原版备用地址-g8hh",
         "customUrl4": "https://qm.qq.com/cgi-bin/qm/qr?k=_WETFhR5KeqdgsMcbxUgIltMCRA_Py3Y&jump_from=webapi",
         "customUrlTit4": "加入魔法理论群",
@@ -11319,6 +11319,7 @@
         "title": "无尽的进度条",
         "enTitle": "Progress Quest",
         "date": "2019-04-28",
+        "update": "2022-04-21",
         "path": "progress-quest",
         "type": [
             "已汉化",
@@ -11331,7 +11332,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://likexia.gitee.io/progress-quest",
+        "zhUrl": "https://g1tyx.github.io/progress-quest",
+        "customUrl": "https://progress-quest.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://progressquest.com/play/",
         "pic": [
             1,
@@ -11986,9 +11989,11 @@
             "挂机"
         ],
         "content": [
-            "很有趣的放置游戏~"
+            "很有趣的一款放置游戏~"
         ],
-        "zhUrl": "http://likexia.gitee.io/progress-bars",
+        "zhUrl": "https://g1tyx.github.io/progress-bars",
+        "customUrl": "https://progress-bars.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://polatrite.github.io/progress-bars/",
         "pic": [
             1,
@@ -12064,7 +12069,7 @@
         ],
         "zhUrl": "https://g1tyx.github.io/drowning/",
         "enUrl": "http://game.notch.net/drowning/",
-        "customUrl": "https://yx.g8hh.com/drowning",
+        "customUrl": "https://drowning.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
