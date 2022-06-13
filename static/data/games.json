@@ -348,6 +348,64 @@
         "status": 0
     },
     {
+        "title": "卡牌冒险",
+        "enTitle": "Card Quest",
+        "date": "2022-06-13",
+        "update": "2022-06-13",
+        "version": "",
+        "path": "card-quest",
+        "type": [
+            "已汉化",
+            "卡牌",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《卡牌冒险》是一款卡牌类的回合制放置游戏，"
+        ],
+        "enUrl": "https://ishad.itch.io/card-quest",
+        "customUrl": "https://g1tyx.github.io/card-quest",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://yx.g8hh.com/card-quest",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "稳定宝石放置",
+        "enTitle": "Stable Jewels",
+        "date": "2022-06-13",
+        "update": "2022-06-13",
+        "version": "",
+        "path": "stable-jewels",
+        "type": [
+            "已汉化",
+            "合并",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《稳定宝石放置》一款以宝石为主题的放置游戏，通过控制不同的升级，来获得​各种宝石，购买升级，最终通关游戏。​"
+        ],
+        "enUrl": "https://123ishatest.github.io/stable-jewels/",
+        "customUrl": "https://g1tyx.github.io/stable-jewels",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://yx.g8hh.com/stable-jewels",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "迷你梦幻，怀旧多人在线游戏",
         "enTitle": "",
         "date": "2022-06-10",
@@ -9170,8 +9228,10 @@
             "以食物为中心的增量管理游戏。 开始手工烘烤一些坚硬的饼干，最终发展成庞大的食品帝国！",
             "页面不能滚动的朋友，换谷歌（Chrome）或者火狐（Firefox）浏览器玩吧。"
         ],
-        "zhUrl": "https://yx.g8hh.com/click-for-biscuits",
-        "kUrl": "https://www.kongregate.com/games/SpinfoamGames/click-for-biscuits?sfa=permalink&referrer=SunshineDad",
+        "zhUrl": "https://g1tyx.github.io/click-for-biscuits",
+        "customUrl": "https://yx.g8hh.com/click-for-biscuits",
+        "customUrlTit": "汉化版-g8hh",
+        "enUrl": "http://play.clickforbiscuits.com/",
         "pic": [
             1,
             2,
