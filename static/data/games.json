@@ -348,6 +348,100 @@
         "status": 0
     },
     {
+        "title": "迷你梦幻，怀旧多人在线游戏",
+        "enTitle": "",
+        "date": "2022-06-10",
+        "update": "2022-06-10",
+        "version": "",
+        "path": "mini-mh",
+        "type": [
+            "联网",
+            "文字"
+        ],
+        "content": [
+            "今天给大家推荐一个文字版的梦幻游戏，三端互通。群里小伙伴推荐的，适合挂机、摸鱼。",
+            "欧皇可以试试，出极品装备了可以挂市场卖，或者攒金币卖，现在11区行情大概在180-200金币=1元，还可以搞点零花，不怕卖不出去。",
+            "新人可以加讨论群：724573944，用本站链接注册，开了交易找群主送超级泡泡。",
+            "微信群可以加微信：g8hh666，备注：梦幻，我拉你进群。",
+            "激活码：666666、武汉加油（1转后用）、2019勇往直前（1转后用）"
+        ],
+        "customUrl": "http://uuuyx.com/112581",
+        "customUrlTit": "网页版",
+        "customUrl2": "https://gityx.com/app/mnmh112581.apk",
+        "customUrlTit2": "安卓版",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "迷你传奇，是兄弟就来被我砍",
+        "enTitle": "",
+        "date": "2022-06-14",
+        "update": "2022-06-14",
+        "version": "",
+        "path": "mini-mh",
+        "type": [
+            "PC",
+            "联网",
+            "文字"
+        ],
+        "content": [
+            "游戏呢，我就不多介绍了，大家看看游戏截图，感兴趣的自行下载玩玩。",
+            "百度网盘提取码：i3av",
+            "交流群：724573944，开了交易可以加群找群主领福利：五千万金币，一把屠龙，300祝福油！",
+            "新人大礼包：U9141-8338F-5SD6O-20C74",
+            "咱们的人玩21区就好。"
+        ],
+        "customUrl": "https://mh.uuuyx.com/down/mncq52105.rar",
+        "customUrlTit": "直接下载",
+        "customUrl2": "https://share.weiyun.com/lQYW2euL",
+        "customUrlTit2": "微云网盘下载",
+        "customUrl3": "https://pan.baidu.com/s/1vZjrwGBqkR-imsXXGBRnIw",
+        "customUrlTit3": "百度网盘下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "FG骑士进度条",
+        "enTitle": "FGPK",
+        "date": "2022-06-14",
+        "update": "2022-06-14",
+        "version": "",
+        "path": "fgpk",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《FG骑士进度条》是《异星工厂网页版》作者基于《骑士进度条2》复刻的另一款放置游戏，相对来说，界面看起来像是一款游戏了。玩法上变化不大，增加了成就功能。"
+        ],
+        "customUrl": "https://g1tyx.github.io/fgpk",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://yx.g8hh.com/fgpk",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "卡牌冒险",
         "enTitle": "Card Quest",
         "date": "2022-06-13",
@@ -403,34 +497,6 @@
             4,
             5
         ],
-        "status": 1
-    },
-    {
-        "title": "迷你梦幻，怀旧多人在线游戏",
-        "enTitle": "",
-        "date": "2022-06-10",
-        "update": "2022-06-10",
-        "version": "",
-        "path": "mini-mh",
-        "type": [
-            "联网",
-            "文字"
-        ],
-        "content": [
-            "今天给大家推荐一个文字版的梦幻游戏，三端互通。群里小伙伴推荐的，适合挂机、摸鱼。欧皇可以试试，出极品装备了会有人回收的，还可以搞点零花。"
-        ],
-        "customUrl": "http://uuuyx.com/112581",
-        "customUrlTit": "网页版",
-        "customUrl2": "https://gityx.com/app/mnmh112581.apk",
-        "customUrlTit2": "安卓版",
-        "pic": [
-            1,
-            2,
-            3,
-            4,
-            5
-        ],
-        "needHH": 0,
         "status": 1
     },
     {
@@ -7952,7 +8018,7 @@
         "needHH": 0
     },
     {
-        "title": "土拨鼠生活",
+        "title": "土拨鼠人生",
         "enTitle": "Groundhog Life",
         "date": "2021-01-25",
         "update": "2018-10-12",
@@ -9739,6 +9805,7 @@
         ],
         "QQ": "952923286",
         "kUrl": "https://www.kongregate.com/games/Platonic/synergism?sfa=permalink&referrer=SunshineDad",
+        "enUrl": "https://pseudo-corp.github.io/SynergismOfficial/",
         "customUrl": "https://synergism.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/Synergism/",
