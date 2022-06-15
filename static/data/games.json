@@ -385,7 +385,7 @@
         "date": "2022-06-14",
         "update": "2022-06-14",
         "version": "",
-        "path": "mini-mh",
+        "path": "mini-cq",
         "type": [
             "PC",
             "联网",
@@ -410,6 +410,39 @@
             3,
             4,
             5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "增量史诗英雄",
+        "enTitle": "Incremental Epic Hero",
+        "date": "2022-06-15",
+        "update": "2022-06-15",
+        "version": "1.4.4.0",
+        "path": "incremental-epic-hero",
+        "type": [
+            "放置",
+            "点击",
+            "Steam",
+            "冒险",
+            "K站",
+            "Steam",
+            "英文",
+            "U3D",
+            "养成"
+        ],
+        "content": [
+            "这是日本游戏开发团队Hapiwaku Project的作品，最早是做的网页版，在K站游戏的次数达到了100万次！",
+            "游戏里面有三种职业，玩法嘛就是点击、放置，有点肝。"
+        ],
+        "customUrl": "https://store.steampowered.com/app/1690710/Incremental_Epic_Hero_2/",
+        "customUrlTit": "第二代",
+        "steamUrl": "https://store.steampowered.com/app/1530340/Incremental_Epic_Hero/",
+        "kUrl": "https://www.kongregate.com/games/HapiwakuProject/incremental-epic-hero?sfa=permalink&referrer=SunshineDad",
+        "pic": [
+            1,
+            2
         ],
         "needHH": 0,
         "status": 1
@@ -9844,35 +9877,6 @@
             1,
             2
         ],
-        "status": 1
-    },
-    {
-        "title": "增量史诗英雄",
-        "enTitle": "Incremental Epic Hero",
-        "date": "2020-04-23",
-        "update": "2021-03-23",
-        "version": "1.4.4.0",
-        "path": "incremental-epic-hero",
-        "type": [
-            "放置",
-            "点击",
-            "冒险",
-            "K站",
-            "英文",
-            "U3D",
-            "养成"
-        ],
-        "content": [
-            "因为是Unity 3D游戏，无法汉化。因为K站加载速度超级慢，所以搬过来方便大家玩。"
-        ],
-        "customUrl": "http://likexia.gitee.io/incremental-epic-hero/",
-        "customUrlTit": "国内英文快速版",
-        "kUrl": "https://www.kongregate.com/games/HapiwakuProject/incremental-epic-hero?sfa=permalink&referrer=SunshineDad",
-        "pic": [
-            1,
-            2
-        ],
-        "needHH": 0,
         "status": 1
     },
     {
