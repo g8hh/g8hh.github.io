@@ -1,4 +1,9 @@
 [{
+    "title": "Git游戏",
+    "desc": "主站，搜集各种好玩的文字放置游戏",
+    "url": "https://www.gityx.com/",
+    "status": 1
+}, {
     "title": "公众号",
     "desc": "Git游戏",
     "url": "https://mp.weixin.qq.com/s/ezp5x6hOC8QPLnZ2bPFyEw",
@@ -9,18 +14,13 @@
     "url": "https://www.u77.game",
     "status": 1
 }, {
-    "title": "Git游戏",
-    "desc": "主站，搜集各种好玩的文字放置游戏",
-    "url": "http://www.gityx.com/",
-    "status": 1
-}, {
     "title": "论坛",
     "desc": "欢迎大家写游戏攻略",
-    "url": "http://www.gityx.com/",
+    "url": "https://gityx.com/notify/20220112/671.html",
     "status": 0
 }, {
     "title": "聚享游",
     "desc": "玩游戏可以赚钱哦",
     "url": "http://www.ttz.com/floor/recom/3570025",
-    "status": 1
+    "status": 0
 }]

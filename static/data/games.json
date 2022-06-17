@@ -7010,7 +7010,9 @@
         "content": [
             "一款各种图形为主的放置游戏。"
         ],
-        "zhUrl": "https://yx.g8hh.com/transcend/game.html",
+        "zhUrl": "https://g1tyx.github.io/transcend/game.html",
+        "customUrl": "https://yx.g8hh.com/transcend/game.html",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://www.taylorcalderone.com/transcendGame/game.html",
         "pic": [
             1,
@@ -7051,10 +7053,8 @@
         ],
         "customUrl": "https://zhouxiaobo1990.gitee.io/jyf/",
         "customUrlTit": "原版",
-        "customUrl3": "https://yx.g8hh.com/jyf/",
         "customUrl5": "https://www.oschina.net/p/jyf",
         "customUrlTit5": "游戏源码-开源中国",
-        "customUrlTit3": "锅巴搬运版-新",
         "QQ": "922600429",
         "pic": [
             1,
@@ -9935,7 +9935,11 @@
         "content": [
             "你可以杀怪获得声誉值和金钱，声誉值可以解锁新英雄，钱可以升级英雄。"
         ],
-        "zhUrl": "https://yx.g8hh.com/idle-heroes/",
+        "zhUrl": "https://g1tyx.github.io/idle-heroes",
+        "customUrl": "https://yx.g8hh.com/idle-heroes",
+        "customUrlTit": "汉化版-g8hh",
+        "customUrl5": "https://www.oschina.net/p/Idle-Heroes",
+        "customUrlTit5": "游戏源码-开源中国",
         "kUrl": "https://www.kongregate.com/games/Cyberspirit/idle-heroes-vs-monsters?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -13031,7 +13035,11 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/resource-planet/",
+        "zhUrl": "https://g1tyx.github.io/resource-planet",
+        "customUrl": "https://yx.g8hh.com/resource-planet",
+        "customUrlTit": "汉化版-g8hh",
+        "customUrl5": "https://www.oschina.net/p/resource-planet",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2
