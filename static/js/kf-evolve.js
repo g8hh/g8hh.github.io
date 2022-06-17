@@ -8,7 +8,7 @@ $(function(){
     content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=XcvgJGku_WUUzcpMn0cj3tUrtxkbsCYK&jump_from=webapi" target="_blank" class="im-qq qq-a" title="点击加入 - 进化游戏交流群:758788976">';
     content +='<div class="qq-container"></div>';
     content +='<div class="qq-hover-c"><img class="img-qq" src="//g8hh.com/static/images/kf/qq.png"></div>';
-    content +='<span>点击加群</span>';
+    content +='<span>点击加进化群</span>';
     content +='</a>';
     content +='<div class="im-tel">';
     content +='<div>QQ群号:</div>';
