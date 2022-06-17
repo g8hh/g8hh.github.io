@@ -415,6 +415,62 @@
         "status": 1
     },
     {
+        "title": "NG星系",
+        "enTitle": "Ng Galaxies",
+        "date": "2022-06-17",
+        "update": "2022-06-17",
+        "version": "",
+        "path": "nggalaxies",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《NG星系》是一款模拟太空战斗的放置游戏，和《FG骑士进度条》《异星工厂网页版》是同一个作者开发的。"
+        ],
+        "customUrl": "https://yx.g8hh.com/nggalaxies",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/nggalaxies",
+        "enUrl": "https://nggalaxies.freddecgames.com/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "游戏跳跃",
+        "enTitle": "Game Hop",
+        "date": "2022-06-17",
+        "update": "2022-06-17",
+        "version": "",
+        "path": "game-hop",
+        "type": [
+            "汉化中",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《游戏跳跃》是一款模拟开发游戏的放置游戏，和《卡牌冒险》《稳定宝石放置》一样，用的同一个增量游戏开发模板开发的。"
+        ],
+        "customUrl": "https://yx.g8hh.com/game-hop",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/game-hop",
+        "enUrl": "https://ishadijcks.github.io/incremental-games-2020-jam/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "增量史诗英雄",
         "enTitle": "Incremental Epic Hero",
         "date": "2022-06-15",
@@ -462,9 +518,9 @@
         "content": [
             "《FG骑士进度条》是《异星工厂网页版》作者基于《骑士进度条2》复刻的另一款放置游戏，相对来说，界面看起来像是一款游戏了。玩法上变化不大，增加了成就功能。"
         ],
-        "customUrl": "https://g1tyx.github.io/fgpk",
+        "customUrl": "https://yx.g8hh.com/fgpk",
         "customUrlTit": "备用地址-g8hh",
-        "zhUrl": "https://yx.g8hh.com/fgpk",
+        "zhUrl": "https://g1tyx.github.io/fgpk",
         "pic": [
             1,
             2,
@@ -491,9 +547,9 @@
             "《卡牌冒险》是一款卡牌类的回合制放置游戏，"
         ],
         "enUrl": "https://ishad.itch.io/card-quest",
-        "customUrl": "https://g1tyx.github.io/card-quest",
+        "customUrl": "https://yx.g8hh.com/card-quest",
         "customUrlTit": "备用地址-g8hh",
-        "zhUrl": "https://yx.g8hh.com/card-quest",
+        "zhUrl": "https://g1tyx.github.io/card-quest",
         "pic": [
             1,
             2,
@@ -6259,7 +6315,9 @@
             "一款城镇经营类型的包含了RPG元素的游戏。",
             "注意：游戏自动保存功能似乎有问题，​刷新会丢档！！需要自己随时导出复制备份一下~"
         ],
-        "zhUrl": "https://yx.g8hh.com/burgomaster-1255/",
+        "zhUrl": "https://g1tyx.github.io/burgomaster-1255",
+        "customUrl": "https://yx.g8hh.com/burgomaster-1255",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://cosmodream.ga/1255-burgomaster/",
         "pic": [
             1,
@@ -6994,6 +7052,8 @@
         "customUrl": "https://zhouxiaobo1990.gitee.io/jyf/",
         "customUrlTit": "原版",
         "customUrl3": "https://yx.g8hh.com/jyf/",
+        "customUrl5": "https://www.oschina.net/p/jyf",
+        "customUrlTit5": "游戏源码-开源中国",
         "customUrlTit3": "锅巴搬运版-新",
         "QQ": "922600429",
         "pic": [
@@ -10260,8 +10320,13 @@
             "每张卡每秒提供资源。 使用资源购买新的卡包。 通过将它们最有效地放置在游戏区域中来进行策略化。",
             "该游戏仍在积极开发中，因此，每两周添加一次新的扩展功能时，请耐心等待。"
         ],
-        "zhUrl": "https://yx.g8hh.com/creature-card-idle",
+        "zhUrl": "https://g1tyx.github.io/creature-card-idle",
+        "customUrl": "https://yx.g8hh.com/creature-card-idle",
+        "customUrlTit": "汉化版-g8hh",
+        "customUrl5": "https://www.oschina.net/p/creature-card-idle",
+        "customUrlTit5": "游戏源码-开源中国",
         "kUrl": "https://www.kongregate.com/games/Fordesoft/creature-card-idle?sfa=permalink&referrer=SunshineDad",
+        "steamUrl": "https://store.steampowered.com/app/1188260/Creature_Card_Idle/",
         "pic": [
             1,
             2
@@ -11523,7 +11588,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/civ-clicker",
+        "zhUrl": "https://g1tyx.github.io/civ-clicker",
+        "customUrl": "https://yx.g8hh.com/civ-clicker",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://deathraygames.com/play-online/civ-clicker/",
         "pic": [
             1,
