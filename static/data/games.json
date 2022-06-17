@@ -550,6 +550,8 @@
         "customUrl": "https://yx.g8hh.com/card-quest",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/card-quest",
+        "customUrl5": "https://www.oschina.net/p/card-quest",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2,
@@ -833,6 +835,8 @@
         "customUrl": "https://scrap-clicker-xx.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/scrap-clicker-xx",
+        "customUrl5": "https://www.oschina.net/p/scrap-clicker-xx",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2,
@@ -862,6 +866,8 @@
         "customUrl": "https://demonology.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/demonology",
+        "customUrl5": "https://www.oschina.net/p/demonology",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2,
@@ -897,6 +903,37 @@
         "status": 1
     },
     {
+        "title": "假发师",
+        "enTitle": "Wig Maker",
+        "date": "2022-05-16",
+        "update": "2022-05-16",
+        "version": "1.6.2",
+        "path": "wigmaker",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《假发师》是一款模拟制作各种各样假发的放置游戏（程序员狂喜）。"
+        ],
+        "enUrl": "https://redgem.games/wigmaker/",
+        "customUrl": "https://yx.g8hh.com/wigmaker",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/wigmaker",
+        "customUrl5": "https://www.oschina.net/p/wigmaker",
+        "customUrlTit5": "游戏源码-开源中国",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "复制增量",
         "enTitle": "Replicanti Incremental",
         "date": "2022-05-13",
@@ -916,6 +953,8 @@
         "customUrl": "https://yx.g8hh.com/replicanti-incremental",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/replicanti-incremental",
+        "customUrl5": "https://www.oschina.net/p/replicanti-incremental",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2,
@@ -2100,6 +2139,8 @@
         "customUrl4": "https://qm.qq.com/cgi-bin/qm/qr?k=_WETFhR5KeqdgsMcbxUgIltMCRA_Py3Y&jump_from=webapi",
         "customUrlTit4": "加入魔法理论群",
         "QQ": "281738137",
+        "customUrl5": "https://www.oschina.net/p/hd-test",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2,
@@ -3341,6 +3382,8 @@
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/trust",
         "customUrlTit2": "备用地址-GitHub",
+        "customUrl5": "https://www.oschina.net/p/trust",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2,
@@ -3812,6 +3855,8 @@
         "customUrlTit3": "备用地址-g8hh",
         "customUrl4": "https://g8hh.github.io/blackhole-dimensions--new-era",
         "customUrlTit4": "备用地址-GitHub",
+        "customUrl5": "https://www.oschina.net/p/blackhole-dimensions--new-era",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2,
@@ -4158,6 +4203,8 @@
         "kUrl": "https://www.kongregate.com/games/Baldurans/factory-idle?sfa=permalink&referrer=SunshineDad",
         "customUrl": "https://yx.g8hh.com/idle-factory/",
         "customUrlTit": "备用地址-g8hh",
+        "customUrl5": "https://www.oschina.net/p/idle-factory",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2,
@@ -4930,6 +4977,8 @@
         "enUrl": "https://liferestart.syaro.io/view/",
         "customUrl": "https://g8hh.github.io/life-restart/view/",
         "customUrlTit": "备用地址-GitHub",
+        "customUrl5": "https://www.oschina.net/p/life-restart",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2,
@@ -5317,6 +5366,8 @@
         "customUrlTit": "备用地址-gityx",
         "customUrl2": "https://g8hh.github.io/clickpocalypse2/index2.html",
         "customUrlTit2": "白底色-适合摸鱼",
+        "customUrl5": "https://www.oschina.net/p/click-pocalypse-2",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2,
@@ -6174,6 +6225,8 @@
         "customUrlTit3": "远古繁中版",
         "customUrl4": "https://louisalflame.github.io/CFantasyClick/index.html",
         "customUrlTit4": "远古繁中原版",
+        "customUrl5": "https://www.oschina.net/p/woyuxiuxian",
+        "customUrlTit5": "游戏源码-开源中国",
         "QQ": "",
         "pic": [
             1,
@@ -8490,6 +8543,8 @@
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://restaurantidle.com/game.html",
         "kUrl": "https://www.kongregate.com/games/86com/testhtml1231?sfa=permalink&referrer=SunshineDad",
+        "customUrl5": "https://www.oschina.net/p/idle-restaurant",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2
@@ -8952,7 +9007,7 @@
             "太空"
         ],
         "content": [
-            ""
+            "一款太空类型的模拟经营类型游戏。"
         ],
         "customUrl2": "https://idlespace2.g8hh.com/",
         "customUrlTit2": "汉化版-g8hh",
@@ -9759,6 +9814,8 @@
         "zhUrl": "https://g1tyx.github.io/antimatter-dimensions/",
         "enUrl": "https://ivark.github.io/",
         "kUrl": "https://www.kongregate.com/games/Hevipelle/antimatter-dimensions?sfa=permalink&referrer=SunshineDad",
+        "customUrl5": "https://www.oschina.net/p/antimatter-dimensions",
+        "customUrlTit5": "游戏源码-开源中国",
         "QQ": "1050424901",
         "pic": [
             1,
@@ -11623,6 +11680,8 @@
         ],
         "zhUrl": "https://yx.g8hh.com/spheal",
         "enUrl": "http://sphericalice.com/spheal/",
+        "customUrl5": "https://www.oschina.net/p/spheal",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2
@@ -11671,7 +11730,11 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/idlepunk",
+        "zhUrl": "https://g1tyx.github.io/idlepunk",
+        "customUrl": "https://yx.g8hh.com/idlepunk",
+        "customUrlTit": "汉化版-g8hh",
+        "customUrl5": "https://www.oschina.net/p/idlepunk",
+        "customUrlTit5": "游戏源码-开源中国",
         "enUrl": "https://idlepunk.github.io/",
         "pic": [
             1,
@@ -12225,7 +12288,10 @@
         "content": [
             ""
         ],
-        "zhUrl": "http://likexia.gitee.io/minites/",
+        "zhUrl": "https://yx.g8hh.com/minites",
+        "customUrlTit": "汉化版-g8hh",
+        "customUrl5": "https://www.oschina.net/p/minites",
+        "customUrlTit5": "游戏源码-开源中国",
         "kUrl": "https://www.kongregate.com/games/spacecowgoesmoo/minites?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -12306,6 +12372,8 @@
         "customUrl": "https://structure.g8hh.com/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://zhaolinxu.github.io/structure/",
+        "customUrl5": "https://www.oschina.net/p/structure",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2
@@ -12678,6 +12746,8 @@
         "zhUrl": "https://g1tyx.github.io/idleant2",
         "customUrl": "https://idleant2.g8hh.com/",
         "customUrlTit": "汉化版-g8hh",
+        "customUrl5": "https://www.oschina.net/p/idleant2",
+        "customUrlTit5": "游戏源码-开源中国",
         "enUrl": "https://scorzy.github.io/IdleAnt2/",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idle-ants-2?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -12763,6 +12833,8 @@
         "customUrlTit": "白色摸鱼主题",
         "customUrl2": "https://level13.g8hh.com/",
         "customUrlTit2": "汉化版-g8hh",
+        "customUrl5": "https://www.oschina.net/p/level13",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2
@@ -13118,11 +13190,12 @@
         "content": [
             ""
         ],
-        "customUrl": "http://likexia.gitee.io/cityinc/",
-        "customUrlTit": "汉化版",
-        "customUrl2": "https://yx.g8hh.com/cityinc/",
-        "customUrlTit2": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/cityinc",
+        "customUrl": "https://yx.g8hh.com/cityinc",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://cityinc.se/",
+        "customUrl5": "https://www.oschina.net/p/cityinc",
+        "customUrlTit5": "游戏源码-开源中国",
         "pic": [
             1,
             2
@@ -13237,6 +13310,8 @@
         "enUrl": "https://kittensgame.com/web/",
         "kUrl": "https://www.kongregate.com/games/bloodrizer/kittens-game?sfa=permalink&referrer=SunshineDad",
         "wikiUrl": "http://petercheney.gitee.io/baike/",
+        "customUrl5": "https://www.oschina.net/p/kittens-game",
+        "customUrlTit5": "游戏源码-开源中国",
         "QQ": "499256691",
         "pic": [
             1,
