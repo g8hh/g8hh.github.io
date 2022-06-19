@@ -415,6 +415,34 @@
         "status": 1
     },
     {
+        "title": "CyberCode Online",
+        "enTitle": "",
+        "date": "2022-06-19",
+        "update": "2022-06-19",
+        "path": "cybercode-online",
+        "type": [
+            "点击",
+            "挂机",
+            "苹果",
+            "安卓"
+        ],
+        "content": [
+            "*CyberCode Online 是一款基于浏览器和移动设备的 MMORPG 游戏，它在浏览器中伪装成 VS Code*，您可以单击不断变化的源代码中的函数和变量，在受赛博朋克启发的世界中导航您的角色。",
+            "CCO 旨在随意玩 AFK 任务、练级和制作。 它还包括大量随机生成的敌人、地牢和从用户贡献列表中提取的位置。 游戏为大家提供了一个玩乐和放松的平台！",
+            "安卓版需要在Google Play下载，iOS版需要在美区下载。游戏内置简/繁体中文，据说简体中文语义可能有点不标准，不过影响不大。",
+            "下载需要科学上网，安卓版的谁下载了可以发群文件里面，造福大家，毕竟不是每个人都能直接下载到的。"
+        ],
+        "customUrl": "https://play.google.com/store/apps/details?id=com.cybercodeonline.cybercode",
+        "customUrlTit": "安卓版下载",
+        "customUrl3": "https://apps.apple.com/us/app/cybercode-online-text-mmo/id1541691332?platform=iphone",
+        "customUrlTit3": "IOS下载",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
         "title": "NG星系",
         "enTitle": "Ng Galaxies",
         "date": "2022-06-17",
