@@ -415,6 +415,34 @@
         "status": 1
     },
     {
+        "title": "鸡蛋公司",
+        "enTitle": "coop-co",
+        "date": "2022-06-22",
+        "update": "2022-06-22",
+        "version": "1.1.1",
+        "path": "coop-co",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《鸡蛋公司》是一款《Egg Inc》爱好者制作的网页放置版。"
+        ],
+        "customUrl": "https://yx.g8hh.com/icoop-co",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/coop-co",
+        "enUrl": "https://mrbacon470.github.io/Coop-Co/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "原始树",
         "enTitle": "Primordial Tree",
         "date": "2022-06-20",
@@ -850,7 +878,7 @@
     {
         "title": "数字树",
         "enTitle": "The Number Tree",
-        "date": "2022-05-3-",
+        "date": "2022-05-30",
         "update": "2022-05-30",
         "version": "v0.3.2.1",
         "path": "the-number-tree",
