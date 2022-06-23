@@ -222,7 +222,7 @@
             5
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "林林五十音",
@@ -440,7 +440,9 @@
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
+        "oscUrl": "https://www.oschina.net/p/the-upgrading-tree",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
