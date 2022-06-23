@@ -415,6 +415,43 @@
         "status": 1
     },
     {
+        "title": "等级树",
+        "enTitle": "The Upgrading Tree​",
+        "date": "2022-06-23",
+        "update": "2022-06-23",
+        "version": "0.4",
+        "path": "the-upgrading-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "经营",
+            "挂机",
+            "升级",
+            "模拟",
+            "声望树"
+        ],
+        "content": [
+            "群里的 @QwQe308 小伙伴的新作品，又一款模组树游戏。"
+        ],
+        "zhUrl": "https://g8hh.github.io/the-leveling-tree/",
+        "enUrl": "https://denisolenison.github.io/The-Leveling-Tree/",
+        "customUrl": "https://yx.g8hh.com/the-leveling-tree/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "鸡蛋公司",
         "enTitle": "coop-co",
         "date": "2022-06-22",
@@ -6405,7 +6442,7 @@
         "status": 0
     },
     {
-        "title": "升级树",
+        "title": "等级树",
         "enTitle": "The Leveling Tree",
         "date": "2021-06-04",
         "update": "2021-09-20",
