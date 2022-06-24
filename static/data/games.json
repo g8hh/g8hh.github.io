@@ -415,6 +415,35 @@
         "status": 1
     },
     {
+        "title": "森林放置",
+        "enTitle": "Idle Forest",
+        "date": "2022-06-24",
+        "update": "2022-06-24",
+        "version": "",
+        "path": "idleforest",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《森林放置》是一款模拟经营类的放置游戏，游戏体系还是很完善的​，有种树、交易，任务，雇佣工人、宠物等内容。",
+            "还是老规矩，玩着汉化着，玩得快的小伙伴可以发存档给我加快汉化进度。"
+        ],
+        "customUrl": "https://yx.g8hh.com/idleforest",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/idleforest",
+        "enUrl": "https://idleforest.com/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "等级树",
         "enTitle": "The Upgrading Tree​",
         "date": "2022-06-23",
