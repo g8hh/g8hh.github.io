@@ -45,7 +45,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .logo h1 a{
 	text-decoration: none;
-	color:#fff;
+	color:#ff9933;
 }
 .logo h1 a span{
 	color:#EA4C89;
@@ -350,8 +350,9 @@ ul.round-top {
 }
 .top-footer ul li{
 	display: inline-block;
-	width: 19%;
-    margin-right: 1%;
+	width: 18%;
+    margin-right: 2%;
+	vertical-align: top;
 }
 .top-footer ul li i{
 	background:url(../images/img-sprite.png) -1px 0px;
@@ -376,6 +377,7 @@ ul.round-top {
 .top-footer ul li span{
     display: block;
     color: #ddd;
+	width: 90%;
 }
 .footer-grid li{
 	display: inline-block;
@@ -949,6 +951,19 @@ a.news-btn{
 	color: #FFF;
   	padding: 0.4em 0.8em;
 }
+.hvr-wobble-top.color-guoba{background: #ff9933;}
+.hvr-wobble-top.color-kongrate{background: #990000;}
+.hvr-wobble-top.color-steam{background: #1D384B;}
+.hvr-wobble-top.color-github{background: #000000;}
+.hvr-wobble-top.color-qq{background: #1578D7;}
+.hvr-wobble-top.color-weiyun{background: #2980FF;}
+.hvr-wobble-top.color-baidu{background: #06A7FF;}
+.hvr-wobble-top.color-bak1{background: #99CCFF;}
+.hvr-wobble-top.color-bak2{background: #99CCCC;}
+.hvr-wobble-top.color-bak3{background: #CCCCFF;}
+.hvr-wobble-top.color-bak4{background: #FFCC99;}
+.hvr-wobble-top.color-bak5{background: #FF99CC;}
+.hvr-wobble-top.color-help{background: #66CC99;}
 .hvr-wobble-top:hover, .hvr-wobble-top:focus, .hvr-wobble-top:active {
   -webkit-animation-name: hvr-wobble-top;
   animation-name: hvr-wobble-top;
