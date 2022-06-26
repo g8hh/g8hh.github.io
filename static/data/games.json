@@ -446,9 +446,9 @@
     {
         "title": "等级树",
         "enTitle": "The Upgrading Tree​",
-        "date": "2022-06-23",
-        "update": "2022-06-23",
-        "version": "0.4",
+        "date": "2022-06-24",
+        "update": "2022-06-24",
+        "version": "0.43",
         "path": "the-upgrading-tree",
         "type": [
             "已汉化",
@@ -11376,7 +11376,7 @@
             2
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "虚拟社区",
@@ -11402,7 +11402,7 @@
             2
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "神奇宝贝",
@@ -11429,7 +11429,7 @@
             2
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "黄金矿工",
@@ -11455,7 +11455,7 @@
             2
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "天天采蘑菇",
@@ -11480,7 +11480,7 @@
             2
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "Git农场",
@@ -11506,7 +11506,7 @@
             2
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "母鸡下蛋",
@@ -11532,7 +11532,7 @@
             2
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "矿场游戏",
@@ -11558,7 +11558,7 @@
             2
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "挂机传奇",
