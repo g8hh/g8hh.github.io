@@ -415,6 +415,35 @@
         "status": 1
     },
     {
+        "title": "时间跳跃",
+        "enTitle": "Time Hop",
+        "date": "2022-06-27",
+        "update": "2022-06-27",
+        "version": "",
+        "path": "time-hop",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "你能找回你的磁通电容器吗？ 在 《时间跳跃》 中找出答案！",
+            "游戏没有存档功能，刷新就会丢档，建议一气儿​打通关！"
+        ],
+        "customUrl": "https://yx.g8hh.com/time-hop",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/time-hop",
+        "enUrl": "https://ishadijcks.github.io/ludum-dare-47-timehop/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "森林放置",
         "enTitle": "Idle Forest",
         "date": "2022-06-24",
@@ -8741,8 +8770,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-05-26",
-        "version": "0.9.5",
+        "update": "2022-06-27",
+        "version": "0.9.6",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
