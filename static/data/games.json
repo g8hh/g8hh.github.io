@@ -415,6 +415,65 @@
         "status": 1
     },
     {
+        "title": "无尽洪荒，文字MUD修仙游戏",
+        "enTitle": "",
+        "date": "2022-06-28",
+        "update": "2022-06-28",
+        "version": "",
+        "path": "wjhh",
+        "type": [
+            "联网",
+            "修仙",
+            "养成",
+            "升级"
+        ],
+        "content": [
+            "《无尽洪荒》是一款复古文字挂机文字游戏，可以在游戏中扮演一位洪荒修行者，击败神兽，获取材料，通过中华古代五行相生相克的原理，锻造强力装备，站立于洪荒之巅。",
+            "不同五行职业，各有千秋，相生相克；专属的五行技能，畅玩五行特色；自由选择套装，搭配最强属性；挂机获得高级材料，手动锻造最强装备；游戏所有功能，概率全部看脸。",
+            "QQ交流群：37459311，有不懂的可以加群问，或者看游戏内的攻略。",
+            "提示：网页链接支持电脑、手机浏览器玩，数据与安卓App版互通，IOS可以直接玩网页版。",
+            "这个是正规公司的游戏，有版号的，所以按要求接入了实名认证。",
+            "新人礼包：",
+            "欢迎萌新",
+            "我要灵宠",
+            "我要发财",
+            "极品红装",
+            "极品紫装",
+            "大吉大利",
+            "礼包码使用方法：进入游戏-礼包-签到下方-使用激活码-黏贴-激活。",
+            "游戏特色：",
+            "不同五行职业，各有千秋，相生相克；",
+            "专属的五行技能，畅玩五行特色；",
+            "自由选择套装，搭配最强属性；",
+            "挂机获得高级材料，手动锻造最强装备；",
+            "游戏所有功能，概率全部看脸。",
+            "职业：",
+            "金系：攻击力高，反弹伤害高，属于高攻类型，拥有会心一击几率后，可造成双倍伤害，拥有击晕攻击几率后，可使敌方眩晕一定时间。",
+            "木系：生命值高，生命恢复快，属于血牛类型，并且拥有重度攻击几率后，便可使敌方每秒损失真实伤害，大大提高伤害。",
+            "水系：技能触发率高，法力值高，法力恢复高，并且拥有冰冻攻击几率后，便可使敌方降低攻击速度和闪避。",
+            "火系：攻速快，命中高，闪避高，属于敏捷类型，并且拥有致盲攻击几率后，便可使敌方降低命中属性，大大增幅自己闪避高的特点。",
+            "土系：防御高，高减免，特殊抵抗状态高，并且拥有虚弱攻击几率后，便可使敌人降低攻击和防御属性，大大增幅自己防御高的特点。"
+        ],
+        "customUrl": "https://mudgj.com/wjhh/login.do/?td_channelid=gityx",
+        "customUrlTit": "网页版",
+        "customUrl2": "https://share.weiyun.com/V07ef1fe",
+        "customUrlTit2": "安卓版-微云网盘下载",
+        "customUrl3": "https://gityx.com/app/zykj_wujing_gityx.apk",
+        "customUrlTit3": "安卓版-直接下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "时间跳跃",
         "enTitle": "Time Hop",
         "date": "2022-06-27",
@@ -474,11 +533,11 @@
         "status": 1
     },
     {
-        "title": "等级树",
+        "title": "升级树",
         "enTitle": "The Upgrading Tree​",
         "date": "2022-06-24",
-        "update": "2022-06-24",
-        "version": "0.43",
+        "update": "2022-06-28",
+        "version": "0.44",
         "path": "the-upgrading-tree",
         "type": [
             "已汉化",
@@ -509,6 +568,7 @@
             4,
             5
         ],
+        "needHH": 0,
         "status": 1
     },
     {
@@ -709,8 +769,10 @@
         "content": [
             "《FG骑士进度条》是《异星工厂网页版》作者基于《骑士进度条2》复刻的另一款放置游戏，相对来说，界面看起来像是一款游戏了。玩法上变化不大，增加了成就功能。"
         ],
-        "customUrl": "https://yx.g8hh.com/fgpk",
-        "customUrlTit": "备用地址-g8hh",
+        "customUrl": "https://lgl017temp.github.io/fgpk/",
+        "customUrlTit": "汉化版-大佬修复Bug版",
+        "customUrl2": "https://yx.g8hh.com/fgpk",
+        "customUrlTit2": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/fgpk",
         "pic": [
             1,
@@ -1565,8 +1627,8 @@
         "title": "恐惧之森",
         "enTitle": "Fear Tress",
         "date": "2022-04-06",
-        "update": "2022-04-06",
-        "version": "0.2",
+        "update": "2022-06-28",
+        "version": "0.2.20",
         "path": "feartress",
         "type": [
             "汉化中",
@@ -8796,7 +8858,7 @@
         "customUrlTit": "备用地址-GitHub",
         "customUrl2": "https://pokeclicker.g8hh.com/",
         "customUrlTit2": "备用地址-g8hh",
-        "wikiUrl": "http://likexia.gitee.io/piddb/",
+        "wikiUrl": "https://yx.g8hh.com/piddb/",
         "wikiUrl2": "https://wiki.52poke.com/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%88%97%E8%A1%A8%EF%BC%88%E6%8C%89%E5%85%A8%E5%9B%BD%E5%9B%BE%E9%89%B4%E7%BC%96%E5%8F%B7%EF%BC%89/%E7%AE%80%E5%8D%95%E7%89%88",
         "pic": [
             1,
