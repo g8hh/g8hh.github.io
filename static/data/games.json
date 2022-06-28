@@ -463,6 +463,7 @@
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/idleforest",
         "enUrl": "https://idleforest.com/",
+        "oscUrl": "https://www.oschina.net/p/idleforest",
         "pic": [
             1,
             2,
@@ -973,8 +974,8 @@
         "title": "数字树",
         "enTitle": "The Number Tree",
         "date": "2022-05-30",
-        "update": "2022-05-30",
-        "version": "v0.3.2.1",
+        "update": "2022-06-18",
+        "version": "v0.4A",
         "path": "the-number-tree",
         "type": [
             "汉化中",
@@ -8230,8 +8231,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-05-24",
-        "version": "0.3.1",
+        "update": "2022-06-26",
+        "version": "0.3.5",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -8770,8 +8771,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-06-27",
-        "version": "0.9.6",
+        "update": "2022-06-28",
+        "version": "0.9.7",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -12967,7 +12968,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/canadaclicker",
+        "zhUrl": "https://gltyx.github.io/canadaclicker",
+        "customUrl": "https://yx.g8hh.com/canadaclicker",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://www.canadaclicker.com/",
         "pic": [
             1,

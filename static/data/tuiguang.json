@@ -1,12 +1,17 @@
 [{
     "title": "经典怀旧，锅巴也在玩哦，11区等你",
     "link": "https://mh.uuuyx.com/?t=112581",
-    "button": "迷你梦幻",
+    "button": "迷你梦幻-网页",
+    "status": 1
+},{
+    "title": "经典怀旧，锅巴也在玩哦，11区等你",
+    "link": "https://gityx.com/app/mnmh112581.apk",
+    "button": "迷你梦幻-安卓",
     "status": 1
 },{
     "title": "是兄弟就来被我砍，点击下载！",
     "link": "https://mh.uuuyx.com/down/mncq52105.rar",
-    "button": "迷你传奇",
+    "button": "迷你传奇-PC",
     "status": 1
 },{
     "title": "千款H5火爆页游，手游，点击即玩！",
@@ -16,6 +21,6 @@
 },{
     "title": "《无心宠物》火爆游戏中~",
     "link": "http://wx.gityx.com/",
-    "button": "无心宠物",
+    "button": "无心宠物-网页",
     "status": 1
 }]
