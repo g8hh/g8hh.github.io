@@ -460,6 +460,7 @@
         "customUrlTit2": "安卓版-微云网盘下载",
         "customUrl3": "https://gityx.com/app/zykj_wujing_gityx.apk",
         "customUrlTit3": "安卓版-直接下载",
+        "QQ": "37459311",
         "pic": [
             1,
             2,
@@ -471,6 +472,34 @@
             8
         ],
         "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "时间跳跃",
+        "enTitle": "Incremental Army",
+        "date": "2022-06-29",
+        "update": "2022-06-29",
+        "version": "",
+        "path": "incremental-army",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《增量军团》是《鸡蛋公司》作者的另一个作品。"
+        ],
+        "customUrl": "https://yx.g8hh.com/incremental-army",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/incremental-army",
+        "enUrl": "https://mrbacon470.github.io/Incremental-Army/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
         "status": 1
     },
     {
