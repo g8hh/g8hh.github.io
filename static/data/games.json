@@ -475,7 +475,37 @@
         "status": 1
     },
     {
-        "title": "时间跳跃",
+        "title": "渐进式扫雷",
+        "enTitle": "Progressive Mine Sweep",
+        "date": "2022-07-01",
+        "update": "2022-07-01",
+        "version": "",
+        "path": "progressive-mine-sweep",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级",
+            "策略"
+        ],
+        "content": [
+            "《渐进式扫雷》是一款放置玩法的扫雷游戏，真是万物皆可放置啊！",
+            "《扫雷》游戏是一款大众类的益智小游戏，于1992年发行。游戏目标是在最短的时间内根据点击格子出现的数字找出所有非雷格子，同时避免踩雷，踩到一个雷即全盘皆输。"
+        ],
+        "customUrl": "https://yx.g8hh.com/progressive-mine-sweep",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/progressive-mine-sweep",
+        "enUrl": "https://lepouya.github.io/progressive-mine-sweep",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "增量军团",
         "enTitle": "Incremental Army",
         "date": "2022-06-29",
         "update": "2022-06-29",
