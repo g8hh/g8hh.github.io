@@ -505,6 +505,35 @@
         "status": 1
     },
     {
+        "title": "暗黑破坏神1，网页单机英文版",
+        "enTitle": "",
+        "date": "2022-07-01",
+        "update": "2022-07-01",
+        "version": "",
+        "path": "diabloweb",
+        "type": [
+            "英文",
+            "冒险",
+            "升级",
+            "策略"
+        ],
+        "content": [
+            "这个游戏咱汉化不了，收录过来只是为了给感兴趣的小伙伴研究、学习代码。"
+        ],
+        "customUrl": "https://yx.g8hh.com/diabloweb/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/diabloweb/",
+        "enUrl": "https://d07riv.github.io/diabloweb/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "增量军团",
         "enTitle": "Incremental Army",
         "date": "2022-06-29",
@@ -743,6 +772,7 @@
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/nggalaxies",
         "enUrl": "https://nggalaxies.freddecgames.com/",
+        "oscUrl": "https://www.oschina.net/p/nggalaxies",
         "pic": [
             1,
             2,
@@ -10985,9 +11015,11 @@
         "content": [
             "游戏挺有趣的，可惜没法汉化。因为k站加载超级慢，所以搬运过来方便大家玩。"
         ],
-        "customUrlTit": "国内英文版",
-        "customUrl": "http://likexia.gitee.io/lored",
-        "enUrl": "https://v6p9d9t4.ssl.hwcdn.net/html/2588889/index.html",
+        "customUrlTit": "搬运英文版",
+        "customUrl": "https://gltyx.github.io/lored/",
+        "customUrlTit2": "备用-搬运版",
+        "customUrl2": "https://yx.g8hh.com/lored/s",
+        "enUrl": "https://drillur.itch.io/lored",
         "kUrl": "https://www.kongregate.com/games/Drillur/lored?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -12667,6 +12699,8 @@
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://zhaolinxu.github.io/structure/",
         "oscUrl": "https://www.oschina.net/p/structure",
+        "QQ": "758557246",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=AD0srgnyXVPoaHNhvt5A10CTzKJWMX_j&jump_from=webapi",
         "pic": [
             1,
             2
