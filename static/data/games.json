@@ -475,6 +475,36 @@
         "status": 1
     },
     {
+        "title": "银河奶牛放置",
+        "enTitle": "Milky Way Idle",
+        "date": "2022-07-04",
+        "update": "2022-07-04",
+        "version": "",
+        "path": "milkywayidle",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级",
+            "策略"
+        ],
+        "content": [
+            "​《银河奶牛放置》是一款以太空中的魔法奶牛为主题的多人在线放置奇幻角色扮演游戏。您可以学习多种技能，包括采集、制作或战斗。您还可以通过市场与其他玩家聊天或交易。",
+            "玩过《梅尔沃放置》的小伙伴估计一下就看出来了，这个游戏借鉴了很多梅尔沃的特色。",
+            " 游戏还在汉化中，目前计划是初步是先机翻走一遍，然后再慢慢润色。​所以大家玩的时候可以时不时的刷新下游戏，然后重新引入汉化脚本。"
+        ],
+        "customUrl": "https://note.youdao.com/s/EzfCCyh4",
+        "customUrlTit": "汉化脚本/方式",
+        "enUrl": "https://www.milkywayidle.com",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "渐进式扫雷",
         "enTitle": "Progressive Mine Sweep",
         "date": "2022-07-01",
@@ -1334,8 +1364,8 @@
         "title": "经验模拟器",
         "enTitle": "EXP Simulator",
         "date": "2022-05-09",
-        "update": "2022-05-09",
-        "version": "2.3.103",
+        "update": "2022-07-01",
+        "version": "2.3.201",
         "path": "exp-simulator",
         "type": [
             "已汉化",
@@ -1733,6 +1763,8 @@
         "enUrl": "https://feartress.com/v0.2/play.html",
         "customUrl": "https://feartress.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://gityx.com/help/faq/205.html",
+        "customUrlTit2": "Steam版汉化教程",
         "zhUrl": "https://g8hh.github.io/feartress",
         "steamUrl": "https://store.steampowered.com/app/1904280/Feartress/",
         "pic": [
