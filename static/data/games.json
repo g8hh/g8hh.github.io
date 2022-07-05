@@ -475,6 +475,35 @@
         "status": 1
     },
     {
+        "title": "吹叶子",
+        "enTitle": "Leaf Blower Revolution",
+        "date": "2022-07-05",
+        "update": "2022-07-05",
+        "version": "",
+        "path": "leaf-blower-revolution",
+        "type": [
+            "放置",
+            "点击",
+            "Steam",
+            "英文"
+        ],
+        "content": [
+            "Leaf Blower Revolution 是一款免费的放置游戏，您可以在其中使用核吹叶机吹走树叶、解锁升级、获得成就等等。",
+            "游戏主体是免费的，不过作者应该是想卖DLC的。",
+            "反正在这个游戏咱群里曝光率也挺高的，感兴趣的小伙伴可以玩下试试，游戏时长轻松破千。",
+            "目前只有Windows版，也没中文，锅巴的Mac只能望而兴叹了。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1468260/Leaf_Blower_Revolution__Idle_Game/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "银河奶牛放置",
         "enTitle": "Milky Way Idle",
         "date": "2022-07-04",
@@ -508,8 +537,8 @@
         "title": "渐进式扫雷",
         "enTitle": "Progressive Mine Sweep",
         "date": "2022-07-01",
-        "update": "2022-07-01",
-        "version": "",
+        "update": "2022-07-03",
+        "version": "0.5.1",
         "path": "progressive-mine-sweep",
         "type": [
             "已汉化",
