@@ -475,6 +475,64 @@
         "status": 1
     },
     {
+        "title": "钱包矿工",
+        "enTitle": "Wall OS",
+        "date": "2022-07-05",
+        "update": "2022-07-05",
+        "version": "",
+        "path": "wallos",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "游戏仅供娱乐、研究学习游戏代码所用。",
+            "提高警惕，远离虚拟货币骗局！"
+        ],
+        "customUrl": "https://yx.g8hh.com/wallos",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/wallos/",
+        "enUrl": "https://springheeljack.github.io/WallOS/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "扫雷放置",
+        "enTitle": "Sweeper Idle",
+        "date": "2022-07-05",
+        "update": "2022-07-05",
+        "version": "",
+        "path": "sweeper-idle",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级",
+            "策略"
+        ],
+        "content": [
+            "又一款扫雷玩法的放置游戏，不过这个简单很多，只有4x4个升级。"
+        ],
+        "customUrl": "https://yx.g8hh.com/sweeper-idle",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/sweeper-idle/",
+        "enUrl": "https://springheeljack.github.io/SweeperIdle/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "吹叶子",
         "enTitle": "Leaf Blower Revolution",
         "date": "2022-07-05",
