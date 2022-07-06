@@ -475,6 +475,62 @@
         "status": 1
     },
     {
+        "title": "文字骰子放置",
+        "enTitle": "Idle Dice",
+        "date": "2022-07-06",
+        "update": "2022-07-06",
+        "version": "",
+        "path": "idledice",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《文字骰子放置》是一款简短的扔骰子玩法的放置游戏。"
+        ],
+        "customUrl": "https://yx.g8hh.com/idledice/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/idledice/",
+        "enUrl": "https://springheeljack.github.io/IdleDice/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "傅里叶增量",
+        "enTitle": "Fourier Incremental",
+        "date": "2022-07-06",
+        "update": "2022-07-06",
+        "version": "",
+        "path": "fourier-incremental",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《傅里叶增量》是一款关于数学知识的增量放置游戏。"
+        ],
+        "customUrl": "https://yx.g8hh.com/fourier-incremental",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/fourier-incremental/",
+        "enUrl": "https://dragonmemo.github.io/Fourier-Incremental/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "钱包矿工",
         "enTitle": "Wall OS",
         "date": "2022-07-05",
