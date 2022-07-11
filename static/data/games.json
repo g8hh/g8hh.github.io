@@ -475,6 +475,34 @@
         "status": 1
     },
     {
+        "title": "鲨鱼之心重制版",
+        "enTitle": "Shark Game Remaster",
+        "date": "2022-07-11",
+        "update": "2022-07-11",
+        "version": "",
+        "path": "shark-game-remaster",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "这是《鲨鱼之心》的重制版。"
+        ],
+        "customUrl": "https://yx.g8hh.com/shark-game-remaster/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/shark-game-remaster/",
+        "enUrl": "https://alpha.shark.tobot.dev/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "文字骰子放置",
         "enTitle": "Idle Dice",
         "date": "2022-07-06",
@@ -8219,7 +8247,9 @@
             "好玩魔性费鼠标的游戏~记得把下面改成鼠标悬浮升级哈~",
             "网格初始是2x2的，最大10x10，然后转生获得加成，继续从2x2开始，以此类推~"
         ],
-        "zhUrl": "https://yx.g8hh.commultiplier-grid/",
+        "zhUrl": "https://gltyx.github.io/multiplier-grid/",
+        "customUrl": "https://yx.g8hh.commultiplier-grid/",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://www.crazygames.com/game/multiplier-grid",
         "pic": [
             1,
@@ -8869,7 +8899,9 @@
         "content": [
             "感谢 @by22dgb 大佬帮忙汉化。"
         ],
-        "zhUrl": "https://yx.g8hh.com/time-layers",
+        "zhUrl": "https://gltyx.github.io/time-layers",
+        "customUrl": "https://yx.g8hh.com/time-layers",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://patcailmemer.github.io/Time-Layers/",
         "pic": [
             1,
