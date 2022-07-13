@@ -475,6 +475,34 @@
         "status": 1
     },
     {
+        "title": "不朽放置",
+        "enTitle": "Immortality Idle",
+        "date": "2022-07-13",
+        "update": "2022-07-13",
+        "version": "",
+        "path": "immortality-idle",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《不朽放置》是一款受修炼故事启发的时间管理增量游戏。 你可以选择你的日常活动来生存、成长和茁壮成长，以实现不朽的目标。 你可能不会在你的第一个生命中实现你的目标。 不要担心，如果你在成功之前就死了！ 每一世所养成的属性，都会在你转世时提升你的资质，让你未来的努力更加有效。 如果你坚持自己的成长，找到平衡，寻求洞察力，你最终会发展出神奇的能力，完成不可能的任务，成为不朽者。"
+        ],
+        "customUrl": "https://yx.g8hh.com/immortality-idle/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/immortality-idle/",
+        "enUrl": "https://immortalityidle.github.io/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "鲨鱼之心重制版",
         "enTitle": "Shark Game Remaster",
         "date": "2022-07-11",
