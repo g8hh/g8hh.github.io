@@ -475,11 +475,40 @@
         "status": 1
     },
     {
+        "title": "战区",
+        "enTitle": "WarZone",
+        "date": "2022-07-15",
+        "update": "2022-07-15",
+        "version": "",
+        "path": "warzone",
+        "type": [
+            "汉化中",
+            "点击",
+            "联网",
+            "升级",
+            "策略"
+        ],
+        "content": [
+            "​Warzone 是一款回合制战棋游戏，灵感来自Hasbro's RISK® 游戏，您可以在其中与朋友竞争以征服世界。"
+        ],
+        "customUrl": "https://note.youdao.com/s/WjR3FSOP",
+        "customUrlTit": "汉化脚本/方式",
+        "enUrl": "https://www.warzone.com/Idle/Play",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2022-07-13",
-        "version": "",
+        "update": "2022-07-15",
+        "version": "1.0.32",
         "path": "immortality-idle",
         "type": [
             "已汉化",
@@ -590,7 +619,7 @@
         "title": "钱包矿工",
         "enTitle": "Wall OS",
         "date": "2022-07-05",
-        "update": "2022-07-05",
+        "update": "2022-07-15",
         "version": "",
         "path": "wallos",
         "type": [
@@ -1341,6 +1370,7 @@
         "customUrl": "https://absolute-button-simulator.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/absolute-button-simulator",
+        "oscUrl": "https://www.oschina.net/p/absolute-button-simulator",
         "pic": [
             1,
             2,
@@ -3466,6 +3496,7 @@
         "enUrl": "http://gridland.doublespeakgames.com/",
         "customUrl": "https://gridland.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
+        "oscUrl": "https://www.oschina.net/p/gridland",
         "pic": [
             1,
             2,
@@ -9611,6 +9642,7 @@
         "customUrl2": "https://g8hh.github.io/forge-fortune",
         "customUrlTit2": "备用地址-GitHub",
         "kUrl": "https://www.kongregate.com/games/TheCongressman/forge-fortune?sfa=permalink&referrer=SunshineDad",
+        "oscUrl": "https://www.oschina.net/p/Forge-Fortune",
         "pic": [
             1,
             2,
@@ -9942,6 +9974,7 @@
         "customUrl": "https://alpharpg.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://purplewizard.space/AlphaRPG/",
+        "oscUrl": "https://www.oschina.net/p/alpharpg",
         "pic": [
             1,
             2,
@@ -10263,6 +10296,7 @@
         ],
         "zhUrl": "https://yx.g8hh.com/dorongine",
         "enUrl": "https://zhaolinxu.github.io/dorongine/index.html",
+        "oscUrl": "https://www.oschina.net/p/mycity",
         "pic": [
             1,
             2
@@ -11497,6 +11531,7 @@
         "customUrl": "https://computer-evolution.g8hh.com",
         "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/joao8991/computer-evolution?sfa=permalink&referrer=SunshineDad",
+        "oscUrl": "https://www.oschina.net/p/computer-evolution",
         "pic": [
             1,
             2
@@ -12349,6 +12384,7 @@
         ],
         "zhUrl": "https://yx.g8hh.com/idlegraph",
         "enUrl": "https://scorzy.github.io/IdleGraph/",
+        "oscUrl": "https://www.oschina.net/p/idle-graph",
         "pic": [
             1,
             2
