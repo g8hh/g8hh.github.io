@@ -475,25 +475,27 @@
         "status": 1
     },
     {
-        "title": "战区",
-        "enTitle": "WarZone",
-        "date": "2022-07-15",
-        "update": "2022-07-15",
-        "version": "",
-        "path": "warzone",
+        "title": "循环放置3",
+        "enTitle": "Omsi Loops",
+        "date": "2022-07-18",
+        "update": "2022-07-18",
+        "version": "2.0",
+        "path": "omsi-loops",
         "type": [
             "汉化中",
             "点击",
-            "联网",
-            "升级",
-            "策略"
+            "升级"
         ],
         "content": [
-            "​Warzone 是一款回合制战棋游戏，灵感来自Hasbro's RISK® 游戏，您可以在其中与朋友竞争以征服世界。"
+            "《循环放置3》是爱好者在原版《Idle Loops》的基础上进行了继续开发的版本。",
+            "感谢 @公子羽 大佬帮忙汉化本游戏~"
         ],
-        "customUrl": "https://note.youdao.com/s/WjR3FSOP",
-        "customUrlTit": "汉化脚本/方式",
-        "enUrl": "https://www.warzone.com/Idle/Play",
+        "customUrl": "https://yx.g8hh.com/omsi-loops",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/omsi-loops",
+        "enUrl": "https://lloyd-delacroix.github.io/omsi-loops/",
+        "QQ": "917627671",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=i80fAzVkHYzi6oeAAgbL70GRjRp68Lsg&jump_from=webapi",
         "pic": [
             1,
             2,
