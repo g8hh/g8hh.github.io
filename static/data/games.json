@@ -475,6 +475,39 @@
         "status": 1
     },
     {
+        "title": "汉兜",
+        "enTitle": "Handle",
+        "date": "2022-07-18",
+        "update": "2022-07-18",
+        "version": "",
+        "path": "handle",
+        "type": [
+            "文字",
+            "益智"
+        ],
+        "content": [
+            "汉兜即汉字版的 Wordle，是一款填字游戏。",
+            "《Wordle》是一款网页文字游戏。 在《Wordle》中，玩家要在一天内用六次机会内猜中某个有五字英文字母的词汇。每次尝试后，玩家可能得到三种反馈：绿色表示字母位置正确；黄色表示答案包含该字母但位置错误；灰色表示答案没有该字母。"
+        ],
+        "customUrl": "https://handle.antfu.me/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://cheeaun.github.io/chengyu-wordle/",
+        "customUrlTit2": "成语WORDLE",
+        "customUrl3": "https://pinyincaichengyu.com/",
+        "customUrlTit3": "拼音猜成语",
+        "enUrl": "https://www.nytimes.com/games/wordle/index.html",
+        "oscUrl": "https://www.oschina.net/p/handle-wordle",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "循环放置3",
         "enTitle": "Omsi Loops",
         "date": "2022-07-18",
@@ -524,6 +557,7 @@
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/immortality-idle/",
         "enUrl": "https://immortalityidle.github.io/",
+        "oscUrl": "https://www.oschina.net/p/immortality-idle",
         "pic": [
             1,
             2,
@@ -552,6 +586,7 @@
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/shark-game-remaster/",
         "enUrl": "https://alpha.shark.tobot.dev/",
+        "oscUrl": "https://www.oschina.net/p/shark-game-remaster",
         "pic": [
             1,
             2,
@@ -12864,6 +12899,7 @@
         "customUrl": "https://progress-bars.g8hh.com/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://polatrite.github.io/progress-bars/",
+        "oscUrl": "https://www.oschina.net/p/progress-bars",
         "pic": [
             1,
             2
