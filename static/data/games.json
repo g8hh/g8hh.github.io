@@ -475,6 +475,34 @@
         "status": 1
     },
     {
+        "title": "H点击器",
+        "enTitle": "H Clicker",
+        "date": "2022-07-20",
+        "update": "2022-07-20",
+        "version": "",
+        "path": "h-clicker",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《H点击器》是作者为了练习编码而写的一个笑话类游戏，没有存档功能，刷新、关闭即重玩~"
+        ],
+        "customUrl": "https://yx.g8hh.com/h-clicker",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/h-clicker",
+        "enUrl": "https://muzzasaurus.github.io/H-Clicker/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "汉兜",
         "enTitle": "Handle",
         "date": "2022-07-18",
@@ -511,8 +539,8 @@
         "title": "循环放置3",
         "enTitle": "Omsi Loops",
         "date": "2022-07-18",
-        "update": "2022-07-18",
-        "version": "2.0",
+        "update": "2022-07-20",
+        "version": "2.3",
         "path": "omsi-loops",
         "type": [
             "汉化中",
@@ -542,8 +570,8 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2022-07-15",
-        "version": "1.0.32",
+        "update": "2022-07-19",
+        "version": "1.0.46",
         "path": "immortality-idle",
         "type": [
             "已汉化",
@@ -919,8 +947,8 @@
         "title": "升级树",
         "enTitle": "The Upgrading Tree​",
         "date": "2022-06-24",
-        "update": "2022-06-28",
-        "version": "0.44",
+        "update": "2022-07-19",
+        "version": "0.5",
         "path": "the-upgrading-tree",
         "type": [
             "已汉化",
@@ -8683,8 +8711,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-06-26",
-        "version": "0.3.5",
+        "update": "2022-07-11",
+        "version": "0.4",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
