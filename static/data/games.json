@@ -475,6 +475,34 @@
         "status": 1
     },
     {
+        "title": "矿山防御",
+        "enTitle": "mine-defense",
+        "date": "2022-07-20",
+        "update": "2022-07-20",
+        "version": "",
+        "path": "mine-defense",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《矿山防御》是一款类似《无尽的饼干》的放置游戏，糅合了战斗、炼金、法术等元素。"
+        ],
+        "customUrl": "https://yx.g8hh.com/mine-defense",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/mine-defense",
+        "enUrl": "http://scholtek.com/minedefense",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "H点击器",
         "enTitle": "H Clicker",
         "date": "2022-07-20",
@@ -539,8 +567,8 @@
         "title": "循环放置3",
         "enTitle": "Omsi Loops",
         "date": "2022-07-18",
-        "update": "2022-07-20",
-        "version": "2.3",
+        "update": "2022-07-22",
+        "version": "2.5",
         "path": "omsi-loops",
         "type": [
             "汉化中",
@@ -570,8 +598,8 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2022-07-19",
-        "version": "1.0.46",
+        "update": "2022-07-22",
+        "version": "1.0.49",
         "path": "immortality-idle",
         "type": [
             "已汉化",
@@ -7909,8 +7937,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2021-09-15",
-        "version": "0.6.12",
+        "update": "2022-07-20",
+        "version": "0.6.13",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -10020,8 +10048,8 @@
         "title": "阿尔法RPG",
         "enTitle": "Alpha RPG",
         "date": "2020-06-16",
-        "update": "2020-07-12",
-        "version": "2.2",
+        "update": "2022-07-19",
+        "version": "3.4",
         "path": "alpha-rpg",
         "type": [
             "汉化中",
