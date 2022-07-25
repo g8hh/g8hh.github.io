@@ -475,11 +475,40 @@
         "status": 1
     },
     {
+        "title": "武侠放置",
+        "enTitle": "WuXia Idle",
+        "date": "2022-07-25",
+        "update": "2022-07-25",
+        "version": "",
+        "path": "wu-xia-idle",
+        "type": [
+            "汉化中",
+            "点击",
+            "升级",
+            "养成"
+        ],
+        "content": [
+            "​这是一款受武侠/仙侠启发的放置游戏，您可以在其中创建一个修炼者，通过探索不同的区域来升级，您的修炼者在这些区域中与怪物战斗、收集资源、遇到幸运机会等，并获得进步的启示境界，同时增加你的战斗力和职业技能。",
+            "游戏还在开发中，有几块功能暂时没内容。"
+        ],
+        "customUrl": "https://note.youdao.com/s/X9XjAQPQ",
+        "customUrlTit": "汉化脚本/方式",
+        "enUrl": "https://play.wuxiaidle.com/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "矿山防御",
         "enTitle": "mine-defense",
-        "date": "2022-07-20",
-        "update": "2022-07-20",
-        "version": "",
+        "date": "2022-07-22",
+        "update": "2022-07-22",
+        "version": "1.032",
         "path": "mine-defense",
         "type": [
             "已汉化",
@@ -9281,8 +9310,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-06-28",
-        "version": "0.9.7",
+        "update": "2022-07-22",
+        "version": "0.9.9",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
