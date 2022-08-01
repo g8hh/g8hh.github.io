@@ -475,6 +475,41 @@
         "status": 1
     },
     {
+        "title": "元素周期表树",
+        "enTitle": "The Periodic Table Tree",
+        "date": "2022-08-01",
+        "update": "2022-08-01",
+        "version": "1.7",
+        "path": "the-periodic-table-tree",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《挺久没更新新的模组树游戏了，今天来一个吧，这个Mod的玩法也算新颖。"
+        ],
+        "enUrl": "https://raw.githack.com/BilboyX/The-Modding-Tree/master/index.html",
+        "customUrl": "https://yx.g8hh.com/the-periodic-table-tree/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/the-periodic-table-tree",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "武侠放置",
         "enTitle": "WuXia Idle",
         "date": "2022-07-25",
@@ -596,8 +631,8 @@
         "title": "循环放置3",
         "enTitle": "Omsi Loops",
         "date": "2022-07-18",
-        "update": "2022-07-22",
-        "version": "2.5",
+        "update": "2022-07-26",
+        "version": "2.9",
         "path": "omsi-loops",
         "type": [
             "汉化中",
@@ -627,8 +662,8 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2022-07-22",
-        "version": "1.0.49",
+        "update": "2022-07-30",
+        "version": "1.0.52",
         "path": "immortality-idle",
         "type": [
             "已汉化",
@@ -4150,8 +4185,8 @@
         "title": "神奇迷宫放置",
         "enTitle": "AMazing Idle",
         "date": "2021-11-12",
-        "update": "2021-11-12",
-        "version": "",
+        "update": "2022-07-31",
+        "version": "0.2.0",
         "path": "a-mazing-idle",
         "type": [
             "汉化中",
@@ -4971,8 +5006,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-06-07",
-        "version": "1.305.1+2",
+        "update": "2022-06-23",
+        "version": "1.319",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -9849,7 +9884,9 @@
         "content": [
             "这个也是很早收录的，但是没汉化，这两天汉化了一下。"
         ],
-        "zhUrl": "https://yx.g8hh.com/zoo2/",
+        "zhUrl": "https://gltyx.github.io/zoo2/",
+        "customUrl": "https://yx.g8hh.com/zoo2",
+        "customUrlTit": "汉化版-g8hh",
         "pic": [
             1,
             2
@@ -13439,6 +13476,7 @@
         "customUrl": "https://xianxia-idle.g8hh.com/",
         "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/AdamT/xianxia-idle?sfa=permalink&referrer=SunshineDad",
+        "oscUrl": "https://www.oschina.net/p/xianxia-idle",
         "pic": [
             1,
             2
@@ -13521,6 +13559,7 @@
         "customUrl": "https://yx.g8hh.com/canadaclicker",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://www.canadaclicker.com/",
+        "oscUrl": "https://www.oschina.net/p/canadaclicker",
         "pic": [
             1,
             2
