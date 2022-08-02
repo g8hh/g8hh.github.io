@@ -510,6 +510,36 @@
         "status": 1
     },
     {
+        "title": "无限挂机",
+        "enTitle": "",
+        "date": "2022-08-01",
+        "update": "2022-08-01",
+        "version": "",
+        "path": "wuxianguaji",
+        "type": [
+            "PC",
+            "单机",
+            "文字"
+        ],
+        "content": [
+            "群里小伙伴推荐的，无氪金，作者基本上算更新完了。",
+            "用的第三方的游戏制作工具【幻境编辑器】制作的，感兴趣的小伙伴可以试试自己写游戏。"
+        ],
+        "customUrl": "https://g.evkworld.cn/541809",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://evkworld.cn/",
+        "customUrlTit2": "幻境游戏制作工具",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "武侠放置",
         "enTitle": "WuXia Idle",
         "date": "2022-07-25",
