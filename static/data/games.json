@@ -475,11 +475,70 @@
         "status": 1
     },
     {
+        "title": "流放放置",
+        "enTitle": "Idle Exile",
+        "date": "2022-07-22",
+        "update": "2022-07-22",
+        "version": "1.032",
+        "path": "idle-exile",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "这是流放之路新联盟的开始，您决定创建一个公会，其唯一目的是共享资源并作为一个团队成长。",
+            "招募流放者、挖掘者、货币翻转者和工匠。 主宰经济并升级您的公会成员。",
+            "注意：本游戏无存档系统，刷新会丢失进度从头开始！"
+        ],
+        "customUrl": "https://yx.g8hh.com/idle-exile",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/idle-exile",
+        "enUrl": "https://oosband.github.io/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "Idle Research",
+        "enTitle": "",
+        "date": "2022-08-04",
+        "update": "2022-08-04",
+        "version": "",
+        "path": "idle-research",
+        "type": [
+            "放置",
+            "点击",
+            "Steam",
+            "英文"
+        ],
+        "content": [
+            "Idle Research 是一款令人上瘾的资源管理增量游戏，具有空闲和活跃的游戏风格。 研究和制作五颜六色的烧瓶和试管，以赚取尽可能多的能量！ 保证大数字。",
+            "暂时无中文，不懂的地方可以在群里问：816462152"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1482860/Idle_Research/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "元素周期表树",
         "enTitle": "The Periodic Table Tree",
         "date": "2022-08-01",
-        "update": "2022-08-01",
-        "version": "1.7",
+        "update": "2022-08-05",
+        "version": "1.8",
         "path": "the-periodic-table-tree",
         "type": [
             "汉化中",
@@ -692,8 +751,8 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2022-07-30",
-        "version": "1.0.52",
+        "update": "2022-08-03",
+        "version": "1.0.53",
         "path": "immortality-idle",
         "type": [
             "已汉化",
@@ -880,6 +939,8 @@
             "目前只有Windows版，也没中文，锅巴的Mac只能望而兴叹了。"
         ],
         "steamUrl": "https://store.steampowered.com/app/1468260/Leaf_Blower_Revolution__Idle_Game/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -1281,6 +1342,8 @@
         "customUrlTit": "第二代",
         "steamUrl": "https://store.steampowered.com/app/1530340/Incremental_Epic_Hero/",
         "kUrl": "https://www.kongregate.com/games/HapiwakuProject/incremental-epic-hero?sfa=permalink&referrer=SunshineDad",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2
@@ -1528,6 +1591,8 @@
         "customUrl": "https://nyrio.itch.io/godsbane",
         "customUrlTit": "网页版",
         "steamUrl": "https://store.steampowered.com/app/1565140/Godsbane_Idle/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -1677,6 +1742,8 @@
         ],
         "customUrl": "https://store.steampowered.com/app/1827980/Idle_Spiral/",
         "customUrlTit": "Steam地址",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -1925,6 +1992,8 @@
         "steamUrl": "https://store.steampowered.com/app/1593350/Increlution/",
         "customUrl": "https://gityx.com/help/faq/205.html",
         "customUrlTit": "汉化教程",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2
@@ -2369,6 +2438,8 @@
         "customUrl": "https://gityx.com/computer/steam/20220321/700.html",
         "customUrlTit": "宝箱码集合",
         "steamUrl": "https://store.steampowered.com/app/1351500/SimPocalypse/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -5476,7 +5547,6 @@
             "安卓",
             "苹果",
             "PC",
-            "Steam",
             "策略",
             "模拟"
         ],
@@ -5878,6 +5948,8 @@
         "customUrl2": "https://zhuanlan.zhihu.com/p/39079658",
         "customUrlTit2": "Roguelike介绍",
         "steamUrl": "https://store.steampowered.com/app/259680/Tales_of_MajEyal/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -7749,6 +7821,8 @@
         "customUrl": "https://yx.g8hh.com/sim-pocalypse/",
         "customUrlTit": "网页中文版",
         "steamUrl": "https://store.steampowered.com/app/1351500/SimPocalypse/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -8121,6 +8195,8 @@
         "customUrl": "https://www.crazygames.com/game/your-chronicle",
         "customUrlTit": "英文网页版",
         "steamUrl": "https://store.steampowered.com/app/1546320/Your_Chronicle/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -8157,6 +8233,8 @@
             "支持云存档（需注册）在各个设备上同步进度。"
         ],
         "steamUrl": "https://store.steampowered.com/app/977400/Cell_to_Singularity__Evolution_Never_Ends/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -8331,6 +8409,8 @@
         "customUrlTit2": "手机版/官网",
         "customUrl3": "https://apkpremier.com/details/com-fishpondstudio-industryidle",
         "customUrlTit3": "安卓打不开Google Play的来这里下",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -9375,8 +9455,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-07-22",
-        "version": "0.9.9",
+        "update": "2022-08-03",
+        "version": "0.9.10",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -9973,6 +10053,8 @@
         ],
         "zhUrl": "https://shapez.io/",
         "steamUrl": "https://store.steampowered.com/app/1318690/shapezio/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -11198,7 +11280,8 @@
         ],
         "kUrl": "https://www.kongregate.com/games/somethingggg/ngu-idle?sfa=permalink&referrer=SunshineDad",
         "steamUrl": "https://store.steampowered.com/app/1147690/NGU_IDLE/?snr=1_7_15__13",
-        "QQ": "663807219",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2
@@ -14110,8 +14193,8 @@
         "title": "脆皮",
         "enTitle": "Trimps",
         "date": "2017-10-27",
-        "update": "2022-06-08",
-        "version": "5.7.2",
+        "update": "2022-08-02",
+        "version": "5.8.0",
         "path": "trimps-steam",
         "type": [
             "推荐",
