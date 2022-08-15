@@ -309,6 +309,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -475,10 +476,308 @@
         "status": 1
     },
     {
+        "title": "真实割草放置",
+        "enTitle": "Really Grass Cutting Incremental",
+        "date": "2022-08-15",
+        "update": "2022-08-15",
+        "version": "",
+        "path": "really-grass-cutting-incremental",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《真实割草放置》是一款模拟割草的增量放置游戏（凑字数，嘻嘻），是《质量增量重制版》作者的另一个作品。"
+        ],
+        "customUrl": "https://yx.g8hh.com/really-grass-cutting-incremental",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/really-grass-cutting-incremental",
+        "enUrl": "https://mrredshark77.github.io/Really-Grass-Cutting-Incremental/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "5小时后更新",
+        "enTitle": "5 Hours",
+        "date": "2022-08-15",
+        "update": "2022-08-15",
+        "version": "",
+        "path": "5-hours",
+        "type": [
+            "已汉化",
+            "挂机",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "这个游戏是玩家玩梗开发的，来源似乎是有人催更《协同放置》，作者老是说5小时后更新。。",
+            "感谢群里的 @QwQe308 小伙伴汉化推荐~"
+        ],
+        "customUrl": "https://yx.g8hh.com/5-hours/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://qwqe308.github.io/5-hours-chs/",
+        "enUrl": "https://dan-simon.github.io/misc/5hours/",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "猜单词",
+        "enTitle": "Futile Code",
+        "date": "2022-08-12",
+        "update": "2022-08-12",
+        "version": "",
+        "path": "futile-code",
+        "type": [
+            "英文",
+            "益智"
+        ],
+        "content": [
+            "这是一款基于 Wordle/Lingo 的猜词游戏，有超过 2000 个单词可以猜，它允许无限的游戏和改变视觉主题。",
+            "玩法：每个单词可以猜6次，6次都猜错就要重新开始下一局。输入任意一个5位数的单词，然后按提示猜出正确的单词，高亮的字母为答案包含的字母。",
+            "快捷键：Tab键：重新开始；Enter键，确认，次数-1。"
+        ],
+        "customUrl": "https://yx.g8hh.com/futile-code",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/futile-code",
+        "enUrl": "https://futilecode.github.io/",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
+        "title": "永恒之地",
+        "enTitle": "Forever Land",
+        "date": "2022-08-12",
+        "update": "2022-08-12",
+        "version": "0.2.0",
+        "path": "forever-land",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《永恒之地》是一款捕获方块的放置游戏。只看这地图，我还以为是脆皮呢。"
+        ],
+        "customUrl": "https://yx.g8hh.com/forever-land",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/forever-land",
+        "enUrl": "https://aldo111.github.io/forever-land/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "反物质维度树",
+        "enTitle": "Antreematter Dimensions",
+        "date": "2022-08-12",
+        "update": "2022-08-12",
+        "version": "1.4.0",
+        "path": "antreematter-dimensions",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《反物质维度》可以说是放置游戏界的一朵奇葩，这次居然别我发现有人把它做成树了，收录过来给大家玩~"
+        ],
+        "customUrl": "https://yx.g8hh.com/antreematter-dimensions",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/antreematter-dimensions/",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "enUrl": "https://raw.githack.com/jasperfr/The-Modding-Tree/master/index.html",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "传奇树",
+        "enTitle": "",
+        "date": "2022-08-10",
+        "update": "2022-08-10",
+        "version": "0.2.1",
+        "path": "chuan-qi-tree",
+        "type": [
+            "原创",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "群里的 @匿_名 大佬写的，游戏主题就是国风的传奇主题，锅巴表示，他很强！",
+            "《挺久没更新新的模组树游戏了，今天来一个吧，这个Mod的玩法也算新颖。"
+        ],
+        "customUrl": "https://yx.g8hh.com/chuan-qi-tree/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://whzyhx.github.io/Ni-Ming/",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "炼金术士放置",
+        "enTitle": "Alchemists Monopoly",
+        "date": "2022-08-10",
+        "update": "2022-08-10",
+        "version": "",
+        "path": "alchemists-monopoly",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "一款关于使用炼金术赚取超乎您想象的金钱的游戏。 发现新物品并以可笑的完全公平的价格出售它们。",
+            "提示：您可以按住挖矿按钮自动点击10次/s。"
+        ],
+        "customUrl": "https://yx.g8hh.com/alchemists-monopoly",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/alchemists-monopoly",
+        "enUrl": "https://qwertycat.itch.io/alchemistsmonopoly",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "无数字放置",
+        "enTitle": "There Are No Numbers",
+        "date": "2022-08-08",
+        "update": "2022-08-08",
+        "version": "",
+        "path": "there-are-no-numbers",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "一款包含太空建造，经营，探索风格的增量放置游戏。",
+            "游戏还在开发中，咱们会同步更新~"
+        ],
+        "customUrl": "https://yx.g8hh.com/there-are-no-numbers",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/there-are-no-numbers",
+        "enUrl": "https://chabetto.github.io/therearenonumbers/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "太空船增量",
+        "enTitle": "Spaceship Incremental Game",
+        "date": "2022-08-08",
+        "update": "2022-08-11",
+        "version": "1.5.1",
+        "path": "spaceship-ncremental-game",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "一款包含太空建造，经营，探索风格的增量放置游戏。",
+            "游戏还在开发中，咱们会同步更新~"
+        ],
+        "customUrl": "https://yx.g8hh.com/spaceship-ncremental-game",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/spaceship-ncremental-game",
+        "enUrl": "https://somerandomviolinkid.github.io/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "英雄黄昏-文字版三国志",
+        "enTitle": "",
+        "date": "2022-08-05",
+        "update": "2022-08-05",
+        "version": "",
+        "path": "yxhh-wzsgz",
+        "type": [
+            "放置",
+            "点击",
+            "Steam",
+            "英文"
+        ],
+        "content": [
+            "这是一款三国题材的文字游戏，新奇而独特，可以满足硬核策略及休闲挂机的个性需求。你可以斩将杀敌，娶妻生子，富可敌国，自立一方争天下，辅佐明主成霸业，实现诸多三国幻想。作者是三国迷，普通上班族，自学编程，利用业余时间独立制作，历时三年。本游戏纯文字无画面，适合三国玩家入手。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1754720/_/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "流放放置",
         "enTitle": "Idle Exile",
-        "date": "2022-07-22",
-        "update": "2022-07-22",
+        "date": "2022-08-05",
+        "update": "2022-08-05",
         "version": "1.032",
         "path": "idle-exile",
         "type": [
@@ -559,6 +858,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -659,8 +959,8 @@
         "title": "H点击器",
         "enTitle": "H Clicker",
         "date": "2022-07-20",
-        "update": "2022-07-20",
-        "version": "",
+        "update": "2022-08-08",
+        "version": "0.5",
         "path": "h-clicker",
         "type": [
             "已汉化",
@@ -1130,8 +1430,8 @@
         "title": "升级树",
         "enTitle": "The Upgrading Tree​",
         "date": "2022-06-24",
-        "update": "2022-07-19",
-        "version": "0.5",
+        "update": "2022-08-11",
+        "version": "1.0",
         "path": "the-upgrading-tree",
         "type": [
             "已汉化",
@@ -1219,6 +1519,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -1658,6 +1959,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -1927,6 +2229,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -2377,6 +2680,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -2597,6 +2901,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -2793,6 +3098,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -2860,6 +3166,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -2962,6 +3269,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -3060,6 +3368,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -3211,6 +3520,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -3312,6 +3622,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -3377,6 +3688,7 @@
         "customUrl4": "https://yhvr.me/pt/mods.html",
         "customUrlTit4": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -3506,6 +3818,7 @@
         "customUrl4": "https://yhvr.me/pt/mods.html",
         "customUrlTit4": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -3571,6 +3884,7 @@
         "customUrl4": "https://yhvr.me/pt/mods.html",
         "customUrlTit4": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -3665,6 +3979,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -4479,6 +4794,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -4514,6 +4830,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -4748,6 +5065,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -4878,6 +5196,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -4986,6 +5305,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -5094,6 +5414,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -5107,8 +5428,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-06-23",
-        "version": "1.319",
+        "update": "2022-08-01",
+        "version": "1.321.1+",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -5130,6 +5451,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -5166,6 +5488,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -5372,8 +5695,8 @@
         "title": "循环洞穴2",
         "enTitle": "Cavernous II",
         "date": "2021-10-02",
-        "update": "2022-02-25",
-        "version": "2.4.12",
+        "update": "2022-08-13",
+        "version": "2.7.4",
         "path": "cavernous2",
         "type": [
             "汉化中",
@@ -6086,6 +6409,7 @@
         "customUrl5": "https://yhvr.me/pt/mods.html",
         "customUrlTit5": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -6257,6 +6581,7 @@
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -6372,6 +6697,7 @@
         "customUrl5": "https://yhvr.me/pt/mods.html",
         "customUrlTit5": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -6776,6 +7102,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -6874,6 +7201,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -6996,6 +7324,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -7150,6 +7479,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -7187,6 +7517,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -7289,6 +7620,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -7489,6 +7821,7 @@
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -8125,6 +8458,7 @@
         "customUrl": "https://c0v1d-modding-tree.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -8273,6 +8607,7 @@
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -8308,6 +8643,7 @@
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -8639,6 +8975,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -9201,6 +9538,7 @@
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
             2
@@ -9497,8 +9835,8 @@
         "title": "我的暗黑",
         "enTitle": "My Diablo",
         "date": "2020-10-06",
-        "update": "2021-11-03",
-        "version": "3.11103",
+        "update": "2022-08-13",
+        "version": "5.08135",
         "path": "my-diablo",
         "type": [
             "RPG",
