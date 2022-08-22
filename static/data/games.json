@@ -416,6 +416,40 @@
         "status": 1
     },
     {
+        "title": "三国传奇，耐玩挂机电脑游戏",
+        "enTitle": "",
+        "date": "2022-08-19",
+        "update": "2022-08-19",
+        "version": "",
+        "path": "sgcq",
+        "type": [
+            "PC",
+            "联网",
+            "文字"
+        ],
+        "content": [
+            "三国传奇, 2010年开始持续更新至今，是一款耐玩的挂机类游戏。",
+            "1、离线挂机,24小时开足马力,一刻也不耽误你升级！",
+            "2、交易市场,极品装备的集散地，梦想家的乐园！",
+            "3、自由度高,没有定时任务,你需要做的就是挂机！",
+            "4、原创放置类挂机游戏,只做玩家最爱的挂机游戏。",
+            "5、QQ交流群：724573944"
+        ],
+        "customUrl": "https://mh.uuuyx.com/down/sgcq/sgcq28600.rar",
+        "customUrlTit": "直接下载",
+        "customUrl2": "https://share.weiyun.com/vtX4kYcW",
+        "customUrlTit2": "微云网盘下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "无尽洪荒，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
@@ -471,6 +505,158 @@
             6,
             7,
             8
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "元素周期表树",
+        "enTitle": "The Periodic Table Tree",
+        "date": "2022-08-22",
+        "update": "2022-08-22",
+        "version": "0.29",
+        "path": "the-gfriend-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《女团树》是粉丝给自己的偶像女团GFRIEND写的一款模组树类游戏，因为这个女团解散了，作者写了个游戏来纪念一下。"
+        ],
+        "enUrl": "https://raw.githack.com/ehcho0222/The-Modding-Tree/gfriend/index.html",
+        "customUrl": "https://yx.g8hh.com/the-gfriend-tree/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/the-gfriend-tree",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "石头增量",
+        "enTitle": "Stonemental",
+        "date": "2022-08-19",
+        "update": "2022-08-19",
+        "version": "",
+        "path": "stonemental",
+        "type": [
+            "已汉化",
+            "点击"
+        ],
+        "content": [
+            "《无尽的骰子》是一款回合制的骰子玩法RPG游戏。​"
+        ],
+        "customUrl": "https://yx.g8hh.com/stonemental",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/stonemental",
+        "enUrl": "https://mrredshark77.github.io/Stonemental/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "无尽的骰子",
+        "enTitle": "",
+        "date": "2022-08-19",
+        "update": "2022-08-19",
+        "version": "",
+        "path": "endless-dice",
+        "type": [
+            "已汉化",
+            "点击"
+        ],
+        "content": [
+            "《无尽的骰子》是一款回合制的骰子玩法RPG游戏。​"
+        ],
+        "customUrl": "https://yx.g8hh.com/endless-dice",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/endless-dice",
+        "enUrl": "https://mrredshark77.github.io/Endless-Dice/",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
+        "title": "The Alterhistorians Conquest",
+        "enTitle": "",
+        "date": "2022-08-18",
+        "update": "2022-08-18",
+        "version": "",
+        "path": "the-alterhistorians-conquest",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "在一个元素流动且概念可以提炼的世界中创造不朽的灵丹妙药。",
+            "游戏的主要目标是有效地管理您的机器和资源。 建议空转以获得更快的时间，从而加快生产损失。",
+            "左/右键单击输出槽以提取和保存资源，左/右键单击输入槽以将其放入。",
+            "箭头键/拖动以围绕网格平移",
+            "将资源握在手中以用于升级。"
+        ],
+        "customUrl": "https://yx.g8hh.com/the-alterhistorians-conquest",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/the-alterhistorians-conquest",
+        "enUrl": "https://dystopia-user181.itch.io/the-alterhistorians-conquest",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
+        "title": "指数放置",
+        "enTitle": "Exponential Idle",
+        "date": "2022-08-16",
+        "update": "",
+        "version": "",
+        "path": "exponential-idle",
+        "type": [
+            "放置",
+            "点击",
+            "挂机",
+            "升级",
+            "安卓",
+            "苹果"
+        ],
+        "content": [
+            "Exponential Idle 是一款受数学启发的增量游戏，可在 Android 和 iOS 上使用。 您的目标是利用指数增长来积累资金。 为此，您必须通过点击方程式来逐步了解时间，或者只是让时间顺其自然。 您可以执行变量更改以加速流程、购买升级、获得奖励并解锁成就，同时赚取虚拟货币。"
+        ],
+        "customUrl": "https://play.google.com/store/apps/details?id=com.conicgames.exponentialidle&hl=zh&gl=US",
+        "customUrlTit": "安卓版下载",
+        "customUrl2": "https://apps.apple.com/us/app/exponential-idle/id1538487382",
+        "customUrlTit2": "IOS美区下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
         ],
         "needHH": 0,
         "status": 1
@@ -640,7 +826,7 @@
         ],
         "content": [
             "群里的 @匿_名 大佬写的，游戏主题就是国风的传奇主题，锅巴表示，他很强！",
-            "《挺久没更新新的模组树游戏了，今天来一个吧，这个Mod的玩法也算新颖。"
+            "挺久没更新新的模组树游戏了，今天来一个吧，这个Mod的玩法也算新颖。"
         ],
         "customUrl": "https://yx.g8hh.com/chuan-qi-tree/",
         "customUrlTit": "备用地址-g8hh",
@@ -720,8 +906,8 @@
         "title": "太空船增量",
         "enTitle": "Spaceship Incremental Game",
         "date": "2022-08-08",
-        "update": "2022-08-11",
-        "version": "1.5.1",
+        "update": "2022-08-19",
+        "version": "1.6.101",
         "path": "spaceship-ncremental-game",
         "type": [
             "已汉化",
@@ -849,7 +1035,7 @@
             "声望树"
         ],
         "content": [
-            "《挺久没更新新的模组树游戏了，今天来一个吧，这个Mod的玩法也算新颖。"
+            "挺久没更新新的模组树游戏了，今天来一个吧，这个Mod的玩法也算新颖。"
         ],
         "enUrl": "https://raw.githack.com/BilboyX/The-Modding-Tree/master/index.html",
         "customUrl": "https://yx.g8hh.com/the-periodic-table-tree/",
@@ -1051,8 +1237,8 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2022-08-03",
-        "version": "1.0.53",
+        "update": "2022-08-22",
+        "version": "1.0.58",
         "path": "immortality-idle",
         "type": [
             "已汉化",
@@ -8438,8 +8624,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2022-07-20",
-        "version": "0.6.13",
+        "update": "2022-08-16",
+        "version": "0.6.14.1",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -9793,8 +9979,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-08-03",
-        "version": "0.9.10",
+        "update": "2022-08-18",
+        "version": "0.9.12",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
