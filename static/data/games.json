@@ -510,7 +510,157 @@
         "status": 1
     },
     {
-        "title": "元素周期表树",
+        "title": "FE000000",
+        "enTitle": "",
+        "date": "2022-08-31",
+        "update": "2022-08-31",
+        "version": "",
+        "path": "fe000000",
+        "type": [
+            "已汉化",
+            "增量"
+        ],
+        "content": [
+            "《FE000000》是《基础》作者的另一个作品，类似《反物质维度》玩法的放置游戏。​"
+        ],
+        "customUrl": "https://yx.g8hh.com/fe000000",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g8hh.github.io/fe000000",
+        "enUrl": "https://dan-simon.github.io/misc/fe000000/index.html",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "尘埃树",
+        "enTitle": "The Dust Tree",
+        "date": "2022-08-29",
+        "update": "2022-08-29",
+        "version": "",
+        "path": "the-dust-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《尘埃树》是一款以灰尘为主题的模组树游戏。锅巴我大致玩了下，游戏有合成、解谜等元素，汉化还在进行中，玩得快的靓仔可以随时发存档给我~​"
+        ],
+        "enUrl": "https://raw.githack.com/chipsams/The-Modding-Tree/master/index.html",
+        "customUrl": "https://yx.g8hh.com/the-dust-tree",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g8hh.github.io/the-dust-tree",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "耀西之门",
+        "enTitle": "The Yoshi Portal",
+        "date": "2022-08-27",
+        "update": "2022-08-27",
+        "version": "",
+        "path": "the-yoshi-portal",
+        "type": [
+            "已汉化",
+            "增量"
+        ],
+        "content": [
+            "《耀西之门》是一款以《超级马里奥》里面的一种恐龙为主角的增量游戏。​",
+            "后面内容比较多，还在补汉化，没事儿就刷新下哈~​"
+        ],
+        "customUrl": "https://yx.g8hh.com/the-yoshi-portal",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g8hh.github.io/the-yoshi-portal",
+        "enUrl": "https://demonins-item-shop.demonin.repl.co/games/theYoshiPortal/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "核电放置重制版",
+        "enTitle": "Reactor Knockoff",
+        "date": "2022-08-26",
+        "update": "2022-08-26",
+        "version": "",
+        "path": "reactor-knockoff",
+        "type": [
+            "已汉化",
+            "点击"
+        ],
+        "content": [
+            "《核电放置重制版》和之前网站上发的那个《反应堆增量》类似。​不过之前那个是Unity制作的，咱们汉化不了，现在这个是h5的，阔以汉化。​"
+        ],
+        "customUrl": "https://yx.g8hh.com/reactor-knockoff",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/reactor-knockoff",
+        "enUrl": "https://raw.githack.com/R93950X/reactor-knockoff/master/index.html",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "编码放置",
+        "enTitle": "Enc0de",
+        "date": "2022-08-22",
+        "update": "2022-08-22",
+        "version": "",
+        "path": "enc0de",
+        "type": [
+            "已汉化",
+            "点击"
+        ],
+        "content": [
+            "Enc0de 是一款用于改进游戏代码的空闲点击游戏。 查看输出的代码及其工作原理，并学习如何成为一名 Web 开发人员。 通过单击输出中的按钮来获得点击次数，并将其用于更改代码，例如添加 HTML、更改 JavaScript（例如每次单击时获得更多点击）以及在 CSS 中添加样式。 ​",
+            "在屏幕底部的控制台里面查看您的成就所。 ​",
+            "获得 1000 万次点击后，您可以解锁终端并安装增强程序的软件包。​",
+            "Enc0de 是一款用于改进游戏代码的空闲点击游戏。 查看输出的代码及其工作原理，并学习如何成为一名 Web 开发人员。 通过单击输出中的按钮来获得点击次数，并将其用于更改代码，例如添加 HTML、更改 JavaScript（例如每次单击时获得更多点击）以及在 CSS 中添加样式。 ​"
+        ],
+        "customUrl": "https://yx.g8hh.com/enc0de",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://play.google.com/store/apps/details?id=app.netlify.enc0de&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+        "customUrlTit2": "安卓版",
+        "zhUrl": "https://gltyx.github.io/enc0de",
+        "enUrl": "https://enc0de.netlify.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "女团树",
         "enTitle": "The Periodic Table Tree",
         "date": "2022-08-22",
         "update": "2022-08-22",
@@ -557,7 +707,7 @@
             "点击"
         ],
         "content": [
-            "《无尽的骰子》是一款回合制的骰子玩法RPG游戏。​"
+            "一款类似放置矿工：重制版的游戏。​"
         ],
         "customUrl": "https://yx.g8hh.com/stonemental",
         "customUrlTit": "备用地址-g8hh",
@@ -665,8 +815,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2022-08-15",
-        "version": "",
+        "update": "2022-08-24",
+        "version": "0.3.3",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -1930,7 +2080,7 @@
         "title": "异星工厂网页版",
         "enTitle": "FG Factory",
         "date": "2022-06-08",
-        "update": "2022-06-08",
+        "update": "2022-08-29",
         "version": "",
         "path": "fgfactory",
         "type": [
@@ -1945,7 +2095,7 @@
         "enUrl": "https://freddecgames.github.io/fgfactory/",
         "customUrl": "https://g1tyx.github.io/fgfactory",
         "customUrlTit": "备用地址-github",
-        "zhUrl": "https://fgfactory.g8hh.com/",
+        "zhUrl": "https://yx.g8hh.com/fgfactory",
         "pic": [
             1,
             2,
@@ -5614,8 +5764,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-08-01",
-        "version": "1.321.1+",
+        "update": "2022-08-30",
+        "version": "2.005",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -6427,7 +6577,7 @@
     {
         "title": "马基埃亚尔的传说",
         "enTitle": "Tales of Maj'Eyal",
-        "date": "202-08-24",
+        "date": "2020-08-24",
         "update": "2021-06-29",
         "version": "1.7.4",
         "path": "tales-of-maj-Eyal",
@@ -8624,8 +8774,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2022-08-16",
-        "version": "0.6.14.1",
+        "update": "2022-08-30",
+        "version": "0.6.15",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -9436,8 +9586,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-07-11",
-        "version": "0.4",
+        "update": "2022-08-29",
+        "version": "0.6.1",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -10722,7 +10872,7 @@
         "title": "旅行者放置",
         "enTitle": "Idle Traveller",
         "date": "2020-06-17",
-        "update": "2020-06-18",
+        "update": "2022-08-25",
         "version": "1.0.46",
         "path": "idle-traveller",
         "type": [
@@ -10738,7 +10888,9 @@
         "content": [
             "游戏里你模拟一个旅行者，通过走的距离来升级你的交通工具，通过转生获得加成，游戏还是挺有意思的。"
         ],
-        "zhUrl": "https://yx.g8hh.com/idle-traveller/",
+        "zhUrl": "https://gltyx.github.io/idle-traveller/",
+        "customUrl": "https://yx.g8hh.com/idle-traveller/",
+        "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://naoxink.github.io/idle-traveller/",
         "pic": [
             1,
