@@ -510,6 +510,97 @@
         "status": 1
     },
     {
+        "title": "Nordicandia",
+        "enTitle": "",
+        "date": "2022-09-06",
+        "update": "2022-09-06",
+        "version": "",
+        "path": "nordicandia",
+        "type": [
+            "Steam"
+        ],
+        "content": [
+            "收集史诗战利品、制作和合并物品，并升级你的角色以击败世界首领！",
+            "您的角色将自动瞄准和攻击怪物，您可以在战略时刻点击移动并使用技能和药水。 尽可能多地积极玩耍（没有限制能量系统），或者让您的角色即使在您不玩的时候也能获得经验和战利品！ 使用铁匠铺的精华将一件物品的统计数据合并到另一件物品，并使用遗物进一步强化您的装备！",
+            "以强大的战士、敏捷的猎人或强大的法师的身份冒险。 分配属性以使您的角色专业化，并随着您的进步解锁独特的主动和被动技能。 在许多不同的世界中与野兽、恶魔、兽人、龙等战斗，并击败最凶猛的 Boss 以获得史诗般的奖励！",
+            "在赛季和排行榜中与其他玩家竞争并获得史诗般的奖励，没有等级上限！ 对于寻求刺激的人，还有硬核模式，您只有 1 次机会。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1503790",
+        "customUrl": "https://play.google.com/store/apps/details?id=com.IterativeStudios.Nordicandia&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
+        "customUrlTit": "安卓版",
+        "customUrl2": "https://apps.apple.com/app/nordicandia-semi-idle-rpg/id1561347553",
+        "customUrlTit2": "iOS版",
+        "customUrl3": "https://www.nordicandia.com/",
+        "customUrlTit3": "官网",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1
+    },
+    {
+        "title": "香料放置",
+        "enTitle": "Spice Idle",
+        "date": "2022-09-05",
+        "update": "2022-09-05",
+        "version": "1.0.1",
+        "path": "spice-idle",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "《香料放置》是《经验模拟器》作者的另一个作品，目前来看，游戏比较肝，你的肝准备好了吗？​",
+            "后面发现没汉化的地方可以先保存、刷新下看看汉化有木有更新；如果没有，请发存档给我~​"
+        ],
+        "customUrl": "https://yx.g8hh.com/spice-idle",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g8hh.github.io/spice-idle",
+        "enUrl": "http://zakuro98.github.io/Spice-Idle/",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
+        "title": "汉字炼金术",
+        "enTitle": "Chinese Character Alchemy",
+        "date": "2022-09-02",
+        "update": "2022-09-02",
+        "version": "",
+        "path": "chinese-character-alchemy",
+        "type": [
+            "已汉化",
+            "益智",
+            "增量"
+        ],
+        "content": [
+            "《汉字炼金术》是一个老少皆宜的偏旁造汉字的游戏，锅巴觉得很适合小学生玩，可以帮助他们认字、识字。​"
+        ],
+        "customUrl": "https://yx.g8hh.com/chinese-character-alchemy",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g8hh.github.io/chinese-character-alchemy",
+        "enUrl": "https://spotky1004.com/Chinese-Character-Alchemy",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "FE000000",
         "enTitle": "",
         "date": "2022-08-31",
@@ -699,8 +790,8 @@
         "title": "石头增量",
         "enTitle": "Stonemental",
         "date": "2022-08-19",
-        "update": "2022-08-19",
-        "version": "",
+        "update": "2022-09-06",
+        "version": "0.2",
         "path": "stonemental",
         "type": [
             "已汉化",
@@ -1356,7 +1447,7 @@
         "title": "循环放置3",
         "enTitle": "Omsi Loops",
         "date": "2022-07-18",
-        "update": "2022-07-26",
+        "update": "2022-09-01",
         "version": "2.9",
         "path": "omsi-loops",
         "type": [
@@ -1387,8 +1478,8 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2022-08-22",
-        "version": "1.0.58",
+        "update": "2022-09-05",
+        "version": "1.0.61",
         "path": "immortality-idle",
         "type": [
             "已汉化",
@@ -2904,8 +2995,8 @@
         "title": "机械装置",
         "enTitle": "Machinery",
         "date": "2022-04-01",
-        "update": "2022-04-01",
-        "version": "0.99.1",
+        "update": "2022-09-04",
+        "version": "0.99.5",
         "path": "machinery",
         "type": [
             "汉化中",
@@ -3973,8 +4064,8 @@
         "title": "我在西伯利亚种土豆",
         "enTitle": "One Potato Incremental",
         "date": "2022-01-06",
-        "update": "2021-05-28",
-        "version": "0.2.1",
+        "update": "2022-09-01",
+        "version": "0.3.0",
         "path": "one-potato-incremental",
         "type": [
             "汉化中",
@@ -9586,8 +9677,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-08-29",
-        "version": "0.6.1",
+        "update": "2022-08-30",
+        "version": "0.6.2",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -10129,8 +10220,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-08-18",
-        "version": "0.9.12",
+        "update": "2022-09-02",
+        "version": "0.9.14",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
