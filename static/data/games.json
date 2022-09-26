@@ -510,6 +510,188 @@
         "status": 1
     },
     {
+        "title": "拉卡尼休",
+        "enTitle": "Rakanishu",
+        "date": "2022-09-26",
+        "update": "2022-09-26",
+        "version": "",
+        "path": "rakanishu",
+        "type": [
+            "汉化中",
+            "放置"
+        ],
+        "content": [
+            "拉卡尼休，英文名Rakanishu ，出自暗黑破坏神2，守着崔斯特瑞姆入口的五根石柱。​"
+        ],
+        "customUrl": "https://yx.g8hh.com/rakanishu/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/rakanishu",
+        "enUrl": "https://rakanishu.netlify.app",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "卡牌弹射器放置",
+        "enTitle": "Cards N Catapults Idle",
+        "date": "2022-09-24",
+        "update": "2022-09-24",
+        "version": "",
+        "path": "cards-n-catapults-idle",
+        "type": [
+            "汉化中",
+            "放置"
+        ],
+        "content": [
+            "《卡牌弹射器放置》是一款类似于《怪物卡牌放置》玩法的放置游戏。​"
+        ],
+        "customUrl": "https://yx.g8hh.com/cards-n-catapults-idle/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/cards-n-catapults-idle",
+        "enUrl": "https://rybadour.github.io/cards-n-catapults-idle",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "PickCrafter",
+        "enTitle": "",
+        "date": "2022-09-23",
+        "update": "2022-09-23",
+        "version": "",
+        "path": "pickcrafter",
+        "type": [
+            "Steam",
+            "安卓",
+            "苹果",
+            "点击"
+        ],
+        "content": [
+            "在 PickCrafter 中开采宝石、收集镐并发现充满宝藏的生物群落！",
+            "Steam版免费有中文，手机版国区似乎都下架了？"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/734750/PickCrafter/",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.fiveamp.pickcrafterapp",
+        "customUrlTit2": "安卓版",
+        "customUrl3": "https://apps.apple.com/us/app/pickcrafter-idle-craft-rpg/id848728690",
+        "customUrlTit3": "iOS版",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "JSNES，JS编写的FC游戏模拟器",
+        "enTitle": "",
+        "date": "2022-09-23",
+        "update": "2022-09-23",
+        "version": "",
+        "path": "jsnes",
+        "type": [
+            "模拟",
+            "动作"
+        ],
+        "content": [
+            "​JSNES， 一个用 Javascript 写成的小霸王游戏机模拟器。",
+            "界面可以适配手机，整体来看，js能做到这样子确实厉害。"
+        ],
+        "customUrl": "https://static.oschina.net/trytry/jsnes/src/",
+        "customUrlTit": "开始游戏",
+        "oscUrl": "https://www.oschina.net/p/jsnes",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "鱼了个鱼 - 羊了个羊网页单机版",
+        "enTitle": "",
+        "date": "2022-09-21",
+        "update": "2022-09-21",
+        "version": "",
+        "path": "yulegeyu",
+        "type": [
+            "益智",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "《鱼了个鱼》是当前红极一时的小游戏《羊了个羊》的仿作，这个版本是网页、单机版的。​",
+            "游戏底部有源码仓库链接，感兴趣的朋友可以Fork学习，欢迎大家给作者点个Star。​",
+            "游戏特色：支持选择难度（4 种），支持自定义难度，支持自定义动物图案（比如 🐔🏀），可以无限使用技能（道具），不需要看广告，能通关​."
+        ],
+        "customUrl3": "https://www.yulegeyu.cn/#/",
+        "customUrlTit3": "原版简陋版",
+        "customUrl": "https://g1tyx.github.io/yulegeyu/",
+        "customUrlTit": "锅巴美化版",
+        "customUrl2": "https://yx.g8hh.com/yulegeyu/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "118元素周期表树",
+        "enTitle": "",
+        "date": "2022-09-21",
+        "update": "2022-09-25",
+        "version": "6.0",
+        "path": "yuansu-tree",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是群友自制的一个模组树，模板是把118个元素都做出来，现在暂时只做了6个元素。",
+            "作者：这更像是一个科普向的作品。",
+            "作者就是上次《修真模拟器：凡界篇》的作者。"
+        ],
+        "customUrl": "https://yx.g8hh.com/yuansu-tree",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/yuansu-tree",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "像素放置",
         "enTitle": "Idle Pixel",
         "date": "2022-09-20",
@@ -818,8 +1000,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2022-09-05",
-        "version": "1.0.1",
+        "update": "2022-09-22",
+        "version": "1.1.1",
         "path": "spice-idle",
         "type": [
             "已汉化",
@@ -6124,8 +6306,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-08-30",
-        "version": "2.005",
+        "update": "2022-09-23",
+        "version": "2.010",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -7738,8 +7920,8 @@
         "title": "太空公司NG",
         "enTitle": "NG Space Company",
         "date": "2021-06-28",
-        "update": "2021-11-29",
-        "version": "1.37.0",
+        "update": "2022-09-22",
+        "version": "1.37.1",
         "path": "ng-space-company",
         "type": [
             "已汉化",
@@ -9134,8 +9316,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2022-08-30",
-        "version": "0.6.15",
+        "update": "2022-09-20",
+        "version": "0.6.16",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -10489,8 +10671,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-09-02",
-        "version": "0.9.14",
+        "update": "2022-09-21",
+        "version": "0.9.16",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
