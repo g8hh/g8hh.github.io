@@ -510,6 +510,33 @@
         "status": 1
     },
     {
+        "title": "十二龙",
+        "enTitle": "Dodeca Dragons",
+        "date": "2022-09-28",
+        "update": "2022-09-28",
+        "version": "",
+        "path": "dodeca-dragons",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "这个游戏有点肝！这也是一款Windows 98风格的放置游戏，之前同样风格的还有《无尽的楼梯间》《钱包矿工》等等。"
+        ],
+        "customUrl": "https://yx.g8hh.com/dodeca-dragons/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/dodeca-dragons",
+        "enUrl": "https://demonins-item-shop.demonin.repl.co/games/dodecaDragons",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "拉卡尼休",
         "enTitle": "Rakanishu",
         "date": "2022-09-26",
@@ -659,8 +686,8 @@
         "title": "118元素周期表树",
         "enTitle": "",
         "date": "2022-09-21",
-        "update": "2022-09-25",
-        "version": "6.0",
+        "update": "2022-09-27",
+        "version": "7.0",
         "path": "yuansu-tree",
         "type": [
             "放置",
@@ -671,7 +698,7 @@
             "声望树"
         ],
         "content": [
-            "这是群友自制的一个模组树，模板是把118个元素都做出来，现在暂时只做了6个元素。",
+            "这是群友自制的一个模组树，目标是把118个元素都做出来，现在暂时只做了7个元素。",
             "作者：这更像是一个科普向的作品。",
             "作者就是上次《修真模拟器：凡界篇》的作者。"
         ],
@@ -6306,8 +6333,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-09-23",
-        "version": "2.010",
+        "update": "2022-09-27",
+        "version": "2.011",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -7941,7 +7968,6 @@
             "比原版多了用户排行榜功能，不过汉化版有跨域问题，我就把它拿掉了，等我汉化完就把汉化文件提交给作者，这样大家就能愉快的玩耍了~"
         ],
         "zhUrl": "https://g8hh.github.io/NGSpaceCompany/",
-        "enUrl": "https://ngspacecompany.exileng.com/",
         "customUrl": "https://ng-space-company.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
@@ -12746,7 +12772,6 @@
             "本游戏不会自动保存，所以，刷新、关闭前请手动点“保存”按钮，否则会丢档。"
         ],
         "zhUrl": "https://yx.g8hh.com/idletea",
-        "kUrl": "http://naoxink.ga/idletea/?lang=en",
         "pic": [
             1,
             2
