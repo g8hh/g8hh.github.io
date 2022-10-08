@@ -510,11 +510,101 @@
         "status": 1
     },
     {
+        "title": "阳光增量，群友自制",
+        "enTitle": "",
+        "date": "2022-10-06",
+        "update": "2022-10-06",
+        "version": "0.514",
+        "path": "sunshine-incremental",
+        "type": [
+            "原创",
+            "放置"
+        ],
+        "content": [
+            "群友 @死亡如风，常伴吾身 自制的小游戏一个​，欢迎体验~"
+        ],
+        "customUrl": "https://g1tyx.github.io/sunshine-incremental/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://yx.g8hh.com/sunshine-incremental",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "软上限增量，群友自制",
+        "enTitle": "",
+        "date": "2022-10-06",
+        "update": "2022-10-08",
+        "version": "1.7.31",
+        "path": "softcap-incremental",
+        "type": [
+            "原创",
+            "放置"
+        ],
+        "content": [
+            "群里的小伙伴写的游戏，欢迎大家体验~",
+            "存档导入方法：点击S选项，选择需要导入的存档，并再次点击左上角绿旗。",
+            "简介：",
+            "这个游戏的模式是反向的，在规定时间内阻止点数达到无限。通过获取转生点和电脑的灵魂等方式来阻碍点数的增长。",
+            "右上角按钮提示：",
+            "T 点击加速时间",
+            "R 点击会给点数开一个次方根",
+            "S 存档银行，输入数字后点击绿旗即可导入对应存档",
+            "A 成就，点击可查看。"
+        ],
+        "customUrl": "https://g1tyx.github.io/softcap-incremental/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://yx.g8hh.com/softcap-incremental/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "农夫大战土豆放置",
+        "enTitle": "Farmer Against Potatoes Idle",
+        "date": "2022-09-29",
+        "update": "2022-09-29",
+        "version": "",
+        "path": "farmer-against-potatoes-idle",
+        "type": [
+            "Steam",
+            "中文",
+            "点击"
+        ],
+        "content": [
+            "拿起你的剑，通过不断升级你的状态来对抗一波又一波的土豆，使用丰富的装备，在不同特点的职业之间进行选择，擅用你的诸多天赋，还有更多的设计，让你在很长一段时间内保持欢乐。",
+            "Steam中文游戏，截图是英文而已。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1535560/Farmer_Against_Potatoes_Idle/",
+        "customUrl": "https://play.google.com/store/apps/details?id=com.oninou.FAPI&hl=en_CA&gl=US",
+        "customUrlTit": "安卓版下载",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2022-09-28",
-        "version": "",
+        "update": "2022-10-02",
+        "version": "0.4.2",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
