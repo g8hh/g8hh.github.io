@@ -510,6 +510,34 @@
         "status": 1
     },
     {
+        "title": "铁木RPG",
+        "enTitle": "Ironwood RPG",
+        "date": "2022-10-08",
+        "update": "2022-10-08",
+        "version": "",
+        "path": "ironwoodrpg",
+        "type": [
+            "汉化中",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "​《Ironwood RPG》从各种流行游戏中汲取灵感的空闲/增量 MMORPG，目测是受到《梅尔沃放置》的影响~",
+            "游戏还在更新中，数值可能不够优秀，等作者慢慢更新、优化吧~"
+        ],
+        "customUrl": "https://note.youdao.com/s/QVsUFZ1x",
+        "customUrlTit": "汉化脚本/方式",
+        "enUrl": "https://ironwoodrpg.com/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "阳光增量，群友自制",
         "enTitle": "",
         "date": "2022-10-06",
