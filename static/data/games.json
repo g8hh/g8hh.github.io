@@ -510,6 +510,33 @@
         "status": 1
     },
     {
+        "title": "亿万香蕉放置",
+        "enTitle": "A Billion Bananas",
+        "date": "2022-10-10",
+        "update": "2022-10-10",
+        "version": "1.0",
+        "path": "bananas-classic",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "这个游戏有点肝！这也是一款Windows 98风格的放置游戏，之前同样风格的还有《无尽的楼梯间》《钱包矿工》等等。"
+        ],
+        "customUrl": "https://yx.g8hh.com/bananas-classic/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/bananas-classic",
+        "enUrl": "https://louigiverona.com/bananas/bananas_classic/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "铁木RPG",
         "enTitle": "Ironwood RPG",
         "date": "2022-10-08",
@@ -631,8 +658,8 @@
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2022-10-02",
-        "version": "0.4.2",
+        "update": "2022-10-08",
+        "version": "0.4.3",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -1082,8 +1109,8 @@
         "title": "活性测试",
         "enTitle": "Inactive Testing",
         "date": "2022-09-07",
-        "update": "2022-09-07",
-        "version": "0.0.5.1",
+        "update": "2022-10-10",
+        "version": "0.0.6",
         "path": "inactive-testing",
         "type": [
             "已汉化",
@@ -1145,8 +1172,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2022-09-22",
-        "version": "1.1.1",
+        "update": "2022-10-10",
+        "version": "1.1.2",
         "path": "spice-idle",
         "type": [
             "已汉化",
@@ -4306,7 +4333,7 @@
         "title": "筑基",
         "enTitle": "Zhu Ji",
         "date": "2022-01-21",
-        "update": "2022-01-21",
+        "update": "2022-10-09",
         "version": "0.0.1",
         "path": "zhu-ji",
         "type": [
@@ -4321,8 +4348,12 @@
             "《魔法理论群》的 @Mr.Pldada 小伙伴在《魔法理论群》的基础上进行了二次开发，搞了一个修仙版本。",
             "目前还在开发中，锅巴特此推荐~欢迎小伙伴们体验！"
         ],
-        "customUrl": "http://mostlai.ink/HD-TEST/",
+        "customUrl": "https://mostlai.github.io/HD-TEST/",
         "customUrlTit": "开始游戏",
+        "customUrl2": "https://hd-test.g8hh.com/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "http://mostlai.ink/HD-TEST/",
+        "customUrlTit3": "旧地址域名过期",
         "customUrl4": "https://qm.qq.com/cgi-bin/qm/qr?k=_WETFhR5KeqdgsMcbxUgIltMCRA_Py3Y&jump_from=webapi",
         "customUrlTit4": "加入魔法理论群",
         "QQ": "281738137",
@@ -6451,8 +6482,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-09-27",
-        "version": "2.011",
+        "update": "2022-10-08",
+        "version": "2.013",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
