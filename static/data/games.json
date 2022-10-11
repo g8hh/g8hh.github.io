@@ -510,6 +510,33 @@
         "status": 1
     },
     {
+        "title": "科技进化放置，群友自制",
+        "enTitle": "",
+        "date": "2022-10-11",
+        "update": "2022-10-11",
+        "version": "0.2.5",
+        "path": "technology-evole",
+        "type": [
+            "原创",
+            "放置"
+        ],
+        "content": [
+            "《科技进化放置》是群友 @溜溜溜达嘿 用编程猫自制的一款放置游戏，锅巴表示很敬佩。",
+            "游戏还在开发中，期间可能会出现bug、数值不合理等问题，这都是正常现象。"
+        ],
+        "customUrl": "https://g1tyx.github.io/technology-evole/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://yx.g8hh.com/technology-evole/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
         "title": "亿万香蕉放置",
         "enTitle": "A Billion Bananas",
         "date": "2022-10-10",
@@ -658,8 +685,8 @@
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2022-10-08",
-        "version": "0.4.3",
+        "update": "2022-10-10",
+        "version": "0.4.4",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -831,8 +858,8 @@
         "title": "118元素周期表树",
         "enTitle": "",
         "date": "2022-09-21",
-        "update": "2022-09-27",
-        "version": "7.0",
+        "update": "2022-10-11",
+        "version": "8.0",
         "path": "yuansu-tree",
         "type": [
             "放置",
@@ -6482,8 +6509,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-10-08",
-        "version": "2.013",
+        "update": "2022-10-11",
+        "version": "2.015",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -10846,8 +10873,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-09-21",
-        "version": "0.9.16",
+        "update": "2022-10-10",
+        "version": "0.9.18",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
