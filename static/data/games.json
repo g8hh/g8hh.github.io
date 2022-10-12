@@ -510,6 +510,33 @@
         "status": 1
     },
     {
+        "title": "亿万香蕉放置",
+        "enTitle": "A Billion Bananas",
+        "date": "2022-10-12",
+        "update": "2022-10-12",
+        "version": "1.0",
+        "path": "bananas-classic",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "这是一个关于建立自己的咨询公司和大数字的游戏。 放置和增量机制可以持续玩几个月。 在解锁所有机制的同时探索不同的策略。"
+        ],
+        "customUrl": "https://yx.g8hh.com/idle-consulting/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/idle-consulting",
+        "enUrl": "https://ozzy2.itch.io/idle-consulting",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "科技进化放置，群友自制",
         "enTitle": "",
         "date": "2022-10-11",
