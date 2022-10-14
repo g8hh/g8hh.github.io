@@ -510,6 +510,63 @@
         "status": 1
     },
     {
+        "title": "死灵法师放置",
+        "enTitle": "Idle Necromancer",
+        "date": "2022-10-14",
+        "update": "2022-10-14",
+        "version": "1.0.1",
+        "path": "idle-necromancer",
+        "type": [
+            "已汉化",
+            "放置",
+            "卡牌"
+        ],
+        "content": [
+            "这是一款太空射击放置游戏。 这个游戏在任务期间的活跃度较低。一旦你选择了你的任务和你的飞船，你就不需要做任何其他事情了。 非常适合在做其他事情时让它在后台运行。",
+            "击败任务目标，为您的飞船赢得经验、升级点数和更好的装备。"
+        ],
+        "customUrl": "https://yx.g8hh.com/idle-necromancer",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/idle-necromancer",
+        "enUrl": "https://cutfuji-games.itch.io/idle-necromancer",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "太空大战放置",
+        "enTitle": "Idle War",
+        "date": "2022-10-14",
+        "update": "2022-10-14",
+        "version": "0.4e",
+        "path": "idle-war",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "这是一款太空射击放置游戏。 这个游戏在任务期间的活跃度较低。一旦你选择了你的任务和你的飞船，你就不需要做任何其他事情了。 非常适合在做其他事情时让它在后台运行。",
+            "击败任务目标，为您的飞船赢得经验、升级点数和更好的装备。"
+        ],
+        "customUrl": "https://yx.g8hh.com/idle-war",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/idle-war",
+        "enUrl": "https://oscarolim.itch.io/idle-war",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "力量之源",
         "enTitle": "Items Of Power",
         "date": "2022-10-13",
@@ -616,7 +673,7 @@
         "date": "2022-10-12",
         "update": "2022-10-12",
         "version": "1.0",
-        "path": "bananas-classic",
+        "path": "idle-consulting",
         "type": [
             "已汉化",
             "放置"
