@@ -510,6 +510,61 @@
         "status": 1
     },
     {
+        "title": "领土之战",
+        "enTitle": "Chiato Inc Game",
+        "date": "2022-10-19",
+        "update": "2022-10-19",
+        "version": "",
+        "path": "chiato-inc-game",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "建造兵营，招募士兵，近攻敌人，占领更多领土。",
+            "游戏还在开发中~"
+        ],
+        "customUrl": "https://yx.g8hh.com/chiato-inc-game",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/chiato-inc-game",
+        "enUrl": "https://mrchiato.github.io/ChiatoIncGame/",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
+        "title": "货币经理模拟器",
+        "enTitle": "Crypto Manager Simulator",
+        "date": "2022-10-17",
+        "update": "2022-10-17",
+        "version": "0.4e",
+        "path": "crypto-manager-simulator",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "在 货币经理模拟器 中，您扮演想要致富的货币爱好者的角色。",
+            "您已经了解了新货币 数字货币 并想用它赚大钱。 您可以在当前的市场发展中奋力拼搏，也可以通过自己的搜索来弄脏自己的手。",
+            "你能取得重大突破吗？"
+        ],
+        "customUrl": "https://yx.g8hh.com/crypto-manager-simulator",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/crypto-manager-simulator",
+        "enUrl": "https://darkheartgames.itch.io/crypto-manager-simulator",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
         "title": "死灵法师放置",
         "enTitle": "Idle Necromancer",
         "date": "2022-10-14",
@@ -1052,8 +1107,8 @@
         "title": "118元素周期表树",
         "enTitle": "",
         "date": "2022-09-21",
-        "update": "2022-10-11",
-        "version": "8.0",
+        "update": "2022-10-19",
+        "version": "9.3",
         "path": "yuansu-tree",
         "type": [
             "放置",
@@ -1448,7 +1503,7 @@
         "title": "FE000000",
         "enTitle": "",
         "date": "2022-08-31",
-        "update": "2022-08-31",
+        "update": "2022-10-18",
         "version": "",
         "path": "fe000000",
         "type": [
@@ -5267,7 +5322,8 @@
     {
         "title": "商店放置",
         "enTitle": "Shop Idle",
-        "update": "2021-12-13",
+        "date": "2021-12-13",
+        "update": "2022-10-18",
         "path": "shop-idle",
         "type": [
             "放置",
@@ -5289,7 +5345,11 @@
         "customUrlTit4": "百度网盘-安卓版",
         "pic": [
             1,
-            2
+            2,
+            3,
+            4,
+            5,
+            6
         ],
         "status": 1
     },
@@ -6703,8 +6763,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-10-11",
-        "version": "2.015",
+        "update": "2022-10-18",
+        "version": "2.016",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -10589,7 +10649,7 @@
         "title": "能量发生器",
         "enTitle": "Energy Generator",
         "date": "2021-01-27",
-        "update": "2022-03-22",
+        "update": "2022-10-17",
         "version": "",
         "path": "energy-generator",
         "type": [
