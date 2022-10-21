@@ -510,6 +510,33 @@
         "status": 1
     },
     {
+        "title": "化学增量",
+        "enTitle": "Chemcremental",
+        "date": "2022-10-21",
+        "update": "2022-10-21",
+        "version": "1.0",
+        "path": "chemcremental",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "《化学增量》是之前《鸡蛋公司》《活性测试》《增量军团》作者的又一款游戏。"
+        ],
+        "customUrl": "https://yx.g8hh.com/chemcremental",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/chemcremental",
+        "enUrl": "https://mrbacon470.github.io/Chemcremental-JS/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "领土之战",
         "enTitle": "Chiato Inc Game",
         "date": "2022-10-19",
@@ -522,6 +549,7 @@
         ],
         "content": [
             "建造兵营，招募士兵，近攻敌人，占领更多领土。",
+            "什么？兵多打不过兵少？请去设置里面勾选：启用建筑物和升级的详细文本，就能看到战斗的胜率了~",
             "游戏还在开发中~"
         ],
         "customUrl": "https://yx.g8hh.com/chiato-inc-game",
@@ -1107,8 +1135,8 @@
         "title": "118元素周期表树",
         "enTitle": "",
         "date": "2022-09-21",
-        "update": "2022-10-19",
-        "version": "9.3",
+        "update": "2022-10-20",
+        "version": "9.5",
         "path": "yuansu-tree",
         "type": [
             "放置",
@@ -10584,8 +10612,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-08-30",
-        "version": "0.6.2",
+        "update": "2022-10-20",
+        "version": "0.6.6",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -11870,7 +11898,7 @@
         "title": "旅行者放置",
         "enTitle": "Idle Traveller",
         "date": "2020-06-17",
-        "update": "2022-08-25",
+        "update": "2022-10-19",
         "version": "1.0.46",
         "path": "idle-traveller",
         "type": [
@@ -14940,8 +14968,10 @@
         "content": [
             "这是一款放置型经营游戏，你可以通过购买各种饵料、钓具，逐步探索各种钓鱼场地。"
         ],
-        "zhUrl": "https://yx.g8hh.com/fish/fish.html",
-        "enUrl": "https://mrsperry.github.io/fish/fish.html",
+        "zhUrl": "https://gltyx.github.io/fish/fish/fish.html",
+        "customUrl": "https://yx.g8hh.com/fish/fish.html",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://mrsperry.github.io/fishing-enterprises/s",
         "pic": [
             1,
             2
