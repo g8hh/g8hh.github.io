@@ -510,6 +510,34 @@
         "status": 1
     },
     {
+        "title": "巫术放置",
+        "enTitle": "Idle Mancery",
+        "date": "2022-10-24",
+        "update": "2022-10-24",
+        "version": "0.0.3",
+        "path": "idle-mancery",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "曾几何时，你认出自己独自一人在森林里，除了求生的意志之外一无所有。 走你的道路，从生死边缘到假装统治世界的强大法师。",
+            "重要提示：游戏处于早期开发阶段，因此可能存在错误和故障。 不要忘记导出您的存档以确保您不会丢失进度。"
+        ],
+        "customUrl": "https://yx.g8hh.com/idle-mancery",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/idle-mancery",
+        "enUrl": "https://strangemattergaming.itch.io/idlemancery",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "化学增量",
         "enTitle": "Chemcremental",
         "date": "2022-10-21",
@@ -712,7 +740,7 @@
         ],
         "customUrl": "https://yx.g8hh.com/idle-numbers/",
         "customUrlTit": "备用地址-g8hh",
-        "zhUrl": "https://g1tyx.github.io/idle-numbers/",
+        "zhUrl": "https://gltyx.github.io/idle-numbers/",
         "enUrl": "https://ozzy2.itch.io/idlenumbers",
         "pic": [
             1,
@@ -962,8 +990,8 @@
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2022-10-10",
-        "version": "0.4.4",
+        "update": "2022-10-24",
+        "version": "0.5.0",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -1135,8 +1163,8 @@
         "title": "118元素周期表树",
         "enTitle": "",
         "date": "2022-09-21",
-        "update": "2022-10-20",
-        "version": "9.5",
+        "update": "2022-10-23",
+        "version": "10.0",
         "path": "yuansu-tree",
         "type": [
             "放置",
@@ -11155,8 +11183,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-10-10",
-        "version": "0.9.18",
+        "update": "2022-10-22",
+        "version": "0.10.0",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -15641,7 +15669,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/coloridle/",
+        "zhUrl": "https://gltyx.github.io/coloridle/",
+        "customUrl": "https://yx.g8hh.com/coloridle/",
+        "customUrlTit": "备用地址-g8hh",
         "kUrl": "https://www.kongregate.com/games/Myafkish/hex-color-idle?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
