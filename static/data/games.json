@@ -510,6 +510,91 @@
         "status": 1
     },
     {
+        "title": "狂人之塔",
+        "enTitle": "Tower Of Insanity",
+        "date": "2022-10-25",
+        "update": "2022-10-25",
+        "version": "",
+        "path": "tower-of-insanity",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击"
+        ],
+        "content": [
+            "这是一个由 Dystopia-user181 制作的增量游戏，这是我见过第一个基于汉字拆分的放置增量游戏。GSUI5051 修了一些 bug, 然后把它翻译成中文。",
+            "问题：",
+            "不能自动存档，需要手动点保存按钮。",
+            "不能导入导出存档，也不能重置存档（可以去控制台的本地存储里面导出、删除，key名是：rpgInc）。",
+            "未翻译游戏中的时间单位。"
+        ],
+        "customUrl": "https://yx.g8hh.com/tower-of-insanity",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/tower-of-insanity",
+        "enUrl": "https://gsui5051.github.io/Tower-of-Insanity-zhCN/index-en.html",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "豆字增量",
+        "enTitle": "Bean Incremental",
+        "date": "2022-10-25",
+        "update": "2022-10-25",
+        "version": "",
+        "path": "bean-incremental",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击"
+        ],
+        "content": [
+            "这是一个由 Dystopia-user181 制作的增量游戏，这是我见过第一个基于汉字拆分的放置增量游戏。GSUI5051 修了一些 bug, 然后把它翻译成中文。",
+            "群里小伙伴 @χγζ5051 汉化的，咱们收录一下。"
+        ],
+        "customUrl": "https://yx.g8hh.com/bean-incremental/index-zh.html",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/bean-incremental/index-zh.html",
+        "enUrl": "https://gsui5051.github.io/Bean-Incremental/",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "零号病人",
+        "enTitle": "Patient Zero",
+        "date": "2022-10-25",
+        "update": "2022-10-25",
+        "version": "",
+        "path": "idle-mancery",
+        "type": [
+            "已汉化",
+            "放置",
+            "策略"
+        ],
+        "content": [
+            "《零号病人》是一款关于假流行病学的游戏。一种致命的、无法治愈的疾病袭击了这个社区，你的工作是在它杀死超过 75% 的人口之前阻止它的传播。"
+        ],
+        "customUrl": "https://yx.g8hh.com/patient-zero",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/patient-zero",
+        "enUrl": "https://btwj.itch.io/patient-zero",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "巫术放置",
         "enTitle": "Idle Mancery",
         "date": "2022-10-24",
@@ -998,7 +1083,8 @@
             "放置"
         ],
         "content": [
-            "这个游戏有点肝！这也是一款Windows 98风格的放置游戏，之前同样风格的还有《无尽的楼梯间》《钱包矿工》等等。"
+            "这个游戏有点肝！这也是一款Windows 98风格的放置游戏，之前同样风格的还有《无尽的楼梯间》《钱包矿工》等等。",
+            "注意：十二龙现在加载存档比较慢，刚开始会显示初始的界面，要等十几秒才会加载好存档。期间千万别乱点，点了就真的丢档了。"
         ],
         "customUrl": "https://yx.g8hh.com/dodeca-dragons/",
         "customUrlTit": "备用地址-g8hh",
@@ -11071,7 +11157,9 @@
         "content": [
             "游戏玩法是买车、参加比赛赚钱、用钱买车库、升级车辆、购买更好的车，最后达成60个成就，达到人生巅峰！"
         ],
-        "zhUrl": "https://yx.g8hh.com/idle-racing",
+        "customUrl": "https://yx.g8hh.com/idle-racing",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/idle-racing/",
         "enUrl": "https://idleracing.netlify.app/",
         "pic": [
             1,
@@ -13729,7 +13817,7 @@
         "enTitle": "Villager Kings",
         "date": "2019-06-08",
         "update": "2019-12-24",
-        "version": "1.3.7",
+        "version": "1.3.9",
         "path": "villager-kings",
         "type": [
             "已汉化",
