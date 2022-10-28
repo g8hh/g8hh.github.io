@@ -510,6 +510,172 @@
         "status": 1
     },
     {
+        "title": "破坏地球",
+        "enTitle": "Trash The Planet",
+        "date": "2022-10-28",
+        "update": "2022-10-28",
+        "version": "2.0.1",
+        "path": "trash-the-planet",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击"
+        ],
+        "content": [
+            "《破坏地球》是一款资源管理游戏，它颠覆了点击器机制来服务于它的叙述而不是操纵玩家。",
+            "你扮演一群浣熊，他们开始收集垃圾并最终统治地球。 帮助浣熊社会以惊人的速度发展，随着数量的增加而惊叹，并学习如何在没有任何后果的情况下操纵股市。",
+            "为了获得最佳体验，我们建议使用 Firefox 或 Chrome。 该游戏可能也可以在其他浏览器中运行，但请注意：它可能会变得很奇怪。",
+            "控制",
+            "您将主要在这里使用鼠标，但我们也加入了一些键盘控件。 按住 option 或 ctrl 查看热键。",
+            "按 Tab 打开或关闭选项屏幕。 这也会暂停游戏。",
+            "按 F 切换全屏模式。",
+            "除了手动保存之外，《破坏地球》还包括自动保存功能。 随意关闭您的浏览器，稍后再回来，您就可以从上次停下的地方继续。"
+        ],
+        "customUrl": "https://yx.g8hh.com/trash-the-planet",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/trash-the-planet",
+        "enUrl": "https://thisgameishaunted.itch.io/trash-the-planet",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "怪物与市长",
+        "enTitle": "Monsters And Mayors",
+        "date": "2022-10-28",
+        "update": "2022-10-28",
+        "version": "",
+        "path": "monsters-and-mayors",
+        "type": [
+            "英文",
+            "联网"
+        ],
+        "content": [
+            "一款带有放置、卡牌、英雄、冒险等元素的联网网页游戏；适配手机界面，手机党狂喜，可以用手机谷歌浏览器，通过书签导入法进行汉化~。",
+            "锅巴玩了一下感觉还不错，所以汉化了一下给大家玩。",
+            "汉化还在进行中，部分文本机翻痕迹较大，欢迎指正~",
+            "英文能力好的小伙伴，建议玩英文版，哈哈！"
+        ],
+        "customUrl": "https://monsters-and-mayors.com/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://note.youdao.com/s/BvcNqegB",
+        "customUrlTit2": "外部汉化脚本",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "甘蓝农夫放置",
+        "enTitle": "Kale Farmer",
+        "date": "2022-10-27",
+        "update": "2022-10-27",
+        "version": "",
+        "path": "kale-farmer",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击"
+        ],
+        "content": [
+            "这是一款模拟农夫种甘蓝的放置游戏。",
+            "注意：",
+            "1、游戏无存档系统，关闭、刷新即重玩~",
+            "2、剧情因为作者加密了代码，所以没汉化~"
+        ],
+        "customUrl": "https://yx.g8hh.com/kale-farmer",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/kale-farmer",
+        "enUrl": "https://kevlanche.com/kl/farmer",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "商人放置",
+        "enTitle": "About Trade",
+        "date": "2022-10-26",
+        "update": "2022-10-26",
+        "version": "",
+        "path": "about-trade",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击"
+        ],
+        "content": [
+            "建立市场，建立贸易路线并雇用贸易商将资源从生产者带到消费者手中。 管理供需，发展城市并赚钱。",
+            "这款游戏的灵感来自于一款名为 Trade Empires 的古老 Frog City 游戏。",
+            "无存档系统哦，刷新即重玩。",
+            "核心机制：",
+            "资源生命周期：开发、转化、生产、消费。",
+            "贸易：一切都经过市场；交易者从一个市场向另一个市场买卖资源；供需影响价格。",
+            "人口满意度：如果需要的资源在市场上以低价提供，那么人口就会增长。",
+            "目标是双重的：建立低价买入，高价卖出的高性价比交易体系；通过以低价提供大量资源来增加人口。"
+        ],
+        "customUrl": "https://yx.g8hh.com/about-trade",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/about-trade",
+        "enUrl": "https://tortue.itch.io/about-trade",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "阿卡树",
+        "enTitle": "Arc Tree",
+        "date": "2022-10-25",
+        "update": "2022-10-25",
+        "version": "0.0.7.0",
+        "path": "arctree",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《阿卡树》是群里的几位小伙伴 @cyxw & @sxy62146214 一起开发的。",
+            "目前还在开发中，作者发话了，开发完后要由他们亲自汉化，哈哈，大家先玩英文版吧！"
+        ],
+        "enUrl": "https://cyxw.github.io/Arctree/",
+        "customUrl": "https://yx.g8hh.com/Arctree",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "狂人之塔",
         "enTitle": "Tower Of Insanity",
         "date": "2022-10-25",
@@ -572,7 +738,7 @@
         "date": "2022-10-25",
         "update": "2022-10-25",
         "version": "",
-        "path": "idle-mancery",
+        "path": "patient-zero",
         "type": [
             "已汉化",
             "放置",
@@ -598,8 +764,8 @@
         "title": "巫术放置",
         "enTitle": "Idle Mancery",
         "date": "2022-10-24",
-        "update": "2022-10-24",
-        "version": "0.0.3",
+        "update": "2022-10-27",
+        "version": "0.0.4",
         "path": "idle-mancery",
         "type": [
             "已汉化",
@@ -1075,8 +1241,8 @@
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2022-10-24",
-        "version": "0.5.0",
+        "update": "2022-10-26",
+        "version": "0.5.1",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -1249,8 +1415,8 @@
         "title": "118元素周期表树",
         "enTitle": "",
         "date": "2022-09-21",
-        "update": "2022-10-23",
-        "version": "10.0",
+        "update": "2022-10-27",
+        "version": "11.1",
         "path": "yuansu-tree",
         "type": [
             "放置",
@@ -1947,8 +2113,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2022-09-17",
-        "version": "0.3.5.2",
+        "update": "2022-10-26",
+        "version": "0.4.1",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -10690,8 +10856,10 @@
         "content": [
             "《黑洞收缩者》是一款模拟黑洞吞噬物质的放置游戏。通过解锁各种升级选项，来提高黑洞收缩的速度，以及黑洞吞噬物质的数量。游戏初始有1,000,000,000,000,000的物质，你需要把这些物质统统吞噬掉。"
         ],
-        "zhUrl": "https://yx.g8hh.com/black-hole-shrinker/",
+        "zhUrl": "https://gityxs.github.io/black-hole-shrinker/",
         "enUrl": "https://spotky1004.github.io/Black-Hole-Shrinker/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://yx.g8hh.com/black-hole-shrinker/",
         "pic": [
             1,
             2
@@ -10718,7 +10886,7 @@
             1,
             2
         ],
-        "status": 1,
+        "status": 0,
         "needHH": 0,
         "flash": true
     },
@@ -11701,8 +11869,8 @@
         "title": "锻造与财富",
         "enTitle": "Forge & Fortune",
         "date": "2020-07-21",
-        "update": "2022-03-28",
-        "version": "2.0.5",
+        "update": "2022-10-27",
+        "version": "2.0.11",
         "path": "forge-fortune",
         "type": [
             "汉化中",
