@@ -510,6 +510,99 @@
         "status": 1
     },
     {
+        "title": "技能放置",
+        "enTitle": "Idle Skilling",
+        "date": "2022-10-31",
+        "update": "2022-10-31",
+        "version": "",
+        "path": "idle-skilling",
+        "type": [
+            "Steam",
+            "英文",
+            "点击"
+        ],
+        "content": [
+            "《Idle Skilling》是一款拥有可以玩多年内容的终极放置游戏！ 每天玩 5-10 分钟，你可以逐渐解锁新技能，如采矿、钓鱼、宠物饲养、十字军东征、药水制作、实验室研究、建筑等等！ ",
+            "随着新的更新即将到来，您将永远不会没有事情可做！"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1048370/Idle_Skilling/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1
+    },
+    {
+        "title": "放置地下城",
+        "enTitle": "Idle Dungeon",
+        "date": "2022-10-31",
+        "update": "2022-10-31",
+        "version": "0.3.1",
+        "path": "idle-dungeon",
+        "type": [
+            "已汉化",
+            "冒险",
+            "放置",
+            "卡牌"
+        ],
+        "content": [
+            "《放置地下城》是一款类似《末日危机2》的冒险放置游戏，包含了装备、战斗、卡牌、技能等元素。",
+            "和《末日危机2》相比，特别的一点是，装备下面可以挂卡片，技能下面也能挂卡牌。",
+            "须知：",
+            "1、建议先用默认的战士装备刷一会儿，不然可以打不过，一直GG。",
+            "2、声望功能似乎没做好？点了之后，除了重置进度，没看到效果。",
+            "3、账号登录功能？英文版才能用。",
+            "4、游戏我是边玩边搬的，可能有缺图的情况，可以打开控制台复制图片链接发我补图。"
+        ],
+        "customUrl": "https://yx.g8hh.com/idle-dungeon",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/idle-dungeon",
+        "enUrl": "https://idle-dungeon.firebaseapp.com",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "黑暗宇宙",
+        "enTitle": "The Universe Is Dark",
+        "date": "2022-10-29",
+        "update": "2022-10-29",
+        "version": "",
+        "path": "the-universe-is-dark",
+        "type": [
+            "已汉化",
+            "放置",
+            "点击"
+        ],
+        "content": [
+            "《黑暗宇宙》是一款模拟照亮宇宙的放置游戏。这个游戏节奏非常慢，适合挂机~"
+        ],
+        "customUrl": "https://yx.g8hh.com/the-universe-is-dark",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/the-universe-is-dark",
+        "enUrl": "https://heartosis.itch.io/the-universe-is-dark",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "破坏地球",
         "enTitle": "Trash The Planet",
         "date": "2022-10-28",
@@ -764,8 +857,8 @@
         "title": "巫术放置",
         "enTitle": "Idle Mancery",
         "date": "2022-10-24",
-        "update": "2022-10-27",
-        "version": "0.0.4",
+        "update": "2022-10-30",
+        "version": "0.1.0",
         "path": "idle-mancery",
         "type": [
             "已汉化",
@@ -1241,8 +1334,8 @@
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2022-10-26",
-        "version": "0.5.1",
+        "update": "2022-10-31",
+        "version": "0.6.1",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
