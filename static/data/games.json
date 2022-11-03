@@ -510,6 +510,73 @@
         "status": 1
     },
     {
+        "title": "无尽的矿石",
+        "enTitle": "More Ore",
+        "date": "2022-11-03",
+        "update": "2022-11-03",
+        "version": "1.6.1",
+        "path": "more-ore",
+        "type": [
+            "汉化中",
+            "冒险",
+            "放置"
+        ],
+        "content": [
+            "《无尽的矿石》 是一款类似《无尽的饼干》的增量 RPG 点击游戏，您可以在其中开采矿石。 使用这些矿石购买产生被动收入的建筑物。 继续寻找更好的装备并用自己的技能击败独特的Boss。 ",
+            "恢复提供神话力量的传奇神器。 拯救可以陪伴和帮助您旅行的宠物，并以您的声望积累追随者。 一切都是为了寻找更多矿石。",
+            "其实这个游戏2021年4月，咱们已经着手汉化了，奈何一直太忙，作者也在不停更新，所以想等版本稳定一点了再发的。",
+            "游戏搬运时，可能存在漏图的情况，发现的小伙伴欢迎到群里反馈给我进行补图~",
+            "玩家群：570301852",
+            "目前本游戏即将登陆Steam平台。"
+        ],
+        "customUrl": "https://yx.g8hh.com/more-ore/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://www.u77game.net/h5/470.html",
+        "customUrlTit2": "U77汉化版",
+        "zhUrl": "https://g8hh.github.io/more-ore/",
+        "enUrl": "https://syns.studio/more-ore",
+        "steamUrl": "https://store.steampowered.com/app/1916800/More_Ore__The_Incremental_Idle_RPG/",
+        "QQ": "570301852",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "反物质魔塔",
+        "enTitle": "",
+        "date": "2022-11-01",
+        "update": "2022-11-01",
+        "version": "",
+        "path": "antimatter​-mota",
+        "type": [
+            "原创",
+            "益智",
+            "策略",
+            "点击"
+        ],
+        "content": [
+            "魔塔大家应该不陌生吧？这次是一个小伙伴在魔塔的基础上，融入了一些《反物质维度》的游戏玩法，欢迎大家体验~",
+            "第二个链接是一个魔塔游戏爱好者的聚集地，可以在线玩玩家制作的各种魔塔游戏，参与排名等。"
+        ],
+        "customUrl": "https://h5mota.com/tower/?name=Antimatter",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://h5mota.com/",
+        "customUrlTit2": "网页魔塔游戏大全",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "技能放置",
         "enTitle": "Idle Skilling",
         "date": "2022-10-31",
@@ -857,8 +924,8 @@
         "title": "巫术放置",
         "enTitle": "Idle Mancery",
         "date": "2022-10-24",
-        "update": "2022-10-30",
-        "version": "0.1.0",
+        "update": "2022-11-01",
+        "version": "0.1.1",
         "path": "idle-mancery",
         "type": [
             "已汉化",
@@ -1508,8 +1575,8 @@
         "title": "118元素周期表树",
         "enTitle": "",
         "date": "2022-09-21",
-        "update": "2022-10-27",
-        "version": "11.1",
+        "update": "2022-11-01",
+        "version": "12.0",
         "path": "yuansu-tree",
         "type": [
             "放置",
@@ -1520,7 +1587,7 @@
             "声望树"
         ],
         "content": [
-            "这是群友自制的一个模组树，目标是把118个元素都做出来，现在暂时只做了7个元素。",
+            "这是群友自制的一个模组树，目标是把118个元素都做出来，现在暂时只做了12个元素。",
             "作者：这更像是一个科普向的作品。",
             "作者就是上次《修真模拟器：凡界篇》的作者。"
         ],
@@ -1849,8 +1916,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2022-10-10",
-        "version": "1.1.2",
+        "update": "2022-11-01",
+        "version": "1.2.1",
         "path": "spice-idle",
         "type": [
             "已汉化",
