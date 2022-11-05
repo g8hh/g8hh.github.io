@@ -510,6 +510,61 @@
         "status": 1
     },
     {
+        "title": "自来水公司",
+        "enTitle": "Water Company",
+        "date": "2022-11-04",
+        "update": "2022-11-04",
+        "version": "0.4",
+        "path": "water-company",
+        "type": [
+            "已汉化",
+            "模拟",
+            "经营",
+            "放置"
+        ],
+        "content": [
+            "很早之前发过的，后来网站改版貌似遗漏了，现在补上~",
+            "游戏里面新增了一个0.4版本的，作者可能想重做的。"
+        ],
+        "customUrl": "https://yx.g8hh.com/water-company",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/water-company",
+        "enUrl": "https://dimitar5555.github.io/WaterCompany/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "增量乘数",
+        "enTitle": "Incre Multiplication",
+        "date": "2022-11-05",
+        "update": "2022-11-05",
+        "version": "0.301",
+        "path": "incre-multiplication",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "这是一款数字倍增的增量放置游戏。"
+        ],
+        "customUrl": "https://yx.g8hh.com/incre-multiplication",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/incre-multiplication",
+        "enUrl": "https://idlesquadron.github.io/IncreMultiplication",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
         "title": "宇宙扩张器重制版",
         "enTitle": "Universe Expander: Rewritten",
         "date": "2022-11-04",
@@ -517,13 +572,11 @@
         "version": "",
         "path": "universe-expander-re",
         "type": [
-            "汉化中",
+            "已汉化",
             "放置"
         ],
         "content": [
-            "致命的爱是一款益智游戏，你（死灵法师）渴望与仙女永恒的爱，但她已经死了，所以你的工作是复活并将她带到你的永恒领域。",
-            "玩法：",
-            "使用左/右键单击（或点击移动设备）旋转瓷砖和管道，以将死亡光束从死灵法师指向仙女。 沿途收集心以进行奖励挑战。"
+            "《逃离黑暗》《自动化工厂》《能源增量》作者的又一款游戏。"
         ],
         "customUrl": "https://yx.g8hh.com/universe-expander-re",
         "customUrlTit": "备用地址-g8hh",
@@ -546,7 +599,7 @@
         "version": "",
         "path": "deadly-affection",
         "type": [
-            "汉化中",
+            "已汉化",
             "益智",
             "点击"
         ],
@@ -11113,8 +11166,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-10-20",
-        "version": "0.6.6",
+        "update": "2022-11-04",
+        "version": "0.7.2b",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
