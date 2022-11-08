@@ -510,6 +510,31 @@
         "status": 1
     },
     {
+        "title": "星座增量",
+        "enTitle": "Constellator",
+        "date": "2022-11-08",
+        "update": "2022-11-08",
+        "version": "0.6",
+        "path": "constellator",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "这是《傅里叶增量》作者的另一个游戏。"
+        ],
+        "customUrl": "https://yx.g8hh.com/constellator",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/constellator",
+        "enUrl": "https://dragonmemo.github.io/Constellator/",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
         "title": "增量限制",
         "enTitle": "Incremental Limited",
         "date": "2022-11-06",
@@ -1538,7 +1563,7 @@
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
         "update": "2022-10-31",
-        "version": "0.6.1",
+        "version": "0.6.2",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -2981,8 +3006,8 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2022-09-05",
-        "version": "1.0.61",
+        "update": "2022-11-07",
+        "version": "1.0.62",
         "path": "immortality-idle",
         "type": [
             "已汉化",
