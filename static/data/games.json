@@ -510,11 +510,45 @@
         "status": 1
     },
     {
+        "title": "继续解锁",
+        "enTitle": "Theres More",
+        "date": "2022-11-09",
+        "update": "2022-11-12",
+        "version": "0.42.2",
+        "path": "theresmoregame",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "11-10：锅巴汉化的累死了，没事儿就刷新一下，可能就汉化了~游戏内容超级多，墙裂推荐！",
+            "11-09：更新到0.42.1版本~",
+            "这是一个增量的策略游戏，探索和征服一个幻想世界，总是有更多内容！",
+            "游戏玩法类似于文明系列，包含了探索、建造、军队、战斗、研究、市场等！",
+            "支持在移动和PC端游戏。",
+            "游戏交流群：607245788"
+        ],
+        "zhUrl": "https://theresmoregame.g8hh.com/",
+        "enUrl": "https://www.theresmoregame.com/play/",
+        "QQ": "607245788",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=KYTyAt1Auz9rKhFwlO20ASQpACfJVRRq&jump_from=webapi&authKey=paBmx6y0+j7TO0N+txioAH/QaEFTrsEkb6dejLDwIGw+/D6jrI+48+BA51krvwOJ",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1
+    },
+    {
         "title": "星座增量",
         "enTitle": "Constellator",
         "date": "2022-11-08",
-        "update": "2022-11-08",
-        "version": "0.6",
+        "update": "2022-11-11",
+        "version": "0.6.3",
         "path": "constellator",
         "type": [
             "已汉化",
@@ -2132,7 +2166,7 @@
         "title": "FE000000",
         "enTitle": "",
         "date": "2022-08-31",
-        "update": "2022-10-18",
+        "update": "2022-11-11",
         "version": "",
         "path": "fe000000",
         "type": [
@@ -7594,8 +7628,8 @@
         "title": "质量增量重制版",
         "enTitle": "Incremental Mass Rewritten",
         "date": "2021-10-09",
-        "update": "2022-06-05",
-        "version": "0.5.4",
+        "update": "2022-11-10",
+        "version": "0.6.0",
         "path": "incremental-mass-rewritten",
         "type": [
             "已汉化",
