@@ -510,6 +510,67 @@
         "status": 1
     },
     {
+        "title": "时钟点击",
+        "enTitle": "Clock Clicker",
+        "date": "2022-11-16",
+        "update": "2022-11-16",
+        "version": "",
+        "path": "clock-clicker",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "《时钟点击》 是一款以各种时钟为主题的点击游戏，您可以通过点击时钟来赚取 时间金钱。 使用累积的 时间金钱 购买各种类型的手表和升级，这将帮助您赚取更多货币。"
+        ],
+        "zhUrl": "https://gityxs.github.io/clock-clicker",
+        "customUrl": "https://yx.g8hh.com/clock-clicker/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://www.crazygames.com/game/clock-clicker",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "文明点击Fg",
+        "enTitle": "Civ Clicker By Fg",
+        "date": "2022-11-15",
+        "update": "2022-11-15",
+        "version": "0.018",
+        "path": "civ-clicker-fg",
+        "type": [
+            "已汉化",
+            "模拟",
+            "经营",
+            "放置"
+        ],
+        "content": [
+            "注意：游戏还在开发中，可能存在数值不合理、功能不完善的情况，请淡定对待~",
+            "CivClicker 最初由 Katherine Stark 开发于 2013-14 年。她说她不打算进一步开发它，所以它是 Scott Colcord 在 2014 年的部分时间去开发的。 从那时起，没有对 源锻造回购， 所以 Luke Nickerson把它分叉 GitHub做出一些改进并可能激励其他人做出贡献。",
+            "2022年， Frederic Deconinck重制了Luke的版本。他的目标是进行 UI 更改，改进界面、样式和修复一些错误。请随时通过提交对他的改进做出贡献 Discord. 这是你正在玩的这个版本。"
+        ],
+        "zhUrl": "https://gityxs.github.io/civ-clicker-fg",
+        "customUrl": "https://yx.g8hh.com/civ-clicker-fg/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://gityx.com/g8hh/yihanhua/384.html",
+        "customUrlTit2": "文明点击原版",
+        "enUrl": "https://freddecgames.github.io/civclickerbyfg",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "继续解锁",
         "enTitle": "Theres More",
         "date": "2022-11-09",
@@ -1119,8 +1180,8 @@
         "title": "巫术放置",
         "enTitle": "Idle Mancery",
         "date": "2022-10-24",
-        "update": "2022-11-06",
-        "version": "0.1.2",
+        "update": "2022-11-14",
+        "version": "0.1.3",
         "path": "idle-mancery",
         "type": [
             "已汉化",
@@ -2468,8 +2529,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2022-10-26",
-        "version": "0.4.1",
+        "update": "2022-11-12",
+        "version": "0.4.1.1",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -7426,8 +7487,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-10-18",
-        "version": "2.016",
+        "update": "2022-11-13",
+        "version": "2.023",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -7439,7 +7500,7 @@
             "声望树"
         ],
         "content": [
-            "生命树，挺好的一个题材。目前有588个成就。。是的，你没看错，588个！！！"
+            "生命树，挺好的一个题材。目前有1092个成就。。是的，你没看错，1092个！！！"
         ],
         "enUrl": "http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html",
         "customUrl": "https://the-tree-of-life.g8hh.com/",
@@ -11249,8 +11310,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-11-04",
-        "version": "0.7.2b",
+        "update": "2022-11-16",
+        "version": "0.7.4c",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -11945,8 +12006,10 @@
             "因为是Unity 3D游戏，无法汉化。因为K站加载速度超级慢，所以搬过来方便大家玩。",
             "一款放置的RPG，您可以在其中管理和“编程”您的队伍，以探索危险的地下城，与致命的Boss作战并收集史诗般的战利品。"
         ],
-        "customUrlTit": "国内英文版",
-        "customUrl": "http://idlegame.gitee.io/endless-dream-2-the-nightmare/",
+        "customUrlTit": "搬运英文版",
+        "customUrl": "https://gityxs.github.io/endless-dream-2-the-nightmare/",
+        "customUrlTit2": "备用英文版",
+        "customUrl2": "https://yx.g8hh.com/endless-dream-2-the-nightmare/",
         "kUrl": "https://www.kongregate.com/games/Zeromatter/endless-dream-2-the-nightmare?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -14385,7 +14448,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/megamiquest2",
+        "zhUrl": "https://yx.g8hh.com/ares/",
         "enUrl": "https://okn1ce.github.io/Ares",
         "pic": [
             1,
@@ -14696,7 +14759,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/idleevolution/",
+        "zhUrl": "https://gityxs.github.io/idleevolution/",
+        "customUrl": "https://yx.g8hh.com/idleevolution/",
+        "customUrlTit": "备用地址-g8hh",
         "kUrl": "https://www.kongregate.com/games/NewProject1/idle-evolution?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
