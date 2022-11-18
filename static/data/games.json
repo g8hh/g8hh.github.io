@@ -510,6 +510,37 @@
         "status": 1
     },
     {
+        "title": "对不起，我是个间谍",
+        "enTitle": "You're a Spy",
+        "date": "2022-11-18",
+        "update": "2022-11-18",
+        "version": "",
+        "path": "youre-a-spy-complete",
+        "type": [
+            "汉化中",
+            "点击",
+            "策略"
+        ],
+        "content": [
+            "这是作者为2020 年增量游戏jam在一周内完成的游戏。",
+            "您在获得技能的同时完成任务，并最终通过将公司的净资产降至 0 来推翻公司。",
+            "然后您查看成就并尝试达到其他 5-7 个结局。",
+            "某些按钮可以按住以自动单击。"
+        ],
+        "zhUrl": "https://gityxs.github.io/youre-a-spy-complete",
+        "customUrl": "https://yx.g8hh.com/youre-a-spy-complete",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://kygron.itch.io/youre-a-spy-complete",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "时钟点击",
         "enTitle": "Clock Clicker",
         "date": "2022-11-16",
@@ -2172,8 +2203,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2022-11-01",
-        "version": "1.2.1",
+        "update": "2022-11-17",
+        "version": "1.3.1",
         "path": "spice-idle",
         "type": [
             "已汉化",
@@ -14363,10 +14394,9 @@
         ],
         "QQ": "758788976",
         "enUrl": "https://pmotschmann.github.io/Evolve/",
+        "zhUrl": "https://g8hh.github.io/evolve",
         "customUrl": "https://evolve.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/evolve",
-        "customUrlTit2": "备用地址-GitHub",
         "pic": [
             1,
             2
