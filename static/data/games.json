@@ -510,6 +510,121 @@
         "status": 1
     },
     {
+        "title": "塔防放置英文手机版",
+        "enTitle": "The Tower - Idle Tower Defense",
+        "date": "2022-11-22",
+        "update": "2022-11-22",
+        "path": "the-tower",
+        "type": [
+            "放置",
+            "苹果",
+            "安卓"
+        ],
+        "content": [
+            "安卓版需要Google Play下载，可以去群文件下载；iOS版需要外区的账号才能下载~",
+            "塔防与转折。 在这款简约的放置游戏中建造终极塔。",
+            "一个塔防，不仅仅是满足了眼睛。 The Tower 是一款增量塔防游戏，您将在其中控制一座塔。 保卫你的塔直到它被摧毁，对其进行永久升级，然后再试一次！ 建造完美的防御塔。",
+            "塔楼特色",
+            "• 令人上瘾的简单塔防游戏",
+            "• 数量惊人的升级可供选择",
+            "• 投资您宝贵的硬币，为您在车间中的塔永久供电",
+            "• 研究新升级以解锁游戏的新部分",
+            "• 在闲置或活跃时继续解锁新的研究",
+            "• 解锁和管理您的卡片收藏，为您的塔提供巨额奖金",
+            "• 在锦标赛中与其他玩家竞争以获得丰厚的奖励",
+            "在这款全新的闲置塔防游戏中，您的完美塔能经受住时间的考验吗？"
+        ],
+        "customUrl": "https://play.google.com/store/apps/details?id=com.TechTreeGames.TheTower&hl=en_US&gl=US",
+        "customUrlTit": "安卓版下载",
+        "customUrl2": "https://apps.apple.com/us/app/the-tower-idle-tower-defense/id1575590830",
+        "customUrlTit2": "IOS下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "小球掉落英文手机版",
+        "enTitle": "Zen Idle: Gravity Meditation",
+        "date": "2022-11-22",
+        "update": "2022-11-22",
+        "path": "zen-idle",
+        "type": [
+            "放置",
+            "苹果",
+            "安卓"
+        ],
+        "content": [
+            "安卓版需要Google Play下载，可以去群文件下载；iOS版需要外区的账号才能下载~",
+            "放松，看着球翻滚、掉落。",
+            "被动或主动地玩。 大量尝试或简单地坐下来放松的深层策略。",
+            "一些主要功能包括",
+            "- 升级球和阶段以增加收入",
+            "- 收藏卡 - 为您的游戏提供大量永久奖励",
+            "- 天赋系统 - 进化每一个游戏",
+            "- 声望 - 重置并重新开始，获得巨额奖金以进一步推进",
+            "- 制定策略 - 测试策略以查看哪些卡片和特权最适合一起使用",
+            "- 游戏在离开时进行，赚取闲置收入",
+            "看看您在这款基于物理的轻松闲置游戏中可以进步多远。 选择闲置，走禅道。 或者制定战略并最大限度地提高生产力。 1000 的升级购买！",
+            "游戏将继续发展并根据用户反馈接收更新。"
+        ],
+        "customUrl": "https://play.google.com/store/apps/details?id=com.TechTreeGames.ZenIdle&hl=en_US",
+        "customUrlTit": "安卓版下载",
+        "customUrl2": "https://apps.apple.com/us/app/zen-idle/id1466633809#?platform=iphone",
+        "customUrlTit2": "IOS下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "打砖块英文手机版",
+        "enTitle": "Idle Brick Breaker",
+        "date": "2022-11-22",
+        "update": "2022-11-22",
+        "path": "idle-brick-breaker",
+        "type": [
+            "放置",
+            "苹果",
+            "安卓"
+        ],
+        "content": [
+            "安卓版需要Google Play下载，可以去QQ群文件下载APK文件；iOS版需要外区的账号才能下载~",
+            "因为锅巴最近玩的很上头，所以分享出来，感兴趣的小伙伴可以下载了玩~",
+            "Idle Brick Breaker 是一款简单的放置游戏，即使您不在时也能继续进行！",
+            "平衡策略以压碎最多的砖块",
+            "- 解锁具有强大能力的新球，如溅射伤害、毒药和自动瞄准",
+            "- 升级每个球的速度和力量",
+            "- 收集卡牌为您的游戏提供巨额奖金",
+            "- 解锁随着你玩游戏而进化的特权",
+            "- 声望重置和赚取奖金以更快的速度获得收入！",
+            "- 即使你不在，也能取得进步",
+            "- 突破并玩无限关卡",
+            "享受！",
+            "Idle Brick Breaker 由 Idle Planet Miner 和 Zen Idle 的开发者创建"
+        ],
+        "customUrl": "https://play.google.com/store/apps/details?id=com.TechTreeGames.IdleBrickBreaker&hl=en_US&pli=1",
+        "customUrlTit": "安卓版下载",
+        "customUrl2": "https://apps.apple.com/us/app/id1522164283",
+        "customUrlTit2": "IOS下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "对不起，我是个间谍",
         "enTitle": "You're a Spy",
         "date": "2022-11-18",
@@ -1211,8 +1326,8 @@
         "title": "巫术放置",
         "enTitle": "Idle Mancery",
         "date": "2022-10-24",
-        "update": "2022-11-14",
-        "version": "0.1.3",
+        "update": "2022-11-22",
+        "version": "0.1.3a",
         "path": "idle-mancery",
         "type": [
             "已汉化",
@@ -2560,8 +2675,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2022-11-12",
-        "version": "0.4.1.1",
+        "update": "2022-11-22",
+        "version": "0.4.2",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -7518,8 +7633,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-11-13",
-        "version": "2.023",
+        "update": "2022-11-22",
+        "version": "2.026",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -10527,8 +10642,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2022-09-20",
-        "version": "0.6.16",
+        "update": "2022-11-22",
+        "version": "0.6.17",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -11886,8 +12001,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-10-22",
-        "version": "0.10.0",
+        "update": "2022-11-21",
+        "version": "0.10.3",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
