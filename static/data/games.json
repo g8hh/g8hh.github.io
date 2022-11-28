@@ -510,6 +510,121 @@
         "status": 1
     },
     {
+        "title": "水晶重组工厂",
+        "enTitle": "Fractory",
+        "date": "2022-11-28",
+        "update": "2022-11-28",
+        "version": "",
+        "path": "fractory",
+        "type": [
+            "汉化中",
+            "点击",
+            "策略"
+        ],
+        "content": [
+            "《水晶重组工厂》又是一款烧脑的放置游戏，反正截止发布的时候，锅巴我还没玩懂，不会玩的可以去群里问问大佬。",
+            "至于汉化嘛，可能有很多奇形怪状的地方，欢迎小伙伴们提出修改意见，锅巴100%配合。"
+        ],
+        "zhUrl": "https://gityxs.github.io/fractory",
+        "customUrl": "https://yx.g8hh.com/fractory",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://jamuspsi.github.io/fractory",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "星际矿工放置英文手机版",
+        "enTitle": "Idle Planet Miner",
+        "date": "2022-11-24",
+        "update": "2022-11-24",
+        "path": "idle-planet-miner",
+        "type": [
+            "放置",
+            "苹果",
+            "安卓"
+        ],
+        "content": [
+            "安卓版需要Google Play下载，可以去群文件下载；iOS版需要外区的账号才能下载~",
+            "在最令人上瘾的增量空闲点击游戏之一中开始挖掘矿石！通过星星挖掘你的方式！",
+            "放置点击游戏",
+            "● 放置以提高您的挖矿率！",
+            "● 点击粉碎小行星，赚取稀有矿石！",
+            "● 矿山：赚取金币并聘请经理！",
+            "增量升级",
+            "● 跨星球创造帝国！",
+            "● 聘请经理来提高您的产出！",
+            "● 发展您的挖掘策略！解锁特殊项目以提高您的输出！",
+            "升级你的采矿船",
+            "● 玩市场：响应整个银河系的供需，以实现利润最大化！",
+            "● 研究特殊项目和利润！",
+            "● 参加多人锦标赛以确定最佳太空矿工",
+            "● 永久升级采矿船的奖励无处不在！",
+            "放置挖矿",
+            "● 不玩时赚取矿石和金币",
+            "● 任务 - 完成任务以获得高级奖励",
+            "Idle Planet Miner 是一款完美的增量点击/放置游戏，适合无尽乐趣的粉丝。放置一天，挖掘矿石、稀有金属、硬币等等！",
+            "放置星球矿工 - 在星星中挖掘自己的方式！"
+           
+        ],
+        "customUrl": "https://play.google.com/store/apps/details?id=com.TironiumTech.IdlePlanetMiner&hl=en_US",
+        "customUrlTit": "安卓版下载",
+        "customUrl2": "https://apps.apple.com/us/app/idle-planet-miner/id1441880123?l=zh",
+        "customUrlTit2": "IOS下载",
+        "customUrl3": "https://apkpremier.com/download/com-TironiumTech-IdlePlanetMiner",
+        "customUrlTit3": "安卓直接下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1
+    },
+    {
+        "title": "另类声望树",
+        "enTitle": "Falling Mountain's Alter Prestige",
+        "date": "2022-11-23",
+        "update": "2022-11-23",
+        "version": "0.4.0c beta",
+        "path": "falling-ountains-alterprestige",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "作者根据 makiki99 的声望模组制作了一个奇怪的声望树模组，目前仍在开发中。",
+            "基于固定层，而不是点数。这个模组7 层，超过 5 行。包含了38 项成就。很多的升级。"
+        ],
+        "zhUrl": "https://gityxs.github.io/falling-ountains-alterprestige",
+        "enUrl": "https://fallingmountain.github.io/The-Modding-Tree/",
+        "customUrl": "https://yx.g8hh.com/falling-ountains-alterprestige/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "塔防放置英文手机版",
         "enTitle": "The Tower - Idle Tower Defense",
         "date": "2022-11-22",
@@ -720,14 +835,16 @@
         "title": "继续解锁",
         "enTitle": "Theres More",
         "date": "2022-11-09",
-        "update": "2022-11-12",
-        "version": "0.42.2",
+        "update": "2022-11-18",
+        "version": "0.42.3",
         "path": "theresmoregame",
         "type": [
             "已汉化",
             "放置"
         ],
         "content": [
+            "11-18：更新到0.42.3版本了",
+            "11-12：更新到0.42.2版本了，由 @by22dgb 大佬接手汉化，锅巴我可以专心发掘新游戏去了~",
             "11-10：锅巴汉化的累死了，没事儿就刷新一下，可能就汉化了~游戏内容超级多，墙裂推荐！",
             "11-09：更新到0.42.1版本~",
             "这是一个增量的策略游戏，探索和征服一个幻想世界，总是有更多内容！",
@@ -1326,8 +1443,8 @@
         "title": "巫术放置",
         "enTitle": "Idle Mancery",
         "date": "2022-10-24",
-        "update": "2022-11-22",
-        "version": "0.1.3a",
+        "update": "2022-11-28",
+        "version": "0.1.5",
         "path": "idle-mancery",
         "type": [
             "已汉化",
@@ -2318,8 +2435,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2022-11-17",
-        "version": "1.3.1",
+        "update": "2022-11-24",
+        "version": "1.3.2",
         "path": "spice-idle",
         "type": [
             "已汉化",
@@ -4890,8 +5007,8 @@
         "title": "代数递进重制版",
         "enTitle": "Algebraic Progression",
         "date": "2022-03-23",
-        "update": "2022-03-23",
-        "version": "",
+        "update": "2022-11-25",
+        "version": "2.0",
         "path": "algebraic-progression",
         "type": [
             "已汉化",
@@ -9351,7 +9468,7 @@
         "title": "足球经理游戏",
         "enTitle": "Hattrick",
         "date": "2021-06-22",
-        "update": "2021-06-22",
+        "update": "2022-11-24",
         "version": "",
         "path": "hattrick",
         "type": [
@@ -9364,6 +9481,7 @@
             "模拟"
         ],
         "content": [
+            "蹭下世界杯的热度，翻新一下这个游戏。",
             "当今最流行的足球经理模拟游戏是 Hattrick。我们拥有数十万名活跃经理。",
             "在 Hattrick，您的角色是足球队的老板，同时也是经理。您全权决定球队的一切事项，如训练、探索青年球员、转会市场上的行动，以及，理所当然是比赛前和比赛中的战策决定。游戏的主要目标是打造您的俱乐部和足球队，击败对手和其他玩家在联赛系统中力争上游一直攀升到顶级联赛。"
         ],
@@ -10513,7 +10631,7 @@
         "title": "足球经理放置",
         "enTitle": "Idle Football Manager",
         "date": "2021-04-20",
-        "update": "2021-05-11",
+        "update": "2022-11-24",
         "version": "",
         "path": "idle-football-manager",
         "type": [
@@ -10528,6 +10646,7 @@
             "模拟"
         ],
         "content": [
+            "蹭下2022世界杯的热度，翻新一下~",
             "《欧米伽层级》作者的新作，还在更新中~"
         ],
         "customUrl2": "https://yx.g8hh.com/veprogames/idle-football-manager/",
@@ -12001,8 +12120,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2022-11-21",
-        "version": "0.10.3",
+        "update": "2022-11-23",
+        "version": "0.10.4",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
