@@ -510,6 +510,43 @@
         "status": 1
     },
     {
+        "title": "天津中考树，群友自制",
+        "enTitle": "The Collectors Tree",
+        "date": "2022-12-07",
+        "update": "2022-12-07",
+        "version": "0.0.1",
+        "path": "tian-jin-zhong-kao-tree",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是《118元素周期表树》作者的另一个作品，欢迎体验。",
+            "目前还在开发中，欢迎持续关注更新。",
+            "注意：游戏初次加载会比较慢，因为作者为了达到比较好的游戏体验，引用了一个20M的字体。。"
+        ],
+        "zhUrl": "https://gityxs.github.io/tian-jin-zhong-kao-tree",
+        "customUrl": "https://yx.g8hh.com/tian-jin-zhong-kao-tree",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "水晶重组工厂",
         "enTitle": "Fractory",
         "date": "2022-11-28",
@@ -835,8 +872,8 @@
         "title": "继续解锁",
         "enTitle": "Theres More",
         "date": "2022-11-09",
-        "update": "2022-11-18",
-        "version": "0.42.3",
+        "update": "2022-11-29",
+        "version": "0.43",
         "path": "theresmoregame",
         "type": [
             "已汉化",
@@ -1443,8 +1480,8 @@
         "title": "巫术放置",
         "enTitle": "Idle Mancery",
         "date": "2022-10-24",
-        "update": "2022-11-28",
-        "version": "0.1.5",
+        "update": "2022-12-05",
+        "version": "0.1.8",
         "path": "idle-mancery",
         "type": [
             "已汉化",
@@ -1920,8 +1957,8 @@
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2022-10-31",
-        "version": "0.6.2",
+        "update": "2022-12-05",
+        "version": "0.7.2",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -5007,8 +5044,8 @@
         "title": "代数递进重制版",
         "enTitle": "Algebraic Progression",
         "date": "2022-03-23",
-        "update": "2022-11-25",
-        "version": "2.0",
+        "update": "2022-12-05",
+        "version": "2.0.1",
         "path": "algebraic-progression",
         "type": [
             "已汉化",
@@ -6511,7 +6548,7 @@
         "enTitle": "Proto23",
         "date": "2021-12-01",
         "update": "2021-12-01",
-        "version": "",
+        "version": "470",
         "path": "proto23",
         "type": [
             "已汉化",
@@ -6527,7 +6564,7 @@
             "但是游戏真的不错，大家可以试试~",
             "由于文本太多。汉化缓慢，大家玩着先~没事儿了就刷新看看~"
         ],
-        "enUrl": "https://proto23.herokuapp.com/",
+        "enUrl": "https://23html.github.io/",
         "customUrl": "https://proto23.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/proto23",
@@ -11944,7 +11981,7 @@
             "感谢 @by22dgb 大佬帮忙汉化。",
             "类似《反物质维度》的一款游戏，界面好看，玩法自己感受哈~"
         ],
-        "customUrl2": "https://matter-dimensions.g8hh.com/",
+        "customUrl2": "https://omega-layers.g8hh.com/",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/veprogames/omega-layers/",
         "enUrl": "https://veprogames.github.io/omega-layers/",
