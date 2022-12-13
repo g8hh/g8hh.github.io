@@ -511,10 +511,10 @@
     },
     {
         "title": "天津中考树，群友自制",
-        "enTitle": "The Collectors Tree",
+        "enTitle": "The Tianjin Zhongkao Tree",
         "date": "2022-12-07",
-        "update": "2022-12-07",
-        "version": "0.0.1",
+        "update": "2022-12-12",
+        "version": "0.0.2",
         "path": "tian-jin-zhong-kao-tree",
         "type": [
             "汉化中",
@@ -526,7 +526,7 @@
             "声望树"
         ],
         "content": [
-            "这是《118元素周期表树》作者的另一个作品，欢迎体验。",
+            "这是群里小伙伴的另一个作品，欢迎体验。",
             "目前还在开发中，欢迎持续关注更新。",
             "注意：游戏初次加载会比较慢，因为作者为了达到比较好的游戏体验，引用了一个20M的字体。。"
         ],
@@ -566,6 +566,35 @@
         "customUrl": "https://yx.g8hh.com/fractory",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://jamuspsi.github.io/fractory",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "增量贪吃蛇",
+        "enTitle": "Incremental Snake",
+        "date": "2022-12-08",
+        "update": "2022-12-08",
+        "version": "",
+        "path": "incremental-snake",
+        "type": [
+            "已汉化",
+            "点击",
+            "策略"
+        ],
+        "content": [
+            "简单的小游戏一款，当贪吃蛇遇见增量模式，会怎么样呢？",
+            "注意：手机党玩不了~"
+        ],
+        "zhUrl": "https://gityxs.github.io/incremental-snake/",
+        "customUrl": "https://yx.g8hh.com/incremental-snake/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://bootlegaidan.github.io/IncrementalSnake",
         "pic": [
             1,
             2,
@@ -1480,8 +1509,8 @@
         "title": "巫术放置",
         "enTitle": "Idle Mancery",
         "date": "2022-10-24",
-        "update": "2022-12-05",
-        "version": "0.1.8",
+        "update": "2022-12-13",
+        "version": "0.2.1",
         "path": "idle-mancery",
         "type": [
             "已汉化",
@@ -1957,8 +1986,8 @@
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2022-12-05",
-        "version": "0.7.2",
+        "update": "2022-12-09",
+        "version": "0.7.3",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -7787,8 +7816,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2022-11-22",
-        "version": "2.026",
+        "update": "2022-12-13",
+        "version": "2.032.1",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -10798,8 +10827,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2022-11-22",
-        "version": "0.6.17",
+        "update": "2022-12-13",
+        "version": "0.6.18.1",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
