@@ -510,11 +510,43 @@
         "status": 1
     },
     {
+        "title": "怪物进化放置",
+        "enTitle": "Evomonsters",
+        "date": "2022-12-16",
+        "update": "2022-12-16",
+        "version": "",
+        "path": "evomonsters",
+        "type": [
+            "汉化中",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "Evomonsters 是一款受 Tolans Monster Evolution Clicker (安卓版) 启发的游戏。 吃掉你的怪物，让它成长并进化！ 游戏现在应该有大约 1.5-2 小时的内容。",
+            "在此游戏中，伤害会随着您进餐而自动增加。 您会随着自动进步而进化，从而增加伤害。 成就解锁升级。 有一个声望层，目前只提供伤害提升。",
+            "它应该相对移动友好。 “添加到主屏幕”将使它成为一个全屏应用程序。"
+        ],
+        "zhUrl": "https://g8hh.github.io/evomonsters/",
+        "customUrl": "https://yx.g8hh.com/evomonsters/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://monster-evolution-clicker.en.uptodown.com/android",
+        "customUrlTit2": "安卓版",
+        "enUrl": "https://veprogames.github.io/evomonsters/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "天津中考树，群友自制",
         "enTitle": "The Tianjin Zhongkao Tree",
         "date": "2022-12-07",
-        "update": "2022-12-12",
-        "version": "0.0.2",
+        "update": "2022-12-19",
+        "version": "0.0.3",
         "path": "tian-jin-zhong-kao-tree",
         "type": [
             "汉化中",
