@@ -510,6 +510,34 @@
         "status": 1
     },
     {
+        "title": "英雄是怎样炼成的",
+        "enTitle": "I Want To Be A Hero",
+        "date": "2022-12-21",
+        "update": "2022-12-21",
+        "version": "",
+        "path": "i-want-to-be-a-hero",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "《英雄是怎样炼成的》是一款以超级英雄为灵感的放置角色扮演游戏，游戏还在开发中，更多功能敬请期待。"
+        ],
+        "zhUrl": "https://gityxs.github.io/i-want-to-be-a-hero/",
+        "customUrl": "https://yx.g8hh.com/i-want-to-be-a-hero/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://skeyne.github.io/I-want-to-be-a-hero/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "怪物进化放置",
         "enTitle": "Evomonsters",
         "date": "2022-12-16",
@@ -517,7 +545,7 @@
         "version": "",
         "path": "evomonsters",
         "type": [
-            "汉化中",
+            "已汉化",
             "点击",
             "放置"
         ],
@@ -565,8 +593,12 @@
         "zhUrl": "https://gityxs.github.io/tian-jin-zhong-kao-tree",
         "customUrl": "https://yx.g8hh.com/tian-jin-zhong-kao-tree",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl3": "https://yhvr.me/pt/mods.html",
-        "customUrlTit3": "其它树游戏集合",
+        "customUrl2": "https://gityxs.github.io/tian-jin-zhong-kao-tree-en/",
+        "customUrlTit2": "英文版",
+        "customUrl3": "https://yx.g8hh.com/tian-jin-zhong-kao-tree-en",
+        "customUrlTit3": "英文版-g8hh",
+        "customUrl4": "https://yhvr.me/pt/mods.html",
+        "customUrlTit4": "其它树游戏集合",
         "QQ": "963150347",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
@@ -933,8 +965,8 @@
         "title": "继续解锁",
         "enTitle": "Theres More",
         "date": "2022-11-09",
-        "update": "2022-11-29",
-        "version": "0.43",
+        "update": "2022-12-20",
+        "version": "0.43.1",
         "path": "theresmoregame",
         "type": [
             "已汉化",
@@ -1541,8 +1573,8 @@
         "title": "巫术放置",
         "enTitle": "Idle Mancery",
         "date": "2022-10-24",
-        "update": "2022-12-13",
-        "version": "0.2.1",
+        "update": "2022-12-20",
+        "version": "0.2.3α",
         "path": "idle-mancery",
         "type": [
             "已汉化",
@@ -2018,8 +2050,8 @@
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2022-12-09",
-        "version": "0.7.3",
+        "update": "2022-12-21",
+        "version": "0.7.4",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -2222,7 +2254,7 @@
             4,
             5
         ],
-        "status": 1
+        "status": 0
     },
     {
         "title": "像素放置",
@@ -13450,6 +13482,7 @@
         "zhUrl": "https://g1tyx.github.io/antimatter-dimensions/",
         "enUrl": "https://ivark.github.io/",
         "kUrl": "https://www.kongregate.com/games/Hevipelle/antimatter-dimensions?sfa=permalink&referrer=SunshineDad",
+        "steamUrl": "https://store.steampowered.com/app/1399720/Antimatter_Dimensions/",
         "oscUrl": "https://www.oschina.net/p/antimatter-dimensions",
         "QQ": "1050424901",
         "pic": [
