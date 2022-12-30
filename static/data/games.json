@@ -510,11 +510,39 @@
         "status": 1
     },
     {
+        "title": "墙壁破坏者：重制版",
+        "enTitle": "Wall Destroyer:Rewritten",
+        "date": "2022-12-30",
+        "update": "2022-12-30",
+        "version": "",
+        "path": "wall-destroyer-rewritten",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "《英雄是怎样炼成的》是一款以超级英雄为灵感的放置角色扮演游戏，游戏还在开发中，更多功能敬请期待。"
+        ],
+        "zhUrl": "https://gityxs.github.io/wall-destroyer-rewritten/",
+        "customUrl": "https://yx.g8hh.com/wall-destroyer-rewritten/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://der-reale-clemens.github.io/wall-destroyer-prod/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "英雄是怎样炼成的",
         "enTitle": "I Want To Be A Hero",
         "date": "2022-12-21",
-        "update": "2022-12-21",
-        "version": "",
+        "update": "2022-12-25",
+        "version": "0.03",
         "path": "i-want-to-be-a-hero",
         "type": [
             "已汉化",
@@ -573,8 +601,8 @@
         "title": "天津中考树，群友自制",
         "enTitle": "The Tianjin Zhongkao Tree",
         "date": "2022-12-07",
-        "update": "2022-12-19",
-        "version": "0.0.3",
+        "update": "2022-12-24",
+        "version": "0.0.43",
         "path": "tian-jin-zhong-kao-tree",
         "type": [
             "汉化中",
@@ -5011,8 +5039,8 @@
         "title": "机械装置",
         "enTitle": "Machinery",
         "date": "2022-04-01",
-        "update": "2022-09-04",
-        "version": "0.99.5",
+        "update": "2022-12-28",
+        "version": "0.99.52",
         "path": "machinery",
         "type": [
             "汉化中",
@@ -11705,8 +11733,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-11-16",
-        "version": "0.7.4c",
+        "update": "2022-12-26",
+        "version": "0.7.7c",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
