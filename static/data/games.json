@@ -510,6 +510,35 @@
         "status": 1
     },
     {
+        "title": "Fragile.city",
+        "enTitle": "",
+        "date": "2023-01-03",
+        "update": "2023-01-03",
+        "version": "",
+        "path": "fragile-city",
+        "type": [
+            "英文",
+            "联网"
+        ],
+        "content": [
+            "这是一个关于城市设计和文明崩溃的 MMO 游戏。",
+            "你的工作是创造一个伟大的城市。 一个吸引其他城市市民的城市。 公民是挑剔的——有些人喜欢低税率（这会让你的钱更少），有些人喜欢更高层次的工作（这将是开发成本高昂的。）",
+            "所有城市都受到污染的影响。 如果污染太严重的话，市民就会开始死亡。 从世界上消除污染是非常昂贵的。 然而，建造清洁能源也很昂贵。"
+        ],
+        "customUrl": "https://fragile.city/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://note.youdao.com/s/HcRD75PD",
+        "customUrlTit2": "外部汉化脚本",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "骰子放置2",
         "enTitle": "Idle Dice 2",
         "date": "2023-01-02",
