@@ -510,10 +510,54 @@
         "status": 1
     },
     {
+        "title": "骰子放置2",
+        "enTitle": "Idle Dice 2",
+        "date": "2023-01-02",
+        "update": "2023-01-02",
+        "path": "idle-dice2",
+        "type": [
+            "放置",
+            "英文",
+            "苹果",
+            "安卓"
+        ],
+        "content": [
+            "Idle Dice 的续作来了！",
+            "Idle Dice 2 扩展了其前身的游戏玩法并添加了更多内容：",
+            "更多骰子",
+            "最多25个骰子独立升级",
+            "更多卡片",
+            "基本套牌对你来说太无聊了？ Idle Dice 2 具有现实世界中不存在的卡片。 如果可以画出整个字母表，为什么要限制自己使用 13 张卡片呢？",
+            "创建你的牌组",
+            "您可以选择将哪张卡添加到您的套牌中以应对各种挑战。",
+            "公平",
+            "就像我所有的游戏一样，观看广告完全是可选的，而且游戏是平衡的，不需要花钱就能玩。",
+            "最重要的是：",
+            "深色模式",
+            "Idle Dice 1 最受欢迎的功能终于来了！！",
+            "游戏仍在开发中，将会添加更多内容。 加入不和谐服务器并提供反馈，成为开发的一部分。"
+           
+        ],
+        "customUrl": "https://play.google.com/store/apps/details?id=com.lutsgames.IdleDice2",
+        "customUrlTit": "安卓版下载",
+        "customUrl2": "https://apps.apple.com/us/app/idle-dice-2/id1659830065?l=zh",
+        "customUrlTit2": "IOS下载",
+        "customUrl3": "https://apkpremier.com/details/com-lutsgames-IdleDice2",
+        "customUrlTit3": "安卓直接下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "墙壁破坏者：重制版",
         "enTitle": "Wall Destroyer:Rewritten",
         "date": "2022-12-30",
-        "update": "2022-12-30",
+        "update": "2023-01-02",
         "version": "",
         "path": "wall-destroyer-rewritten",
         "type": [
