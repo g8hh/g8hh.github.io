@@ -614,8 +614,8 @@
         "title": "英雄是怎样炼成的",
         "enTitle": "I Want To Be A Hero",
         "date": "2022-12-21",
-        "update": "2022-12-31",
-        "version": "0.04",
+        "update": "2023-01-05",
+        "version": "0.04a",
         "path": "i-want-to-be-a-hero",
         "type": [
             "已汉化",
@@ -3591,8 +3591,8 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2022-11-07",
-        "version": "1.0.62",
+        "update": "2023-01-04",
+        "version": "1.1.0",
         "path": "immortality-idle",
         "type": [
             "已汉化",
@@ -12581,10 +12581,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://likexia.gitee.io/game/static/flash/spr.html",
         "enUrl": "http://suznooto.com/flash/SPR.html",
-        "customUrl": "http://www.yxdown.com/SoftView/SoftView_71101.html",
-        "customUrlTit": "游侠下载版",
+        "customUrl": "https://suznooto.com/webgl/spr_plus/",
+        "customUrlTit": "Unity日语版",
         "pic": [
             1,
             2
