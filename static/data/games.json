@@ -510,6 +510,47 @@
         "status": 1
     },
     {
+        "title": "Mr.Mine，挂机采矿放置游戏，自带中文",
+        "enTitle": "",
+        "date": "2023-01-05",
+        "update": "2023-01-05",
+        "version": "",
+        "path": "mrmine",
+        "type": [
+            "Steam",
+            "冒险",
+            "放置"
+        ],
+        "content": [
+            "就像《无尽的饼干》、《小黑屋》、《糖果盒》以及其他游戏一样，Mr. Mine是一个经典的令你欲罢不能的挂机游戏。 ",
+            "Mr. Mine自2012年问世以来已经有超过1000万次的点击率，现在已经为Steam重新制作升级。",
+            "Mr. Mine聚焦于冒险和发现，以一种新奇的方式来探索增长游戏。",
+            "管理一群矿工，升级你的钻头，在矿井中四处溜达，发现地下深处的奥秘和宝藏。",
+            "特色：",
+            "模块化钻机升级。",
+            "秘密邂逅",
+            "隐秘升级的箱子。",
+            "你越深入就能解锁更多的新功能。",
+            "在原先的基础之上对图片和经过调整的进程进行了升级。"
+        ],
+        "customUrl": "https://mrmine.com/game/",
+        "customUrlTit": "网页中文版",
+        "customUrl2": "https://apkpremier.com/details/com-playsaurus-mrmine",
+        "customUrlTit2": "安卓直链下载",
+        "customUrl3": "https://play.google.com/store/apps/details?id=com.playsaurus.mrmine",
+        "customUrlTit3": "安卓市场版",
+        "steamUrl": "https://store.steampowered.com/app/1397920/MrMine/",
+        "QQ": "570301852",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "Fragile.city",
         "enTitle": "",
         "date": "2023-01-03",
