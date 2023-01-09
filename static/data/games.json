@@ -510,6 +510,39 @@
         "status": 1
     },
     {
+        "title": "广告拦截放置",
+        "enTitle": "Banners Begone",
+        "date": "2022-01-09",
+        "update": "2023-01-09",
+        "version": "",
+        "path": "banners-begone",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "这是一款模拟从您的网页上清除横幅广告的点击游戏！",
+            "页面会推送数十个横幅广告，你需要升级各种网络工具以增强您的广告拦截能力。",
+            "磨练你的点击技巧——事情掌握在你自己的手中！",
+            "您需要一台安装了 Chrome、Firefox 或 Safari 浏览器的 PC",
+            "你需要一个至少有鼠标左右键的鼠标",
+            "大多数游戏玩法都由点击组成。 游戏中会提示具体操作。",
+            "祝你玩得开心！"
+        ],
+        "zhUrl": "https://gityxs.github.io/banners-begone",
+        "customUrl": "https://yx.g8hh.com/banners-begone",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://dreadpon.itch.io/banners-begone",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
         "title": "Time Idle RPG，Steam/安卓/苹果英文挂机放置",
         "enTitle": "",
         "date": "2023-01-08",
