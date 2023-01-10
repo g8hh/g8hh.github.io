@@ -510,6 +510,37 @@
         "status": 1
     },
     {
+        "title": "修真模拟器：2023重制篇，群友自制",
+        "enTitle": "",
+        "date": "2023-01-10",
+        "update": "2023-01-10",
+        "version": "",
+        "path": "fantasy-2023-remake",
+        "type": [
+            "原创",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "这是《修真模拟器：凡界篇》的重制版，这次采用了原生网页的方式去开发的。",
+            "这次游戏内容基本一致，但是数值上限不再是1.8e308了，会大的非常多，大约eee这个数字级别，或者eeee也有可能。",
+            "注意：游戏字体比较大，可能需要15-30秒才能加载完成，期间不要乱点界面，容易坏档~",
+            "作者语：游戏还在更新中，目前可能存在一些未知bug，欢迎持续关注。"
+        ],
+        "customUrl": "https://gityxs.github.io/fantasy-2023-remake/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://yx.g8hh.com/fantasy-2023-remake/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "广告拦截放置",
         "enTitle": "Banners Begone",
         "date": "2023-01-09",
@@ -5232,7 +5263,7 @@
         "content": [
             "《机械装置》是一款科幻增量游戏，具有令人上瘾的机制和不断增长的内容。"
         ],
-        "enUrl": "https://louigiverona.com/machinery/0.99.1/",
+        "enUrl": "https://louigiverona.com/machinery/",
         "customUrl": "https://yx.g8hh.com/machinery",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/machinery",
