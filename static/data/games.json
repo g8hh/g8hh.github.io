@@ -587,6 +587,36 @@
         "status": 1
     },
     {
+        "title": "撸铁放置",
+        "enTitle": "Iron Idle",
+        "date": "2023-01-30",
+        "update": "2023-01-30",
+        "version": "1.1",
+        "path": "iron-idle",
+        "type": [
+            "模拟",
+            "英文",
+            "放置"
+        ],
+        "content": [
+            "这是一款以举重为主题的放置/增量游戏。",
+            "游戏文件较大，请耐心等待加载完毕。",
+            "本游戏咱们汉化不了，所以是英文的。"
+        ],
+        "customUrl": "https://gityxs.github.io/iron-idle/",
+        "customUrlTit": "英文版",
+        "customUrl2": "https://yx.g8hh.com/iron-idle/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "修真模拟器：2023重制篇，群友自制",
         "enTitle": "",
         "date": "2023-01-10",
