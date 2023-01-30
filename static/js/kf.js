@@ -6,14 +6,14 @@ $(function(){
     content +='<div class="im_main" id="im_main">';
     content +='<div id="close_im" class="close-im"><a href="javascript:void(0);" title="点击关闭">&nbsp;</a></div>';
     // content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=B1c6jzfLBTtNdim1peh9fSWdaOvvzo_S&jump_from=webapi" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏交流群:627141737">';
-    content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=AnZJbnsU8BsmQGGEWs4rXd-JuSJI-j9c&jump_from=webapi" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏交流群:793344327">';
+    content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=jlS3OQPfjBXuTV6kuLtThF5rICWNZynR&jump_from=webapi&authKey=qiagMjqscueWg8c8xvVh/SFDlYM4qdj/gFXjP/unmipGWDNoGRrCn4yO/+Z2Narl" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏交流群:627141737">';
     content +='<div class="qq-container"></div>';
     content +='<div class="qq-hover-c"><img class="img-qq" src="//g8hh.com/static/images/kf/qq.png"></div>';
     content +='<span>点击加群</span>';
     content +='</a>';
     content +='<div class="im-tel">';
     content +='<div>QQ群号:</div>';
-    content +='<div class="tel-num">793344327</div>';
+    content +='<div class="tel-num">627141737</div>';
     content +='<div>更多同类游戏:</div>';
     content +='<div class="tel-num"><a href="http://www.gityx.com" target="_blank" title="Git游戏：gityx.com~">Git游戏</a><a href="http://g8hh.com" target="_blank" style="margin-left:5px;" title="锅巴汉化：g8hh.com">锅巴汉化</a><br /><a href="https://gityx.com/hanhua/hanhuazhong/733.html" target="_blank" style="margin-left:5px;" title="点击查看游戏攻略" >游戏攻略交流论坛</a><br /><a href="javascript:void(0)" id="keepAlive" title="开启标签页后台运行，让游戏可以在后台继续运行，点击一次即可。" style="color:green !important;">* 启用后台游戏</a></div>';
     content +='</div>';
