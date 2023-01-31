@@ -587,6 +587,34 @@
         "status": 1
     },
     {
+        "title": "学者点击器",
+        "enTitle": "Scholar Clicker",
+        "date": "2023-01-31",
+        "update": "2023-01-31",
+        "version": "",
+        "path": "scholar-clicker",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "一款有趣的以数学为主角的点击放置游戏。"
+        ],
+        "zhUrl": "https://gityxs.github.io/scholar-clicker/",
+        "customUrl": "https://yx.g8hh.com/scholar-clicker/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://rebane2001.com/scholarclicker/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "撸铁放置",
         "enTitle": "Iron Idle",
         "date": "2023-01-30",
@@ -6945,15 +6973,15 @@
         "title": "梅尔沃放置",
         "enTitle": "Melvor Idle",
         "date": "2020-05-22",
-        "update": "2020-06-04",
-        "version": "0.15.2.1",
+        "update": "2023-01-31",
+        "version": "",
         "path": "melvor-idle",
         "type": [
             "推荐",
             "汉化中",
             "放置",
-            "文字",
-            "点击",
+            "iOS",
+            "安卓",
             "经营",
             "离线",
             "挂机",
@@ -6968,10 +6996,17 @@
             "不定期更新汉化文件~所以没事儿可以刷一下~"
         ],
         "enUrl": "https://www.melvoridle.com/",
-        "hhUrl": "http://note.youdao.com/noteshare?id=c550acff301710204a3b283cf4f66ee8",
         "jbUrl": "http://note.youdao.com/noteshare?id=c550acff301710204a3b283cf4f66ee8",
         "wikiUrl": "https://wiki.melvoridle.com/index.php?title=Main_Page",
+        "steamUrl": "https://store.steampowered.com/app/1267910/Melvor_Idle/",
+        "customUrl": "https://play.google.com/store/apps/details?id=com.malcs.melvoridle",
+        "customUrlTit": "安卓市场版",
+        "customUrl2": "https://apkpremier.com/details/com-malcs-melvoridle",
+        "customUrlTit2": "安卓直链下载",
+        "customUrl3": "https://apps.apple.com/hk/app/melvor-idle/id1518963622",
+        "customUrlTit3": "iOS版",
         "QQ": "967180028",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=4fuheHfVAmLnUaY1Utb7rcq93xWpv7yH&jump_from=webapi",
         "pic": [
             1,
             2,
