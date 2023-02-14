@@ -1377,8 +1377,8 @@
         "title": "继续解锁",
         "enTitle": "Theres More",
         "date": "2022-11-09",
-        "update": "2022-12-30",
-        "version": "0.44",
+        "update": "2023-02-12",
+        "version": "0.50",
         "path": "theresmoregame",
         "type": [
             "已汉化",
@@ -5549,8 +5549,8 @@
         "title": "代数递进重制版",
         "enTitle": "Algebraic Progression",
         "date": "2022-03-23",
-        "update": "2022-12-05",
-        "version": "2.0.1",
+        "update": "2023-02-13",
+        "version": "2.1",
         "path": "algebraic-progression",
         "type": [
             "已汉化",
@@ -6138,8 +6138,8 @@
         "title": "筑基",
         "enTitle": "Zhu Ji",
         "date": "2022-01-21",
-        "update": "2022-10-09",
-        "version": "0.0.1",
+        "update": "2023-02-14",
+        "version": "0.0.3",
         "path": "zhu-ji",
         "type": [
             "放置",
@@ -17416,8 +17416,8 @@
         "title": "脆皮",
         "enTitle": "Trimps",
         "date": "2017-10-27",
-        "update": "2022-08-02",
-        "version": "5.8.0",
+        "update": "2023-02-13",
+        "version": "5.9.1",
         "path": "trimps-steam",
         "type": [
             "推荐",
