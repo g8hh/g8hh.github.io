@@ -590,7 +590,7 @@
         "title": "魔法研究",
         "enTitle": "Magic Research",
         "date": "2023-02-02",
-        "update": "2023-02-02",
+        "update": "2023-02-20",
         "version": "",
         "path": "magic-research",
         "type": [
@@ -610,6 +610,8 @@
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://play.google.com/store/apps/details?id=com.mcolotto.magicresearchfull",
         "customUrlTit2": "安卓市场完整版",
+        "customUrl3": "https://apps.apple.com/app/magic-research/id1671272877",
+        "customUrlTit3": "iOS版",
         "enUrl": "https://mcolotto.github.io/magic-research-demo/",
         "pic": [
             1,
@@ -1377,8 +1379,8 @@
         "title": "继续解锁",
         "enTitle": "Theres More",
         "date": "2022-11-09",
-        "update": "2023-02-12",
-        "version": "0.50",
+        "update": "2023-02-17",
+        "version": "0.51",
         "path": "theresmoregame",
         "type": [
             "已汉化",
@@ -2432,7 +2434,7 @@
         "title": "农夫大战土豆放置",
         "enTitle": "Farmer Against Potatoes Idle",
         "date": "2022-09-29",
-        "update": "2022-09-29",
+        "update": "2023-02-17",
         "version": "",
         "path": "farmer-against-potatoes-idle",
         "type": [
@@ -2447,6 +2449,8 @@
         "steamUrl": "https://store.steampowered.com/app/1535560/Farmer_Against_Potatoes_Idle/",
         "customUrl": "https://play.google.com/store/apps/details?id=com.oninou.FAPI&hl=en_CA&gl=US",
         "customUrlTit": "安卓版下载",
+        "customUrl2": "https://apps.apple.com/us/app/farmer-against-potatoes-idle/id6444500938",
+        "customUrlTit2": "iOS版下载",
         "QQ": "816462152",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
@@ -8299,8 +8303,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2023-01-11",
-        "version": "2.039",
+        "update": "2023-02-20",
+        "version": "2.053",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -11310,8 +11314,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2022-12-13",
-        "version": "0.6.18.1",
+        "update": "2023-02-20",
+        "version": "0.6.19.1",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
