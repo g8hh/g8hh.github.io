@@ -587,6 +587,32 @@
         "status": 1
     },
     {
+        "title": "坠落星球放置",
+        "enTitle": "Planet Fall Idle",
+        "date": "2023-02-22",
+        "update": "2023-02-22",
+        "version": "",
+        "path": "planet-fall-idle",
+        "type": [
+            "已汉化"
+        ],
+        "content": [
+            "这是一款借鉴了《小黑屋》《13层》玩法的放置游戏，界面比较像《猫国建设者》。目前游戏内容还是比较少的，期待作者后续更新更多内容。"
+        ],
+        "zhUrl": "https://gityxs.github.io/planet-fall-idle/",
+        "customUrl": "https://yx.g8hh.com/planet-fall-idle/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://idler-demo.vercel.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "魔法研究",
         "enTitle": "Magic Research",
         "date": "2023-02-02",
@@ -1029,7 +1055,7 @@
         "enTitle": "Fractory",
         "date": "2022-11-28",
         "update": "2022-11-28",
-        "version": "",
+        "version": "0.9.5",
         "path": "fractory",
         "type": [
             "汉化中",
@@ -2466,8 +2492,8 @@
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2023-02-01",
-        "version": "0.8.0",
+        "update": "2023-02-21",
+        "version": "0.8.1",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -3879,8 +3905,8 @@
         "title": "循环放置3",
         "enTitle": "Omsi Loops",
         "date": "2022-07-18",
-        "update": "2022-09-01",
-        "version": "2.9",
+        "update": "2023-02-21",
+        "version": "3.0",
         "path": "omsi-loops",
         "type": [
             "汉化中",
