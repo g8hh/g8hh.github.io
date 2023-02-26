@@ -587,6 +587,32 @@
         "status": 1
     },
     {
+        "title": "鸡蛋增量",
+        "enTitle": "Egg Incremental",
+        "date": "2023-02-23",
+        "update": "2023-02-23",
+        "version": "",
+        "path": "egg-incremental",
+        "type": [
+            "已汉化"
+        ],
+        "content": [
+            "鸡生蛋，蛋生鸡。注意：游戏开始没反应的小伙伴，需要去设置界面重置游戏一次即可。"
+        ],
+        "zhUrl": "https://gityxs.github.io/egg-incremental/",
+        "customUrl": "https://yx.g8hh.com/egg-incremental/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://superjakeylkr.github.io/Egg-Incremental/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "坠落星球放置",
         "enTitle": "Planet Fall Idle",
         "date": "2023-02-22",
@@ -4506,8 +4532,8 @@
         "title": "增量史诗英雄",
         "enTitle": "Incremental Epic Hero",
         "date": "2022-06-15",
-        "update": "2022-06-15",
-        "version": "1.4.4.0",
+        "update": "2023-02-24",
+        "version": "",
         "path": "incremental-epic-hero",
         "type": [
             "放置",
@@ -7595,7 +7621,7 @@
         "title": "支付宝到账音效生成器",
         "enTitle": "Say The Money",
         "date": "2020-11-11",
-        "update": "2020-11-11",
+        "update": "2023-02-24",
         "version": "",
         "path": "say-the-money",
         "type": [
@@ -11168,8 +11194,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "JYF",
         "date": "2021-04-22",
-        "update": "2022-02-06",
-        "version": "0.6.84",
+        "update": "2023-02-22",
+        "version": "0.6.135",
         "path": "jyf",
         "type": [
             "放置",
@@ -11194,6 +11220,8 @@
         ],
         "customUrl": "https://zhouxiaobo1990.gitee.io/jyf/",
         "customUrlTit": "原版",
+        "customUrl2": "https://yx.g8hh.com/jyf",
+        "customUrlTit2": "备用地址-g8hh",
         "oscUrl": "https://www.oschina.net/p/jyf",
         "QQ": "922600429",
         "pic": [
@@ -12154,8 +12182,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2022-12-26",
-        "version": "0.7.7c",
+        "update": "2023-02-22",
+        "version": "0.8.1",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
