@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         simple-mmo-chs
 // @namespace    https://www.g8hh.com/
-// @version      1.1.60
+// @version      1.1.62
 // @description  Simple MMO（https://web.simple-mmo.com/）游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @match        *://*/*
@@ -1293,8 +1293,8 @@ var cnItems = {
     "Time Limit:": "时间限制：",
     "Type:": "类型：",
     "You don't have enough money in the bank to activate this task.": "您的公会银行存款不足，无法启动此任务。",
-    "": "",
-    "": "",
+    "Hold your horses!": "抓住你的马！",
+    "Grapes": "葡萄",
     "": "",
     "": "",
     "": "",
@@ -2843,11 +2843,19 @@ var cnPostfix = {
     "               Monthly ": "月付",
     "$3.99/Month": "$3.99/月",
     "for\n      ": "花了\n      ",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
+    "There are rumours that the chosen one has returned to the town to give out free fish handouts to whoever needs it the most. You realise that you can never have enough fish, so you hatch a plan to abuse it and take as much fish as you can.": "有传言说，被选中的人已经回到镇上，向最需要的人免费分发鱼。 你意识到你永远不会有足够的鱼，所以你制定了一个计划来滥用它并尽可能多地捕鱼。",
+    "With sharp words and much sharper swords, a king convinces you to slay the dragon who lives in the mountain. Your protests are met with the castle guards slowly drawing out their weapons. Well, guess you're a dragon slayer now.": "一位国王用尖锐的话语和更锋利的剑说服你杀死住在山上的巨龙。 你的抗议遭到城堡守卫慢慢拔出武器的回应。 好吧，我猜你现在是个屠龙者了。",
+    "You have met a wise old man who's willing to teach you the secrets of his family's ancient martial art. I guess we should trust this guy. I mean, he is a wizened mentor.": "你遇到了一位睿智的老人，他愿意传授你家族古武的秘诀。 我想我们应该相信这个人。 我的意思是，他是一位干瘪的导师。",
+    "They say that whoever manages to pull the sword out of this stone will become the ruler of this kingdom. You're pretty sure that's no basis for a system of government, but kings are supposed to make bank, right?": "他们说，谁能从这块石头中拔出宝剑，谁就会成为这个王国的统治者。 你很确定这不是政府体系的基础，但国王应该赚钱，对吧？",
+    "Find the chosen one and take his fish": "找到被选中的人并拿走他的鱼",
+    "Learn a martial art": "学一门武术",
+    "Pull out a legendary sword": "拔出传说中的宝剑",
+    "Slay the dragon": "屠龙",
+    "You can send the knight to complete the \"Learn a martial art\" quest.": "您可以派骑士完成“学一门武术”任务。",
+    "You can send the knight to complete the \"Pull out the legendary sword\" quest.": "您可以派出骑士完成“拔出传说中的宝剑”任务。",
+    "You can send the knight to complete the \"Slay the Dragon\" quest.": "你可以派骑士去完成“屠龙”任务。",
+    "You can send the knight to complete the \"Find the chosen one and take his fish\" quest.": "你可以派骑士去完成“找到被选中的人并带走他的鱼”任务。",
+    "Add 15 items or collectables to your collection.": "将 15 件物品或收藏品添加到您的收藏中。",
     "": "",
     "": "",
     "": "",
@@ -2954,6 +2962,7 @@ var cnRegReplace = new Map([
     [/^has sent you (.+) gold. $/, '送了你 $1 金币。'],
     [/^Report (.+)\?$/, '举报 $1？'],
     [/^Why are you reporting (.+)\?$/, '你为什么要举报 $1？'],
+    [/^You have claimed your daily reward for day (.+). You have received$/, '您已领取第 $1 天的每日奖励。您已收到'],
     [/^Becoming a (.+) will grant you the following:$/, '成为 $1 将授予您以下内容：'],
     [/^Are you sure that you want to wave to (.+)\?$/, '你确定要向 $1 挥手吗？'],
     [/^(.+)Free daily ([\d\.,]+) diamonds lottery$/, '$1免费每日 $2 钻石抽奖'],
@@ -3192,6 +3201,7 @@ var cnRegReplace = new Map([
     [/^Last online ([\d\.,]+) days$/, '上次在线 $1 天前'],
     [/^Level ([\d\.,]+)\n$/, '等级 $1\n'],
     [/^([\d\.,]+) minutes from now$/, '$1 分钟距离现在'],
+    [/^([\d\.,]+) EXP, and$/, '$1 经验，和'],
     [/^([\d\.,]+) to$/, '$1 到'],
     [/^([\d\.,]+) hour$/, '$1 小时'],
     [/^([\d\.,]+) hours$/, '$1 小时'],
