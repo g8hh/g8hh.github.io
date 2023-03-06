@@ -587,6 +587,34 @@
         "status": 1
     },
     {
+        "title": "能源收集器",
+        "enTitle": "Energy Collector Game",
+        "date": "2023-03-06",
+        "update": "2023-03-06",
+        "version": "1.1.1",
+        "path": "energy-collector-game",
+        "type": [
+            "已汉化"
+        ],
+        "content": [
+            "作者在十年前开发的这个游戏，现在准备出Steam版了，所以拿出来翻新一下。",
+            "提示：等级的提升需要鼠标点颜色才行。"
+        ],
+        "zhUrl": "https://gityxs.github.io/energy-collector-game/",
+        "customUrl": "https://yx.g8hh.com/energy-collector-game/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://www.energycollectorgame.xyz/",
+        "steamUrl": "https://store.steampowered.com/app/2017540/Energy_Collector/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "残骸的复仇",
         "enTitle": "WRTSC",
         "date": "2023-03-01",
