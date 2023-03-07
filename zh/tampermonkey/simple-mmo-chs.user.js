@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         simple-mmo-chs
 // @namespace    https://www.g8hh.com/
-// @version      1.2.19
+// @version      1.2.20
 // @description  Simple MMO（https://web.simple-mmo.com/）游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @match        *://*/*
@@ -20,6 +20,8 @@ if(weburl.indexOf('web.simple-mmo.com')!=-1)
 {
    // 隐藏旅行界面背景图
    GM_addStyle('.rounded-lg{background:none !important}')
+   // 保留弹框背景色
+   GM_addStyle('.rounded-lg.bg-white{background:#fff !important}')
    // 隐藏页面底部
    GM_addStyle('footer{display:none !important}')
    // 隐藏所有图片，人机校验验证码也会被隐藏，慎用
@@ -28,6 +30,8 @@ if(weburl.indexOf('web.simple-mmo.com')!=-1)
    GM_addStyle('.flex-shrink-0 img{display:none !important}')
    // 隐藏公会加成上面的人物头像、等级
    GM_addStyle('.w-full .flex-wrap{opacity:0 !important}')
+   // 保留弹框按钮
+   GM_addStyle('.w-full .flex-wrap.gap-2{opacity:1 !important}')
    // 修改向前走按钮颜色
    GM_addStyle('#step_button{background:#ccc !important}')
    // 修改向前走按钮进度条颜色
