@@ -1,16 +1,45 @@
 // ==UserScript==
 // @name         simple-mmo-chs
 // @namespace    https://www.g8hh.com/
-// @version      1.2.7
+// @version      1.2.19
 // @description  Simple MMO（https://web.simple-mmo.com/）游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @match        *://*/*
-// @include      *https://web.simple-mmo.com/*
-// @grant        none
+// @include      *https://web.simple-mmo.com*
+// @grant        GM_addStyle
+// @grant        unsafeWindow
 // @website      https://www.gityx.com
 // @updateURL    https://g8hh.com/zh/tampermonkey/simple-mmo-chs.user.js
 // @downloadURL    https://g8hh.com/zh/tampermonkey/simple-mmo-chs.user.js
 // ==/UserScript==
+
+/* ↓旅行界面样式调整，适合摸鱼↓ */
+/* ========摸鱼时删除此行注释，即可看到效果=======
+let weburl=unsafeWindow.location.href
+if(weburl.indexOf('web.simple-mmo.com')!=-1)
+{
+   // 隐藏旅行界面背景图
+   GM_addStyle('.rounded-lg{background:none !important}')
+   // 隐藏页面底部
+   GM_addStyle('footer{display:none !important}')
+   // 隐藏所有图片，人机校验验证码也会被隐藏，慎用
+   //GM_addStyle('img{display:none !important}')
+   // 隐藏左上角头像
+   GM_addStyle('.flex-shrink-0 img{display:none !important}')
+   // 隐藏公会加成上面的人物头像、等级
+   GM_addStyle('.w-full .flex-wrap{opacity:0 !important}')
+   // 修改向前走按钮颜色
+   GM_addStyle('#step_button{background:#ccc !important}')
+   // 修改向前走按钮进度条颜色
+   GM_addStyle('#loadingBar{background:#bbb !important}')
+   // 修改经验条颜色
+   GM_addStyle('.bg-indigo-600{background:#ccc !important}')
+   // 修改公会加成条背景色
+   GM_addStyle('.bg-yellow-400,.bg-green-400,.bg-blue-600{background:#ccc !important}')
+}
+========摸鱼时删除此行注释，即可看到效果======== */
+/* ↑旅行界面样式调整，适合摸鱼↑ */
+
 /**
  * ---------------------------
  * Time: 2023/02/24 17:52.
@@ -1068,7 +1097,6 @@ var cnItems = {
     "Inconsistent Armour of Holyness": "不一致的圣洁盔甲",
     "Open ": "打开",
     "You do not have enough keys ": "你没有足够的钥匙",
-    "You lost your wager.": "你失去了下注的金币。",
     "Are you sure what you wish to add all of these items to the item dump?": "您确定要将所有这些物品添加到垃圾场中吗？",
     "Yes, dump them!": "是的，扔掉它们！",
     "Tree": "树",
@@ -1555,6 +1583,58 @@ var cnItems = {
     "Skeletal Crown": "骷髅王冠",
     "Silver Crown of Twisted Powers": "扭曲之力的银冠",
     "Piece of Meat": "肉片",
+    "Weekly 15 diamonds lottery": "每周15钻抽奖",
+    "1 power point costs": "1 实力点数花费 ",
+    "Buy ": "购买",
+    "diamonds.": "钻石。",
+    "How much would you like to buy?": "你想购买多少？",
+    "cannot": "不能",
+    "create a guild name that is invisible.": "创建一个不可见的公会名称。",
+    "Minimum: 0     Maximum: 360": "最小值：0 最大值：360",
+    "Radius": "半径",
+    "Tag Colour": "标签颜色",
+    "Cannon": "大炮",
+    "Turtle": "乌龟",
+    "You have successfully sold all of your items and have gained": "您已成功售出所有物品并获得了",
+    "\"I'm not a pesky machine\"": "\"我不是讨厌的机器\"",
+    "A hooded man approaches you. \"What are you?\"": "一个戴兜帽的人向你走来。 \“你是做什么的？\”",
+    "Necklace": "项链",
+    "Please enter a correct value.": "请输入正确的值。",
+    "Whoops": "哦豁",
+    "EXP from the  orphanage bonus.": "经验来自孤儿院奖励。",
+    "drop rate from the orphanage bonus.": "掉落率来自孤儿院奖励。",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
     "": "",
     "": "",
     "": "",
@@ -3270,8 +3350,45 @@ var cnPostfix = {
     "You have successfully sent the item(s) to this user.": "您已成功将物品发送给该用户。",
     "You are sending an item to": "你正在送物品给",
     "Send": "发送",
-    "Legacy Lite": "",
-    "The Stamp ": "",
+    "Your Tickets": "你的门票",
+    "Winners are announced at 1pm GMT+1 (noon) every monday.\n                ": "获奖者将于每周一格林尼治标准时间+1 点（中午）下午 1 点公布。\n",
+    "Daily 2 diamonds lottery": "每日2钻石抽奖",
+    "Beer": "啤酒",
+    "Coffee": "咖啡",
+    "Martini": "马提尼",
+    "Select a beverage": "选择饮品",
+    "You lost your wager. The winning beverage was coffee.": "你赌输了。 获胜的饮料是咖啡。",
+    "You lost your wager. The winning beverage was martini.": "你赌输了。 获胜的饮料是马提尼。",
+    "You lost your wager. The winning beverage was beer.": "你赌输了。 获胜的饮料是啤酒。",
+    "Wager your money and get a 50% chance of doubling it.\n": "下注您的钱，有 50% 的机会翻倍。\n",
+    "You lost your wager.": "你失去了下注的金币。",
+    "A tribe of trolls wants to make peace": "一群巨魔想要和平",
+    "Break the 4th wall": "打破第四面墙",
+    "Chants in a nearby ruin": "附近废墟中的圣歌",
+    "Create a cherry pie": "做一个樱桃派",
+    "Create a quest": "创建任务",
+    "Create a simple MMO": "创建一个简单的 MMO",
+    "Create some tunes": "创建一些曲调",
+    "Determine the dexterity of the quest": "确定任务的灵活性",
+    "Gather all of the development logs": "收集所有开发日志",
+    "Go cherry picking": "去摘樱桃",
+    "Investigate who killed an innkeeper": "调查谁杀死了客栈老板",
+    "Make some crop circles and scare the locals": "制作一些麦田怪圈并吓唬当地人",
+    "Mix some music": "混合一些音乐",
+    "Perform a magic trick for children": "为孩子表演魔术",
+    "Travel to the Bahamas": "前往巴哈马",
+    "You can send the knight to complete the \"Break the 4th wall\" quest.": "您可以派骑士完成“打破第四面墙”任务。",
+    "You have lived in the world of SimpleMMO for so long that you begin to see a lot of inconsistencies. Thus, you live in a medieval setting yet there are constant references to pop culture, futuristic items, and literally everything makes no sense. It's time to say hello to the creator.\n": "您在 SimpleMMO 的世界中生活了很长时间，以至于您开始看到很多不一致的地方。 因此，你生活在中世纪的环境中，但不断提到流行文化、未来主义的物品，而且几乎所有的东西都毫无意义。 是时候向创作者问好了。\n",
+    "Congratulations! You have passed!": "恭喜！ 你通过了！",
+    "Oh no! A new quest has appeared. You must quickly determine how much dexterity you need to complete this quest.": "不好了！ 出现了新的任务。 您必须快速确定完成此任务需要多少灵巧度。",
+    "Your purchase has successfully went through.": "您的购买已成功完成。",
+    "Changing the gradient will cost": "改变渐变会花费",
+    "Change colour ": "更改颜色",
+    " has killed": " 击杀了 ",
+    "from the guilds armoury.": "从公会军械库。",
+    "You have successfully changed the colour. This may take a few hours for it to change throughout the game.": "您已成功更改颜色。 这可能需要几个小时才能在整个游戏中改变。",
+    "": "",
+    "": "",
     "": "",
     "": "",
     "": "",
@@ -3574,6 +3691,10 @@ var cnRegReplace = new Map([
     [/^(.+)This award can be unlocked by collecting ([\d\.,]+) unique collectables.$/, '$1该奖项可通过收集 $2 个独特收藏品解锁。'],
     [/^(.+)This award can be unlocked by collecting ([\d\.,]+) collectables.$/, '$1该奖项可通过收集 $2 个收藏品解锁。'],
     [/^(.+)This award can be unlocked by collecting ([\d\.,]+) backgrounds.$/, '$1该奖项可通过收集 $2 个背景解锁。'],
+    [/^(.+)Wave to ([\d\.,]+) players.$/, '$1 向 $2 个玩家挥手。'],
+    [/^(.+)Throw ([\d\.,]+) items in the item dump.$/, '$1 扔 $2 个物品到垃圾场。'],
+    [/^(.+) has bought ([\d\.,]+) power points.$/, '$1 购买了 $2 实力点数。'],
+    [/^(.+) has been given ([\d\.,]+)x$/, '$1 已获得 $2x'],
     [/^(.+) ([\d\.,]+) month ago$/, '$1 $2 个月前'],
     [/^(.+) ([\d\.,]+) month ago$/, '$1 $2 个月前'],
     [/^(.+) ([\d\.,]+) months ago$/, '$1 $2 个月前'],
@@ -3648,6 +3769,7 @@ var cnRegReplace = new Map([
     [/^([\d\.,]+) to ([\d\.,]+)$/, '$1 到 $2'],
     [/^([\d\.,]+) and purchased ([\d\.,]+)$/, '$1 购买了 $2'],
     [/^([\d\.,]+) diamonds. $/, '$1 钻石。'],
+    [/^([\d\.,]+) Power points$/, '$1 实力点数'],
     [/^([\d\.,]+) EXP$/, '$1 经验'],
     [/^([\d\.,]+) gold keys$/, '$1 黄金钥匙'],
     [/^([\d\.,]+) after tax. $/, '$1 税后。'],
@@ -3687,6 +3809,7 @@ var cnRegReplace = new Map([
     [/^([\d\.,]+) EXP, and$/, '$1 经验，和'],
     [/^([\d\.,]+) for every item sold.$/, '$1 每个物品出售。'],
     [/^([\d\.,]+) power point$/, '$1 力量点'],
+    [/^([\d\.,]+) points needed$/, ' 需要 $1 点数'],
     [/^([\d\.,]+) to$/, '$1 到'],
     [/^([\d\.,]+) hour$/, '$1 小时'],
     [/^([\d\.,]+) hours$/, '$1 小时'],
