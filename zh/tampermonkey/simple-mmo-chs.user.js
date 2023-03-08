@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         simple-mmo-chs
 // @namespace    https://www.g8hh.com/
-// @version      1.2.20
+// @version      1.2.22
 // @description  Simple MMO（https://web.simple-mmo.com/）游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @match        *://*/*
@@ -24,7 +24,7 @@ if(weburl.indexOf('web.simple-mmo.com')!=-1)
    GM_addStyle('.rounded-lg.bg-white{background:#fff !important}')
    // 隐藏页面底部
    GM_addStyle('footer{display:none !important}')
-   // 隐藏所有图片，人机校验验证码也会被隐藏，慎用
+   // 隐藏所有图片，慎用
    //GM_addStyle('img{display:none !important}')
    // 隐藏左上角头像
    GM_addStyle('.flex-shrink-0 img{display:none !important}')
@@ -32,14 +32,21 @@ if(weburl.indexOf('web.simple-mmo.com')!=-1)
    GM_addStyle('.w-full .flex-wrap{opacity:0 !important}')
    // 保留弹框按钮
    GM_addStyle('.w-full .flex-wrap.gap-2{opacity:1 !important}')
-   // 修改向前走按钮颜色
-   GM_addStyle('#step_button{background:#ccc !important}')
+   // 修改向前走按钮背景色
+   GM_addStyle('#step_button,{background:#ccc !important}')
+   // 随机事件经验条背景色
+   GM_addStyle('.bg-gray-300{background:#ddd !important}')
    // 修改向前走按钮进度条颜色
    GM_addStyle('#loadingBar{background:#bbb !important}')
    // 修改经验条颜色
-   GM_addStyle('.bg-indigo-600{background:#ccc !important}')
-   // 修改公会加成条背景色
-   GM_addStyle('.bg-yellow-400,.bg-green-400,.bg-blue-600{background:#ccc !important}')
+   GM_addStyle('.bg-indigo-600{background:#bbb !important}')
+   // 修改公会加成进度条背景色、随机事件经验条前景色
+   GM_addStyle('.bg-yellow-400,.bg-green-400,.bg-blue-600{background:#bbb !important}')
+}
+if(weburl.indexOf('web.simple-mmo.com/i-am-not-a-bot')!=-1)
+{
+   // 保留人机校验验证码
+   GM_addStyle('img{display:initial !important}')
 }
 ========摸鱼时删除此行注释，即可看到效果======== */
 /* ↑旅行界面样式调整，适合摸鱼↑ */
@@ -2170,7 +2177,7 @@ var cnPostfix = {
     "Help a blind man and his dog": "帮助一个盲人和他的狗",
     "Protect a farmer": "保护农民",
     "Travel with a wizard and retrieve a stone": "与巫师一起旅行并取回一块石头",
-    "Aid a scholar in exploring an ancient ruin": "帮���学者探索古代遗迹",
+    "Aid a scholar in exploring an ancient ruin": "帮助学者探索古代遗迹",
     "View": "查看",
     "All": "全部",
     "Perform jobs while you are not actively playing the game to receive experience points and gold.": "在你不积极玩游戏时执行工作以获得经验值和金币。",
@@ -2378,7 +2385,7 @@ var cnPostfix = {
     "Pickaxe": "镐子",
     "Shield": "盾牌",
     "Shovel": "铲子",
-    "Wood Axe": "木斧",
+    "Wood Axe": "斧子",
     "Rusty ": "生锈的",
     "Manually Refresh ": "手动刷新",
     "Exclusive events": "专属活动",
@@ -3391,16 +3398,16 @@ var cnPostfix = {
     " has killed": " 击杀了 ",
     "from the guilds armoury.": "从公会军械库。",
     "You have successfully changed the colour. This may take a few hours for it to change throughout the game.": "您已成功更改颜色。 这可能需要几个小时才能在整个游戏中改变。",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
+    "Successfully perform the quest  \"Pull out the legendary sword\" 20 times.": "成功完成任务“拔出传说之剑”20 次。",
+    "Complete 5 daily tasks.": "完成5个日常任务。",
+    "You have already completed this task.": "您已经完成了此任务。",
+    "Create a quest for SimpleMMO": "为 SimpleMMO 创建任务",
+    "The omniscient being before us, known as the \"Developer\", has left many pages of his journal scattered across the world. You decide now is the time to gather them all.": "我们面前的无所不知的人，被称为“开发者”，在他的日记中留下了许多页散落在世界各地。 你决定现在是时候把它们都收集起来了。",
+    "You quickly realise the monumental size of this task and the burden it has placed upon you and your non-existent family. After each log that you gather, you understand that the developer slowly became more and more insane as time went on and that you are following in his footsteps. You grab all of the journal entries you have found so far and throw them into the wind. Perhaps you will come across them again during your travels.": "您很快就会意识到这项任务的巨大规模以及它给您和您不存在的家人带来的负担。 在您收集每条日志后，您就会了解到开发人员随着时间的推移慢慢变得越来越疯狂，并且您正在追随他的脚步。 你抓起到目前为止找到的所有日记条目并将它们扔到风中。 也许您会在旅途中再次遇到它们。",
+    "You want to create a quest for a game that you are designing, but your imagination is failing you. You must concentrate to create a quest that is funny, interesting, and creative. It is very important that the quest is interesting, or people may get angry that you put zero effort into creating the quests.": "您想为您正在设计的游戏创建任务，但您的想象力让您失望了。 你必须集中精力创造一个有趣、有趣和有创意的任务。 任务有趣是非常重要的，否则人们可能会因为您在创建任务时付出零努力而生气。",
+    "EXP from the  orphanage bonus.": "经验来自孤儿院奖励。",
+    "drop rate from the orphanage bonus.": "掉率来自孤儿院奖励。",
+    "Banyon Tree": "榕树",
     "": "",
     "": "",
     "": "",
