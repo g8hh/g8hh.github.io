@@ -382,6 +382,7 @@
             "春节礼包码：20220201（累充、境界、月卡、vip都有加成） ",
             "回档礼包码: 20220325 (限时领取,过期失效)",
             "【qq群】836110944 群里有很多礼包码和新人攻略还有大佬耐心指导！",
+            "如果想氪金，找群主单笔充值超过100有额外的东西送哦！",
             "1.最重要的一点！！0氪玩家也可以玩的很舒服，每周的水群活动奖励真实充值 每天几分钟推广也有游戏道具跟真实充值奖励",
             "2.交易市场：游戏开通了自由交易功能，所有打到的装备，抓的宝宝，还有宝图挖出来的材料都可以交易，适合商人低进高出",
             "3.宠物洗炼：普通的宝宝可以洗练成变异宝宝，变异的宝宝价值更高。",
@@ -670,6 +671,32 @@
             8
         ],
         "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "增量堡垒",
+        "enTitle": "Incremental Fortress",
+        "date": "2023-03-13",
+        "update": "2023-03-13",
+        "version": "0.4",
+        "path": "incremental-fortress",
+        "type": [
+            "已汉化"
+        ],
+        "content": [
+            "《增量堡垒》是一种受益于各种有趣的升级和补充机制而变得有趣的游戏。"
+        ],
+        "zhUrl": "https://gityxs.github.io/incremental-fortress/",
+        "customUrl": "https://yx.g8hh.com/incremental-fortress/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://louigiverona.com/if/0.4/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
         "status": 1
     },
     {
@@ -17391,8 +17418,8 @@
         "title": "无尽的饼干",
         "enTitle": "Cookie Clicker",
         "date": "2017-12-15",
-        "update": "2020-12-29",
-        "version": "2.031",
+        "update": "2023-03-10",
+        "version": "2.05",
         "path": "cookie-clicker",
         "type": [
             "汉化中",
@@ -17405,12 +17432,17 @@
             "K站"
         ],
         "content": [
+            "2023-03-10：新增一个英文版测试版链接，更新了新建筑、51 项新升级和 49 项新成就。",
+            "2021年9月2号上架了steam版，售价22元。",
             "这是一款放置型经营游戏，你可以建造多种建筑来生产制作饼干。"
         ],
         "zhUrl": "https://g8hh.github.io/cookieclicker/",
         "customUrl": "https://cookieclicker.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://orteil.dashnet.org/cookieclicker/beta/",
+        "customUrlTit2": "备用地址-g8hh",
         "enUrl": "http://orteil.dashnet.org/cookieclicker/",
+        "steamUrl": "https://store.steampowered.com/app/1454400/Cookie_Clicker/",
         "pic": [
             1,
             2
