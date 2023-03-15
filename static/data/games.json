@@ -674,6 +674,39 @@
         "status": 1
     },
     {
+        "title": "能源放置",
+        "enTitle": "Energy Idle",
+        "date": "2023-03-15",
+        "update": "2023-03-15",
+        "version": "",
+        "path": "energy-idle",
+        "type": [
+            "已汉化"
+        ],
+        "content": [
+            "这是一个关于生成能源的放置游戏，是《FG异星工厂》《FG骑士进度条》作者的另一个作品。",
+            "指引：",
+            "1、手动点击获取能源；",
+            "2、越来越多地购买发电机；",
+            "3、研究科技以提升发电机；",
+            "4、进化以升级 0 号发电机；",
+            "5、转生以使用 欧米伽 和助推器重新启动；",
+            "6、达到进化 #11 通关游戏！"
+        ],
+        "zhUrl": "https://gityxs.github.io/energy-idle/",
+        "customUrl": "https://yx.g8hh.com/energy-idle/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://freddecgames.github.io/energyidle/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "增量堡垒",
         "enTitle": "Incremental Fortress",
         "date": "2023-03-13",
