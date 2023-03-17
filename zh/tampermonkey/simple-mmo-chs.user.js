@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         simple-mmo-chs
 // @namespace    https://www.g8hh.com/
-// @version      1.2.68
+// @version      1.2.70
 // @description  Simple MMO（https://web.simple-mmo.com/）游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://web.simple-mmo.com*
@@ -3791,7 +3791,38 @@ var cnPostfix = {
     "                  Global": "全局",
     "                 Legacy": "传奇",
     "You have successfully rejected a user from joining the guild.": "您已成功拒绝用户加入公会。",
-    "": "",
+    "Find the mythical item \"Divinity\"": "找到神话物品“神性”",
+    "Word has spread across the world that the chest piece \"Divinity\" has been hand crafted by Roh'lor, the demigod of flames and frost. You decide to take it upon yourself to find this legendary item.": "胸甲“神性”由火焰与冰霜的半神 Roh'lor 手工打造的消息传遍了全世界。 你决定自己去寻找这件传奇物品。",
+    "You can send the knight to complete the \"Find the mythical item \"Divinity\"\" quest.": "您可以派遣骑士完成“寻找神话物品”神性“任务。",
+    "You fail in finding the item. However, you succeed in this quest because during your adventures you've found a chest that has rewarded you with exp and gold.": "您找不到该物品。 然而，你在这个任务中取得了成功，因为在你的冒险中你发现了一个宝箱，它用经验和黄金奖励了你。",
+    "Challenge Mortem to a game of chess": "向 Mortem 发起国际象棋挑战",
+    "Find a penguin": "寻找一只企鹅",
+    "One of your neighbours, Nigel, has a pet penguin but it has gone walkabouts and now nobody knows where it is. He asks you to help.": "你的一个邻居，奈杰尔，有一只宠物企鹅，但它已经走了，现在没有人知道它在哪里。 他请你帮忙。",
+    "Rake the leaves": "耙树叶",
+    "You can send the knight to complete the \"Find a penguin\" quest.": "您可以派骑士完成“寻找企鹅”任务。",
+    "Mortem, the god of death, is a big fan of chess. Challenge him to a game.": "死神 Mortem 是国际象棋的忠实粉丝。 向他挑战一场比赛。",
+    "You can send the knight to complete the \"Challenge Mortem to a game of chess\" quest.": "您可以派骑士去完成“挑战 Mortem 下棋”任务。",
+    "It's autumn time and there are leaves scattered across the whole town. It's your responsibility as the citizen of the town to clean up the mess.": "秋天到了，整个小镇都落满了树叶。 作为镇上的公民，你有责任收拾残局。",
+    "You can send the knight to complete the \"Rake the leaves\" quest.": "你可以派骑士去完成“扫树叶”任务。",
+    "Please enter a correct amount.": "请输入一个正确的数量。",
+    "You have successfully removed the player from your guild.": "您已成功将该玩家从您的公会中移除。",
+    "Warriors": "战士",
+    "Set as a ": "设为 ",
+    "You cannot do this until they leave safe mode.": "在他们离开安全模式之前，您无法执行此操作。",
+    "Warrior ": "战士",
+    "This guild participates in PvP but does not have enough warriors (10) and thus it cannot contribute to guild wars.": "该公会参与 PvP 但没有足够的战士 (10)，因此无法参与公会战争。",
+    "opts you out of all conflicts with other guilds. All existing wars will end immediately.": "选择您退出与其他行会的所有冲突。 所有现有的战争都会立即结束。",
+    "You can change your guilds status every 45 days.": "您可以每 45 天更改一次公会状态。",
+    "Your guilds status has been changed.": "您的公会状态已更改。",
+    "Enabling": "启用",
+    "Enable PvP": "启用 PVP",
+    "allows you to participate in conflicts with other guilds.": "允许您参与与其他公会的冲突。",
+    "PvP only": "仅PVP",
+    "You will be able to declare war on other guilds, and other guilds will be able to declare war on you.": "你可以向其他公会宣战，其他公会也可以向你宣战。",
+    "You will be able to gain guild EXP from both PvP and PvE.": "您将能够从 PvP 和 PvE 中获得公会经验值。",
+    "No, I want to stay!": "不，我想留下！",
+    "Yes, I want to resign!": "是的，我要辞职！",
+    "Your progress will be saved and if you wish to become a Blacksmith in the future, then you can start right when you left off.": "你的进度将被保存，如果你想在未来成为一名铁匠，那么你可以在你离开时立即开始。",
     "": "",
     "": "",
     "": "",
@@ -4124,6 +4155,7 @@ var cnRegReplace = new Map([
     [/^This war started ([\d\.,]+) days  ago$/, '战争开始于  $1 天前'],
     [/^(.+)Day ([\d\.,]+)$/, '$1天数 $2'],
     [/^(.+) has accepted the trade$/, '$1 已接受交易'],
+    [/^(.+)You have reached the maximum amount of players allowed in a guild (.+).$/, '$1您已达到公会允许的最大玩家数量 $2。'],
     [/^(.+) ([\d\.,]+) Celestial Materials$/, '$1 $2 仙器材料'],
     [/^(.+) ([\d\.,]+) Bronze Key$/, '$1 $2 青铜钥匙'],
     [/^(.+) ([\d\.,]+) day  ago$/, '$1 $2 天前'],
