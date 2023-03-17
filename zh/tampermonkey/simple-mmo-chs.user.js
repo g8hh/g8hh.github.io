@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         simple-mmo-chs
 // @namespace    https://www.g8hh.com/
-// @version      1.2.70
+// @version      1.2.72
 // @description  Simple MMO（https://web.simple-mmo.com/）游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://web.simple-mmo.com*
@@ -18,7 +18,11 @@ let weburl=unsafeWindow.location.href
 if(weburl.indexOf('web.simple-mmo.com')!=-1)
 {
    // 隐藏旅行界面背景图
-   GM_addStyle('.rounded-lg{background:none !important}')
+   GM_addStyle('.rounded-lg,.rounded-md{background:#fff !important;}')
+   // 红色按钮背景色
+   GM_addStyle('.bg-red-500{background:rgb(239 68 68/var(--tw-bg-opacity)) !important;}')
+   // 隐藏宽屏铺满背景图
+   GM_addStyle('img.object-cover{opacity:0;}')
    // 保留弹框背景色
    GM_addStyle('.rounded-lg.bg-white{background:#fff !important}')
    // 隐藏页面底部
@@ -3823,6 +3827,26 @@ var cnPostfix = {
     "No, I want to stay!": "不，我想留下！",
     "Yes, I want to resign!": "是的，我要辞职！",
     "Your progress will be saved and if you wish to become a Blacksmith in the future, then you can start right when you left off.": "你的进度将被保存，如果你想在未来成为一名铁匠，那么你可以在你离开时立即开始。",
+    "Your warrior list has recently changed. Either someone has left the guild or removed themselves from the role. You are now under the required limit (10) to participate in Guild Wars. ": "您的勇士名单最近发生了变化。 要么有人离开公会，要么将自己从角色中移除。 您现在低于参加激战所需的限制 (10)。",
+    "Please rectify this as soon as possible to continue obtaining EXP from guild wars": "请尽快纠正此问题以继续从公会战中获得经验",
+    "Your guild has 24 hours to get a combined total of 30,000 steps while travelling. ": "您的公会在旅行时有 24 小时的时间达到总步数 30,000 步。",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
     "": "",
     "": "",
     "": "",
@@ -3919,6 +3943,7 @@ var cnRegReplace = new Map([
     [/^You have successfully dumped the items and gained (.+) tokens.$/, '您已经成功地丢弃了这些物品并获得了 $1 代币。'],
     [/^do you want (.+) to be\?$/, '设给 $1 ？'],
     [/^(.+)The items have been dumped you have receieved (.+) tokens.$/, '$1物品已被丢弃 您得到了 $2 个代币。'],
+    [/^(.+)Power Rank ([\d\.,]+)$/, '$1实力段位 $2'],
     [/^(.+)Rank ([\d\.,]+)$/, '$1段位 $2'],
     [/^(.+)Exclusive (.+) Discount Applied$/, '$1独家$2折扣'],
     [/^You currently have (.+) in your bank.$/, '您目前在银行中有 $1 金币。'],
