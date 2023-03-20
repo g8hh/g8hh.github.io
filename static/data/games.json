@@ -674,6 +674,33 @@
         "status": 1
     },
     {
+        "title": "寿司豆增量",
+        "enTitle": "Sushi Beans",
+        "date": "2023-03-20",
+        "update": "2023-03-20",
+        "version": "2.4.1",
+        "path": "sushibeans",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "这是一款数字很大的增量游戏，虽然短小，但是精悍，可以体验到数字飞升的爽感。"
+        ],
+        "zhUrl": "https://gityxs.github.io/sushibeans/",
+        "customUrl": "https://sushibeans.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://sushibeans.glitch.me/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",

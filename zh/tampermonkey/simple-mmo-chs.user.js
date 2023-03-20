@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         simple-mmo-chs
 // @namespace    https://www.g8hh.com/
-// @version      1.2.75
+// @version      1.2.77
 // @description  Simple MMO（https://web.simple-mmo.com/）游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://web.simple-mmo.com*
@@ -35,6 +35,12 @@ if(weburl.indexOf('web.simple-mmo.com')!=-1)
    GM_addStyle('.text-gray-200{color:#666 !important}')
    // 隐藏公会加成上面的人物头像、等级
    GM_addStyle('.w-full .flex-wrap{opacity:0 !important}')
+   // 隐藏挥手人物、材料图片
+   GM_addStyle('.text-gray-600 img{opacity:0 !important}')
+   // 隐藏采集界面图片
+   GM_addStyle('.rounded-lg.bg-white img{opacity:0 !important}')
+   // 保留队伍、药水、冲刺按钮
+   GM_addStyle('.w-full .flex-wrap.gap-1{opacity:1 !important}')
    // 保留弹框按钮
    GM_addStyle('.w-full .flex-wrap.gap-2{opacity:1 !important}')
    // 修改向前走按钮背景色
@@ -47,6 +53,8 @@ if(weburl.indexOf('web.simple-mmo.com')!=-1)
    GM_addStyle('.bg-indigo-600{background:#bbb !important}')
    // 修改公会加成进度条背景色、随机事件经验条前景色
    GM_addStyle('.bg-yellow-400,.bg-green-400,.bg-blue-600,.bg-rose-600{background:#bbb !important}')
+   // 隐藏战斗界面人物、宠物、NPC图片
+   GM_addStyle('#user_container,#enemy_container{opacity: 0 !important}')
 }
 if(weburl.indexOf('web.simple-mmo.com/i-am-not-a-bot')!=-1)
 {
@@ -1411,7 +1419,7 @@ var cnItems = {
     "                        Cancel ": "                         取消",
     "                    Accept ": "接受",
     "                    Cancel ": "取消",
-    "                  No ": "不",
+    "                  No ": "无",
     "                This will cost you ": "这将花费你",
     "                You did not place anything within this trade.": "您没有在此交易中放置任何东西。",
     "              Cancel ": "               取消",
@@ -1887,22 +1895,22 @@ var cnItems = {
     "Hat": "帽子",
     "A task has been enabled! ": "一个任务已经开启！",
     "The task has ended unsuccessfully.": "该任务已以失败结束。",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
+    "                                Add To ": "添加到",
+    "Captain Tree": "树人船长",
+    "Golem": "石巨人",
+    "Helltalon": "地狱之爪",
+    "Snailator": "最强蜗牛",
+    "Mr. Cactus": "仙人掌先生",
+    "Golden Dragon": "金龙",
+    "Golden Egg ": "金蛋",
+    "Damaged Smug Egg": "受伤的臭蛋",
+    "A Damaged Woo": "受伤的阿飘",
+    "Dante": "但丁",
+    "Reverse Lich": "反转巫妖",
+    "Oncha": "翁查",
+    "Shroomy": "蘑菇人",
+    "A Damaged Last ": "受伤的最终",
+    "Mrs. Lion": "狮子女士",
     "": "",
     "": "",
     "": "",
@@ -1935,8 +1943,9 @@ var cnItems = {
     "Canada": "加拿大",
     "Strange Skull": "奇怪的头骨",
     "Rotten Pepper": "腐烂的胡椒",
-    "": "",
-    "": "",
+    "items": "物品",
+    "items ": "物品",
+    "gold.": "金币。",
     "": "",
     "": "",
     "": "",
@@ -2327,6 +2336,16 @@ var cnPrefix = {
     "Helm of the Prince ": "王子的头盔",
     "Background #": "背景 #",
     "(Out of ": "(超过 ",
+    "         Add Item To Trade #": "添加物品到交易 #",
+    "Peace Maker ": "和平使者",
+    "Fortune's Legplates of Pride ": "厄运的傲慢腿甲",
+    "Broken One Gift of ": "破碎的礼物之",
+    "Chainmail Handguards ": "链甲护手",
+    "def  ": "防御",
+    "Hairy Harry": "毛茸茸的哈利",
+    "Mask of the Seet ": "西特的面具",
+    "Poor Mans Boots ": "可怜人的靴子",
+    "": "",
     "": "",
     "": "",
     "": "",
@@ -3855,10 +3874,10 @@ var cnPostfix = {
     "Your warrior list has recently changed. Either someone has left the guild or removed themselves from the role. You are now under the required limit (10) to participate in Guild Wars. ": "您的勇士名单最近发生了变化。 要么有人离开公会，要么将自己从角色中移除。 您现在低于参加激战所需的限制 (10)。",
     "Please rectify this as soon as possible to continue obtaining EXP from guild wars": "请尽快纠正此问题以继续从公会战中获得经验",
     "Your guild has 24 hours to get a combined total of 30,000 steps while travelling. ": "您的公会在旅行时有 24 小时的时间达到总步数 30,000 步。",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
+    "The place where the gods themselves watch the strongest heroes fight in a mighty battle.": "诸神亲眼目睹最强英雄们激战的地方。",
+    "Are you sure that you wish to sell all of these items?": "您确定要出售所有这些物品吗？",
+    "Yes, sell them.": "是的，出售它们",
+    "You have successfully sold": "你已成功出售",
     "": "",
     "": "",
     "": "",
@@ -3993,6 +4012,10 @@ var cnRegReplace = new Map([
     [/^Crafting level ([\d\.,]+) required$/, '要求制作等级 $1'],
     [/^You need to complete (.+) more jobs to become a (.+)$/, '您需要完成 $1 个工作才能成为 $2'],
     [/^Take (.+) steps$/, '前进 $1 步'],
+    [/^\+(.+) Travel EXP \(([\d\.]+) mins\)$/, '+$1 旅行经验（持续 $2 分钟）'],
+    [/^\+(.+) rarity rate for (.+) minutes when opening chests.$/, '打开宝箱时 +$1 稀有度，持续 $2 分钟。'],
+    [/^\+(.+) exp for (.+) minutes while travelling.$/, '旅行时 +$1 经验，持续 $2 分钟。'],
+    [/^\+(.+) faster steps while travelling for (.+) minutes while travelling.$/, '旅行时 +$1 行进速度，持续 $2 分钟。'],
     [/^Next at (.+) points$/, '下一个在 $1 点数'],
     [/^Pay with bank \((.+) fee\)$/, '通过银行付款（$1 手续费）'],
     [/^\(\+(.+) fee\)$/, '（+$1 手续费）'],
@@ -4201,6 +4224,7 @@ var cnRegReplace = new Map([
     [/^(.+) ([\d\.,]+) hours  ago$/, '$1 $2 小时前'],
     [/^(.+) ([\d\.,]+) minute  ago$/, '$1 $2 分钟前'],
     [/^(.+) ([\d\.,]+) minutes  ago$/, '$1 $2 分钟前'],
+    [/^(.+)This trade was completed ([\d\.,]+) seconds ago. $/, '$1 本交易完成于 $2 秒前。'],
     [/^(.+)Rewards \(Level ([\d\.,]+)\)$/, '$1奖励（等级 $2）'],
     [/^(.+) \(Level ([\d\.,]+)\)$/, '$1（等级 $2）'],
     [/^This war started ([\d\.,]+) days  ago$/, '战争开始于  $1 天前'],
