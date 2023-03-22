@@ -674,6 +674,38 @@
         "status": 1
     },
     {
+        "title": "骑士进度条2 Mod",
+        "enTitle": "Progress Knight 2 Mod",
+        "date": "2023-03-22",
+        "update": "2023-03-22",
+        "version": "2.2.9.2",
+        "path": "progress-knight2-mod",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "本Mod是基于《骑士进度条2.0》的基础上，进行再次开发的。",
+            "大概变化：",
+            "1、工作、技能的进程由之前的单线程，变成了多线程，就是说可以同时做多件事了，大大解放了双手。",
+            "2、商店会根据当前收入情况自动进行购买，不用我们自己去选了。",
+            "3、作者似乎加入了挑战玩法和功能？我还没玩到，到时候汉化到了再看。",
+            "4、其它新东西，暂时未发现。"
+        ],
+        "zhUrl": "https://gityxs.github.io/progress-knight2-mod/",
+        "customUrl": "https://progress-knight2-mod.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://indomit.github.io/progress_knight_2/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "寿司豆增量",
         "enTitle": "Sushi Beans",
         "date": "2023-03-20",
