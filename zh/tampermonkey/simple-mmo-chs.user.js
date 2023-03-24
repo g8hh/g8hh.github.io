@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         simple-mmo-chs
 // @namespace    https://www.g8hh.com/
-// @version      1.2.82
+// @version      1.2.83
 // @description  Simple MMO（https://web.simple-mmo.com/）游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://web.simple-mmo.com*
@@ -3895,7 +3895,29 @@ var cnPostfix = {
     "gold from the guild raid.": "金币来自公会突袭。",
     "You take step.": "你迈出一步。",
     "Open another 5": "打开另外5个",
+    "% EXP from bonuses (Temple, Global Boosts)": "% 经验来自奖励（寺庙、全局提升）",
     "% EXP from bonuses (Temple, Global Boosts, Guild Raid)": "% 经验来自奖励（寺庙、全局提升、公会突袭）",
+    " has left the guild.": " 离开了公会。",
+    "\"The best friend of Rol'lor. He was a wise scholar that prophesied the end of the world. He founded a secret society of very wise scholars that had magical powers called \"The Wise Ones\". In their words, the world will end when \"The earth will turn red from the blood running from the faces of screaming children. The people will turn into ash and the Supreme One will rise once again.\". However, the existence of \"The Wise Ones\" is constantly discredited by modern scholars.\"": "“Rol'lor最好的朋友。他是一位预言世界末日的睿智学者。他成立了一个由非常睿智的学者组成的秘密社团，他们拥有神奇的力量，叫做‘智者’。用他们的话说， 世界将终结，“地球将被尖叫的孩子们脸上流淌的鲜血染红。 人终将化为灰烬，至尊再次崛起。”。然而，“智者”的存在却不断被现代学者抹黑。",
+    "You have started the job. Please wait a few moments.": "你已经开始工作了。 请稍等片刻。",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
     "": "",
     "": "",
     "": "",
