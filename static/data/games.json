@@ -674,6 +674,60 @@
         "status": 1
     },
     {
+        "title": "扑克放置",
+        "enTitle": "Poker The Idle Game",
+        "date": "2023-03-24",
+        "update": "2023-03-24",
+        "version": "",
+        "path": "poker-the-idle-game",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "这是一款类似《骰子放置》玩法的放置游戏，简单粗暴​，享受大数值上升的快感。​"
+        ],
+        "zhUrl": "https://gityxs.github.io/poker-the-idle-game/",
+        "customUrl": "https://poker-the-idle-game.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://poker-the-idle-game.vercel.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "Dunno",
+        "enTitle": "Dunno",
+        "date": "2023-03-24",
+        "update": "2023-03-24",
+        "version": "",
+        "path": "dunno",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "Dunno 是一款关于掷骰子和赚钱的游戏。 尝试在有限的回合数内赚取尽可能多的钱。"
+        ],
+        "zhUrl": "https://gityxs.github.io/dunno/",
+        "customUrl": "https://dunno.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "http://jamuspsi.github.io/dunno/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "骑士进度条2 Mod",
         "enTitle": "Progress Knight 2 Mod",
         "date": "2023-03-22",
@@ -1005,7 +1059,7 @@
         "title": "魔法研究",
         "enTitle": "Magic Research",
         "date": "2023-02-02",
-        "update": "2023-02-20",
+        "update": "2023-03-23",
         "version": "",
         "path": "magic-research",
         "type": [
@@ -1028,6 +1082,7 @@
         "customUrl3": "https://apps.apple.com/app/magic-research/id1671272877",
         "customUrlTit3": "iOS版",
         "enUrl": "https://mcolotto.github.io/magic-research-demo/",
+        "steamUrl": "https://store.steampowered.com/app/2311680/Magic_Research/",
         "pic": [
             1,
             2,
