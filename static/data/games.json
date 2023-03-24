@@ -674,6 +674,42 @@
         "status": 1
     },
     {
+        "title": "符文树",
+        "enTitle": "The Glyph Tree",
+        "date": "2023-03-24",
+        "update": "2023-03-24",
+        "version": "",
+        "path": "the-glyph-tree",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是群里的小伙伴QwQe308 制作的又一个模组树游戏，欢迎体验。",
+            "目前游戏内容大概可以玩一小时半左右，内容还在更新中。"
+        ],
+        "customUrl2": "https://the-glyph-tree.g8hh.com/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl": "https://qwqe308.github.io/The-Glyph-Tree/",
+        "customUrlTit": "开始游戏",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
         "title": "扑克放置",
         "enTitle": "Poker The Idle Game",
         "date": "2023-03-24",

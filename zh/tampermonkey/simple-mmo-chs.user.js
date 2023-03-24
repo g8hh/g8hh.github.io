@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         simple-mmo-chs
 // @namespace    https://www.g8hh.com/
-// @version      1.2.83
+// @version      1.2.84
 // @description  Simple MMO（https://web.simple-mmo.com/）游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://web.simple-mmo.com*
@@ -1946,8 +1946,8 @@ var cnItems = {
     "items": "物品",
     "items ": "物品",
     "gold.": "金币。",
-    "": "",
-    "": "",
+    "power points.": "实力点。",
+    "warriors": "战士",
     "": "",
     "": "",
     "": "",
@@ -3900,16 +3900,16 @@ var cnPostfix = {
     " has left the guild.": " 离开了公会。",
     "\"The best friend of Rol'lor. He was a wise scholar that prophesied the end of the world. He founded a secret society of very wise scholars that had magical powers called \"The Wise Ones\". In their words, the world will end when \"The earth will turn red from the blood running from the faces of screaming children. The people will turn into ash and the Supreme One will rise once again.\". However, the existence of \"The Wise Ones\" is constantly discredited by modern scholars.\"": "“Rol'lor最好的朋友。他是一位预言世界末日的睿智学者。他成立了一个由非常睿智的学者组成的秘密社团，他们拥有神奇的力量，叫做‘智者’。用他们的话说， 世界将终结，“地球将被尖叫的孩子们脸上流淌的鲜血染红。 人终将化为灰烬，至尊再次崛起。”。然而，“智者”的存在却不断被现代学者抹黑。",
     "You have started the job. Please wait a few moments.": "你已经开始工作了。 请稍等片刻。",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
+    "                                Open ": "打开",
+    "Free Power Points Pack": "免费实力点补充包",
+    "Free 30 ": "免费的 30",
+    "Your guild is eligible for 30 power points for free.": "您的公会有资格免费获得 30 个实力点。",
+    "The guild has been credited with": "公会已经获得了 ",
+    "                      No locations have been added": "没有添加任何地点",
+    "Select a location to add to the raid": "选择要添加到突袭中的位置",
+    "\"Vault Hunter\"": "\"秘藏猎人\"",
+    "A point is removed every 24 hours.": "每 24 小时自动减少 1 实力点。",
+    "You have completed the weekly chest. You have been given": "你已完成周常任务并打开了周常宝箱。你获得了",
     "": "",
     "": "",
     "": "",
@@ -4228,6 +4228,7 @@ var cnRegReplace = new Map([
     [/^(.+) ([\d\.,]+) bounties$/, '$1 $2 悬赏'],
     [/^(.+) ([\d\.,]+) EXP$/, '$1 $2 经验'],
     [/^(.+) ([\d\.,]+) tasks$/, '$1 $2 任务'],
+    [/^Perform ([\d\.,]+) quests$/, '完成 $1 冒险'],
     [/^(.+) ([\d\.,]+) quests$/, '$1 $2 冒险'],
     [/^(.+) ([\d\.,]+) rep$/, '$1 $2 回复'],
     [/^(.+) ([\d\.,]+) gold$/, '$1 $2 金币'],
@@ -4355,7 +4356,9 @@ var cnRegReplace = new Map([
     [/^Last online ([\d\.,]+) seconds$/, '最近在线于 $1 秒前'],
     [/^Last online ([\d\.,]+) minute$/, '最近在线于 $1 分钟前'],
     [/^Last online ([\d\.,]+) minutes$/, '最近在线于 $1 分钟前'],
+    [/^Defeat ([\d\.,]+) $/, '击败 $1 '],
     [/^Kill ([\d\.,]+) $/, '击杀 $1 '],
+    [/^Your guild has to take a total of ([\d\.,]+) steps.$/, '您的公会总共需要走 $1 步。'],
     [/^Perform ([\d\.,]+) quests$/, '执行 $1 次冒险'],
     [/^([\d\.,]+) week ago$/, '$1 周 前'],
     [/^([\d\.,]+) minutes from now$/, '$1 分钟距离现在'],
