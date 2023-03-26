@@ -674,6 +674,39 @@
         "status": 1
     },
     {
+        "title": "神秘尖塔",
+        "enTitle": "Mysterious Minaret",
+        "date": "2023-03-24",
+        "update": "2023-03-24",
+        "version": "0.1.6.80b",
+        "path": "mysterious-minaret",
+        "type": [
+            "文字",
+            "点击",
+            "策略",
+            "升级"
+        ],
+        "content": [
+            "这是群里的小伙伴 辉影神秘 制作的Rouge玩法的卡牌游戏，欢迎体验。"
+        ],
+        "customUrl2": "https://mysterious-minaret.g8hh.com/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://afdian.net/@Mysterious124",
+        "customUrlTit3": "捐赠链接",
+        "customUrl": "https://shenmi124.github.io/Mysterious_Minaret/",
+        "customUrlTit": "开始游戏",
+        "enUrl": "https://shenmi124.github.io/EN_Mysterious_Minaret/",
+        "QQ": "688646311",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
         "title": "符文树",
         "enTitle": "The Glyph Tree",
         "date": "2023-03-24",
