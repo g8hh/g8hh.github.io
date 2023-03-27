@@ -674,6 +674,80 @@
         "status": 1
     },
     {
+        "title": "公式树NG--",
+        "enTitle": "The Formula NG--",
+        "date": "2023-03-27",
+        "update": "2023-03-27",
+        "version": "",
+        "path": "the-formula-ng--",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这个游戏，又是群里的小伙伴 @辉影神秘(Shinwmyste) 制作的。",
+            "想当年的初中生，如今已经成长为高中生了，后生可畏，值得表扬。"
+        ],
+        "customUrl2": "https://yx.g8hh.com/the-formula-ng--/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl": "https://shenmi124.github.io/The_Formula_NG--/",
+        "customUrlTit": "开始游戏",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "Home Quest - Idle Adventure",
+        "enTitle": "",
+        "date": "2023-03-27",
+        "update": "2023-03-27",
+        "version": "",
+        "path": "home-quest",
+        "type": [
+            "英文",
+            "安卓",
+            "苹果",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "建立你的城镇",
+            "你发现自己在一个未知的地方。 不确定这些土地可能拥有什么，你决定最好扩大你的定居点。 为你的人民提供住房和农场。 创建工作场所、军事设施等。",
+            "招募军队",
+            "安顿下来后，消除威胁，与敌人作战，征服土地，扩大影响范围。 在不同的单位和军队组成之间进行选择。",
+            "管理你的经济",
+            "密切关注您的资源，分配您的工人，并微调您的生产链。 扩大您的定居点以获取稀有资源。",
+            "更多...",
+            "体验一个故事，了解异国他乡的居民。 与神话中的巫师部落一起工作。 在前进的过程中经历艰辛、惊喜和乐趣！"
+        ],
+        "customUrl": "https://apps.apple.com/us/app/id1503150114",
+        "customUrlTit": "iOS版",
+        "customUrl2": "https://apkpremier.com/details/de-codestream-horus",
+        "customUrlTit2": "安卓直链下载",
+        "customUrl3": "https://play.google.com/store/apps/details?id=de.codestream.horus",
+        "customUrlTit3": "安卓市场版",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "神秘尖塔",
         "enTitle": "Mysterious Minaret",
         "date": "2023-03-24",
@@ -687,7 +761,7 @@
             "升级"
         ],
         "content": [
-            "这是群里的小伙伴 辉影神秘 制作的Rouge玩法的卡牌游戏，欢迎体验。"
+            "这是群里的小伙伴 辉影神秘 制作的Rogue玩法的卡牌游戏，欢迎体验。"
         ],
         "customUrl2": "https://mysterious-minaret.g8hh.com/",
         "customUrlTit2": "备用地址-g8hh",
@@ -704,7 +778,8 @@
             4,
             5
         ],
-        "status": 0
+        "needHH": 0,
+        "status": 1
     },
     {
         "title": "符文树",
@@ -740,7 +815,8 @@
             4,
             5
         ],
-        "status": 0
+        "needHH": 0,
+        "status": 1
     },
     {
         "title": "扑克放置",
@@ -859,8 +935,8 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2023-03-17",
-        "version": "0.1.2",
+        "update": "2023-03-27",
+        "version": "0.1.3",
         "path": "fundamental",
         "type": [
             "已汉化"
