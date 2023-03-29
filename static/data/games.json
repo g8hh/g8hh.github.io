@@ -674,6 +674,33 @@
         "status": 1
     },
     {
+        "title": "同化放置",
+        "enTitle": "Absorber",
+        "date": "2023-03-29",
+        "update": "2023-03-29",
+        "version": "1.9",
+        "path": "absorber",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "探索地牢击败敌人并获得他们的力量。击败所有怪物后，会解锁转生功能。​"
+        ],
+        "zhUrl": "https://gityxs.github.io/absorber/",
+        "customUrl": "https://absorber.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://absorber.wick-alexander.de/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "公式树NG--",
         "enTitle": "The Formula NG--",
         "date": "2023-03-27",
