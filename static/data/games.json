@@ -674,6 +674,31 @@
         "status": 1
     },
     {
+        "title": "热量增量",
+        "enTitle": "Heat Energy Incremental",
+        "date": "2023-03-31",
+        "update": "2023-03-31",
+        "version": "",
+        "path": "heat-energy-incremental",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "群里一位小姐姐写的增量游戏，锅巴直呼厉害！大家快来玩一下吧。"
+        ],
+        "zhUrl": "https://heat-energy-incremental.g8hh.com/",
+        "enUrl": "https://beautyfallencat.github.io/HeatEnergyIncremental/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "同化放置",
         "enTitle": "Absorber",
         "date": "2023-03-29",
@@ -3625,8 +3650,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2023-01-16",
-        "version": "1.4.2",
+        "update": "2023-03-30",
+        "version": "1.5.0",
         "path": "spice-idle",
         "type": [
             "已汉化",
@@ -4554,8 +4579,8 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2023-01-04",
-        "version": "1.1.0",
+        "update": "2023-03-30",
+        "version": "1.1.1",
         "path": "immortality-idle",
         "type": [
             "已汉化",
@@ -6197,8 +6222,8 @@
         "title": "代数递进重制版",
         "enTitle": "Algebraic Progression",
         "date": "2022-03-23",
-        "update": "2023-02-13",
-        "version": "2.1",
+        "update": "2023-03-30",
+        "version": "2.2",
         "path": "algebraic-progression",
         "type": [
             "已汉化",
@@ -8947,8 +8972,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2023-02-20",
-        "version": "2.053",
+        "update": "2023-03-30",
+        "version": "2.059",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
