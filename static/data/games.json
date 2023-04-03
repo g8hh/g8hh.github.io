@@ -674,6 +674,33 @@
         "status": 1
     },
     {
+        "title": "硬盘清理放置",
+        "enTitle": "Cleanup 98",
+        "date": "2023-03-31",
+        "update": "2023-03-31",
+        "version": "",
+        "path": "cleanup98",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "在这个游戏中，玩家扮演电脑用户的角色，需要通过删除文件来清理硬盘。 游戏从有限的磁盘空间开始，用作购买升级和能量提升的货币。"
+        ],
+        "zhUrl": "https://gityxs.github.io/cleanup98/",
+        "customUrl": "https://cleanup98.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://beautyfallencat.github.io/HeatEnergyIncremental/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "热量增量",
         "enTitle": "Heat Energy Incremental",
         "date": "2023-03-31",
@@ -6811,8 +6838,8 @@
         "title": "筑基",
         "enTitle": "Zhu Ji",
         "date": "2022-01-21",
-        "update": "2023-02-14",
-        "version": "0.0.3",
+        "update": "2023-04-03",
+        "version": "0.0.3.6",
         "path": "zhu-ji",
         "type": [
             "放置",
