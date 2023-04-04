@@ -674,10 +674,36 @@
         "status": 1
     },
     {
+        "title": "佩德罗·帕斯卡声望三角",
+        "enTitle": "Pedro Pascals Triangle Of Prestige",
+        "date": "2023-04-04",
+        "update": "2023-04-04",
+        "version": "",
+        "path": "pedro-pascals-triangle-of-prestige",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "在这个游戏中，玩家扮演电脑用户的角色，需要通过删除文件来清理硬盘。 游戏从有限的磁盘空间开始，用作购买升级和能量提升的货币。"
+        ],
+        "zhUrl": "https://gityxs.github.io/pedro-pascals-triangle-of-prestige/",
+        "customUrl": "https://pedro-pascals-triangle-of-prestige.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://asteriskman7.github.io/PedroPascalsTriangleOfPrestige/",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
         "title": "硬盘清理放置",
         "enTitle": "Cleanup 98",
-        "date": "2023-03-31",
-        "update": "2023-03-31",
+        "date": "2023-04-03",
+        "update": "2023-04-03",
         "version": "",
         "path": "cleanup98",
         "type": [
@@ -690,7 +716,7 @@
         "zhUrl": "https://gityxs.github.io/cleanup98/",
         "customUrl": "https://cleanup98.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
-        "enUrl": "https://beautyfallencat.github.io/HeatEnergyIncremental/",
+        "enUrl": "https://dwhiffing.github.io/cleanup98/",
         "pic": [
             1,
             2,
