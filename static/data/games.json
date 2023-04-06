@@ -674,6 +674,34 @@
         "status": 1
     },
     {
+        "title": "堕落的猫之减肥故事",
+        "enTitle": "Fallen Cat Lose Weight Story",
+        "date": "2023-04-06",
+        "update": "2023-04-06",
+        "version": "1.1",
+        "path": "fallen-cat-lose-weight-story",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "这是群友（Fallen_Cat）自制的另一个游戏，这次是英文的（作者着重说了不要汉化，所以咱就没汉化了，嘻嘻）。",
+            "实在看不懂的话可以用浏览器自带翻译玩着试试。",
+            "注意：游戏玩法主要是移动上下左右箭头，或者WASD这几键（我Mac电脑只能按字母键）。"
+        ],
+        "customUrl": "https://fallen-cat-lose-weight-story.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://beautyfallencat.github.io/Fallen_Cat-Lose-Weight-Story/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "佩德罗·帕斯卡声望三角",
         "enTitle": "Pedro Pascals Triangle Of Prestige",
         "date": "2023-04-04",
