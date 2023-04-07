@@ -674,14 +674,66 @@
         "status": 1
     },
     {
-        "title": "堕落的猫之减肥故事",
-        "enTitle": "Fallen Cat Lose Weight Story",
+        "title": "教皇养成放置",
+        "enTitle": "Become Pope",
+        "date": "2023-04-07",
+        "update": "2023-04-07",
+        "version": "",
+        "path": "become-pope",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "这是一款模拟成为教皇的放置游戏，流程不是很长。"
+        ],
+        "zhUrl": "https://gityxs.github.io/become-pope/",
+        "customUrl": "https://become-pope.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://louigiverona.com/pope/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "原始增量",
+        "enTitle": "Primordial",
+        "date": "2023-04-07",
+        "update": "2023-04-07",
+        "version": "0.2",
+        "path": "primordial",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "这是一款玩法很简单的增量游戏，游戏基本上全靠挂机，只有一个操作按钮，就是速率翻倍。"
+        ],
+        "zhUrl": "https://gityxs.github.io/primordial/",
+        "customUrl": "https://primordial.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://louigiverona.com/primordial/0.2/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "Fallen Cat Lose Weight Story",
+        "enTitle": "",
         "date": "2023-04-06",
         "update": "2023-04-06",
         "version": "1.1",
         "path": "fallen-cat-lose-weight-story",
         "type": [
-            "已汉化",
+            "英文",
+            "原创",
             "放置"
         ],
         "content": [
@@ -1070,7 +1122,7 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2023-03-27",
+        "update": "2023-04-07",
         "version": "0.1.3",
         "path": "fundamental",
         "type": [
@@ -14009,6 +14061,7 @@
         "title": "图形工厂",
         "enTitle": "shapez.io",
         "date": "2020-07-01",
+        "update": "2023-04-07",
         "path": "shapez-io",
         "type": [
             "放置",
@@ -14020,10 +14073,13 @@
             "Steam"
         ],
         "content": [
+            "2023-04-07：Epic上最近可以免费领哦，截止到4月13日23:00。",
             "画风很可爱啊，感觉是《异星工厂》的玩法，Steam售价18元。网页版是体验版。"
         ],
         "zhUrl": "https://shapez.io/",
         "steamUrl": "https://store.steampowered.com/app/1318690/shapezio/",
+        "customUrl": "https://store.epicgames.com/zh-CN/p/shapez-0929c9",
+        "customUrlTit": "Epic上免费领",
         "QQ": "816462152",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
