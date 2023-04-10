@@ -674,6 +674,64 @@
         "status": 1
     },
     {
+        "title": "迷宫放置",
+        "enTitle": "Idle Maze",
+        "date": "2023-04-10",
+        "update": "2023-04-10",
+        "version": "",
+        "path": "idle-maze",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "一款以平衡资源为主要玩法的走迷宫游戏。",
+            "注意：",
+            "游戏似乎存在Bug，进入下一关时会有点不动的情况。所以进入下一关之前，切记备份存档先。",
+            "如果遇到进入下一关后，无法点击路径，则需要导入之前备份的存档到英文版试试进入下一关，再导出存档到汉化版里面玩（建议玩英文版，汉化版作为对照使用）。"
+        ],
+        "zhUrl": "https://gityxs.github.io/idle-maze/",
+        "customUrl": "https://idle-maze.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://liveoverflow.github.io/idle-maze/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "工业小镇：放置版",
+        "enTitle": "Factory Town Idle",
+        "date": "2023-04-10",
+        "update": "2023-04-10",
+        "version": "",
+        "path": "factory-town-idle",
+        "type": [
+            "steam",
+            "中文",
+            "放置",
+            "经营",
+            "模拟"
+        ],
+        "content": [
+            "《工业小镇：放置版》是一款增量城市建造游戏。管理繁华的城市这样即使你离线也可以生产销售大量的物品。便可消耗指数级的资源来解锁新技术，让你的生产速度达到无穷。",
+            "游戏内置中文，目前是Demo版免费的，4月21号发布正式版，目测会是收费游戏~"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/2207490/_/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "教皇养成放置",
         "enTitle": "Become Pope",
         "date": "2023-04-07",
@@ -15291,32 +15349,38 @@
         "status": 1
     },
     {
-        "title": "NGU放置",
+        "title": "NGU放置，有汉化了",
         "enTitle": "NGU",
         "date": "2019-12-06",
+        "update": "2023-04-10",
         "path": "ngu",
         "type": [
+            "汉化中",
             "放置",
             "点击",
             "冒险",
             "离线",
             "挂机",
             "K站",
-            "英文",
             "Steam"
         ],
         "content": [
-            "每个人都喜欢上升的数字。 玩NGU放置，并获得许多如此激动人心的高峰！"
+            "NGU Idle 是一款免费的放置游戏，充满了怪异的幽默、大量的升级和数百小时的内容！ 立即尝试 NGU Idle，体验数字上升的乐趣！",
+            "每个人都喜欢上升的数字。 玩NGU放置，并获得许多如此激动人心的高峰！",
+            "感谢群里的 @Null 大佬帮忙攻克了汉化的难题，@by22dgb 大佬正在汉化，目前已经汉化的差不多了，欢迎喜欢的小伙伴来玩玩这个经典游戏",
+            "汉化文件获取，去NUG群里（663807219）看群公告、群文件。"
         ],
         "kUrl": "https://www.kongregate.com/games/somethingggg/ngu-idle?sfa=permalink&referrer=SunshineDad",
         "steamUrl": "https://store.steampowered.com/app/1147690/NGU_IDLE/?snr=1_7_15__13",
-        "QQ": "816462152",
-        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "QQ": "663807219",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=v-VNKm-h98IwLVxeRCHe55A5g96mwvsN&jump_from=webapi&authKey=VDxjyKwbOwmLV9tAnq51wUxD/17ou8RDpG+E90to0fpwx2cp6UMgYoml3GUOdOEk",
         "pic": [
             1,
-            2
+            2,
+            3,
+            4,
+            5
         ],
-        "needHH": 0,
         "status": 1
     },
     {
