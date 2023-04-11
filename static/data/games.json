@@ -674,6 +674,65 @@
         "status": 1
     },
     {
+        "title": "文字密室逃脱",
+        "enTitle": "",
+        "date": "2023-04-11",
+        "update": "2023-04-11",
+        "version": "",
+        "path": "odes-escape",
+        "type": [
+            "密室",
+            "解谜",
+            "点击"
+        ],
+        "content": [
+            "国人自制的一款文字密室逃脱游戏，游戏的玩法很新颖，给作者点个赞。",
+            "看到群里有小伙伴在玩，我就放上来了。",
+            "我看游戏里面有小程序版本，暂时没发现广告，喜欢的可以手机玩小程序版本。"
+        ],
+        "customUrl": "https://nodes-escape.hzfe.org/",
+        "customUrlTit": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "破碎领域",
+        "enTitle": "Realm Grinder",
+        "date": "2023-04-10",
+        "update": "2023-04-10",
+        "version": "",
+        "path": "realm-grinder",
+        "type": [
+            "steam",
+            "英文",
+            "放置",
+            "经营",
+            "模拟"
+        ],
+        "content": [
+            "《工业小镇：放置版》是一款增量城市建造游戏。管理繁华的城市这样即使你离线也可以生产销售大量的物品。便可消耗指数级的资源来解锁新技术，让你的生产速度达到无穷。",
+            "游戏内置中文，目前是Demo版免费的，4月21号发布正式版，目测会是收费游戏~"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/610080/",
+        "customUrl": "https://www.kongregate.com/games/DivineGames/realm-grinder?sfa=permalink&referrer=SunshineDad",
+        "customUrlTit": "K站网页版",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "迷宫放置",
         "enTitle": "Idle Maze",
         "date": "2023-04-10",
