@@ -674,6 +674,38 @@
         "status": 1
     },
     {
+        "title": "怪兽仙境OL，怀旧文字冒险游戏",
+        "enTitle": "",
+        "date": "2023-04-12",
+        "update": "2023-04-12",
+        "version": "",
+        "path": "gsxjol",
+        "type": [
+            "文字",
+            "冒险",
+            "点击"
+        ],
+        "content": [
+            "群友安利的一款怀旧文字页游，无氪金，游戏画面就像3G时代的那种。",
+            "游戏玩法主要是做任务、打怪，需要点点点，暂时没有自动、放置元素。",
+            "目前游戏还在开发完善中，所以发现问题可以去群里反馈给作者。",
+            "游戏群：931976585，不懂的地方可以在群里问哈。"
+        ],
+        "customUrl": "https://gs.ilovewap.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "QQ": "931976585",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "文字密室逃脱",
         "enTitle": "",
         "date": "2023-04-11",
@@ -6472,8 +6504,8 @@
         "title": "代数递进重制版",
         "enTitle": "Algebraic Progression",
         "date": "2022-03-23",
-        "update": "2023-03-30",
-        "version": "2.2",
+        "update": "2023-04-11",
+        "version": "2.3",
         "path": "algebraic-progression",
         "type": [
             "已汉化",
