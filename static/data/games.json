@@ -674,6 +674,34 @@
         "status": 1
     },
     {
+        "title": "序数品客",
+        "enTitle": "Ordinal Pringles",
+        "date": "2023-04-14",
+        "update": "2023-04-14",
+        "version": "",
+        "path": "ordinal-pringles",
+        "type": [
+            "已汉化",
+            "放置",
+            "放置"
+        ],
+        "content": [
+            "《序数品客》是《序数增量》的一个Mod，目前作者还在不断更新中。"
+        ],
+        "zhUrl": "https://gityxs.github.io/ordinal-pringles/",
+        "customUrl": "https://ordinal-pringles.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://flamemasternxf.github.io/ordinal-pringles/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "怪兽仙境OL，怀旧文字冒险游戏",
         "enTitle": "",
         "date": "2023-04-12",
@@ -3933,8 +3961,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2023-03-30",
-        "version": "1.5.0",
+        "update": "2023-04-12",
+        "version": "1.5.4",
         "path": "spice-idle",
         "type": [
             "已汉化",
