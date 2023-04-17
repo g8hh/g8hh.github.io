@@ -674,6 +674,34 @@
         "status": 1
     },
     {
+        "title": "千机扫雷",
+        "enTitle": "Kilo Sweep",
+        "date": "2023-04-15",
+        "update": "2023-04-15",
+        "version": "",
+        "path": "kilo-sweep",
+        "type": [
+            "已汉化",
+            "益智",
+            "放置"
+        ],
+        "content": [
+            "这是一个有多个地雷的困难扫雷游戏版本。"
+        ],
+        "zhUrl": "https://gltyx.github.io/kilo-sweep/",
+        "customUrl": "https://kilo-sweep.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/kiloSweep/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "序数品客",
         "enTitle": "Ordinal Pringles",
         "date": "2023-04-14",
@@ -682,7 +710,7 @@
         "path": "ordinal-pringles",
         "type": [
             "已汉化",
-            "放置",
+            "点击",
             "放置"
         ],
         "content": [
