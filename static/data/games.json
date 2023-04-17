@@ -674,6 +674,59 @@
         "status": 1
     },
     {
+        "title": "数组游戏",
+        "enTitle": "Array Game",
+        "date": "2023-04-17",
+        "update": "2023-04-17",
+        "version": "0.2.2",
+        "path": "array-game",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "《数组游戏》是《十二龙》作者新出的一款增量放置游戏。",
+            "注意：游戏好像不会自动保存，需要自己点右上角保存按钮才行，关闭之前千万别忘了。"
+        ],
+        "zhUrl": "https://gltyx.github.io/array-game/",
+        "customUrl": "https://array-game.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/arrayGame/",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
+        "title": "常回来看看",
+        "enTitle": "Check Back",
+        "date": "2023-04-17",
+        "update": "2023-04-17",
+        "version": "0.4.0",
+        "path": "check-back",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "目测肝的批爆。。是一款实打实的消磨时间的游戏~"
+        ],
+        "zhUrl": "https://gltyx.github.io/check-back/",
+        "customUrl": "https://check-back.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/checkBack/",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
         "title": "千机扫雷",
         "enTitle": "Kilo Sweep",
         "date": "2023-04-15",
