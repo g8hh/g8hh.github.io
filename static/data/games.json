@@ -878,8 +878,8 @@
         "title": "迷宫放置",
         "enTitle": "Idle Maze",
         "date": "2023-04-10",
-        "update": "2023-04-10",
-        "version": "",
+        "update": "2023-04-17",
+        "version": "0.0.5",
         "path": "idle-maze",
         "type": [
             "已汉化",
