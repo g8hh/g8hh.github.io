@@ -674,6 +674,35 @@
         "status": 1
     },
     {
+        "title": "符号按钮放置",
+        "enTitle": "Unnamed Button Game",
+        "date": "2023-04-20",
+        "update": "2023-04-20",
+        "version": "2.1.0",
+        "path": "unnamed-button-game",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "点击按钮，获取各种符号，通过转生获得更多加成。",
+            "游戏流程的长短，取决于你的手速。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/unnamed-button-game/",
+        "customUrl": "http://unnamed-button-game.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/unnamedButtonGame/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "数组游戏",
         "enTitle": "Array Game",
         "date": "2023-04-17",
@@ -1125,8 +1154,8 @@
         "title": "公式树NG--",
         "enTitle": "The Formula NG--",
         "date": "2023-03-27",
-        "update": "2023-03-27",
-        "version": "",
+        "update": "2023-04-17",
+        "version": "0.2.5",
         "path": "the-formula-ng--",
         "type": [
             "放置",
@@ -12110,7 +12139,7 @@
         "title": "画家放置",
         "enTitle": "Idle Painters",
         "date": "2021-04-27",
-        "update": "2021-04-27",
+        "update": "2023-04-18",
         "version": "1.2.0",
         "path": "idle-painters",
         "type": [
@@ -12125,9 +12154,12 @@
             "消除"
         ],
         "content": [
+            "2023-04-18：之前链接挂了，补链接~",
             "以前群里发过，网站上没发过，所以发出来~"
         ],
-        "zhUrl": "https://yx.g8hh.com/idle-painters",
+        "zhUrl": "https://gltyx.github.io/idle-painters/",
+        "customUrl": "https://idle-painters.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
         "enUrl": "http://almostidle.com/our/idle-painters/",
         "pic": [
             1,
@@ -15618,6 +15650,7 @@
         "title": "健康增量",
         "enTitle": "Incremental Health",
         "date": "2019-11-21",
+        "update": "2023-04-18",
         "path": "incremental-health",
         "type": [
             "已汉化",
@@ -15625,9 +15658,12 @@
             "点击"
         ],
         "content": [
+            "2023-04-18：之前链接挂了，补链接~",
             "这是一款关于心理健康的放置型增量游戏。。您能否将压力降低到零，还是会筋疲力尽？"
         ],
-        "zhUrl": "https://yx.g8hh.com/incremental-health",
+        "zhUrl": "https://gltyx.github.io/incremental-health/",
+        "customUrl2": "https://incremental-health.g8hh.com/",
+        "customUrlTit2": "备用地址-g8hh",
         "enUrl": "https://heuperman.github.io/incremental-health/",
         "pic": [
             1,
