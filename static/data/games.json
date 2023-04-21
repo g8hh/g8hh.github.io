@@ -674,6 +674,32 @@
         "status": 1
     },
     {
+        "title": "电池增量",
+        "enTitle": "The Battery",
+        "date": "2023-04-21",
+        "update": "2023-04-21",
+        "version": "0.5",
+        "path": "the-battery",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "游戏玩法是尽可能多地为电池充电，解锁升级，达成成就。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/the-battery/",
+        "customUrl": "http://the-battery.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/theBattery/",
+        "pic": [
+            1,
+            2,
+            3
+        ],
+        "status": 1
+    },
+    {
         "title": "符号按钮放置",
         "enTitle": "Unnamed Button Game",
         "date": "2023-04-20",
@@ -1355,8 +1381,8 @@
         "title": "骑士进度条2 Mod",
         "enTitle": "Progress Knight 2 Mod",
         "date": "2023-03-22",
-        "update": "2023-03-22",
-        "version": "2.2.9.2",
+        "update": "2023-04-20",
+        "version": "2.2.11",
         "path": "progress-knight2-mod",
         "type": [
             "已汉化",
