@@ -674,6 +674,42 @@
         "status": 1
     },
     {
+        "title": "增量神树",
+        "enTitle": "Incremental God Tree",
+        "date": "2023-04-24",
+        "update": "2023-04-24",
+        "version": "1.1b",
+        "path": "incremental-god-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "很久没更新模组树类游戏了，今天来一个。"
+        ],
+        "enUrl": "https://icecreamdudes.github.io/Incremental-God-Tree/",
+        "customUrl": "https://incremental-god-tree.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/incremental-god-tree/",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "电池增量",
         "enTitle": "The Battery",
         "date": "2023-04-21",
@@ -686,7 +722,8 @@
             "放置"
         ],
         "content": [
-            "游戏玩法是尽可能多地为电池充电，解锁升级，达成成就。​"
+            "游戏玩法是尽可能多地为电池充电，解锁升级，达成成就。​",
+            "注意：游戏不会自动保存，需要自己去设置里面点保存按钮才行。​"
         ],
         "zhUrl": "https://gltyx.github.io/the-battery/",
         "customUrl": "http://the-battery.g8hh.com/",
@@ -2499,8 +2536,8 @@
         "title": "继续解锁",
         "enTitle": "Theres More",
         "date": "2022-11-09",
-        "update": "2023-02-17",
-        "version": "0.51",
+        "update": "2023-04-24",
+        "version": "0.60",
         "path": "theresmoregame",
         "type": [
             "已汉化",
@@ -7262,8 +7299,8 @@
         "title": "筑基",
         "enTitle": "Zhu Ji",
         "date": "2022-01-21",
-        "update": "2023-04-03",
-        "version": "0.0.3.6",
+        "update": "2023-04-23",
+        "version": "0.0.3.7",
         "path": "zhu-ji",
         "type": [
             "放置",
