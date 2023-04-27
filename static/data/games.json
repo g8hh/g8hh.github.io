@@ -674,6 +674,34 @@
         "status": 1
     },
     {
+        "title": "英雄之歌",
+        "enTitle": "Ballad Of Heroes",
+        "date": "2023-04-27",
+        "update": "2023-04-27",
+        "version": "0.42",
+        "path": "ballad-of-heroes",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "这是一款好玩的RPG风格的放置游戏，包含了多个职业、丰富的成就等内容。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/ballad-of-heroes/",
+        "customUrl": "https://ballad-of-heroes.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://talaxi.github.io/balladofheroes/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "增量神树",
         "enTitle": "Incremental God Tree",
         "date": "2023-04-24",
@@ -1418,8 +1446,8 @@
         "title": "骑士进度条2 Mod",
         "enTitle": "Progress Knight 2 Mod",
         "date": "2023-03-22",
-        "update": "2023-04-20",
-        "version": "2.2.11",
+        "update": "2023-04-26",
+        "version": "2.3.1",
         "path": "progress-knight2-mod",
         "type": [
             "已汉化",
@@ -9460,8 +9488,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2023-03-30",
-        "version": "2.059",
+        "update": "2023-04-25",
+        "version": "2.06+",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
@@ -9478,8 +9506,7 @@
         "enUrl": "http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html",
         "customUrl": "https://the-tree-of-life.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/the-tree-of-life",
-        "customUrlTit2": "备用地址-GitHub",
+        "zhUrl": "https://g8hh.github.io/the-tree-of-life",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
         "QQ": "963150347",
