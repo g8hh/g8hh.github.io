@@ -674,6 +674,59 @@
         "status": 1
     },
     {
+        "title": "自动化世界",
+        "enTitle": "Automate The World",
+        "date": "2023-05-05",
+        "update": "2023-05-05",
+        "version": "",
+        "path": "automate-the-world",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "自动化采矿，自动化建设，自动化一切。这是《无尽的矿石》作者的另一个游戏，游戏玩法类似于《异星工厂》。​",
+            "注意：游戏无存档功能，刷新就会丢进度哦。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/automate-the-world/",
+        "customUrl": "https://automate-the-world.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://synclairwang.com/automate-the-world",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "作业规划器",
+        "enTitle": "",
+        "date": "2023-05-05",
+        "update": "2023-05-05",
+        "version": "",
+        "path": "homework-editor",
+        "type": [
+            "原创",
+            "工具"
+        ],
+        "content": [
+            "这个不是游戏哦，是群里小姐姐 @Fallen_Cat 写的小工具，帮助学生党或者咱们上班的人规划时间的~​"
+        ],
+        "customUrl": "https://beautyfallencat.github.io/HomeworkEditor/",
+        "customUrlTit": "原始地址",
+        "customUrl2": "https://homework-editor.g8hh.com/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
         "title": "英雄之歌",
         "enTitle": "Ballad Of Heroes",
         "date": "2023-04-27",
@@ -1446,8 +1499,8 @@
         "title": "骑士进度条2 Mod",
         "enTitle": "Progress Knight 2 Mod",
         "date": "2023-03-22",
-        "update": "2023-04-26",
-        "version": "2.3.1",
+        "update": "2023-05-04",
+        "version": "2.3.2",
         "path": "progress-knight2-mod",
         "type": [
             "已汉化",
@@ -4523,8 +4576,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2023-01-02",
-        "version": "0.4.2.1",
+        "update": "2023-05-04",
+        "version": "0.4.3.1",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
