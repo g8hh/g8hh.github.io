@@ -674,6 +674,43 @@
         "status": 1
     },
     {
+        "title": "骑士进度条多人手机版",
+        "enTitle": "Progress Knight: Multiplayer",
+        "date": "2023-05-06",
+        "update": "2023-05-06",
+        "version": "",
+        "path": "progress-knight-multiplayer",
+        "type": [
+            "英文",
+            "安卓",
+            "苹果",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "注意：游戏是英文的，需要科学上网，否则进不去的，有登录功能~",
+            "欢迎加入《骑士进度条》的游戏群：808405682",
+            "骑士进度条：多人版 是一款令人兴奋的渐进式玩家对战游戏，它建立在其前身“进步骑士：移动”的成功之上。在一个丰富的奇幻/中世纪世界中，玩家必须收集黄金并提高技能才能与对手作战。",
+            "作为 The Order 的新手，你从阶梯的底部开始。但是，通过您的信仰和奉献精神，您可以发现新的技能和能力，使您能够击败对手并攀升 The Order 的排名。您必须选择是仅依靠他们的智慧和技能，接受好战的一面，还是用奉献来威慑潜在的攻击者。"
+        ],
+        "customUrl": "https://apps.apple.com/us/app/progress-knight-multiplayer/id6447426497",
+        "customUrlTit": "iOS版",
+        "customUrl2": "https://apkpremier.com/details/com-ezag-pkm",
+        "customUrlTit2": "安卓直链下载",
+        "customUrl3": "https://play.google.com/store/apps/details?id=com.ezag.pkm",
+        "customUrlTit3": "安卓市场版",
+        "QQ": "808405682",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MoBNqfRDOSIcnJiYkNzeNKljjcHsTRV2&jump_from=webapi&authKey=8SOO2hnZAA7M7w1chjOcHQEBINMl1EMlXBfDfZGEZe4iVUAXpk8GopdPgH7nle5V",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "自动化世界",
         "enTitle": "Automate The World",
         "date": "2023-05-05",
@@ -730,8 +767,8 @@
         "title": "英雄之歌",
         "enTitle": "Ballad Of Heroes",
         "date": "2023-04-27",
-        "update": "2023-04-27",
-        "version": "0.42",
+        "update": "2023-05-06",
+        "version": "0.46",
         "path": "ballad-of-heroes",
         "type": [
             "已汉化",
@@ -1518,6 +1555,8 @@
         "customUrl": "https://progress-knight2-mod.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://indomit.github.io/progress_knight_2/",
+        "QQ": "808405682",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MoBNqfRDOSIcnJiYkNzeNKljjcHsTRV2&jump_from=webapi&authKey=8SOO2hnZAA7M7w1chjOcHQEBINMl1EMlXBfDfZGEZe4iVUAXpk8GopdPgH7nle5V",
         "pic": [
             1,
             2,
@@ -1558,8 +1597,8 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2023-04-07",
-        "version": "0.1.3",
+        "update": "2023-05-06",
+        "version": "0.1.4",
         "path": "fundamental",
         "type": [
             "已汉化"
@@ -5769,6 +5808,8 @@
         "customUrl2": "https://yx.g8hh.com/fgpk",
         "customUrlTit2": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/fgpk",
+        "QQ": "808405682",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MoBNqfRDOSIcnJiYkNzeNKljjcHsTRV2&jump_from=webapi&authKey=8SOO2hnZAA7M7w1chjOcHQEBINMl1EMlXBfDfZGEZe4iVUAXpk8GopdPgH7nle5V",
         "pic": [
             1,
             2,
@@ -6713,6 +6754,8 @@
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/progress-knight2",
         "customUrlTit2": "备用地址-GitHub",
+        "QQ": "808405682",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MoBNqfRDOSIcnJiYkNzeNKljjcHsTRV2&jump_from=webapi&authKey=8SOO2hnZAA7M7w1chjOcHQEBINMl1EMlXBfDfZGEZe4iVUAXpk8GopdPgH7nle5V",
         "pic": [
             1,
             2,
@@ -13281,6 +13324,8 @@
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/progress-knight",
         "customUrlTit2": "备用地址-GitHub",
+        "QQ": "808405682",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MoBNqfRDOSIcnJiYkNzeNKljjcHsTRV2&jump_from=webapi&authKey=8SOO2hnZAA7M7w1chjOcHQEBINMl1EMlXBfDfZGEZe4iVUAXpk8GopdPgH7nle5V",
         "pic": [
             1,
             2,
@@ -15732,7 +15777,7 @@
         "title": "NGU放置，有汉化了",
         "enTitle": "NGU",
         "date": "2019-12-06",
-        "update": "2023-04-10",
+        "update": "2023-05-05",
         "path": "ngu",
         "type": [
             "汉化中",
@@ -15745,15 +15790,16 @@
             "Steam"
         ],
         "content": [
+            "2023-05-05：因 ① 群已满，建了个 ② 群，欢迎新人加入：683847928",
             "NGU Idle 是一款免费的放置游戏，充满了怪异的幽默、大量的升级和数百小时的内容！ 立即尝试 NGU Idle，体验数字上升的乐趣！",
             "每个人都喜欢上升的数字。 玩NGU放置，并获得许多如此激动人心的高峰！",
             "感谢群里的 @Null 大佬帮忙攻克了汉化的难题，@by22dgb 大佬正在汉化，目前已经汉化的差不多了，欢迎喜欢的小伙伴来玩玩这个经典游戏",
-            "汉化文件获取，去NUG群里（663807219）看群公告、群文件。"
+            "汉化文件获取，去NUG群里（683847928）看群公告、群文件。"
         ],
         "kUrl": "https://www.kongregate.com/games/somethingggg/ngu-idle?sfa=permalink&referrer=SunshineDad",
         "steamUrl": "https://store.steampowered.com/app/1147690/NGU_IDLE/?snr=1_7_15__13",
-        "QQ": "663807219",
-        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=v-VNKm-h98IwLVxeRCHe55A5g96mwvsN&jump_from=webapi&authKey=VDxjyKwbOwmLV9tAnq51wUxD/17ou8RDpG+E90to0fpwx2cp6UMgYoml3GUOdOEk",
+        "QQ": "683847928",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=p1P9dU9ukMcZPPCjG5A17d6QruBJAtgE&jump_from=webapi&authKey=suq2gqcP1sFSNfUY5cmAnt1WbGHif77PIQBDx0XFv97SvwTYJNYCB17Wnm9BHLKB",
         "pic": [
             1,
             2,
