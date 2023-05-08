@@ -674,6 +674,36 @@
         "status": 1
     },
     {
+        "title": "公式放置Mod",
+        "enTitle": "Idle Formulas",
+        "date": "2023-05-08",
+        "update": "2023-05-08",
+        "version": "1.05",
+        "path": "idle-formulas",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "​这是一款以数学公式为主角的放置游戏，Mod版应该只是在原版基础上多了自动化。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/idle-formulas/",
+        "customUrl": "http://idle-formulas.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://zilvarro.github.io/idleformulas/",
+        "customUrlTit2": "英文版原版",
+        "enUrl": "https://hydroflame.github.io/idleformulas/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "未命名太空放置",
         "enTitle": "Unnamed Space Idle",
         "date": "2023-05-07",
