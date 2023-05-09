@@ -674,6 +674,34 @@
         "status": 1
     },
     {
+        "title": "粒子之塔",
+        "enTitle": "Particle Tower",
+        "date": "2023-05-09",
+        "update": "2023-05-09",
+        "version": "",
+        "path": "particle-tower",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "​以粒子为主角的刷塔游戏，敌人越来越强，你需要理智的搭配技能。​"
+        ],
+        "zhUrl": "https://g1tyx.github.io/particle-tower/",
+        "customUrl": "https://particle-tower.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://jacorb90.me/Particle-Tower/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "公式放置Mod",
         "enTitle": "Idle Formulas",
         "date": "2023-05-08",
@@ -1950,8 +1978,8 @@
         "title": "魔法研究",
         "enTitle": "Magic Research",
         "date": "2023-02-02",
-        "update": "2023-03-23",
-        "version": "",
+        "update": "2023-05-08",
+        "version": "1.13.3",
         "path": "magic-research",
         "type": [
             "汉化中",
@@ -7992,8 +8020,8 @@
         "title": "比特燃烧器",
         "enTitle": "Bit Burner",
         "date": "2021-12-27",
-        "update": "2022-04-26",
-        "version": "1.6.4",
+        "update": "2023-05-08",
+        "version": "2.2.2",
         "path": "bit-burner",
         "type": [
             "模拟",
@@ -14044,8 +14072,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2023-01-29",
-        "version": "0.10.9",
+        "update": "2023-05-08",
+        "version": "0.10.11",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
