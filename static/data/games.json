@@ -674,6 +674,42 @@
         "status": 1
     },
     {
+        "title": "序数品客树",
+        "enTitle": "Ordinal Gwa Tree",
+        "date": "2023-05-16",
+        "update": "2023-05-16",
+        "version": "0.4.2",
+        "path": "ordinal-gwa-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《序数品客树》是一款以《序数增量》的Mod《序数品客》为基础制作的的模组树游戏。内容蛮多的，节奏也比较慢。汉化还在进行中，玩得快的靓仔可以随时发存档给我~​"
+        ],
+        "enUrl": "https://ordinal-gwa-tree.glitch.me/",
+        "customUrl": "https://ordinal-gwa-tree.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/ordinal-gwa-tree/",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "粒子之塔",
         "enTitle": "Particle Tower",
         "date": "2023-05-09",
@@ -999,8 +1035,8 @@
         "title": "数组游戏",
         "enTitle": "Array Game",
         "date": "2023-04-17",
-        "update": "2023-04-17",
-        "version": "0.2.2",
+        "update": "2023-05-15",
+        "version": "0.4.2",
         "path": "array-game",
         "type": [
             "已汉化",
@@ -1084,8 +1120,8 @@
         "title": "序数品客",
         "enTitle": "Ordinal Pringles",
         "date": "2023-04-14",
-        "update": "2023-04-14",
-        "version": "",
+        "update": "2023-05-12",
+        "version": "0.0.6",
         "path": "ordinal-pringles",
         "type": [
             "已汉化",
@@ -1484,17 +1520,17 @@
         "title": "Home Quest - Idle Adventure",
         "enTitle": "",
         "date": "2023-03-27",
-        "update": "2023-03-27",
+        "update": "2023-05-12",
         "version": "",
         "path": "home-quest",
         "type": [
-            "英文",
             "安卓",
             "苹果",
             "挂机",
             "放置"
         ],
         "content": [
+            "2023-05-12：更新了，有繁体中文了！",
             "建立你的城镇",
             "你发现自己在一个未知的地方。 不确定这些土地可能拥有什么，你决定最好扩大你的定居点。 为你的人民提供住房和农场。 创建工作场所、军事设施等。",
             "招募军队",
@@ -4727,8 +4763,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2023-05-04",
-        "version": "0.4.3.1",
+        "update": "2023-05-16",
+        "version": "0.4.4.1",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -12535,10 +12571,10 @@
     },
     {
         "title": "金庸群侠•大乱斗",
-        "enTitle": "JYF",
+        "enTitle": "",
         "date": "2021-04-22",
         "update": "2023-02-22",
-        "version": "0.6.135",
+        "version": "",
         "path": "jyf",
         "type": [
             "放置",
