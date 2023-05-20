@@ -674,6 +674,70 @@
         "status": 1
     },
     {
+        "title": "镜面开拓者",
+        "enTitle": "Planar Pioneers",
+        "date": "2023-05-19",
+        "update": "2023-05-19",
+        "version": "",
+        "path": "planar-pioneers",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是作者根据在 Minecraft 上玩 MystCraft 和 RFTools Dimensions 模组的有趣回忆大致制作的游戏。 您将收集资源，并最终使用这些资源前往不同的程序生成的位面。​"
+        ],
+        "enUrl": "https://www.thepaperpilot.org/planar/",
+        "customUrl": "https://planar-pioneers.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/planar-pioneers/",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "便利贴放置",
+        "enTitle": "The Bulletin Board",
+        "date": "2023-05-19",
+        "update": "2023-05-19",
+        "version": "",
+        "path": "the-bulletin-board",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "​一个关于便利贴的增量游戏！ 带有一些随机元素！游戏需要一直点点点！​"
+        ],
+        "zhUrl": "https://g1tyx.github.io/the-bulletin-board/",
+        "customUrl": "https://the-bulletin-board.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://thetastypi.github.io/The-Bulletin-Board/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "序数品客树",
         "enTitle": "Ordinal Gwa Tree",
         "date": "2023-05-16",
@@ -4433,7 +4497,7 @@
         "title": "汉字炼金术",
         "enTitle": "Chinese Character Alchemy",
         "date": "2022-09-02",
-        "update": "2022-09-02",
+        "update": "2023-05-17",
         "version": "",
         "path": "chinese-character-alchemy",
         "type": [
@@ -4444,7 +4508,7 @@
         "content": [
             "《汉字炼金术》是一个老少皆宜的偏旁造汉字的游戏，锅巴觉得很适合小学生玩，可以帮助他们认字、识字。​"
         ],
-        "customUrl": "https://yx.g8hh.com/chinese-character-alchemy",
+        "customUrl": "https://chinese-character-alchemy.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/chinese-character-alchemy",
         "enUrl": "https://spotky1004.com/Chinese-Character-Alchemy",
@@ -4763,8 +4827,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2023-05-16",
-        "version": "0.4.4.1",
+        "update": "2023-05-20",
+        "version": "0.4.4.2",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -7583,7 +7647,7 @@
             "修仙"
         ],
         "content": [
-            "《魔法理论群》的 @Mr.Pldada 小伙伴在《魔法理论群》的基础上进行了二次开发，搞了一个修仙版本。",
+            "《魔法理论群》的 @Mr.Pldada 小伙伴在《魔法理论》的基础上进行了二次开发，搞了一个修仙版本。",
             "目前还在开发中，锅巴特此推荐~欢迎小伙伴们体验！"
         ],
         "customUrl": "https://mostlai.github.io/HD-TEST/",
@@ -11725,8 +11789,8 @@
         "title": "弹珠放置",
         "enTitle": "Pachinkremental",
         "date": "2021-06-07",
-        "update": "2022-01-08",
-        "version": "2.0.14",
+        "update": "2023-05-17",
+        "version": "2.1.3",
         "path": "pachinkremental",
         "type": [
             "已汉化",
