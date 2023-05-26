@@ -674,10 +674,38 @@
         "status": 1
     },
     {
+        "title": "雷区放置",
+        "enTitle": "Idle MineField",
+        "date": "2023-05-26",
+        "update": "2023-05-26",
+        "version": "",
+        "path": "idle-minefield",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "​《雷区放置》是一款基于益智游戏“扫雷”的增量放置游戏。​"
+        ],
+        "zhUrl": "https://g1tyx.github.io/idle-minefield/",
+        "customUrl": "https://idle-minefield.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://idleminefield.web.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "镜面开拓者",
         "enTitle": "Planar Pioneers",
         "date": "2023-05-19",
-        "update": "2023-05-19",
+        "update": "2023-05-22",
         "version": "",
         "path": "planar-pioneers",
         "type": [
@@ -741,8 +769,8 @@
         "title": "序数品客树",
         "enTitle": "Ordinal Gwa Tree",
         "date": "2023-05-16",
-        "update": "2023-05-16",
-        "version": "0.4.2",
+        "update": "2023-05-22",
+        "version": "0.5",
         "path": "ordinal-gwa-tree",
         "type": [
             "已汉化",
@@ -868,7 +896,7 @@
         "customUrlTit": "原始地址",
         "customUrl2": "https://gltyx.github.io/unnamed-space-idle-prototype/",
         "customUrlTit2": "搬运版地址",
-        "customUrl3": "http://unnamed-space-idle-prototype.g8hh.com/",
+        "customUrl3": "https://idle.g8hh.cn/unnamed-space-idle-prototype/index.html",
         "customUrlTit3": "搬运备用地址-g8hh",
         "pic": [
             1,
@@ -13777,7 +13805,7 @@
         "title": "机动战士战术策略",
         "enTitle": "MobileSuit Tactics",
         "date": "2021-01-21",
-        "update": "2021-01-21",
+        "update": "2023-05-24",
         "version": "",
         "path": "mst",
         "type": [
