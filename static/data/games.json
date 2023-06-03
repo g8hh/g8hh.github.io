@@ -674,11 +674,77 @@
         "status": 1
     },
     {
+        "title": "字母收集放置",
+        "enTitle": "Have It",
+        "date": "2023-05-29",
+        "update": "2023-05-29",
+        "version": "",
+        "path": "have-it",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "​这又是一款以字母为主题的增量放置游戏，目标是购买耗费所有资源的最终升级， 游戏体验与 《字母公司》 类似。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/have-it/",
+        "customUrl": "https://have-it.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://test.seihoukei.games/have-it/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "化学树",
+        "enTitle": "The Chemistry Tree",
+        "date": "2023-05-27",
+        "update": "2023-05-27",
+        "version": "",
+        "path": "the-chemistry-tree",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是群里的Fallen_Cat（小姐姐）和紫梦Puremare437合作的一款模组树游戏。",
+            "这是她们第一个基于TMT开发的游戏。",
+            "游戏还在开发中，目前游戏内容可能比较少。"
+        ],
+        "customUrl": "https://beautyfallencat.github.io/The-Chemistry-Tree/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://the-chemistry-tree.g8hh.com/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "雷区放置",
         "enTitle": "Idle MineField",
         "date": "2023-05-26",
-        "update": "2023-05-26",
-        "version": "",
+        "update": "2023-06-03",
+        "version": "0.3.0",
         "path": "idle-minefield",
         "type": [
             "已汉化",
@@ -1007,8 +1073,8 @@
         "title": "英雄之歌",
         "enTitle": "Ballad Of Heroes",
         "date": "2023-04-27",
-        "update": "2023-05-06",
-        "version": "0.46",
+        "update": "2023-06-03",
+        "version": "0.56",
         "path": "ballad-of-heroes",
         "type": [
             "已汉化",
