@@ -675,6 +675,36 @@
     },
     {
         "title": "字母收集放置",
+        "enTitle": "The Ignited Space",
+        "date": "2023-06-07",
+        "update": "2023-06-07",
+        "version": "",
+        "path": "the-ignited-space",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "你从敌对星球上的一艘坠毁飞船开始，你的主要目标是为第一批殖民者的到来做好准备，并建立繁荣的文明。​",
+            "游戏包含的基本机制：建筑、研究、升级、殖民地管理。",
+            "游戏还在开发中，咱们会同步更新~​"
+        ],
+        "zhUrl": "https://g1tyx.github.io/the-ignited-space/",
+        "customUrl": "https://the-ignited-space.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://the-ignited-space.vercel.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "字母收集放置",
         "enTitle": "Have It",
         "date": "2023-05-29",
         "update": "2023-05-29",
@@ -4921,8 +4951,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2023-05-20",
-        "version": "0.4.4.2",
+        "update": "2023-06-06",
+        "version": "0.4.4.2.1",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -10091,8 +10121,8 @@
         "title": "质量增量重制版",
         "enTitle": "Incremental Mass Rewritten",
         "date": "2021-10-09",
-        "update": "2022-11-10",
-        "version": "0.6.0",
+        "update": "2023-06-06",
+        "version": "0.7.0",
         "path": "incremental-mass-rewritten",
         "type": [
             "已汉化",
@@ -12905,8 +12935,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2023-02-20",
-        "version": "0.6.19.1",
+        "update": "2023-06-07",
+        "version": "0.6.20",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -16769,8 +16799,8 @@
         "title": "进化",
         "enTitle": "Evolve",
         "date": "2019-07-01",
-        "update": "2022-04-04",
-        "version": "1.2.14",
+        "update": "2023-06-03",
+        "version": "1.3.4b",
         "path": "evolve",
         "type": [
             "推荐",
