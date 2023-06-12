@@ -674,11 +674,40 @@
         "status": 1
     },
     {
+        "title": "采石场放置",
+        "enTitle": "Into The Quarry",
+        "date": "2023-06-12",
+        "update": "2023-06-12",
+        "version": "0.0.3A-17",
+        "path": "into-the-quarry",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "这是一个关于采矿的增量，使用各种增强功能升级您的采矿设备，并在此过程中拾取神秘的钥匙。钥匙有什么作用？好吧，很明显，给你一些东西，但还有很多东西，将来还会添加更多东西。通过一系列的提升和乘数取得进展。准备就绪后，搬迁到不同的采石场并获得声誉，用于在下一次迭代中大幅增加您的产量。​",
+            "该游戏受到 Minecraft Prisons 的启发。​"
+        ],
+        "zhUrl": "https://g1tyx.github.io/into-the-quarry/",
+        "customUrl": "https://into-the-quarry.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://into-the-quarry.vercel.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "激燃太空",
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
-        "update": "2023-06-07",
-        "version": "",
+        "update": "2023-06-11",
+        "version": "0.0.2c",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
