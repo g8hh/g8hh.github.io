@@ -706,8 +706,8 @@
         "title": "激燃太空",
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
-        "update": "2023-06-11",
-        "version": "0.0.2c",
+        "update": "2023-06-13",
+        "version": "0.0.2d",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
@@ -9949,8 +9949,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2023-04-25",
-        "version": "2.06+",
+        "update": "2023-06-13",
+        "version": "2.062",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
