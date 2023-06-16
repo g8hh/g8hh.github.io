@@ -674,6 +674,38 @@
         "status": 1
     },
     {
+        "title": "字母放置",
+        "enTitle": "Yet Another Alphabet Game",
+        "date": "2023-06-16",
+        "update": "2023-06-16",
+        "version": "",
+        "path": "yet-another-alphabet-game",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "又一款以字母为主角的放置游戏，界面看起来比较高大上，目标是解锁26个字母。",
+            "玩法：左上角是字母，橙色字是解锁下一个字母所需的数值，白色是当前已有的数值。",
+            "操作：左键、右键。",
+            "鉴于很多人可能不会玩，出问题了可以在控制台粘贴这一句：game.reset(true) 去重置游戏。",
+            "​提示：字母的子节点不需要太多，因为子节点越多，解锁下一个字母的要求就会越高。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/yet-another-alphabet-game/",
+        "customUrl": "https://yet-another-alphabet-game.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://seihoukei.games/yaag/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "采石场放置",
         "enTitle": "Into The Quarry",
         "date": "2023-06-12",
@@ -802,8 +834,8 @@
         "title": "雷区放置",
         "enTitle": "Idle MineField",
         "date": "2023-05-26",
-        "update": "2023-06-03",
-        "version": "0.3.0",
+        "update": "2023-06-15",
+        "version": "0.3.4",
         "path": "idle-minefield",
         "type": [
             "已汉化",
@@ -12790,8 +12822,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "",
         "date": "2021-04-22",
-        "update": "2023-02-22",
-        "version": "",
+        "update": "2023-06-14",
+        "version": "0.6.155",
         "path": "jyf",
         "type": [
             "放置",
