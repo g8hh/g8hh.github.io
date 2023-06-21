@@ -674,6 +674,36 @@
         "status": 1
     },
     {
+        "title": "Fg异星工厂2",
+        "enTitle": "Fg Factory 2",
+        "date": "2023-06-21",
+        "update": "2023-06-21",
+        "version": "",
+        "path": "fgfactory2",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "这次更新似乎只是界面上的调整，内容的话和第一部差不多。",
+            "游戏内容分为教程、逃离1、逃离2 共三个场景。",
+            "​最终目标还是制造出火箭零件！"
+        ],
+        "zhUrl": "https://g1tyx.github.io/fgfactory2/",
+        "customUrl": "http://fgfactory2.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://freddecgames.github.io/fgfactory2/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "字母放置",
         "enTitle": "Yet Another Alphabet Game",
         "date": "2023-06-16",
@@ -709,8 +739,8 @@
         "title": "采石场放置",
         "enTitle": "Into The Quarry",
         "date": "2023-06-12",
-        "update": "2023-06-12",
-        "version": "0.0.3A-17",
+        "update": "2023-06-21",
+        "version": "0.0.4α-1",
         "path": "into-the-quarry",
         "type": [
             "已汉化",
@@ -738,8 +768,8 @@
         "title": "激燃太空",
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
-        "update": "2023-06-13",
-        "version": "0.0.2d",
+        "update": "2023-06-19",
+        "version": "0.0.4a",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
@@ -1369,8 +1399,8 @@
         "title": "序数品客",
         "enTitle": "Ordinal Pringles",
         "date": "2023-04-14",
-        "update": "2023-05-12",
-        "version": "0.0.6",
+        "update": "2023-06-18",
+        "version": "0.1",
         "path": "ordinal-pringles",
         "type": [
             "已汉化",
@@ -1994,8 +2024,8 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2023-05-06",
-        "version": "0.1.4",
+        "update": "2023-06-18",
+        "version": "0.1.5",
         "path": "fundamental",
         "type": [
             "已汉化"
@@ -10247,8 +10277,8 @@
         "title": "循环洞穴2",
         "enTitle": "Cavernous II",
         "date": "2021-10-02",
-        "update": "2022-08-13",
-        "version": "2.7.4",
+        "update": "2023-06-21",
+        "version": "2.7.8",
         "path": "cavernous2",
         "type": [
             "汉化中",
@@ -13812,8 +13842,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2023-02-22",
-        "version": "0.8.1",
+        "update": "2023-06-21",
+        "version": "0.10.1",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -14280,7 +14310,7 @@
             1,
             2
         ],
-        "status": 1,
+        "status": 0,
         "needHH": 0,
         "flash": true
     },
@@ -15950,7 +15980,7 @@
             4
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "宝可梦传奇",
@@ -16912,7 +16942,7 @@
             2
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "土皇帝",
@@ -17256,7 +17286,7 @@
             1,
             2
         ],
-        "status": 1
+        "status": 0
     },
     {
         "title": "进化放置",
@@ -17537,6 +17567,8 @@
         "title": "环保点击",
         "enTitle": "Eco Clicker",
         "date": "2019-04-26",
+        "update": "2023-06-19",
+        "version": "0.5.3",
         "path": "eco-clicker",
         "type": [
             "已汉化",
@@ -17548,10 +17580,10 @@
             "挂机"
         ],
         "content": [
-            ""
+            "EcoClicker 是一款游戏，您必须通过植树来拯救地球免受全球变暖的影响。 如果您遇到任何问题或需要任何反馈，请在论坛中发帖。 谢谢你来玩！"
         ],
-        "zhUrl": "http://likexia.gitee.io/ecoclicker",
-        "enUrl": "https://v6p9d9t4.ssl.hwcdn.net/html/359740/dist/index.html",
+        "zhUrl": "https://ecoclicker.g8hh.com/",
+        "enUrl": "https://alastor-games.itch.io/ecoclicker",
         "pic": [
             1,
             2
