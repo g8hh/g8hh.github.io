@@ -677,7 +677,7 @@
         "title": "Fg异星工厂2",
         "enTitle": "Fg Factory 2",
         "date": "2023-06-21",
-        "update": "2023-06-21",
+        "update": "2023-06-24",
         "version": "",
         "path": "fgfactory2",
         "type": [
@@ -739,8 +739,8 @@
         "title": "采石场放置",
         "enTitle": "Into The Quarry",
         "date": "2023-06-12",
-        "update": "2023-06-21",
-        "version": "0.0.4α-1",
+        "update": "2023-06-24",
+        "version": "0.0.4α-3",
         "path": "into-the-quarry",
         "type": [
             "已汉化",
