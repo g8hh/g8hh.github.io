@@ -674,6 +674,62 @@
         "status": 1
     },
     {
+        "title": "我思宇宙",
+        "enTitle": "Cogito Cosmos​",
+        "date": "2023-06-27",
+        "update": "2023-06-27",
+        "version": "",
+        "path": "cogito-cosmos",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "这是一个原型版本，游戏时长大约为 40 分钟； 当你第一次获得声望的时候就是游戏终点。 但在作者继续开发之前，他想知道基础游戏是否好玩，或者他是否只是在浪费时间，所以作者很感谢您的任何反馈！"
+        ],
+        "zhUrl": "https://g1tyx.github.io/cogito-cosmos/",
+        "customUrl": "https://cogito-cosmos.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://jackoe3.github.io/cogito-cosmos/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "止殇之狼",
+        "enTitle": "",
+        "date": "2023-06-27",
+        "update": "2023-06-27",
+        "version": "",
+        "path": "zszl",
+        "type": [
+            "PC",
+            "单机",
+            "RPG"
+        ],
+        "content": [
+            "《金庸群侠•大乱斗》作者的另一款游戏，自制的RPG单机。",
+            "男主江野寒因不服父亲管教而离家出走侥幸躲过灭族大难。两年后为复仇与其兄江野燎一同前往将军府却一败涂地。在女主花小枝的陪伴下，远行千里，重头再来。而这一次，拉开了惨烈的止殇之战的序幕……."
+        ],
+        "customUrl": "https://zhouxiaobo1990.gitee.io/jyf/zszl.html",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "Fg异星工厂2",
         "enTitle": "Fg Factory 2",
         "date": "2023-06-21",
@@ -739,8 +795,8 @@
         "title": "采石场放置",
         "enTitle": "Into The Quarry",
         "date": "2023-06-12",
-        "update": "2023-06-24",
-        "version": "0.0.4α-3",
+        "update": "2023-06-26",
+        "version": "0.0.4α-7",
         "path": "into-the-quarry",
         "type": [
             "已汉化",
@@ -768,8 +824,8 @@
         "title": "激燃太空",
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
-        "update": "2023-06-19",
-        "version": "0.0.4a",
+        "update": "2023-06-26",
+        "version": "0.0.5",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
@@ -5042,8 +5098,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2023-06-06",
-        "version": "0.4.4.2.1",
+        "update": "2023-06-26",
+        "version": "0.4.5",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
