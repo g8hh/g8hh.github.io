@@ -674,6 +674,34 @@
         "status": 1
     },
     {
+        "title": "模拟修仙",
+        "enTitle": "Cultivation Simulato​",
+        "date": "2023-07-03",
+        "update": "2023-07-03",
+        "version": "",
+        "path": "cultivation-simulato",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "又是一个老外写的修仙题材的游戏，现阶段游戏内容有点少，期待作者更新更多内容。"
+        ],
+        "zhUrl": "https://gityxs.github.io/cultivation-simulato/",
+        "customUrl": "https://cultivation-simulato.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://souldancer27.github.io/cultivation-simulator/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "我思宇宙",
         "enTitle": "Cogito Cosmos​",
         "date": "2023-06-27",
@@ -5670,8 +5698,8 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2023-03-30",
-        "version": "1.1.1",
+        "update": "2023-07-03",
+        "version": "1.1.2",
         "path": "immortality-idle",
         "type": [
             "已汉化",
