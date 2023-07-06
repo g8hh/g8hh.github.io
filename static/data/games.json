@@ -674,6 +674,94 @@
         "status": 1
     },
     {
+        "title": "循环地牢：放置类策略RPG",
+        "enTitle": "Loop Dungeon: Idle RPG",
+        "date": "2023-07-06",
+        "update": "2023-07-06",
+        "version": "",
+        "path": "loop-dungeon-idle-rpg",
+        "type": [
+            "安卓",
+            "苹果",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "注意：游戏需要全程科学上网，否则进不去的，iOS需要外区账号才能下载~",
+            "什么都不做就能打败你的敌人！",
+            "通过 Loop Dungeon 体验更高级别的放置游戏，这是一款单手即可享受的策略角色扮演游戏！",
+            "▶ 放置类游戏的进化，易学难精！",
+            "无论游戏是否运行，英雄们的战斗都不会停止。",
+            "你对英雄强化、装备、探索路线的选择将决定他们的成功。",
+            "醒来看看你在睡觉时获得了哪些宝藏！",
+            "▶ 使用你自己的策略来爬得更高！",
+            "收集你在地牢中遇到的英雄，并在他们之间发挥完美的协同作用。",
+            "分析敌人及其不同的特征和技能，以便您可以部署最好的英雄来取得胜利。",
+            "爬得更高，挑战更强大的敌人。",
+            "▶ 每天都在变化的 Roguelike 地下城！",
+            "克服充满多彩地形和凶猛怪物的地牢。",
+            "通过在地牢中遇到的众多事件中的选择，以自己的方式塑造游戏。",
+            "你的英雄会走哪条路？",
+            "▶ 能力非凡的英雄，不断成长！",
+            "从保护盟友的英雄到挥出强大拳头扭转战场的英雄！",
+            "遇见各种具有无可替代技能的英雄。",
+            "不断提升你的英雄，让他们成为最好的自己！",
+            "▶ 用独特的传奇装备找到最佳组合！",
+            "装备你能找到的最好的装备，让你的队伍成为一支不可忽视的力量。",
+            "击倒强大的敌人并收集尽可能多的传奇装备。",
+            "找到充分发挥你的英雄的最佳方式。"
+        ],
+        "customUrl": "https://apps.apple.com/us/app/progress-knight-multiplayer/id6447426497",
+        "customUrlTit": "iOS多人版",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.ezag.pkm",
+        "customUrlTit2": "安卓市场多人版",
+        "customUrl3": "https://apps.apple.com/us/app/progress-knight-mobile/id1637610712",
+        "customUrlTit3": "iOS单机版",
+        "customUrl4": "https://play.google.com/store/apps/details?id=com.ezag.incremental",
+        "customUrlTit4": "安卓市场单机版",
+        "customUrl5": "https://apkpremier.com/details/com-ezag-incremental",
+        "customUrlTit5": "单机版直链下载",
+        "QQ": "808405682",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MoBNqfRDOSIcnJiYkNzeNKljjcHsTRV2&jump_from=webapi&authKey=8SOO2hnZAA7M7w1chjOcHQEBINMl1EMlXBfDfZGEZe4iVUAXpk8GopdPgH7nle5V",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "绿洲",
+        "enTitle": "Oasis​",
+        "date": "2023-07-05",
+        "update": "2023-07-05",
+        "version": "1.0",
+        "path": "oasis",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "​这是一款模拟在沙漠里面建设绿洲的游戏。游戏玩法主要是各种建造、分配人员、研究、探索，还要注意时不时的自然灾害导致的食物减产等问题。",
+            "​玩的时候发现英文，请导出存档保存也.txt文件私发给锅巴哦~非常感谢！"
+        ],
+        "zhUrl": "https://gityxs.github.io/oasis/oasis",
+        "customUrl": "https://oasis.g8hh.com/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://souldancer27.github.io/cultivation-simulator/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "模拟修仙",
         "enTitle": "Cultivation Simulato​",
         "date": "2023-07-03",
@@ -852,8 +940,8 @@
         "title": "激燃太空",
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
-        "update": "2023-07-03",
-        "version": "0.1.0",
+        "update": "2023-07-05",
+        "version": "0.1.0a",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
@@ -1278,8 +1366,8 @@
         "title": "英雄之歌",
         "enTitle": "Ballad Of Heroes",
         "date": "2023-04-27",
-        "update": "2023-06-03",
-        "version": "0.56",
+        "update": "2023-07-04",
+        "version": "0.63",
         "path": "ballad-of-heroes",
         "type": [
             "已汉化",
@@ -5210,8 +5298,8 @@
         "title": "永恒之地",
         "enTitle": "Forever Land",
         "date": "2022-08-12",
-        "update": "2022-08-12",
-        "version": "0.2.0",
+        "update": "2022-07-03",
+        "version": "0.3.1",
         "path": "forever-land",
         "type": [
             "已汉化",
@@ -6798,8 +6886,8 @@
         "title": "经验模拟器",
         "enTitle": "EXP Simulator",
         "date": "2022-05-09",
-        "update": "2022-07-01",
-        "version": "2.3.201",
+        "update": "2023-06-28",
+        "version": "2.3.203",
         "path": "exp-simulator",
         "type": [
             "已汉化",
@@ -16631,7 +16719,7 @@
         "title": "增量冒险",
         "enTitle": "Incremental Adventures",
         "date": "2019-08-14",
-        "update": "2021-11-11",
+        "update": "2023-07-04",
         "path": "incremental-adventures",
         "type": [
             "已汉化",
