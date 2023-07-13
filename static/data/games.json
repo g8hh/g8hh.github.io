@@ -674,6 +674,59 @@
         "status": 1
     },
     {
+        "title": "谢帕德音阶",
+        "enTitle": "Shepard Scale",
+        "date": "2023-07-13",
+        "update": "2023-07-13",
+        "version": "",
+        "path": "shepard-scale",
+        "type": [
+            "音游",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "听说有人喜欢玩“音游”，不知道这个能不能算得上？"
+        ],
+        "zhUrl": "https://gityxs.github.io/shepard-scale/",
+        "customUrl": "https://shepard-scale.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://asteriskman7.github.io/shepard_scale/",
+        "pic": [
+            1,
+            2
+        ],
+        "status": 1
+    },
+    {
+        "title": "恒星流明",
+        "enTitle": "The Stellar Lumen",
+        "date": "2023-07-11",
+        "update": "2023-07-11",
+        "version": "0.0.0.73-1",
+        "path": "the-stellar-lumen",
+        "type": [
+            "模组树",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "一款小型 The Prestige Tree 模组树游戏。 具有 6 种不同的货币和 3 个主要重置层。"
+        ],
+        "zhUrl": "https://gityxs.github.io/the-stellar-lumen/",
+        "customUrl": "https://the-stellar-lumen.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://lun4-r.github.io/The-Stellar-Lumen/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "循环地牢：放置类策略RPG",
         "enTitle": "Loop Dungeon: Idle RPG",
         "date": "2023-07-06",
@@ -849,7 +902,7 @@
         "title": "Fg异星工厂2",
         "enTitle": "Fg Factory 2",
         "date": "2023-06-21",
-        "update": "2023-07-02",
+        "update": "2023-07-11",
         "version": "",
         "path": "fgfactory2",
         "type": [
@@ -940,8 +993,8 @@
         "title": "激燃太空",
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
-        "update": "2023-07-05",
-        "version": "0.1.0a",
+        "update": "2023-07-10",
+        "version": "0.1.0c",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
@@ -4343,7 +4396,7 @@
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
         "update": "2023-02-21",
-        "version": "0.8.1",
+        "version": "0.10.0",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -4353,10 +4406,10 @@
             "这个游戏有点肝！这也是一款Windows 98风格的放置游戏，之前同样风格的还有《无尽的楼梯间》《钱包矿工》等等。",
             "注意：十二龙现在加载存档比较慢，刚开始会显示初始的界面，要等十几秒才会加载好存档。期间千万别乱点，点了就真的丢档了。"
         ],
-        "customUrl": "https://yx.g8hh.com/dodeca-dragons/",
+        "customUrl": "https://dodeca-dragons.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/dodeca-dragons",
-        "enUrl": "https://demonins-item-shop.demonin.repl.co/games/dodecaDragons",
+        "enUrl": "https://demonin.com/games/dodecaDragons/",
         "pic": [
             1,
             2,
@@ -4857,8 +4910,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2023-07-03",
-        "version": "1.6.1",
+        "update": "2023-07-11",
+        "version": "1.6.3",
         "path": "spice-idle",
         "type": [
             "已汉化",
@@ -15337,8 +15390,8 @@
         "title": "阿尔法RPG",
         "enTitle": "Alpha RPG",
         "date": "2020-06-16",
-        "update": "2022-07-19",
-        "version": "3.4",
+        "update": "2023-07-06",
+        "version": "3.5",
         "path": "alpha-rpg",
         "type": [
             "汉化中",
@@ -16522,8 +16575,8 @@
         "title": "魔法理论",
         "enTitle": "Theory of Magic",
         "date": "2019-10-18",
-        "update": "2020-11-13",
-        "version": "0.8.0",
+        "update": "2023-07-07",
+        "version": "0.10.29.2",
         "path": "theory-of-magic",
         "type": [
             "推荐",
@@ -16544,12 +16597,14 @@
         "kUrl": "https://www.kongregate.com/games/lerpinglemur/theory-of-magic?sfa=permalink&referrer=SunshineDad",
         "customUrl": "https://arcanum.g8hh.com/",
         "customUrlTit": "二次开发备用地址-g8hh",
-        "customUrl2": "https://g8hh.github.io/theory-of-magic/",
-        "customUrlTit2": "原版备用地址-GitHub",
-        "customUrl3": "https://theory-of-magic.g8hh.com/",
-        "customUrlTit3": "原版备用地址-g8hh",
-        "customUrl4": "https://qm.qq.com/cgi-bin/qm/qr?k=_WETFhR5KeqdgsMcbxUgIltMCRA_Py3Y&jump_from=webapi",
-        "customUrlTit4": "加入魔法理论群",
+        "customUrl2": "https://mathiashjelm.gitlab.io/arcanum/",
+        "customUrlTit2": "二次开发英文版",
+        "customUrl3": "https://g8hh.github.io/theory-of-magic/",
+        "customUrlTit3": "原版汉化版-g8hh",
+        "customUrl4": "https://theory-of-magic.g8hh.com/",
+        "customUrlTit4": "原版备用地址-g8hh",
+        "customUrl5": "https://qm.qq.com/cgi-bin/qm/qr?k=_WETFhR5KeqdgsMcbxUgIltMCRA_Py3Y&jump_from=webapi",
+        "customUrlTit5": "加入魔法理论群",
         "QQ": "281738137",
         "pic": [
             1,
@@ -18205,7 +18260,9 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/the-idle-class",
+        "zhUrl": "https://gityxs.github.io/the-idle-class/",
+        "customUrl": "https://the-idle-class.g8hh.com/",
+        "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://www.smallgraygames.com/the-idle-class",
         "pic": [
             1,
@@ -18811,8 +18868,8 @@
         "title": "13层",
         "enTitle": "Level 13",
         "date": "2018-05-09",
-        "update": "2022-05-12",
-        "version": "0.4.3",
+        "update": "2023-07-10",
+        "version": "0.5.1",
         "path": "level-13",
         "type": [
             "汉化中",
