@@ -674,6 +674,47 @@
         "status": 1
     },
     {
+        "title": "放置方尖碑矿工",
+        "enTitle": "Idle Obelisk Miner",
+        "date": "2023-07-13",
+        "update": "2023-07-13",
+        "version": "",
+        "path": "idle-obelisk-miner",
+        "type": [
+            "英文",
+            "安卓",
+            "苹果",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "这是一款放置/增量/点击游戏，涉及开采岩石、制作金属条以及通过巨大的升级树进一步进入矿山。",
+            "放置方尖碑矿工有很多功能可以让您保持参与，包括：",
+            "๏ 方尖碑 - 建立你的统计数据以击败方尖碑，这样做可以获得奖励并解锁新内容",
+            "๏ 大量升级 - 游戏针对一系列不同的统计类型提供了许多不同的升级树，其中很多都被锁定在里程碑之后",
+            "๏ 炸弹 - 通过研讨会和其他方式解锁和升级炸弹，每种方式都提供能量和实用性！",
+            "๏ 主动和闲置游戏 - 您可以通过采矿、升级和发射炸弹来积极玩游戏，也可以闲置无人机、自动轰炸功能和奖励离线进度！",
+            "๏ 声望 - 解锁强大的神器来增强你的统计数据",
+            "๏ 我的通过按住点击 - 这里手指不酸痛！ 您只需按住屏幕即可进行采矿，或者让您的无人机和炸弹为您完成工作！",
+            "๏ 完成者 - 您的完成百分比会被跟踪，以便您可以努力达到 100%！",
+            "你在等什么？ 开始挖矿吧！"
+        ],
+        "customUrl": "https://apps.apple.com/us/app/idle-obelisk-miner/id6448125670",
+        "customUrlTit": "iOS版",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.ezag.pkm",
+        "customUrlTit2": "安卓市场下载",
+        "QQ": "808405682",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MoBNqfRDOSIcnJiYkNzeNKljjcHsTRV2&jump_from=webapi&authKey=8SOO2hnZAA7M7w1chjOcHQEBINMl1EMlXBfDfZGEZe4iVUAXpk8GopdPgH7nle5V",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "谢帕德音阶",
         "enTitle": "Shepard Scale",
         "date": "2023-07-13",
@@ -764,18 +805,12 @@
             "击倒强大的敌人并收集尽可能多的传奇装备。",
             "找到充分发挥你的英雄的最佳方式。"
         ],
-        "customUrl": "https://apps.apple.com/us/app/progress-knight-multiplayer/id6447426497",
-        "customUrlTit": "iOS多人版",
-        "customUrl2": "https://play.google.com/store/apps/details?id=com.ezag.pkm",
-        "customUrlTit2": "安卓市场多人版",
-        "customUrl3": "https://apps.apple.com/us/app/progress-knight-mobile/id1637610712",
-        "customUrlTit3": "iOS单机版",
-        "customUrl4": "https://play.google.com/store/apps/details?id=com.ezag.incremental",
-        "customUrlTit4": "安卓市场单机版",
-        "customUrl5": "https://apkpremier.com/details/com-ezag-incremental",
-        "customUrlTit5": "单机版直链下载",
-        "QQ": "808405682",
-        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MoBNqfRDOSIcnJiYkNzeNKljjcHsTRV2&jump_from=webapi&authKey=8SOO2hnZAA7M7w1chjOcHQEBINMl1EMlXBfDfZGEZe4iVUAXpk8GopdPgH7nle5V",
+        "customUrl": "https://apps.apple.com/ro/app/loop-dungeon-idle-rpg/id1583595852",
+        "customUrlTit": "iOS版",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.magicfind.chronoa",
+        "customUrlTit2": "安卓市场版",
+        "customUrl5": "https://apkpremier.com/details/com-magicfind-chronoa",
+        "customUrlTit5": "安卓版直链下载",
         "pic": [
             1,
             2,
@@ -1002,6 +1037,7 @@
             "放置"
         ],
         "content": [
+            "感谢群里的 @鸡蛋 大佬帮忙润色，顺便建了个游戏QQ群：881240068，欢迎大家加入。",
             "你从敌对星球上的一艘坠毁飞船开始，你的主要目标是为第一批殖民者的到来做好准备，并建立繁荣的文明。​",
             "游戏包含的基本机制：建筑、研究、升级、殖民地管理。",
             "游戏还在开发中，咱们会同步更新~​"
@@ -1010,6 +1046,8 @@
         "customUrl": "https://the-ignited-space.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://the-ignited-space.vercel.app/",
+        "QQ": "881240068",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=d1cy3VkKrf-3OLcd6qj0GPebZcb1Ifkw&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -1419,8 +1457,8 @@
         "title": "英雄之歌",
         "enTitle": "Ballad Of Heroes",
         "date": "2023-04-27",
-        "update": "2023-07-04",
-        "version": "0.63",
+        "update": "2023-07-17",
+        "version": "0.64",
         "path": "ballad-of-heroes",
         "type": [
             "已汉化",
@@ -1624,8 +1662,8 @@
         "title": "序数品客",
         "enTitle": "Ordinal Pringles",
         "date": "2023-04-14",
-        "update": "2023-06-18",
-        "version": "0.1",
+        "update": "2023-07-14",
+        "version": "0.1.2",
         "path": "ordinal-pringles",
         "type": [
             "已汉化",
@@ -4395,8 +4433,8 @@
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2023-02-21",
-        "version": "0.10.0",
+        "update": "2023-07-13",
+        "version": "0.11.0",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -7578,7 +7616,7 @@
         "title": "匿名修仙",
         "enTitle": "Ni Ming Xiu Xian",
         "date": "2022-03-16",
-        "update": "2022-03-16",
+        "update": "2023-07-18",
         "version": "",
         "path": "ni-ming-xiu-xian",
         "type": [
@@ -7592,9 +7630,9 @@
             "修仙"
         ],
         "content": [
-            "《匿名修仙》是之前《云顶修仙》作者的新作品，玩法跟之前类似。一群已满，请加二群：257419807"
+            "《匿名修仙》是之前《云顶修仙》作者的新作品，玩法跟之前类似。请加群：257419807"
         ],
-        "zhUrl": "https://game.nimingxx.com",
+        "zhUrl": "https://www.nmxx.cc/register",
         "QQ": "257419807",
         "pic": [
             1,
@@ -8433,8 +8471,8 @@
         "title": "我在西伯利亚种土豆",
         "enTitle": "One Potato Incremental",
         "date": "2022-01-06",
-        "update": "2022-09-01",
-        "version": "0.3.0",
+        "update": "2023-07-13",
+        "version": "0.3.1.1",
         "path": "one-potato-incremental",
         "type": [
             "汉化中",
@@ -8443,11 +8481,11 @@
             "放置"
         ],
         "content": [
-            "《破碎空间》是一款关于种土豆的增量游戏。"
+            "《我在西伯利亚种土豆》是一款关于种土豆的增量游戏。"
         ],
         "zhUrl": "https://g8hh.github.io/one-potato-incremental",
         "enUrl": "https://sciencecrafter.github.io/one-potato-incremental/",
-        "customUrl": "https://one-potato-incremental.g8hh.com/",
+        "customUrl": "https://one-potato-incremental.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -14612,8 +14650,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2023-05-08",
-        "version": "0.10.11",
+        "update": "2023-07-17",
+        "version": "0.10.13",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
