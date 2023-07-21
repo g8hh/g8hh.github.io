@@ -674,6 +674,60 @@
         "status": 1
     },
     {
+        "title": "增量元素表",
+        "enTitle": "Incremental Table Elements",
+        "date": "2023-07-21",
+        "update": "2023-07-21",
+        "version": "",
+        "path": "incremental-table-elements",
+        "type": [
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "这是《核起源》作者的另一个作品，年代有点久，玩过的小伙伴可以重温一下。"
+        ],
+        "zhUrl": "https://gityxs.github.io/incremental-table-elements/",
+        "customUrl": "https://incremental-table-elements.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://angarg12.github.io/IncrementalTableElements/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "复古增量",
+        "enTitle": "Retro Incremental",
+        "date": "2023-07-19",
+        "update": "2023-07-19",
+        "version": "",
+        "path": "retro-incremental",
+        "type": [
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "这是一款简单的增量游戏，包含了3个复古游戏（小蜜蜂、吃豆人、贪吃蛇）的玩法，以及一个纯爱的小剧情。游戏流程不算长，天赋高的小伙伴可能20分钟即可通关。"
+        ],
+        "zhUrl": "https://gityxs.github.io/retro-incremental/",
+        "customUrl": "https://retro-incremental.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://asteriskman7.github.io/retroIncremental/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "放置方尖碑矿工",
         "enTitle": "Idle Obelisk Miner",
         "date": "2023-07-13",
@@ -4433,8 +4487,8 @@
         "title": "十二龙",
         "enTitle": "Dodeca Dragons",
         "date": "2022-09-28",
-        "update": "2023-07-13",
-        "version": "0.11.0",
+        "update": "2023-07-19",
+        "version": "1.0.0",
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -11585,7 +11639,7 @@
         "title": "银河帝国",
         "enTitle": "Galactic Grind",
         "date": "2021-07-23",
-        "update": "2018-03-02",
+        "update": "2023-07-21",
         "version": "1.5",
         "path": "galactic-grind",
         "type": [
@@ -11604,7 +11658,7 @@
             "随着您的进步，您可以成倍地增加产量并继续改进您的生产设施。 该游戏具有多种不同的选项和升级，并且具有很好的可玩性。 看看你能进步多远，以及你是否能创建一个跨越银河系的帝国。"
         ],
         "zhUrl": "https://g8hh.github.io/galactic-grind",
-        "customUrl": "https://yx.g8hh.com/galactic-grind",
+        "customUrl": "https://galactic-grind.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -18906,8 +18960,8 @@
         "title": "13层",
         "enTitle": "Level 13",
         "date": "2018-05-09",
-        "update": "2023-07-10",
-        "version": "0.5.1",
+        "update": "2023-07-19",
+        "version": "0.5.2",
         "path": "level-13",
         "type": [
             "汉化中",
@@ -19043,6 +19097,8 @@
         "title": "核起源",
         "enTitle": "Nucleogenesis",
         "date": "2017-12-24",
+        "update": "2023-07-21",
+        "version": "2.8.2",
         "path": "nucleogenesis",
         "type": [
             "已汉化",
@@ -19056,7 +19112,9 @@
         "content": [
             "这是一款放置游戏，科技含量略高，物理帝应该可以看得懂（手动滑稽）。"
         ],
-        "zhUrl": "https://yx.g8hh.com/nucleogenesis",
+        "zhUrl": "https://gityxs.github.io/nucleogenesis/",
+        "customUrl": "https://nucleogenesis.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://angarg12.github.io/nucleogenesis/",
         "pic": [
             1,
@@ -19105,7 +19163,7 @@
             "这是一款以科学为主题的点击、放置增量游戏。",
             "据很多朋友反映，汉化后游戏占用太多电脑内存，导致玩起来非常卡，如果你感觉玩起来卡的话，请先玩英文版，汉化版作为翻译以作对比。"
         ],
-        "zhUrl": "https://yx.g8hh.com/rebuild-the-universe/",
+        "zhUrl": "https://rebuild-the-universe.g8hh.com.cn/",
         "enUrl": "http://rebuildtheuniverse.com/",
         "pic": [
             1,
@@ -19166,7 +19224,7 @@
             ""
         ],
         "zhUrl": "https://gltyx.github.io/coloridle/",
-        "customUrl": "https://yx.g8hh.com/coloridle/",
+        "customUrl": "https://coloridle.g8hh.com/",
         "customUrlTit": "备用地址-g8hh",
         "kUrl": "https://www.kongregate.com/games/Myafkish/hex-color-idle?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -19293,7 +19351,7 @@
             ""
         ],
         "zhUrl": "https://g1tyx.github.io/cityinc",
-        "customUrl": "https://yx.g8hh.com/cityinc",
+        "customUrl": "https://cityinc.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://cityinc.se/",
         "oscUrl": "https://www.oschina.net/p/cityinc",
@@ -19363,6 +19421,7 @@
         "title": "2048",
         "enTitle": "2048",
         "date": "2017-10-27",
+        "update": "2023-07-21",
         "path": "2048",
         "type": [
             "放置",
@@ -19370,9 +19429,9 @@
             "益智"
         ],
         "content": [
-            ""
+            "经典益智小游戏，补链接。"
         ],
-        "zhUrl": "http://likexia.gitee.io/2048",
+        "zhUrl": "https://2048.g8hh.com.cn/",
         "enUrl": "http://gabrielecirulli.github.io/2048/",
         "pic": [
             1,
@@ -19404,7 +19463,7 @@
             "注意：现在 中文版已经集成了小猫科学家 ，请在游戏右上角 “选项” 里面通过 “点击启用小猫科学家”启用。"
         ],
         "zhUrl": "http://likexia.gitee.io/cat-zh",
-        "customUrl2": "https://cat.g8hh.com/",
+        "customUrl2": "https://cat.g8hh.com.cn/",
         "customUrlTit2": "汉化版-g8hh",
         "customUrl": "https://lolitalibrary.com/maomao/",
         "customUrlTit": "备用地址",
