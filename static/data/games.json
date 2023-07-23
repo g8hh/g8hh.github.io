@@ -516,7 +516,7 @@
         "title": "迷你梦幻，怀旧多人在线游戏",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2022-06-10",
+        "update": "2023-07-22",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -548,7 +548,7 @@
         "title": "迷你传奇，是兄弟就来被我砍",
         "enTitle": "",
         "date": "2022-06-14",
-        "update": "2022-06-14",
+        "update": "2023-07-22",
         "version": "",
         "path": "mini-cq",
         "type": [
@@ -583,7 +583,7 @@
         "title": "三国传奇，耐玩挂机电脑游戏",
         "enTitle": "",
         "date": "2022-08-19",
-        "update": "2022-08-19",
+        "update": "2023-07-22",
         "version": "",
         "path": "sgcq",
         "type": [
@@ -617,7 +617,7 @@
         "title": "无尽洪荒，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2022-06-28",
+        "update": "2023-07-22",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -1082,8 +1082,8 @@
         "title": "激燃太空",
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
-        "update": "2023-07-10",
-        "version": "0.1.0c",
+        "update": "2023-07-23",
+        "version": "0.2.0a",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
