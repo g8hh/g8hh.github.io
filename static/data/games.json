@@ -674,6 +674,74 @@
         "status": 1
     },
     {
+        "title": "骑士进度条美化重制手机版",
+        "enTitle": "Progress Knight: Remastered",
+        "date": "2023-07-24",
+        "update": "2023-07-24",
+        "version": "",
+        "path": "progress-knight-remastered",
+        "type": [
+            "英文",
+            "安卓",
+            "苹果",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "《Progress Knight》是一款基于奇幻/中世纪背景的生活模拟增量游戏，你必须在职业阶梯上不断进步并获得新技能才能成为终极存在。",
+            "你一开始是个乞丐，随着时间的推移，你几乎无法养活自己。 然而，多年来，您学习新技能并获得大量工作经验，以进入新的高薪工作，同时管理您的生活费用......",
+            "您会决定走简单的路线，做简单的布衣工作吗？ 或者你会接受严酷的训练以在军队中晋升？ 或者也许你会决定努力学习并进入魔法学院，学习影响生活的咒语？ 您的职业道路是开放式的，决定权在您手中。",
+            "最终，你的年龄会赶上你。 您将可以选择在下一生中获得声望并获得经验乘数（基于您当前生活的表现），但代价是失去所有等级和资产。 不过不要害怕，因为你恢复等级的速度会比前世快得多......",
+            "多重重生后，善恶之路向你招手。 你愿意拥抱黑暗，成为一股让他人心生恐惧的强大力量吗？ 或者你会选择体现纯洁和慈悲本质的正义之路？",
+            "--",
+            "这个重制版本集成了 ihtasham42 的基础游戏，具有完整的图形/UI 重新设计和新的独家内容（在邪恶或天使之间选择你的道路）。"
+        ],
+        "customUrl": "https://apps.apple.com/fr/app/progress-knight-remastered/id6450839683",
+        "customUrlTit": "iOS版",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.doelia.pkhd",
+        "customUrlTit2": "安卓市场下载",
+        "customUrl3": "https://apkpremier.com/details/com-doelia-pkhd",
+        "customUrlTit3": "安卓版直链下载",
+        "QQ": "808405682",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MoBNqfRDOSIcnJiYkNzeNKljjcHsTRV2&jump_from=webapi&authKey=8SOO2hnZAA7M7w1chjOcHQEBINMl1EMlXBfDfZGEZe4iVUAXpk8GopdPgH7nle5V",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "自动化贤者之石",
+        "enTitle": "Automating The Philosophers Stone",
+        "date": "2023-07-24",
+        "update": "2023-07-24",
+        "version": "",
+        "path": "automating-the-philosophers-stone",
+        "type": [
+            "自动",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "游戏是根据你在所有重置中的最大资源慢慢积累能量，这意味着在其他升级中使用你的能量是没有成本的。 游戏来自增量 Game Jam 2023 。"
+        ],
+        "zhUrl": "https://gityxs.github.io/automating-the-philosophers-stone/",
+        "customUrl": "https://automating-the-philosophers-stone.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://sophiewalden.github.io/AutomatingThePhilosophersStone/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "增量元素表",
         "enTitle": "Incremental Table Elements",
         "date": "2023-07-21",
@@ -757,6 +825,8 @@
         "customUrlTit": "iOS版",
         "customUrl2": "https://play.google.com/store/apps/details?id=com.ezag.pkm",
         "customUrlTit2": "安卓市场下载",
+        "customUrl3": "https://apkpremier.com/details/com-checkbox-minershminer",
+        "customUrlTit3": "安卓版直链下载",
         "QQ": "808405682",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MoBNqfRDOSIcnJiYkNzeNKljjcHsTRV2&jump_from=webapi&authKey=8SOO2hnZAA7M7w1chjOcHQEBINMl1EMlXBfDfZGEZe4iVUAXpk8GopdPgH7nle5V",
         "pic": [
@@ -1367,7 +1437,7 @@
         "title": "未命名太空放置",
         "enTitle": "Unnamed Space Idle",
         "date": "2023-05-07",
-        "update": "2023-05-07",
+        "update": "2023-07-24",
         "version": "",
         "path": "unnamed-space-idle-prototype",
         "type": [
@@ -1375,12 +1445,12 @@
             "点击",
             "太空",
             "冒险",
-            "英文",
+            "已汉化",
             "U3D",
             "养成"
         ],
         "content": [
-            "游戏是英文的，可以用图片翻译功能，不影响玩游戏。",
+            "咱们群里大佬提交了汉化给官方，所以现在游戏有中文了！",
             "游戏文件比较大（50M左右），加载慢是正常现象。",
             "需要下载到本地玩的，可以群里找锅巴拿源码即可。",
             "这是一个长篇太空放置游戏。摧毁无尽的外星飞船浪潮。",
@@ -5002,8 +5072,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2023-07-11",
-        "version": "1.6.3",
+        "update": "2023-07-24",
+        "version": "1.6.4",
         "path": "spice-idle",
         "type": [
             "已汉化",
@@ -13169,8 +13239,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "",
         "date": "2021-04-22",
-        "update": "2023-06-14",
-        "version": "0.6.155",
+        "update": "2023-07-24",
+        "version": "0.6.160",
         "path": "jyf",
         "type": [
             "放置",
@@ -18089,7 +18159,7 @@
         "title": "打砖块",
         "enTitle": "Idle Breakout",
         "date": "2019-04-25",
-        "update": "2019-03-11",
+        "update": "2023-07-24",
         "path": "idle-breakout",
         "type": [
             "英文",
@@ -18101,9 +18171,14 @@
             "Flash"
         ],
         "content": [
-            "玩着很爽的打砖块游戏~"
+            "建造终极破砖机，摧毁数十亿块砖块。 放置突破结合了经典的打砖块和令人疯狂上瘾的放置循环。",
+            "Idle Breakout Game 将 Atari 经典游戏现代化。 雅达利的经典突破是一款出色的游戏。 然而，这款现代闲置游戏将这一类型提升到了一个新的水平。 在游戏过程中，您必须点击彩色块才能赚取现金。 您点击的每个区块都会为您赚取固定费用 - 该费用可以升级。 然后，您可以使用现金购买突破球和升级，以便您可以更快地粉碎方块。"
         ],
-        "zhUrl": "http://likexia.gitee.io/idle-breakout/",
+        "zhUrl": "https://gityxs.github.io/idle-breakout/",
+        "customUrl": "https://idle-breakout.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.ezag.pkm",
+        "customUrlTit2": "安卓市场下载",
         "kUrl": "https://www.kongregate.com/games/Kodiqi/idle-breakout?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
