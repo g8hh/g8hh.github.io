@@ -674,6 +674,96 @@
         "status": 1
     },
     {
+        "title": "无限币放置",
+        "enTitle": "Infinity Coins",
+        "date": "2023-07-28",
+        "update": "2023-07-28",
+        "version": "",
+        "path": "infinity-coins",
+        "type": [
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "一款模拟放置游戏，购买各种升级，提升算力。"
+        ],
+        "zhUrl": "https://gityxs.github.io/infinity-coins/",
+        "customUrl": "https://infinity-coins.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://totallynotavirus.github.io/",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1
+    },
+    {
+        "title": "放松放置",
+        "enTitle": "Relaxing Idle",
+        "date": "2023-07-28",
+        "update": "2023-07-28",
+        "version": "",
+        "path": "relaxing-idle",
+        "type": [
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "这个游戏前期是增量、放置玩法，后期可以当做音游来玩。"
+        ],
+        "zhUrl": "https://gityxs.github.io/relaxing-idle/",
+        "customUrl": "https://relaxing-idle.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://gamejolt.com/games/relaxing-idle/199549",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "太空摔跤手 XL",
+        "enTitle": "SpaceWrestler XL",
+        "date": "2023-07-28",
+        "update": "2023-07-28",
+        "version": "",
+        "path": "space-wrestler-xl",
+        "type": [
+            "英文",
+            "电脑",
+            "动作",
+            "战斗"
+        ],
+        "content": [
+            "有电脑版，放在群文件里面了，需要的可以下载了玩。或者去原版地址直接下载。",
+            "SpaceWrestler XL：一款星际摔跤动作游戏！",
+            "太空摔跤手的新增强版！ 新的和改进的游戏机制、Boss 角色和新的配乐使这成为迄今为止最具爆炸性的太空摔跤手活动！",
+            "“疯狂流星”迈克成为地球上最强大的摔跤手，在赢得 1986 年 WrestleDeath XL 冠军后，他晋升并转变为摔跤力量的宇宙巨人。 对于地球来说太大了，并且渴望敌人来挑战他，迈克穿越太空，撞击行星来增强他的力量，而古代摔跤领主试图打倒他。",
+            "在积累力量的同时躲避并战胜对手，然后在适当的时候将他们赶出银河系。 拿起折叠椅、电视和其他武器，让胜算对你有利！",
+            "当你在太空中战斗时，“生成摔跤手”功能为强大的摔跤领主提供独特的名称和外观，谁知道你下一个会踢谁？"
+        ],
+        "customUrl": "https://gityxs.github.io/space-wrestler-xl/",
+        "customUrlTit": "搬运英文版",
+        "customUrl2": "https://space-wrestler-xl.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "enUrl": "https://gamejolt.com/games/spacewrestler-xl/31828",
+        "QQ": "808405682",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MoBNqfRDOSIcnJiYkNzeNKljjcHsTRV2&jump_from=webapi&authKey=8SOO2hnZAA7M7w1chjOcHQEBINMl1EMlXBfDfZGEZe4iVUAXpk8GopdPgH7nle5V",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "骑士进度条美化重制手机版",
         "enTitle": "Progress Knight: Remastered",
         "date": "2023-07-24",
@@ -1123,7 +1213,7 @@
         "title": "采石场放置",
         "enTitle": "Into The Quarry",
         "date": "2023-06-12",
-        "update": "2023-06-28",
+        "update": "2023-07-25",
         "version": "0.0.4α-9",
         "path": "into-the-quarry",
         "type": [
@@ -1152,8 +1242,8 @@
         "title": "激燃太空",
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
-        "update": "2023-07-23",
-        "version": "0.2.0a",
+        "update": "2023-07-27",
+        "version": "0.2.1",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
@@ -1451,6 +1541,7 @@
         ],
         "content": [
             "咱们群里大佬提交了汉化给官方，所以现在游戏有中文了！",
+            "群文件里我放了本地版，欢迎下载了在本地玩。",
             "游戏文件比较大（50M左右），加载慢是正常现象。",
             "需要下载到本地玩的，可以群里找锅巴拿源码即可。",
             "这是一个长篇太空放置游戏。摧毁无尽的外星飞船浪潮。",
@@ -1472,6 +1563,8 @@
         "customUrlTit2": "搬运版地址",
         "customUrl3": "https://idle.g8hh.cn/unnamed-space-idle-prototype/index.html",
         "customUrlTit3": "搬运备用地址-g8hh",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -19470,6 +19563,7 @@
         "title": "小黑屋",
         "enTitle": "A Dark Room",
         "date": "2017-10-27",
+        "update": "2023-07-24",
         "path": "a-dark-room",
         "type": [
             "已汉化",
@@ -19479,13 +19573,15 @@
             "冒险"
         ],
         "content": [
+            "新增Steam地址，英文，售价29元。",
             "小黑屋是一款纯文字的冒险游戏，通过壮大自己的村庄，收集材料后，制作冒险所需的物品，然后就可以开始冒险之旅。",
             "游戏右下角可以选语言。"
         ],
-        "customUrl2": "https://yx.g8hh.com/adarkroom/?lang=zh_cn",
+        "customUrl2": "https://adarkroom.g8hh.com.cn/?lang=zh_cn",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/adarkroom/?lang=zh_cn",
         "enUrl": "http://adarkroom.doublespeakgames.com/?lang=en",
+        "steamUrl": "https://store.steampowered.com/app/2460660/A_Dark_Room/",
         "pic": [
             1,
             2
