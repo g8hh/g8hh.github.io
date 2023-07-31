@@ -674,6 +674,35 @@
         "status": 1
     },
     {
+        "title": "游戏树",
+        "enTitle": "The Gaming Tree",
+        "date": "2023-07-31",
+        "update": "2023-07-31",
+        "version": "R0.5",
+        "path": "the-gaming-tree",
+        "type": [
+            "模组树",
+            "RPG",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "这是一款集打怪、升级等内容于一体的模组树游戏。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/the-gaming-tree/",
+        "customUrl": "https://the-gaming-tree.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://medsal15.github.io/The-Gaming-Tree/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "无限币放置",
         "enTitle": "Infinity Coins",
         "date": "2023-07-28",
@@ -15395,6 +15424,7 @@
         "title": "动物园增量2",
         "enTitle": "Zoo II",
         "date": "2020-07-07",
+        "update": "2023-07-28",
         "path": "zoo-ii",
         "type": [
             "已汉化",
@@ -15408,7 +15438,7 @@
             "这个也是很早收录的，但是没汉化，这两天汉化了一下。"
         ],
         "zhUrl": "https://gltyx.github.io/zoo2/",
-        "customUrl": "https://yx.g8hh.com/zoo2",
+        "customUrl": "https://zoo2.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "pic": [
             1,
