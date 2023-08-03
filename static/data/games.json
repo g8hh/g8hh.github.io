@@ -674,6 +674,33 @@
         "status": 1
     },
     {
+        "title": "绝对按钮模拟器2",
+        "enTitle": "Absolute Button Simulator 2",
+        "date": "2023-08-03",
+        "update": "2023-08-03",
+        "version": "0.2.2",
+        "path": "absolute-button-simulator-2",
+        "type": [
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "原版 《绝对按钮模拟器》 的续作，灵感来自 Roblox 按钮模拟器趋势。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/absolute-button-simulator-2/",
+        "customUrl": "https://absolute-button-simulator-2.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/absoluteBS2/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "游戏树",
         "enTitle": "The Gaming Tree",
         "date": "2023-07-31",
@@ -2533,7 +2560,7 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2023-06-18",
+        "update": "2023-08-01",
         "version": "0.1.5",
         "path": "fundamental",
         "type": [
