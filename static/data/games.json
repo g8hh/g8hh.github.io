@@ -674,6 +674,144 @@
         "status": 1
     },
     {
+        "title": "愤怒的黑盒",
+        "enTitle": "Enraging Black Box",
+        "date": "2023-08-09",
+        "update": "2023-08-09",
+        "version": "",
+        "path": "enraging-black-box",
+        "type": [
+            "点击",
+            "升级",
+            "鼠标"
+        ],
+        "content": [
+            "游戏是关于通过故意激怒控制向黑匣子发射光线的游戏。",
+            "开火和旋转是不言自明的 - 您可以上下滚动来放大游戏板，并在按住时拖动光标来移动。 ",
+            "本游戏不适用于移动设备 - 该游戏并不完全可以在移动设备上玩。"
+        ],
+        "zhUrl": "https://gityxs.github.io/enraging-black-box/",
+        "customUrl": "https://enraging-black-box.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://dystopia-user181.itch.io/enraging-black-box",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "塔防球：放置增量塔防",
+        "enTitle": "TowerBall: Idle Incremental TD",
+        "date": "2023-08-09",
+        "update": "2023-08-09",
+        "version": "",
+        "path": "towerball-idle-incremental-td​",
+        "type": [
+            "中文",
+            "安卓",
+            "苹果",
+            "Steam",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "礼品兑换码: 12iJJ0",
+            "注意：iOS版需要外区账号，安卓版需要科学。​",
+            "--------------------------------------------------------",
+            "塔防球 - 特点",
+            "--------------------------------------------------------",
+            "• 开始时较弱，但随着游戏的进行会逐渐增强，逐渐增强力量！",
+            "• 7 个独特的炮塔可供建造，每个炮塔都有自己的能力",
+            "• 威望从头开始，提供更多特殊的能力",
+            "• 塔会自动射球，闲置或挂机时赚钱！",
+            "• 8 个难度不断增加的关卡，难度越高，奖励越多，现金和宝石也越多",
+            "• 花费金钱升级你的防御以获得更多破坏",
+            "• 赚取宝石来解锁影响所有炮塔的全球升级",
+            "增量塔防",
+            "从头开始构建你的防御！ 一开始很弱，但随着等级的提高，会呈指数级增强。",
+            "声望提升",
+            "点击声望按钮即可以更多金钱和升级重新开始游戏！ 每次你的声望都会变得更强，让每一次新的跑步都比上一次更好。",
+            "一款策略放置类游戏",
+            "使用策略建立完美的防御设置并最大化您的收入。 尝试看看什么是有效的！"
+        ],
+        "customUrl": "https://apps.apple.com/us/app/tower-ball-idle-tower-defense/id1536018938?l=zh-Hans-CN",
+        "customUrlTit": "iOS版",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.WaffleStackStudio.TowerBall",
+        "customUrlTit2": "安卓市场下载",
+        "customUrl3": "https://apkpremier.com/details/com-WaffleStackStudio-TowerBall",
+        "customUrlTit3": "安卓版直链下载",
+        "steamUrl": "https://store.steampowered.com/app/1597220/Tower_Ball__Incremental_Tower_Defense/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1
+    },
+    {
+        "title": "采矿点击器：重新挖掘",
+        "enTitle": "Mine Clicker Re-excavated",
+        "date": "2023-08-04",
+        "update": "2023-08-04",
+        "version": "1.3.1",
+        "path": "mine-clicker-re-excavated",
+        "type": [
+            "点击",
+            "升级",
+            "鼠标"
+        ],
+        "content": [
+            "《十二龙》作者的另一个游戏。这是一款名为《Mine Clicker》（Tolan，2014）的旧手机游戏的重制版。 开采矿石并升级你的工具！"
+        ],
+        "zhUrl": "https://g1tyx.github.io/mine-clicker-re-excavated/",
+        "customUrl": "https://mine-clicker-re-excavated.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/mineClickerReexcavated/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "地狱高尔夫",
+        "enTitle": "Golf Hell",
+        "date": "2023-08-03",
+        "update": "2023-08-03",
+        "version": "1.1.0",
+        "path": "golf-hell",
+        "type": [
+            "点击",
+            "益智",
+            "鼠标"
+        ],
+        "content": [
+            "《十二龙》作者的另一个游戏。这是一个高尔夫游戏，共有 45 个关卡，分为 9 个阶段。 每个阶段都比上一个阶段更难！"
+        ],
+        "zhUrl": "https://g1tyx.github.io/golf-hell/",
+        "customUrl": "https://golf-hell.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/golf-hell/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "绝对按钮模拟器2",
         "enTitle": "Absolute Button Simulator 2",
         "date": "2023-08-03",
@@ -1269,8 +1407,8 @@
         "title": "采石场放置",
         "enTitle": "Into The Quarry",
         "date": "2023-06-12",
-        "update": "2023-07-25",
-        "version": "0.0.4α-9",
+        "update": "2023-08-07",
+        "version": "0.0.5α-3",
         "path": "into-the-quarry",
         "type": [
             "已汉化",
@@ -5578,8 +5716,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2023-06-26",
-        "version": "0.4.5",
+        "update": "2023-08-08",
+        "version": "0.5",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -6190,7 +6328,7 @@
         "content": [
             "这是《鲨鱼之心》的重制版。"
         ],
-        "customUrl": "https://yx.g8hh.com/shark-game-remaster/",
+        "customUrl": "https://shark-game-remaster.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/shark-game-remaster/",
         "enUrl": "https://alpha.shark.tobot.dev/",
@@ -11184,7 +11322,7 @@
             5
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "时间就是金钱",
@@ -17028,8 +17166,8 @@
         "title": "神特么挖矿放置",
         "enTitle": "Lored",
         "date": "2019-08-26",
-        "update": "2021-02-28",
-        "version": "2.2.3",
+        "update": "2023-08-08",
+        "version": "2.2.27",
         "path": "lored",
         "type": [
             "放置",
@@ -17048,7 +17186,7 @@
         "customUrlTit": "搬运英文版",
         "customUrl": "https://gltyx.github.io/lored/",
         "customUrlTit2": "备用-搬运版",
-        "customUrl2": "https://yx.g8hh.com/lored/s",
+        "customUrl2": "https://yx.g8hh.com.cn/lored",
         "enUrl": "https://drillur.itch.io/lored",
         "kUrl": "https://www.kongregate.com/games/Drillur/lored?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -17506,7 +17644,7 @@
             "《土皇帝》是一款模拟城市建设类的战略性放置游戏。你扮演着村庄之王的角色，统治着你的人民。你需要在建造，研究，制造，战斗和更多之间做出决定。",
             "游戏不能直接刷新哦，刷新可能会404错误。请把链接删除到：/villager-kings/后面这个位置，回车即可继续游戏。"
         ],
-        "customUrl": "https://villager-kings.g8hh.com",
+        "customUrl": "https://villager-kings.g8hh.com.cn",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/villager-kings",
         "customUrlTit2": "备用地址-GitHub",
