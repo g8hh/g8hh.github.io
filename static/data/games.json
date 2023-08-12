@@ -674,6 +674,37 @@
         "status": 1
     },
     {
+        "title": "区域放置",
+        "enTitle": "Idle Region",
+        "date": "2023-08-11",
+        "update": "2023-08-11",
+        "version": "0.3.3a",
+        "path": "idleregion",
+        "type": [
+            "点击",
+            "升级",
+            "建造"
+        ],
+        "content": [
+            "Idle Region 是一款城市建设类放置游戏。 你在一个洞穴中开始你的文明，并在技术时代中开辟自己的道路。",
+            "这款游戏在建造时为您提供了多种选择，要么优化放置建筑物以最大程度地提高产量，要么选择风景优美的路线并创建一座美丽的城市。 ",
+            "这款游戏仍在大量开发中，东西肯定会发生变化，并且更新很频繁。 ",
+            "目前在一些移动设备上运行有困难，平板电脑和安卓设备比较适合，只要屏幕尺寸足够大。"
+        ],
+        "zhUrl": "https://gityxs.github.io/idleregion/",
+        "customUrl": "https://idleregion.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://idleregion.com/game/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "愤怒的黑盒",
         "enTitle": "Enraging Black Box",
         "date": "2023-08-09",
@@ -842,8 +873,8 @@
         "title": "游戏树",
         "enTitle": "The Gaming Tree",
         "date": "2023-07-31",
-        "update": "2023-07-31",
-        "version": "R0.5",
+        "update": "2023-08-11",
+        "version": "R0.6",
         "path": "the-gaming-tree",
         "type": [
             "模组树",
@@ -5650,10 +5681,10 @@
         "status": 1
     },
     {
-        "title": "The Alterhistorians Conquest",
-        "enTitle": "",
+        "title": "另类历史学家的征服",
+        "enTitle": "The Alterhistorians Conquest",
         "date": "2022-08-18",
-        "update": "2022-08-18",
+        "update": "2023-08-11",
         "version": "",
         "path": "the-alterhistorians-conquest",
         "type": [
@@ -5668,10 +5699,10 @@
             "箭头键/拖动以围绕网格平移",
             "将资源握在手中以用于升级。"
         ],
-        "customUrl": "https://yx.g8hh.com/the-alterhistorians-conquest",
+        "customUrl": "https://yx.g8hh.com.cn/the-alterhistorians-conquest",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/the-alterhistorians-conquest",
-        "enUrl": "https://dystopia-user181.itch.io/the-alterhistorians-conquest",
+        "enUrl": "https://dystopia-user181.github.io/The-Second-Alterhistorian/",
         "pic": [
             1,
             2,
