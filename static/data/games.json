@@ -418,7 +418,7 @@
             "[自由组合]1号最多可7英雄和7宠物同时出战,无数玩法流派随你组合。",
             "[超多活动]各种在线活动和成就玩法都是变强的途径,有付出就有收获。",
             "想体验，怀念那最初的情怀和感动，来吧！！！"
-            
+
         ],
         "customUrl": "http://mhg.dahuiyuan.vip/index.html?12584",
         "customUrlTit": "开始游戏",
@@ -674,6 +674,69 @@
         "status": 1
     },
     {
+        "title": "农场游戏",
+        "enTitle": "Farm Game",
+        "date": "2023-08-22",
+        "update": "2023-08-22",
+        "version": "",
+        "path": "farmgame",
+        "type": [
+            "英文",
+            "油猴",
+            "已汉化",
+            "联网"
+        ],
+        "content": [
+            "种植农作物并饲养动物以收获商品并在市场上出售。 不同的农作物和动物需要不同的时间来生产它们的产品，并且农作物可能会多次收获。",
+            "目前游戏还在开发中，可以种地、养动物、有商店、交易市场、排行榜等功能，唯一不好的地方是全程手点，没有一键种植、收获的功能~",
+            "油猴汉化文件地址：",
+            "https://g8hh.com.cn/zh/tampermonkey/farmgame-chs.user.js"
+        ],
+        "customUrl": "https://farmgame.live/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://gityx.com/help/faq/633.html",
+        "customUrlTit2": "油猴汉化教程",
+        "customUrl3": "https://www.tampermonkey.net/",
+        "customUrlTit3": "油猴官网",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "另类历史学家树",
+        "enTitle": "The Alterhistorian",
+        "date": "2023-08-14",
+        "update": "2023-08-14",
+        "version": "0.2",
+        "path": "the-alterhistorian",
+        "type": [
+            "点击",
+            "升级",
+            "模组树"
+        ],
+        "content": [
+            "​这是《另类历史学家的征服》制作的一个模组树。当前残局：31 六面体外壳 ",
+            "残局：31 六面体外壳"
+        ],
+        "zhUrl": "https://g1tyx.github.io/the-alterhistorian/",
+        "customUrl": "https://the-alterhistorian.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://dystopia-user181.github.io/The-Alterhistorian/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "区域放置",
         "enTitle": "Idle Region",
         "date": "2023-08-11",
@@ -691,7 +754,7 @@
             "这款游戏仍在大量开发中，东西肯定会发生变化，并且更新很频繁。 ",
             "目前在一些移动设备上运行有困难，平板电脑和安卓设备比较适合，只要屏幕尺寸足够大。"
         ],
-        "zhUrl": "https://gityxs.github.io/idleregion/",
+        "zhUrl": "https://g1tyx.github.io/idleregion/",
         "customUrl": "https://idleregion.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://idleregion.com/game/",
@@ -1438,8 +1501,8 @@
         "title": "采石场放置",
         "enTitle": "Into The Quarry",
         "date": "2023-06-12",
-        "update": "2023-08-07",
-        "version": "0.0.5α-3",
+        "update": "2023-08-16",
+        "version": "0.0.5α-4",
         "path": "into-the-quarry",
         "type": [
             "已汉化",
@@ -1467,8 +1530,8 @@
         "title": "激燃太空",
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
-        "update": "2023-07-27",
-        "version": "0.2.1",
+        "update": "2023-08-20",
+        "version": "0.2.3",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
@@ -15777,7 +15840,7 @@
         "title": "星系核心:地平线",
         "enTitle": "Heart Of Galaxy : Horizons",
         "date": "2017-12-01",
-        "update": "2021-04-19",
+        "update": "2023-08-15",
         "version": "43D",
         "path": "heart-of-galaxy-horizons",
         "type": [
@@ -15797,7 +15860,7 @@
             "请参阅游戏中的教程了解第一步。"
         ],
         "zhUrl": "https://g1tyx.github.io/heart-of-galaxy-horizons",
-        "customUrl": "https://yx.g8hh.com/heart-of-galaxy-horizons",
+        "customUrl": "https://heart-of-galaxy-horizons.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/Cheslava/heart-of-galaxy-horizons?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -19588,10 +19651,12 @@
             "这是一款放置型经营游戏，你可以建造多种建筑来生产制作饼干。"
         ],
         "zhUrl": "https://g8hh.github.io/cookieclicker/",
-        "customUrl": "https://cookieclicker.g8hh.com/",
+        "customUrl": "https://cookieclicker.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://orteil.dashnet.org/cookieclicker/beta/",
         "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker",
+        "customUrlTit3": "安卓市场版",
         "enUrl": "http://orteil.dashnet.org/cookieclicker/",
         "steamUrl": "https://store.steampowered.com/app/1454400/Cookie_Clicker/",
         "pic": [
