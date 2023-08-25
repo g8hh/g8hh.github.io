@@ -674,6 +674,64 @@
         "status": 1
     },
     {
+        "title": "大数增量",
+        "enTitle": "Big Numbers Incremental",
+        "date": "2023-08-25",
+        "update": "2023-08-25",
+        "version": "",
+        "path": "big-numbers-incremental",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是作者练手写的一个放置增量游戏。",
+            "游戏不会自动保存，需要自己去选项里面点击保存按钮；重新打开游戏默认不会自动加载存档，需要自己去选项里面点一次加载。",
+            "目前来看流程不算太长，期待作者继续更新吧~"
+        ],
+        "zhUrl": "https://g1tyx.github.io/big-numbers-incremental/",
+        "customUrl": "https://big-numbers-incremental.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://00zerro.github.io/bignumbersincremental/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "河北中考树",
+        "enTitle": "Hebei Zhongkao Tree",
+        "date": "2023-08-22",
+        "update": "2023-08-22",
+        "version": "",
+        "path": "hebei-zhongkao-tree",
+        "type": [
+            "模组树",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "群友小姐姐的新作品，欢迎大家体验~",
+            "游戏是英文的嗷~小姐姐说了不让汉化，所以大家直接啃英文吧~"
+        ],
+        "customUrl": "https://hebei-zhongkao-tree.g8hh.com.cn/​",
+        "customUrlTit": "锅巴搬运英文版",
+        "enUrl": "https://beautyfallencat.github.io/Hebei-Zhongkao-Tree/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "农场游戏",
         "enTitle": "Farm Game",
         "date": "2023-08-22",
@@ -1531,7 +1589,7 @@
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
         "update": "2023-08-20",
-        "version": "0.2.3",
+        "version": "0.2.5",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
@@ -1962,8 +2020,8 @@
         "title": "英雄之歌",
         "enTitle": "Ballad Of Heroes",
         "date": "2023-04-27",
-        "update": "2023-07-17",
-        "version": "0.64",
+        "update": "2023-08-25",
+        "version": "0.65",
         "path": "ballad-of-heroes",
         "type": [
             "已汉化",
@@ -1974,7 +2032,7 @@
             "这是一款好玩的RPG风格的放置游戏，包含了多个职业、丰富的成就等内容。​"
         ],
         "zhUrl": "https://gltyx.github.io/ballad-of-heroes/",
-        "customUrl": "https://ballad-of-heroes.g8hh.com/",
+        "customUrl": "https://ballad-of-heroes.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://talaxi.github.io/balladofheroes/",
         "pic": [
@@ -2861,7 +2919,7 @@
             "《增量堡垒》是一种受益于各种有趣的升级和补充机制而变得有趣的游戏。"
         ],
         "zhUrl": "https://gityxs.github.io/incremental-fortress/",
-        "customUrl": "https://yx.g8hh.com/incremental-fortress/",
+        "customUrl": "https://incremental-fortress.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://louigiverona.com/if/0.4/",
         "pic": [
@@ -5453,8 +5511,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2023-07-24",
-        "version": "1.6.4",
+        "update": "2023-08-22",
+        "version": "1.6.5",
         "path": "spice-idle",
         "type": [
             "已汉化",
@@ -14610,8 +14668,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2023-06-21",
-        "version": "0.10.1",
+        "update": "2023-08-23",
+        "version": "0.10.5",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
