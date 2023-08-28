@@ -674,6 +674,64 @@
         "status": 1
     },
     {
+        "title": "半神：无限",
+        "enTitle": "Demigod: infinity",
+        "date": "2023-08-28",
+        "update": "2023-08-28",
+        "version": "",
+        "path": "demigod-infinity1",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "半神无限是半神系列的一部分。 该游戏的特点是几乎零玩家版本的游戏，以前称为半神0.1。",
+            "游戏经过精心打磨，数学和用户界面也得到了改进。 除了可选的乘数按钮外，游戏可以完全闲置。 它的特点是利率不断上升。",
+            "默认情况下声音是关闭的，但对于玩声音的人来说，建议打开它——当速率几乎呈指数级增长时，咔嗒咔嗒的声音非常令人满意！"
+        ],
+        "zhUrl": "https://g1tyx.github.io/demigod/infinity1/",
+        "customUrl": "https://demigod.g8hh.com.cn/infinity1/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://louigiverona.com/demigod/infinity1/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "半神",
+        "enTitle": "Demigod",
+        "date": "2023-08-28",
+        "update": "2023-08-28",
+        "version": "0.3",
+        "path": "demigod-03",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "《半神》是一款游戏，您可以在其中建立整个文明、星系和宇宙。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/demigod/0.3/",
+        "customUrl": "https://demigod.g8hh.com.cn/0.3/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://louigiverona.com/demigod/0.3/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "数字之神",
         "enTitle": "Digital God",
         "date": "2023-08-28",
@@ -771,7 +829,7 @@
         "title": "河北中考树",
         "enTitle": "Hebei Zhongkao Tree",
         "date": "2023-08-22",
-        "update": "2023-08-22",
+        "update": "2023-08-28",
         "version": "",
         "path": "hebei-zhongkao-tree",
         "type": [
@@ -783,8 +841,9 @@
             "群友小姐姐的新作品，欢迎大家体验~",
             "游戏是英文的嗷~小姐姐说了不让汉化，所以大家直接啃英文吧~"
         ],
+        "zhUrl": "https://g1tyx.github.io/hebei-zhongkao-tree/",
         "customUrl": "https://hebei-zhongkao-tree.g8hh.com.cn/​",
-        "customUrlTit": "锅巴搬运英文版",
+        "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://beautyfallencat.github.io/Hebei-Zhongkao-Tree/",
         "pic": [
             1,
