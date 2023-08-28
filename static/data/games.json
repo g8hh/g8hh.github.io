@@ -674,6 +674,70 @@
         "status": 1
     },
     {
+        "title": "数字之神",
+        "enTitle": "Digital God",
+        "date": "2023-08-28",
+        "update": "2023-08-28",
+        "version": "0.9.1",
+        "path": "digital-god",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "“我是谁...？” 数字之神即将揭开未知世界的秘密。 有人要你捡起那些 α-硬币！"
+        ],
+        "zhUrl": "https://g1tyx.github.io/digital-god/",
+        "customUrl": "https://digital-god.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://raw.githack.com/humfr3y/myfirstclicker/main/index.html",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "Steam钓鱼放置",
+        "enTitle": "Pacifish",
+        "date": "2023-08-27",
+        "update": "2023-08-27",
+        "version": "",
+        "path": "pacifish",
+        "type": [
+            "steam",
+            "英文",
+            "放置",
+            "钓鱼",
+            "模拟"
+        ],
+        "content": [
+            "Pacifish 是一款增量钓鱼管理游戏，具有多种可交互和改进的机制。 它可以闲置地玩，也可以更积极地玩以更快地进步。",
+            "钓鱼 - 获取并装备竿子和渔具，以便在 6 个可解锁的区域中钓鱼。",
+            "战斗 - 扰乱水域会导致鱼类和物质进行反击。 赚取像素来提高战斗统计数据。",
+            "孵化 - 设置和升级孵化器来孵化大量的鱼。",
+            "吃鱼 - 大量食用可以提高钓鱼速度和战斗统计数据等统计数据。",
+            "游泳 - 手动控制一条鱼来吃掉其他鱼并获得资源。",
+            "轮盘 - 用你赚到的硬币玩轮盘，或者在比赛游戏中测试你的记忆力。",
+            "制作 - 使用材料制作新的杆子和钓具，以及创建模组来改变杆子的统计数据。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1996930/Pacifish/",
+        "customUrl": "https://www.u77game.net/h5/421.html",
+        "customUrlTit": "U77网页汉化版",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "大数增量",
         "enTitle": "Big Numbers Incremental",
         "date": "2023-08-25",
