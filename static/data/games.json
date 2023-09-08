@@ -351,7 +351,7 @@
         "title": "梦幻阁 - 梦幻题材文字放置类上班摸鱼游戏",
         "enTitle": "",
         "date": "2023-03-09",
-        "update": "2023-03-09",
+        "update": "2023-09-02",
         "version": "",
         "path": "mhg",
         "type": [
@@ -614,10 +614,10 @@
         "status": 1
     },
     {
-        "title": "无尽洪荒，文字MUD修仙游戏",
+        "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2023-07-22",
+        "update": "2023-09-03",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -674,6 +674,156 @@
         "status": 1
     },
     {
+        "title": "植物树",
+        "enTitle": "The Plant Tree",
+        "date": "2023-09-08",
+        "update": "2023-09-08",
+        "version": "v8",
+        "path": "the-plant-tree",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是一款关于植物、园艺和环境的 Prestige Tree Mod。​"
+        ],
+        "zhUrl": "https://g1tyx.github.io/the-plant-tree/",
+        "customUrl2": "https://the-plant-tree.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "enUrl": "https://thenonymous.github.io/The-Random-Tree/",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "世代SSS",
+        "enTitle": "Generation.SSS",
+        "date": "2023-08-30",
+        "update": "2023-08-30",
+        "version": "",
+        "path": "demigod-infinity1",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是作者的第一款游戏，因此感谢所有反馈！ 请记住，他的经验较少。",
+            "Generation.SSS 是一款增量同人游戏，灵感来自女子组合 TripleS。 TripleS是由MODHAUS组建的24人韩国女子组合。",
+            "这款游戏深受反物质维度和 FE000000 等游戏的启发，它涉及许多不同的功能，例如声望、挑战等等！"
+        ],
+        "zhUrl": "https://g1tyx.github.io/generation-sss/",
+        "customUrl": "https://generation-sss.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://generation.wav.haus/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "增量神树2",
+        "enTitle": "Gods of Incremental",
+        "date": "2023-09-05",
+        "update": "2023-09-05",
+        "version": "1.0b",
+        "path": "gods-of-incremental",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《增量神树》的续作。 作者说这可能是他最好的游戏。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/gods-of-incremental/",
+        "customUrl2": "https://gods-of-incremental.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "enUrl": "https://icecreamdudes.github.io/godsofincremental/",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "烘焙老板放置",
+        "enTitle": "Idle Baker Boss",
+        "date": "2023-08-29",
+        "update": "2023-08-29",
+        "version": "",
+        "path": "idle-baker-boss",
+        "type": [
+            "安卓",
+            "苹果",
+            "Steam",
+            "放置"
+        ],
+        "content": [
+            "在新的放置游戏 Idle Baker Boss 中发展您的专营权并管理面包店。解锁超过150种食谱，从饼干、松饼和甜甜圈到奢华的蛋糕和馅饼。",
+            "获得金币并出售您的商店以发展您的大亨帝国。礼物使您可以解锁特殊的稀有食谱，您可以出售这些食谱以获得更高的利润。您可以烘烤普通、美味（不常见）、美味（稀有）、颓废（史诗）和精致（传奇）甜点。在特殊的展示柜中展示您待售的烘焙食品，以增加您的利润。",
+            "雇用面包师、收银员和经理来经营你的面包店，当你离线时让它放置，在你离开时为你制造硬币和宝石，成为烘焙世界的真正大亨。",
+            "放置贝克老板非常适合休闲游戏玩家和放置点击游戏的粉丝，并吸引那些喜欢最大限度地提高效率和利润的人。走向行业顶端。",
+            "如果您喜欢看到数字上升（NGU），是放置游戏或增量游戏和可爱甜点的粉丝，那么这款游戏非常适合您！",
+            "特点：",
+            "* 收集超过150种甜点",
+            "* 全年定期活动",
+            "* 每日挑战",
+            "* 收集超过100个奖项",
+            "* 可爱的甜点",
+            "* 威望/提升系统。",
+            "* 在您离开（离线）时为您赚取游戏现金的经理。",
+            "* 带展示柜的库存系统",
+            "* 无需网络连接",
+            "* 不同的特许经营权，有独特的食谱可供解锁",
+            "* 技能树系统"
+        ],
+        "customUrl": "https://apps.apple.com/at/app/idle-baker-boss/id1581019999",
+        "customUrlTit": "iOS版",
+        "customUrl2": "https://apkpremier.com/details/com-DoopweeGames-IdleBakerTycoon",
+        "customUrlTit2": "安卓直链下载",
+        "customUrl3": "https://play.google.com/store/apps/details?id=com.DoopweeGames.IdleBakerTycoon",
+        "customUrlTit3": "安卓市场版",
+        "steamUrl": "https://store.steampowered.com/app/2087000/Idle_Baker_Boss/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "半神：无限",
         "enTitle": "Demigod: infinity",
         "date": "2023-08-28",
@@ -716,7 +866,8 @@
             "放置"
         ],
         "content": [
-            "《半神》是一款游戏，您可以在其中建立整个文明、星系和宇宙。"
+            "《半神》是一款游戏，您可以在其中建立整个文明、星系和宇宙。",
+            "注意：还有0.1、0.2版本，直接修改网址即可体验。"
         ],
         "zhUrl": "https://g1tyx.github.io/demigod/0.3/",
         "customUrl": "https://demigod.g8hh.com.cn/0.3/",
@@ -1711,8 +1862,8 @@
         "title": "激燃太空",
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
-        "update": "2023-08-20",
-        "version": "0.2.5",
+        "update": "2023-09-06",
+        "version": "0.2.8a",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
@@ -2912,8 +3063,8 @@
         "title": "骑士进度条2 Mod",
         "enTitle": "Progress Knight 2 Mod",
         "date": "2023-03-22",
-        "update": "2023-05-04",
-        "version": "2.3.2",
+        "update": "2023-09-04",
+        "version": "2.3.3",
         "path": "progress-knight2-mod",
         "type": [
             "已汉化",
@@ -2928,7 +3079,7 @@
             "4、其它新东西，暂时未发现。"
         ],
         "zhUrl": "https://gityxs.github.io/progress-knight2-mod/",
-        "customUrl": "https://progress-knight2-mod.g8hh.com/",
+        "customUrl": "https://progress-knight2-mod.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://indomit.github.io/progress_knight_2/",
         "QQ": "808405682",
@@ -3032,8 +3183,8 @@
         "title": "增量堡垒",
         "enTitle": "Incremental Fortress",
         "date": "2023-03-13",
-        "update": "2023-03-13",
-        "version": "0.4",
+        "update": "2023-08-26",
+        "version": "0.5",
         "path": "incremental-fortress",
         "type": [
             "已汉化"
@@ -3044,7 +3195,7 @@
         "zhUrl": "https://gityxs.github.io/incremental-fortress/",
         "customUrl": "https://incremental-fortress.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
-        "enUrl": "https://louigiverona.com/if/0.4/",
+        "enUrl": "https://louigiverona.com/if/0.5/",
         "pic": [
             1,
             2,
@@ -5084,6 +5235,33 @@
         "status": 1
     },
     {
+        "title": "最长增量",
+        "enTitle": "The Longest Incremental",
+        "date": "2022-10-02",
+        "update": "2022-10-02",
+        "version": "0.2.1",
+        "path": "the-longest-incremental",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "增量游戏有尽头吗？作者何以夸下如此海口？"
+        ],
+        "customUrl": "https://the-longest-incremental.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://g1tyx.github.io/the-longest-incremental",
+        "enUrl": "https://unsoftcapped3.github.io/the-longest-incremental",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "农夫大战土豆放置",
         "enTitle": "Farmer Against Potatoes Idle",
         "date": "2022-09-29",
@@ -5661,7 +5839,7 @@
         "title": "汉字炼金术",
         "enTitle": "Chinese Character Alchemy",
         "date": "2022-09-02",
-        "update": "2023-05-17",
+        "update": "2023-09-04",
         "version": "",
         "path": "chinese-character-alchemy",
         "type": [
@@ -5672,7 +5850,7 @@
         "content": [
             "《汉字炼金术》是一个老少皆宜的偏旁造汉字的游戏，锅巴觉得很适合小学生玩，可以帮助他们认字、识字。​"
         ],
-        "customUrl": "https://chinese-character-alchemy.g8hh.com/",
+        "customUrl": "https://chinese-character-alchemy.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/chinese-character-alchemy",
         "enUrl": "https://spotky1004.com/Chinese-Character-Alchemy",
@@ -8730,8 +8908,8 @@
         "title": "时间到了",
         "enTitle": "There Was Time Now",
         "date": "2022-02-09",
-        "update": "2022-02-09",
-        "version": "0.7",
+        "update": "2023-08-28",
+        "version": "0.8",
         "path": "there-was-time-now",
         "type": [
             "汉化中",
@@ -8746,7 +8924,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/there-was-time-now",
         "enUrl": "https://pbr4ne.github.io/there-was-time-now/",
-        "customUrl": "https://yx.g8hh.com/there-was-time-now",
+        "customUrl": "https://there-was-time-now.g8hh.com.cn",
         "customUrlTit": "备用地址-g8hh",
         "QQ": "",
         "pic": [
@@ -12035,7 +12213,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/matter-dimensions/",
         "enUrl": "http://semenar.ru/matter-dim-test/index.html",
-        "customUrl": "https://yx.g8hh.com/matter-dimensions",
+        "customUrl": "https://matter-dimensions.g8hh.com.cn/",
         "customUrlTit": "备用地址",
         "pic": [
             1,
@@ -12539,7 +12717,7 @@
         "title": "酸橙经营者",
         "enTitle": "Sublime",
         "date": "2021-07-02",
-        "update": "2022-01-28",
+        "update": "2023-08-30",
         "version": "0.5.5",
         "path": "sublime",
         "type": [
@@ -12558,7 +12736,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/sublime/",
         "enUrl": "https://kingbecks123.github.io/Sublime/",
-        "customUrl": "https://sublime.g8hh.com/",
+        "customUrl": "https://sublime.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -13250,7 +13428,7 @@
             "如果你发现英文，可以随时把存档发给我加快汉化！么么哒~"
         ],
         "zhUrl": "https://g1tyx.github.io/light-the-city",
-        "customUrl": "https://yx.g8hh.com/light-the-city",
+        "customUrl": "http://light-the-city.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://semenar.itch.io/light-the-city",
         "pic": [
@@ -14173,8 +14351,8 @@
         "content": [
             "此游戏是反物质维度群里 @The Loader 在模型树的基础上二次开发，后续还会继续更新。"
         ],
-        "zhUrl": "https://g1tyx.github.io/milestone-tree",
-        "customUrl": "https://milestone-tree.g8hh.com/",
+        "zhUrl": "https://g1tyx.github.io/milestone-tree/index2.html",
+        "customUrl": "https://milestone-tree.g8hh.com.cn/index2.html",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://qq1010903229.gitee.io/milestone-tree/index.html",
         "customUrl2": "https://yhvr.me/pt/mods.html",
@@ -14460,7 +14638,7 @@
         "title": "字母公司",
         "enTitle": "AZ Inc",
         "date": "2021-03-19",
-        "update": "2021-03-19",
+        "update": "2023-09-06",
         "version": "",
         "path": "azinc",
         "type": [

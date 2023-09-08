@@ -7,8 +7,8 @@
 // @include      *https://www.torn.com/*
 // @grant        none
 // @website      https://www.gityx.com
-// @updateURL    https://g8hh.com/zh/tampermonkey/torn-chs.user.js
-// @downloadURL    https://g8hh.com/zh/tampermonkey/torn-chs.user.js
+// @updateURL    https://g8hh.com.cn/zh/tampermonkey/torn-chs.user.js
+// @downloadURL    https://g8hh.com.cn/zh/tampermonkey/torn-chs.user.js
 // ==/UserScript==
 /**
  * ---------------------------
@@ -1229,8 +1229,7 @@ var cnExcludeWhole = [
     /^([\d\.]+)e([\d\.,]+)x$/,
     /^[\u4E00-\u9FA5]+$/
 ];
-var cnExcludePostfix = [
-]
+var cnExcludePostfix = []
 
 //正则替换，带数���的固定格式句子
 //纯数字：(\d+)
@@ -1275,11 +1274,11 @@ var cnRegReplace = new Map([
     [/^Gain ([\d\.,]+) endurance upon completion$/, '完成时获得 $1 耐力'],
     [/^Gain ([\d\.,]+) intelligence upon completion$/, '完成时获得 $1 智力'],
     [/^Gain ([\d\.,]+) manual labor upon completion$/, '完成时获得 $1 体力劳动'],
-	[/^([\d\.]+)\/sec$/, '$1\/秒'],
-	[/^([\d\.,]+)\/sec$/, '$1\/秒'],
-	[/^([\d\.,]+) OOMs\/sec$/, '$1 OOMs\/秒'],
-	[/^([\d\.]+) OOMs\/sec$/, '$1 OOMs\/秒'],
-	[/^([\d\.]+)e([\d\.,]+)\/sec$/, '$1e$2\/秒'],
+    [/^([\d\.]+)\/sec$/, '$1\/秒'],
+    [/^([\d\.,]+)\/sec$/, '$1\/秒'],
+    [/^([\d\.,]+) OOMs\/sec$/, '$1 OOMs\/秒'],
+    [/^([\d\.]+) OOMs\/sec$/, '$1 OOMs\/秒'],
+    [/^([\d\.]+)e([\d\.,]+)\/sec$/, '$1e$2\/秒'],
     [/^requires ([\d\.]+) more research points$/, '需要$1个研究点'],
     [/^([\d\.]+)e([\d\.,]+) points$/, '$1e$2 点数'],
     [/^([\d\.]+) hours, ([\d\.]+) minutes and ([\d\.]+) seconds$/, '$1 小时 $2 分钟 $2 秒'],
@@ -1312,61 +1311,55 @@ var cnRegReplace = new Map([
 ]);
 
 var CNITEM_DEBUG = 0;
-function cnItemByTag(text, itemgroup, node, textori){
-	for (let i in itemgroup){
-		if (i[0] == '.') { //匹配节点及其父节点的class
-			let current_node = node;
-			while (current_node){
-				if ( current_node.classList && current_node.classList.contains(i.substr(1)) ){
-					return itemgroup[i];
-				}
-				else if( current_node.parentElement && current_node.parentElement != document.documentElement ) {
-					current_node = current_node.parentElement;
-				}
-				else {
-					break;
-				}
-			}
-		}
-		else if (i[0] == '#'){ //匹配节点及其父节点的id
-			let current_node = node;
-			while (current_node){
-				if ( current_node.id == i.substr(1) ){
-					return itemgroup[i];
-				}
-				else if( current_node.parentElement && current_node.parentElement != document.documentElement ) {
-					current_node = current_node.parentElement;
-				}
-				else {
-					break;
-				}
-			}
-		}
-		else if (i[0] == '$'){	//执行document.querySelector
-			if (document.querySelector(i.substr(1)) != null){
-				return itemgroup[i];
-			}
-		}
-		else if (i[0] == '*'){	//搜索原始文本
-			if ( textori.includes(i.substr(1)) ){
-				return itemgroup[i];
-			}
-		}
-		// and more ...
-		else{
-			CNITEM_DEBUG && console.log({text, itemgroup, dsc:"不识别的标签" + i})
-		}
-	}
-	return null;
+
+function cnItemByTag(text, itemgroup, node, textori) {
+    for (let i in itemgroup) {
+        if (i[0] == '.') { //匹配节点及其父节点的class
+            let current_node = node;
+            while (current_node) {
+                if (current_node.classList && current_node.classList.contains(i.substr(1))) {
+                    return itemgroup[i];
+                } else if (current_node.parentElement && current_node.parentElement != document.documentElement) {
+                    current_node = current_node.parentElement;
+                } else {
+                    break;
+                }
+            }
+        } else if (i[0] == '#') { //匹配节点及其父节点的id
+            let current_node = node;
+            while (current_node) {
+                if (current_node.id == i.substr(1)) {
+                    return itemgroup[i];
+                } else if (current_node.parentElement && current_node.parentElement != document.documentElement) {
+                    current_node = current_node.parentElement;
+                } else {
+                    break;
+                }
+            }
+        } else if (i[0] == '$') { //执行document.querySelector
+            if (document.querySelector(i.substr(1)) != null) {
+                return itemgroup[i];
+            }
+        } else if (i[0] == '*') { //搜索原始文本
+            if (textori.includes(i.substr(1))) {
+                return itemgroup[i];
+            }
+        }
+        // and more ...
+        else {
+            CNITEM_DEBUG && console.log({ text, itemgroup, dsc: "不识别的标签" + i })
+        }
+    }
+    return null;
 }
 
 //2.采集新词
 //20190320@JAR  rewrite by 麦子
-var cnItem = function (text, node) {
+var cnItem = function(text, node) {
 
-    if (typeof (text) != "string")
+    if (typeof(text) != "string")
         return text;
-	let textori = text;
+    let textori = text;
     //处理前缀
     let text_prefix = "";
     for (let prefix in cnPrefix) {
@@ -1413,16 +1406,16 @@ var cnItem = function (text, node) {
     //遍历尝试匹配
     for (let i in cnItems) {
         //字典已有词汇或译文、且译文不为空，则返回译文
-        if (typeof(cnItems[i]) == "string" && (text == i || text == cnItems[i])){
-			return text_prefix + cnItems[i] + text_reg_exclude_postfix + text_postfix;
-		} else if ( typeof(cnItems[i]) == "object" && text == i ){
-			let result = cnItemByTag(i, cnItems[i], node, textori);
-			if (result != null){
-				return text_prefix + result + text_reg_exclude_postfix + text_postfix;
-			} else {
-				CNITEM_DEBUG && console.log({text:i, cnitem:cnItems[i], node});
-			}
-		} else {
+        if (typeof(cnItems[i]) == "string" && (text == i || text == cnItems[i])) {
+            return text_prefix + cnItems[i] + text_reg_exclude_postfix + text_postfix;
+        } else if (typeof(cnItems[i]) == "object" && text == i) {
+            let result = cnItemByTag(i, cnItems[i], node, textori);
+            if (result != null) {
+                return text_prefix + result + text_reg_exclude_postfix + text_postfix;
+            } else {
+                CNITEM_DEBUG && console.log({ text: i, cnitem: cnItems[i], node });
+            }
+        } else {
             // continue;
         }
     }
@@ -1443,16 +1436,16 @@ var cnItem = function (text, node) {
         //未收录则保存
         cnItems._OTHER_.push(save_text);
         cnItems._OTHER_.sort(
-            function (a, b) {
+            function(a, b) {
                 return a.localeCompare(b)
             }
         );
     }
 
     //开启生词打印
-        CNITEM_DEBUG && console.log(
-            '有需要汉化的英文：', text
-        );
+    CNITEM_DEBUG && console.log(
+        '有需要汉化的英文：', text
+    );
 
     //返回生词字串
     return text_prefix + text + text_reg_exclude_postfix + text_postfix;
@@ -1460,14 +1453,14 @@ var cnItem = function (text, node) {
 
 transTaskMgr = {
     tasks: [],
-    addTask: function (node, attr, text) {
+    addTask: function(node, attr, text) {
         this.tasks.push({
             node,
             attr,
             text
         })
     },
-    doTask: function () {
+    doTask: function() {
         let task = null;
         while (task = this.tasks.pop())
             task.node[task.attr] = task.text;
@@ -1498,7 +1491,7 @@ function TransSubTextNode(node) {
     }
 }
 
-! function () {
+! function() {
     console.log("加载汉化模块");
 
     let observer_config = {
@@ -1512,12 +1505,12 @@ function TransSubTextNode(node) {
     TransSubTextNode(targetNode);
     transTaskMgr.doTask();
     //监听页面变化并汉化动态内容
-    let observer = new MutationObserver(function (e) {
+    let observer = new MutationObserver(function(e) {
         //window.beforeTransTime = performance.now();
         observer.disconnect();
         for (let mutation of e) {
-            if (mutation.target.nodeName === "SCRIPT"|| mutation.target.nodeName === "STYLE" || mutation.target.nodeName === "TEXTAREA") continue;
-			if (mutation.target.nodeName === "#text") {
+            if (mutation.target.nodeName === "SCRIPT" || mutation.target.nodeName === "STYLE" || mutation.target.nodeName === "TEXTAREA") continue;
+            if (mutation.target.nodeName === "#text") {
                 mutation.target.textContent = cnItem(mutation.target.textContent, mutation.target);
             } else if (!mutation.target.childNodes || mutation.target.childNodes.length == 0) {
                 mutation.target.innerText = cnItem(mutation.target.innerText, mutation.target);
@@ -1528,8 +1521,8 @@ function TransSubTextNode(node) {
                         //console.log(node);
                     } else if (node.nodeName !== "SCRIPT" && node.nodeName !== "STYLE" && node.nodeName !== "TEXTAREA") {
                         if (!node.childNodes || node.childNodes.length == 0) {
-							if (node.innerText)
-								node.innerText = cnItem(node.innerText, node);
+                            if (node.innerText)
+                                node.innerText = cnItem(node.innerText, node);
                         } else {
                             TransSubTextNode(node);
                             transTaskMgr.doTask();
@@ -1543,5 +1536,5 @@ function TransSubTextNode(node) {
         //console.log("捕获到页面变化并执行汉化，耗时" + (afterTransTime - beforeTransTime) + "毫秒");
     });
     observer.observe(targetNode, observer_config);
-    window.cnItems=cnItems
+    window.cnItems = cnItems
 }();
