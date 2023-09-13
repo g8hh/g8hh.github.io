@@ -674,6 +674,34 @@
         "status": 1
     },
     {
+        "title": "打破循环",
+        "enTitle": "Delooped",
+        "date": "2023-09-11",
+        "update": "2023-09-11",
+        "version": "0.5",
+        "path": "delooped",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是一款你要阻止敌人，打破不断延伸的循环的游戏。你能跟上不断扩张的游戏循环走多远？"
+        ],
+        "zhUrl": "https://g1tyx.github.io/delooped/",
+        "customUrl": "https://delooped.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://ducdat0507.github.io/profectus_jam/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "植物树",
         "enTitle": "The Plant Tree",
         "date": "2023-09-08",
@@ -7645,7 +7673,7 @@
             "《数字树》是一款挺肝的模组树游戏。锅巴汉化的时候发现，这个树跟生命树有点像，不同时期显示的内容都不一样，汉化起来着实蛋疼​，还是那句话，发现英文随时发存档给我哈~"
         ],
         "enUrl": "https://factorxxx.github.io/Profectus/index.html",
-        "customUrl": "https://the-number-tree.g8hh.com/",
+        "customUrl": "https://the-number-tree.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/the-number-tree",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -14153,8 +14181,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2023-07-03",
-        "version": "0.6.21.1",
+        "update": "2023-09-11",
+        "version": "0.6.22",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -14170,7 +14198,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/c0v1d-modding-tree/",
         "enUrl": "https://raw.githack.com/c0v1d-9119361/The-Modding-Tree/master/",
-        "customUrl": "https://c0v1d-modding-tree.g8hh.com",
+        "customUrl": "https://c0v1d-modding-tree.g8hh.com.cn",
         "customUrlTit": "备用地址-g8hh",
         "QQ": "963150347",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
@@ -19534,9 +19562,10 @@
         "status": 1
     },
     {
-        "title": "腐朽国度",
+        "title": "王权衰退",
         "enTitle": "Realm Of Decay",
         "date": "2019-01-18",
+        "update": "2023-09-13",
         "path": "realm-of-decay",
         "type": [
             "已汉化",
@@ -19550,11 +19579,18 @@
         "content": [
             "这是一个角色扮演游戏，让你升级你的技能，购买新的装备，等等。"
         ],
-        "zhUrl": "https://yx.g8hh.com/realm-of-decay",
-        "enUrl": "http://psychemaster.github.io/RealmOfDecay/",
+        "zhUrl": "https://gityxs.github.io/realm-of-decay/",
+        "customUrl": "https://realm-of-decay.g8hh.com.cn/",
+        "customUrlTit": "汉化版-g8hh",
+        "customUrl2": "http://psychemaster.github.io/RealmOfDecay/",
+        "customUrlTit2": "旧英文版",
+        "enUrl": "https://psychemaster.github.io/realm-ng/",
         "pic": [
             1,
-            2
+            2,
+            3,
+            4,
+            5
         ],
         "status": 1
     },
