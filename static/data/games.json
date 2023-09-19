@@ -674,6 +674,34 @@
         "status": 1
     },
     {
+        "title": "进度条放置",
+        "enTitle": "Progress Bar: The Game",
+        "date": "2023-09-19",
+        "update": "2023-09-19",
+        "version": "",
+        "path": "progress-bar-the-game",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这这是一款关于进度条的增量游戏，内容比较简单，玩着可能会比较无聊，唯一追求可能是达成那么多的成就​。"
+        ],
+        "zhUrl": "https://gityxs.github.io/progress-bar-the-game/",
+        "customUrl": "https://progress-bar-the-game.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://thetastypi.github.io/Progress-Bar-The-Game/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "打破循环",
         "enTitle": "Delooped",
         "date": "2023-09-11",
@@ -1890,8 +1918,8 @@
         "title": "激燃太空",
         "enTitle": "The Ignited Space",
         "date": "2023-06-07",
-        "update": "2023-09-06",
-        "version": "0.2.8a",
+        "update": "2023-09-18",
+        "version": "0.2.9a",
         "path": "the-ignited-space",
         "type": [
             "已汉化",
