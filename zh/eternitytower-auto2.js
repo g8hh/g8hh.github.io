@@ -10,19 +10,19 @@
 ! function () {
     var content = '';
     content += '<!-- 脚本动态内容 开始 -->';
-    content += '<style>.main-im{position:fixed;right:10px;bottom:50px;line-height:normal;z-index:9999}.main-im .qq-a{display:block;width:106px;height:116px;font-size:14px;color:#0484cd !important;text-align:center;position:relative;}.main-im .qq-a span{bottom:5px;position:absolute;width:90px;left:10px;}.main-im .qq-hover-c{width:70px;height:70px;border-radius:35px;position:absolute;left:18px;top:10px;overflow:hidden;z-index:9;}.main-im .qq-container{z-index:99;position:absolute;width:109px;height:118px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom:1px solid #dddddd;background-image:url("//g8hh.com.cn/static/images/kf/qq-icon-bg.png");background-position:center 8px;background-repeat:no-repeat;}.main-im .img-qq{max-width:60px;display:block;position:absolute;left:6px;top:3px;-webkit-transition:all 0.5s;-o-transition:all 0.5s;transition:all 0.5s;}.main-im .im-qq:hover .img-qq{max-width:70px;left:1px;top:8px;position:absolute;color:#ff0000 !important;}.main-im .im_main{background-color:#F9FAFB !important;border:1px solid #dddddd;border-radius:10px;background-color:#F9FAFB !important;display:none;z-index:999;}.main-im .im_main .im-tel{color:#000000 !important;text-align:center;width:109px;height:105px;border-bottom:1px solid #dddddd;}.main-im .im_main .im-tel div{font-weight:bold;font-size:12px;margin-top:6px;}.main-im .im_main .im-tel .tel-num{font-family:Arial;font-weight:bold;}.main-im .im_main .im-tel .tel-num a{color:#e66d15 !important;}.main-im .im_main .im-tel:hover{background-color:#fafafa !important;}.main-im .im_main .weixing-container{width:55px;height:47px;border-right:1px solid #dddddd;background-color:#f5f5f5 !important;border-bottom-left-radius:10px;background-image:url("//g8hh.com.cn/static/images/kf/weixing-icon.png");background-position:center;background-repeat:no-repeat;float:left;}.main-im .im_main .weixing-show{width:670px;height:400px;background-color:#ffffff;border-radius:10px;border:1px solid #dddddd;position:absolute;left:-680px;top:-354px;overflow-y:auto;}.main-im .im_main .weixing-show .weixing-sanjiao{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #ffffff;border-width:6px;left:112px;top:134px;position:absolute;z-index:2;}.main-im .im_main .weixing-show .weixing-sanjiao-big{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #dddddd;border-width:8px;left:112px;top:132px;position:absolute;}.main-im .im_main .weixing-show .weixing-ma{width:104px;height:103px;padding-left:5px;padding-top:5px;}.main-im .im_main .weixing-show .weixing-txt{position:absolute;top:110px;left:7px;width:100px;margin:0 auto;text-align:center;color:#000 !important;}.main-im .im_main .weixing-show .weixing-txt a,.main-im .im_main .weixing-show .weixing-txt a:hover,.main-im .im_main .im-tel .tel-num a:hover{color:#ff0000 !important;}.main-im .im_main .go-top{width:50px;height:47px;background-color:#f5f5f5;border-bottom-right-radius:10px;background-image:url("//g8hh.com.cn/static/images/kf/totop-icon.png");float:right;background-position:center center;background-repeat:no-repeat;}.main-im .im_main .go-top a{display:block;width:52px;height:47px;}.main-im .close-im{position:absolute;right:10px;top:-12px;z-index:100;width:24px;height:24px;}.main-im .close-im a{display:block;width:24px;height:24px;background-image:url("//g8hh.com.cn/static/images/kf/close_im.png") !important;text-decoration:none;background-position:left top;background-repeat:no-repeat;}.main-im .close-im a:hover{text-decoration:none;}.main-im .open-im{cursor:pointer;margin-left:68px;width:30px;height:30px;background-image:url("//g8hh.com.cn/static/images/kf/open_im.png");background-repeat:no-repeat;background-position:left top;cursor:pointer;background-size:100%;z-index:100;position:fixed;right:10px;bottom:320px;}@media screen and (max-width:480px){.main-im{display:none;}}.JB-form{padding:10px;}.JB-form *{margin:5px;font-size:13px;}.JB-form .tit{font-weight:bold;}.JB-form input{width:100px;height:30px;line-height:30px;text-align:center;}.JB-form input#minTime,.JB-form input#famingTime{width:50px;}.JB-form button{width:50px;height:30px;}#nofood,#noseed,#noSkill{opacity:0;color:red;}#nofood.show,#noseed.show,#noSkill.show{opacity:1;}.JB-form input[type=checkbox]{width:auto;vertical-align: middle;}.JB-form label{user-select: none;margin-left:0;}</style>';
+    content += '<style>.main-im{position:fixed;right:10px;bottom:50px;line-height:normal;z-index:9999}.main-im .qq-a{display:block;width:106px;height:116px;font-size:14px;color:#0484cd !important;text-align:center;position:relative;}.main-im .qq-a span{bottom:5px;position:absolute;width:90px;left:10px;}.main-im .qq-hover-c{width:70px;height:70px;border-radius:35px;position:absolute;left:18px;top:10px;overflow:hidden;z-index:9;}.main-im .qq-container{z-index:99;position:absolute;width:109px;height:118px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom:1px solid #dddddd;background-image:url("//g8hh.com.cn/static/images/kf/qq-icon-bg.png");background-position:center 8px;background-repeat:no-repeat;}.main-im .img-qq{max-width:60px;display:block;position:absolute;left:6px;top:3px;-webkit-transition:all 0.5s;-o-transition:all 0.5s;transition:all 0.5s;}.main-im .im-qq:hover .img-qq{max-width:70px;left:1px;top:8px;position:absolute;color:#ff0000 !important;}.main-im .im_main{background-color:#F9FAFB !important;border:1px solid #dddddd;border-radius:10px;background-color:#F9FAFB !important;display:none;z-index:999;}.main-im .im_main .im-tel{color:#000000 !important;text-align:center;width:109px;height:105px;border-bottom:1px solid #dddddd;}.main-im .im_main .im-tel div{font-weight:bold;font-size:12px;margin-top:6px;}.main-im .im_main .im-tel .tel-num{font-family:Arial;font-weight:bold;}.main-im .im_main .im-tel .tel-num a{color:#e66d15 !important;}.main-im .im_main .im-tel:hover{background-color:#fafafa !important;}.main-im .im_main .weixing-container{width:55px;height:47px;border-right:1px solid #dddddd;background-color:#f5f5f5 !important;border-bottom-left-radius:10px;background-image:url("//g8hh.com.cn/static/images/kf/weixing-icon.png");background-position:center;background-repeat:no-repeat;float:left;}.main-im .im_main .weixing-show{width:670px;height:400px;background-color:#ffffff;border-radius:10px;border:1px solid #dddddd;position:absolute;left:-680px;top:-354px;overflow-y:auto;}.main-im .im_main .weixing-show .weixing-sanjiao{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #ffffff;border-width:6px;left:112px;top:134px;position:absolute;z-index:2;}.main-im .im_main .weixing-show .weixing-sanjiao-big{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #dddddd;border-width:8px;left:112px;top:132px;position:absolute;}.main-im .im_main .weixing-show .weixing-ma{width:104px;height:103px;padding-left:5px;padding-top:5px;}.main-im .im_main .weixing-show .weixing-txt{position:absolute;top:110px;left:7px;width:100px;margin:0 auto;text-align:center;color:#000 !important;}.main-im .im_main .weixing-show .weixing-txt a,.main-im .im_main .weixing-show .weixing-txt a:hover,.main-im .im_main .im-tel .tel-num a:hover{color:#ff0000 !important;}.main-im .im_main .go-top{width:50px;height:47px;background-color:#f5f5f5;border-bottom-right-radius:10px;background-image:url("//g8hh.com.cn/static/images/kf/totop-icon.png");float:right;background-position:center center;background-repeat:no-repeat;}.main-im .im_main .go-top a{display:block;width:52px;height:47px;}.main-im .close-im{position:absolute;right:10px;top:-12px;z-index:100;width:24px;height:24px;}.main-im .close-im a{display:block;width:24px;height:24px;background-image:url("//g8hh.com.cn/static/images/kf/close_im.png") !important;text-decoration:none;background-position:left top;background-repeat:no-repeat;}.main-im .close-im a:hover{text-decoration:none;}.main-im .open-im{cursor:pointer;margin-left:68px;width:30px;height:30px;background-image:url("//g8hh.com.cn/static/images/kf/open_im.png");background-repeat:no-repeat;background-position:left top;cursor:pointer;background-size:100%;z-index:100;position:fixed;right:10px;bottom:320px;}@media screen and (max-width:480px){.main-im{display:none;}}.JB-form{padding:10px;color:#000;}.JB-form *{margin:5px;font-size:13px;}.JB-form .tit{font-weight:bold;}.JB-form input{width:100px;height:30px;line-height:30px;text-align:center;}.JB-form input#minTime,.JB-form input#famingTime{width:50px;}.JB-form button{width:50px;height:30px;}#nofood,#noseed,#noSkill{opacity:0;color:red;}#nofood.show,#noseed.show,#noSkill.show{opacity:1;}.JB-form input[type=checkbox]{width:auto;vertical-align: middle;}.JB-form label{user-select: none;margin-left:0;}</style>';
     content += '<div class="main-im">';
     content += '<div id="open_im" class="open-im">&nbsp;</div>  ';
     content += '<div class="im_main" id="im_main">';
     content += '<div id="close_im" class="close-im"><a href="javascript:void(0);" title="点击关闭">&nbsp;</a></div>';
-    content += '<a href="http://shang.qq.com/wpa/qunwpa?idkey=4f30bee18d8ea6ec2b53d31407daf6c6f9f8e722187707f65ed1b354f25af6d9" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏游戏交流群:627141737">';
+    content += '<a href="https://qm.qq.com/cgi-bin/qm/qr?k=g-yVu_Uf_rCUbHOVbLHy-ko0G7nJl1nI&jump_from=webapi" target="_blank" class="im-qq qq-a" title="点击加入 - 永恒之塔交流群:867979275">';
     content += '<div class="qq-container"></div>';
     content += '<div class="qq-hover-c"><img class="img-qq" src="//g8hh.com.cn/static/images/kf/qq.png"></div>';
     content += '<span>点击加群</span>';
     content += '</a>';
     content += '<div class="im-tel">';
     content += '<div>QQ群号:</div>';
-    content += '<div class="tel-num">701342586</div>';
+    content += '<div class="tel-num">867979275</div>';
     content += '<div>更多同类游戏:</div>';
     content += '<div class="tel-num"><a href="http://www.gityx.com" target="_blank" title="我们有域名啦~">Git游戏</a><a href="https://gityx.com/notify/447.html" target="_blank" style="margin-left:5px;" title="点击查看游戏攻略">论坛</a><a href="https://g8hh.com.cn" target="_blank" style="margin-left:5px;" title="锅巴汉化">锅巴汉化</a></div>';
     content += '</div>';
@@ -156,7 +156,16 @@
     content += '<button id="stopTi" type="danger" disabled>停止</button>';
     content += '</div>';
     //组队战斗-结束
-
+    //冒险（AFK）-开始
+    content += '<div class="JB-form">';
+    content += '<div class="tit">冒险（AFK）</div>';
+    content += '自动添加冒险到队列里';
+    content += '<button id="startAFK" type="primary" >启动</button>';
+    content += '<button id="stopAFK" type="danger" disabled>停止</button>';
+    content += '<br/>';
+    content += '每60秒检测一次，自动收集已完成的冒险；按冒险时长（从短到长）自动添加冒险到队列。';
+    content += '</div>';
+    //冒险（AFK）-结束
     //挖矿-开始
     content += '<div class="JB-form">';
     content += '<div class="tit">挖矿（优先挖宝石，然后挖选择的，如果两者都没有，则挖其它矿）</div>';
@@ -185,6 +194,7 @@
     content += '<option value="copper">铜</option>';
     content += '<option value="bronze">青铜</option>';
     content += '<option value="tin">锡</option>';
+    content += '<option value="iron">铁</option>';
     content += '<option value="gold">黄金</option>';
     content += '<option value="steel">钢</option>';
     content += '<option value="carbon">碳</option>';
@@ -655,7 +665,7 @@
             var ok = getElementByAttr('img', 'src', p, 'svg');
             var empty = getElementByAttr('img', 'src', 'emptyFarmSpace', 'svg');
             //判断是否成熟
-            if ($('.progress-bar').length > 0) {
+            if ($('.progress-bar').length > 5) {
                 //未成熟，不执行操作
                 console.log('植物还没成熟呢，再等等~ ' + nowTime())
                 return;
@@ -904,6 +914,71 @@
 
     });
 
+    //冒险（AFK）-开始战斗
+    //自动切换最高层、自动放技能
+    var autoAFK;
+    $("#startAFK").click(function () {
+        //获取自己信息
+        lead();
+        autoAFK = setInterval(afkFight, 60000);
+        $(this).attr("disabled", true);
+        $("#startSoloUp").attr("disabled", true);
+        $("#stopSoloUp").attr("disabled", true);
+        $("#startSolo").attr("disabled", true);
+        $("#stopSolo").attr("disabled", true);
+        $("#stopGroupFight").attr("disabled", true);
+        $("#startAFK").attr("disabled", true);
+        $("#stopAFK").attr("disabled", false);
+    });
+    //冒险（AFK）-停止战斗
+    $("#stopAFK").click(function () {
+        clearInterval(autoAFK);
+        $(this).attr("disabled", true);
+        $("#startGroupFight").attr("disabled", false);
+        $("#startSoloUp").attr("disabled", false);
+        $("#stopSoloUp").attr("disabled", true);
+        $("#startSolo").attr("disabled", false);
+        $("#stopSolo").attr("disabled", true);
+        $("#startAFK").attr("disabled", false);
+        $("#stopAFK").attr("disabled", true);
+
+    });
+
+    //冒险（AFK）--自动收集奖励、添加冒险任务到队列
+    function afkFight() {
+        // 进入战斗界面
+        $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
+        //已完成的任务，先收集奖励
+        if ($('.collect-adventure-btn.btn-success').length > 0) {
+            //收集已完成任务奖励
+            $('.collect-adventure-btn.btn-success').trigger('click');
+        }
+        // 按冒险时间长短，依次加入队列
+        var block0 = $(document).find('.d-flex.flex-row.flex-wrap').eq(0).find('.adventure-item-container');
+        var block1 = $(document).find('.d-flex.flex-row.flex-wrap').eq(1).find('.adventure-item-container');
+        var block2 = $(document).find('.d-flex.flex-row.flex-wrap').eq(2).find('.adventure-item-container');
+        var block3 = $(document).find('.d-flex.flex-row.flex-wrap').eq(3).find('.adventure-item-container');
+        // 判断队列里面冒险数量，如果超过1个，则不执行，防止时间长的冒险堵塞队列
+        if (block0.length < 1) {
+            if (block1.length > 0) {
+                //默认全部加到队列
+                // block1.find('.start-adventure-btn').trigger("click");
+                //默认只加第一个冒险到队列
+                $(document).find('.d-flex.flex-row.flex-wrap').eq(1).first('.adventure-item-container').find('.start-adventure-btn').trigger("click");
+            } else if (block2.length > 0) {
+                //默认全部加到队列
+                // block2.find('.start-adventure-btn').trigger("click");
+                //默认只加第一个冒险到队列
+                $(document).find('.d-flex.flex-row.flex-wrap').eq(2).first('.adventure-item-container').find('.start-adventure-btn').trigger("click");
+            } else if (block3.length > 0) {
+                //默认全部加到队列
+                // block3.find('.start-adventure-btn').trigger("click");
+                //默认只加第一个冒险到队列
+                $(document).find('.d-flex.flex-row.flex-wrap').eq(3).first('.adventure-item-container').find('.start-adventure-btn').trigger("click");
+                return
+            }
+        }
+    }
     //组队打怪
     function groupFight() {
         //本次战斗未完成，继续战斗
