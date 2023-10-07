@@ -351,7 +351,7 @@
         "title": "梦幻阁 - 梦幻题材文字放置类上班摸鱼游戏",
         "enTitle": "",
         "date": "2023-03-09",
-        "update": "2023-09-02",
+        "update": "2023-09-24",
         "version": "",
         "path": "mhg",
         "type": [
@@ -510,13 +510,13 @@
             9
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "迷你梦幻，怀旧多人在线游戏",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2023-07-22",
+        "update": "2023-09-24",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -548,7 +548,7 @@
         "title": "迷你传奇，是兄弟就来被我砍",
         "enTitle": "",
         "date": "2022-06-14",
-        "update": "2023-07-22",
+        "update": "2023-09-24",
         "version": "",
         "path": "mini-cq",
         "type": [
@@ -583,7 +583,7 @@
         "title": "三国传奇，耐玩挂机电脑游戏",
         "enTitle": "",
         "date": "2022-08-19",
-        "update": "2023-07-22",
+        "update": "2023-09-25",
         "version": "",
         "path": "sgcq",
         "type": [
@@ -617,7 +617,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2023-09-03",
+        "update": "2023-09-24",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -671,6 +671,63 @@
             8
         ],
         "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "流放之路网页放置",
+        "enTitle": "IDLE POE",
+        "date": "2023-10-07",
+        "update": "2023-10-07",
+        "version": "",
+        "path": "idle-poe",
+        "type": [
+            "原创",
+            "放置",
+            "文字",
+            "战斗",
+            "RPG"
+        ],
+        "content": [
+            "《流放之路》的网页放置版本，作者还在开发中，可能存在Bug、数值不平衡等问题，不要慌，先玩着，凡事都有一个过程嘛！​"
+        ],
+        "customUrl2": "https://poe.faith.wang",
+        "customUrlTit2": "国内地址",
+        "customUrl3": "https://www.idlepoe.com",
+        "customUrlTit3": "全球地址",
+        "QQ": "527522222",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "摸鱼点击器",
+        "enTitle": "Trump Clicker",
+        "date": "2023-09-25",
+        "update": "2023-09-25",
+        "version": "",
+        "path": "trump-clicker",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "摸鱼人，摸鱼魂，不摸鱼不是好的打工人。上班是给老板挣钱，摸鱼才是给自己挣钱。"
+        ],
+        "zhUrl": "https://gityxs.github.io/trump-clicker/",
+        "customUrl": "https://trump-clicker.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://lagged.com/en/g/trump-clicker",
+        "pic": [
+            1,
+            2,
+            3
+        ],
         "status": 1
     },
     {
@@ -19119,6 +19176,7 @@
         "title": "挂机无止境",
         "enTitle": "Idle Infinity",
         "date": "2019-04-12",
+        "update": "2023-10-07",
         "path": "idle-infinity",
         "type": [
             "放置",

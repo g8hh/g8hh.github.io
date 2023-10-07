@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         《永恒之塔》自动化脚本
 // @namespace    https://www.gityx.com/
-// @version      0.0.26
+// @version      0.0.26.1
 // @description  Eternity Tower (https://eternitytower.net/) 游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://eternitytower.net/*
@@ -24,6 +24,8 @@
  * 0.0.2x
  * ·种地：自动复核是否有空地，以免浪费一轮时间；
  * ·种地：自定义种子没了的情况下，应该要自动种其它种子；
+ * 0.0.27
+ * ·制作：自动制作铜短剑；
  * 0.0.26
  * ·种地：页面停留时间从12秒加到20秒，防止时间短了没种完地；
  * 0.0.25
@@ -365,8 +367,8 @@
     //种地-结束
     //制作-开始
     content += '<div class="JB-form">';
-    content += '<div class="tit">自动种地</div>';
-    content += '定时自动种植 <select id="craftItem">';
+    content += '<div class="tit">自动制作</div>';
+    content += '定时自动制作 <select id="craftItem">';
     content += '<option value="copper_short_sword">铜短剑-需要制作3级-耗时2分钟</option>';
 
     content += '</select>';
@@ -374,7 +376,7 @@
     content += ' 需要 <input id="craftTime" type="text" value="2" placeholder="" disabled/> 分钟；';
     content += '<button id="startCraft" type="primary" >启动</button>';
     content += '<button id="stopCraft" type="danger" disabled>停止</button>';
-    content += '<div id="noseed">你的可制作次数不足！</div>';
+    content += '<div id="noItem">你的可制作次数不足！</div>';
     content += '</div>';
     //制作-结束
 
@@ -754,6 +756,98 @@
             $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
         }, 20000);
     }
+
+    var autoCrafting;
+    //启动制作
+    $("#startCraft").click(function () {
+        //自动切换到制作界面
+        $('.navbar-nav .nav-item:nth-child(4) a').trigger('click');
+        // 切换到制作战斗物品界面
+        $(document).find('.nav-tabs').eq(1).find('.nav-item:nth-child(5) a').trigger('click');
+        // 判断制作队列是否是满的
+        var now = $('.p-1.mx-1').length;
+        var img = $('.p-1.mx-1 ~ img').length;
+        // 判断队列未满
+        if(now > 0 && img < 3){
+        // 如果是不是满的，点击短剑的“全部制作”
+            var item = $('#craftItem').val();
+            $(document).find('.recipe-container[data-recipe="'+ item +'"] .recipe-tooltip').css('opacity', 1);
+            $(document).find('.recipe-container[data-recipe="'+ item +'"] .quick-craft').trigger('click');
+        }else{
+            return
+        }
+
+        var p = $('#craftItem').val();
+        var ok = getElementByAttr('img', 'src', p, 'svg');
+        //判断有无种子
+        if (ok.length == 0) {
+            //没有种子
+            $('#noseed').addClass('show');
+            return;
+        } else {
+            $('#noseed').removeClass('show');
+            var gTime = parseInt($('#famingTime').val());
+            //先执行一次
+            farming();
+            //延后3秒
+            gTime = ((gTime * 60) + 30) * 1000;
+            autoCrafting = setInterval(crafting, gTime);
+            $(this).attr("disabled", true);
+            $("#stopCraft").attr("disabled", false);
+        }
+
+    });
+
+    //停止种地
+    $("#stopCraft").click(function () {
+        clearInterval(autoCrafting);
+        $(this).attr("disabled", true);
+        $("#startCraft").attr("disabled", false);
+    });
+
+    //自动制作
+    function crafting() {
+        //自动切换到种地界面
+        $('.navbar-nav .nav-item:nth-child(5) a').trigger('click');
+        //延时3秒执行操作，避免页面未加载完
+        setTimeout(function () {
+            // 点第一个tab，防止当前界面非地块
+            $('.nav-tabs .nav-item:nth-child(1) a').trigger('click');
+            var p = $('#craftItem').val();
+            var ok = getElementByAttr('img', 'src', p, 'svg');
+            var empty = getElementByAttr('img', 'src', 'emptyFarmSpace', 'svg');
+            //有空地时执行种地
+            //成熟时执行收获
+            $('.collect-plants').trigger("click");
+            console.log('植物成熟了，割割割~ ' + nowTime());
+            //种地
+            setTimeout(function () {
+                // 判断当前有几块地可以种植
+                var di = $('.farm-space-container.inactive').length
+                var v = 5;
+                // 如果花宝石解锁额外两块，多循环两次
+                if (di < 1) {
+                    v = 7
+                }
+                for (var i = 0; i <= v; i++) {
+                    setTimeout(function () {
+                        ok[0].click();
+                        // 如果是手机，还需要再点一次
+                        if($(window).width() < 1000){
+                            ok[i].click();
+                        }
+                    }, 500);
+                    console.log('种地~ ' + nowTime())
+                }
+            }, 1500);
+
+        }, 3000);
+        //切换回战斗界面
+        setTimeout(function () {
+            $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
+        }, 20000);
+    }
+    // 自动制作结束
 
     var autoMing;
     //启动挖矿
