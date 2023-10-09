@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         《永恒之塔》自动化脚本
 // @namespace    https://www.gityx.com/
-// @version      0.0.26
+// @version      0.0.28.1
 // @description  Eternity Tower (https://eternitytower.net/) 游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://eternitytower.net/*
@@ -24,6 +24,14 @@
  * 0.0.2x
  * ·种地：自动复核是否有空地，以免浪费一轮时间；
  * ·种地：自定义种子没了的情况下，应该要自动种其它种子；
+ * 0.0.28
+ * ·种地：收获时间改为自定义，不再根据种子生长时间设定，防止时间冲突浪费一轮。
+ * 0.0.27.14
+ * ·切战斗界面：加上判断，如果没启用战斗，就不跳转战斗界面
+ * 0.0.27.7
+ * ·无人值守模式：加个按钮，当你要睡觉、出门的时候自己启动。防止多开标签页的情况下所有页面都默认启动脚本了。
+ * 0.0.27.6
+ * ·自动记录配置：由于作者经常半夜重启服务器，影响咱们通宵挂机，特加上记录配置的功能，页面刷新时自动加载你上次的设置，避免影响挂机进度。
  * 0.0.26
  * ·种地：页面停留时间从12秒加到20秒，防止时间短了没种完地；
  * 0.0.25
@@ -67,6 +75,14 @@
     content += '<div class="im-footer" style="position:relative">';
     content += '<div class="weixing-container">';
     content += '<div class="weixing-show">';
+    //无人值守-开始
+    content += '<div class="JB-form">';
+    content += '<div class="tit">无人值守模式（适合睡觉、出门时启用挂机，当服务器更新时，实现自动重启脚本）</div>';
+    content += '* 首次使用需配置好需要的各项条件，然后手动点击其后面的“启动”按钮一次，完成后再启动这个 →';
+    content += '<button id="nobodyStart" type="primary" >启动</button>';
+    content += '<button id="nobodyStop" type="danger" disabled>停止</button>';
+    content += '</div>';
+    //无人值守-结束
     //吃食物-开始
     content += '<div class="JB-form">';
     content += '<div class="tit">吃食物（必须在战斗界面启用；包里没有的食物不要选） - 《<a href="https://shimo.im/sheets/ypTrXqgyP6Cg3vDg/forrm/" target="_blank">攻略</a>》</div>';
@@ -357,26 +373,13 @@
 
     content += '</select>';
     content += '<br/>';
-    content += ' 需要 <input id="famingTime" type="text" value="17" placeholder="" disabled/> 分钟；';
+    content += ' 生长需要 <input id="famingTime" type="text" value="17" placeholder="" disabled/> 分钟；';
+    content += ' 每隔 <input id="myFamingTime" type="text" value="2" placeholder=""/> 分钟自动检测一次成熟；';
     content += '<button id="startFarming" type="primary" >启动</button>';
     content += '<button id="stopFarming" type="danger" disabled>停止</button>';
     content += '<div id="noseed">你没有这种植物种子，去商店买一些吧~</div>';
     content += '</div>';
     //种地-结束
-    //制作-开始
-    content += '<div class="JB-form">';
-    content += '<div class="tit">自动种地</div>';
-    content += '定时自动种植 <select id="craftItem">';
-    content += '<option value="copper_short_sword">铜短剑-需要制作3级-耗时2分钟</option>';
-
-    content += '</select>';
-    content += '<br/>';
-    content += ' 需要 <input id="craftTime" type="text" value="2" placeholder="" disabled/> 分钟；';
-    content += '<button id="startCraft" type="primary" >启动</button>';
-    content += '<button id="stopCraft" type="danger" disabled>停止</button>';
-    content += '<div id="noseed">你的可制作次数不足！</div>';
-    content += '</div>';
-    //制作-结束
 
     content += '</div>';
     content += '</div>';
@@ -416,6 +419,129 @@
         var my_seconds = d.getSeconds();
         return my_hours + ":" + my_minutes + ":" + my_seconds
     }
+    // 初始化时自动启用上次的脚本配置
+    setTimeout(function () {
+        // 自动攻击右边敌人
+        if (localStorage.getItem('autoFill') == 'true') {
+            $('#nobodyStart').trigger('click');
+        }
+    }, 5000);
+    // 1分钟检测一次页面是否刷新过
+    var autoFill;
+    //启动无人值守模式
+    var autoSoloUpFight;
+    $("#nobodyStart").click(function () {
+        autoFill = setInterval(autoLoad, 10000)
+        localStorage.setItem('autoFill', true);
+        $(this).attr("disabled", true);
+        $("#nobodyStop").attr("disabled", false);
+    });
+
+    //停止无人值守模式
+    $("#nobodyStop").click(function () {
+        clearInterval(autoFill);
+        localStorage.setItem('autoFill', false);
+        $("#nobodyStart").attr("disabled", false);
+        $("#nobodyStop").attr("disabled", true);
+    });
+
+    function autoLoad() {
+        var username = $('#username').val();
+        if (username == '') {
+            // 如果用户名为空，先尝试从本地读取
+            if (localStorage.getItem('username')) {
+                username = localStorage.getItem('username');
+                //   从本地存储里面取出用户名，填入文本框
+                $('#username').val(username)
+            }
+            // 自动回血
+            if (localStorage.getItem('autoEate') == 'true') {
+                //   从本地存储里面取出时间间隔，填入文本框
+                var minHP = parseInt(localStorage.getItem('minHP'));
+                $('#minHP').val(minHP)
+                var Food1 = localStorage.getItem('Food1');
+                $('#Food1').val(Food1)
+                $('#startEatFood').trigger('click');
+            }
+            // 自动回能量
+            if (localStorage.getItem('autoEateEnergy') == 'true') {
+                //   从本地存储里面取出时间间隔，填入文本框
+                var minEnergy = parseInt(localStorage.getItem('minEnergy'));
+                $('#minEnergy').val(minEnergy)
+                var Food2 = localStorage.getItem('Food2');
+                $('#Food2').val(Food2)
+                $('#startEatEnergyFood').trigger('click');
+            }
+            // 自动放技能
+            if (localStorage.getItem('autoSkill') == 'true') {
+                $('#startSkill').trigger('click');
+            }
+            // 自动攻击右边敌人
+            if (localStorage.getItem('attLeft') == 'true') {
+                $('#attLeft').trigger('click');
+            }
+            // 如果用户在组队战斗，则继续战斗
+            if (localStorage.getItem('groupBattle') == 'true') {
+                //   从本地存储里面取出时间间隔，填入文本框
+                var fightTime = parseInt(localStorage.getItem('fightTime'));
+                $('#fightTime').val(fightTime)
+                $('#startGroupFight').trigger('click');
+            }
+            // 如果用户在组队战斗时选了自动踢人，则继续战斗
+            if (localStorage.getItem('groupTiRen') == 'true') {
+                if ($('.me').parent().parent().find('.justify-content-center img.mr-1').length == 1) {
+                    $('#startTi').trigger('click');
+                }
+            }
+            // 如果用户在AFK战斗，则继续战斗
+            if (localStorage.getItem('afkBattle') == 'true') {
+                $('#startAFK').trigger('click');
+            }
+            // 如果用户在solo固定战斗，则继续战斗
+            if (localStorage.getItem('soloBattle') == 'true') {
+                //   从本地存储里面取出时间间隔，填入文本框
+                var fightMinHP = parseInt(localStorage.getItem('fightMinHP'));
+                $('#fightMinHP').val(fightMinHP);
+                var fightMinEnergy = parseInt(localStorage.getItem('fightMinEnergy'));
+                $('#fightMinEnergy').val(fightMinEnergy);
+                $('#startSolo').trigger('click');
+            }
+            // 如果用户在solo爬楼战斗，则继续战斗
+            if (localStorage.getItem('soloUpBattle') == 'true') {
+                var fightMinHP = parseInt(localStorage.getItem('fightMinHP'));
+                $('#fightMinHP').val(fightMinHP);
+                var fightMinEnergy = parseInt(localStorage.getItem('fightMinEnergy'));
+                $('#fightMinEnergy').val(fightMinEnergy);
+                $('#startSoloUp').trigger('click');
+            }
+            // 自动采矿
+            if (localStorage.getItem('autoMing') == 'true') {
+                //   从本地存储里面取出时间间隔，填入文本框
+                var minTime = parseInt(localStorage.getItem('minTime'));
+                $('#minTime').val(minTime)
+                var MingType = localStorage.getItem('MingType');
+                $('#MingType').val(MingType)
+                var MingEnergy = parseInt(localStorage.getItem('MingEnergy'));
+                $('#MingEnergy').val(MingEnergy)
+                $('.navbar-nav .nav-item:nth-child(3) a').trigger('click');
+                $('#startMing').trigger('click');
+            }
+            // 自动种地
+            if (localStorage.getItem('autoFarm') == 'true') {
+                //   从本地存储里面取出时间间隔，填入文本框
+                var FoodSeed = localStorage.getItem('FoodSeed');
+                $('#FoodSeed').val(FoodSeed)
+                var myFamingTime = parseInt(localStorage.getItem('myFamingTime'));
+                $('#myFamingTime').val(myFamingTime)
+                $('.navbar-nav .nav-item:nth-child(5) a').trigger('click');
+                $('#startFarming').trigger('click');
+                setTimeout(function () {
+                    $('#startFarming').trigger('click');
+                }, 3000);
+            }
+        }
+    }
+
     //获取种植的植物
     var growTime = 1;
     $('#FoodSeed').change(function () {
@@ -590,6 +716,8 @@
     //    var bb;
     //启用放技能
     $('#startSkill').click(function () {
+        // 标识开始自动放技能
+        localStorage.setItem('autoSkill', true);
         c1 = $('#check1').is(':checked');
         c2 = $('#check2').is(':checked');
         c3 = $('#check3').is(':checked');
@@ -613,6 +741,8 @@
 
     //停止放技能
     $('#stopSkill').click(function () {
+        // 标识停止自动放技能
+        localStorage.setItem('autoSkill', false);
         clearInterval(autoSkill);
         $(this).attr("disabled", true);
         $("#startSkill").attr("disabled", false);
@@ -630,11 +760,15 @@
     //优先打最右边的怪，防止召唤小弟
     var attObj = 0;
     $('#attLeft').click(function () {
+        // 标识开始攻击右边敌人
+        localStorage.setItem('attLeft', true);
         attObj = 1;
         $(this).attr("disabled", true);
         $("#attRight").attr("disabled", false);
     });
     $('#attRight').click(function () {
+        // 标识停止攻击右边敌人
+        localStorage.setItem('attLeft', false);
         attObj = 0;
         $(this).attr("disabled", true);
         $("#attLeft").attr("disabled", false);
@@ -685,6 +819,13 @@
         //自动切换到种地界面
         $('.navbar-nav .nav-item:nth-child(5) a').trigger('click');
         var p = $('#FoodSeed').val();
+        // 标识种植的种子
+        localStorage.setItem('FoodSeed', p);
+        // 标识启动种植
+        localStorage.setItem('autoFarm', true);
+        // 标识检测成熟的间隔
+        var myFamingTime = $('#myFamingTime').val();
+        localStorage.setItem('myFamingTime', myFamingTime);
         var ok = getElementByAttr('img', 'src', p, 'svg');
         //判断有无种子
         if (ok.length == 0) {
@@ -693,11 +834,13 @@
             return;
         } else {
             $('#noseed').removeClass('show');
-            var gTime = parseInt($('#famingTime').val());
+            // var gTime = parseInt($('#famingTime').val());
+            var gTime = parseInt($('#myFamingTime').val());
             //先执行一次
             farming();
             //延后3秒
-            gTime = ((gTime * 60) + 30) * 1000;
+            // gTime = ((gTime * 60) + 30) * 1000;
+            gTime = (gTime * 60) * 1000;
             autoFarming = setInterval(farming, gTime);
             $(this).attr("disabled", true);
             $("#stopFarming").attr("disabled", false);
@@ -707,6 +850,8 @@
 
     //停止种地
     $("#stopFarming").click(function () {
+        // 标识停止种植
+        localStorage.setItem('autoFarm', false);
         clearInterval(autoFarming);
         $(this).attr("disabled", true);
         $("#startFarming").attr("disabled", false);
@@ -740,7 +885,7 @@
                     setTimeout(function () {
                         ok[0].click();
                         // 如果是手机，还需要再点一次
-                        if($(window).width() < 1000){
+                        if ($(window).width() < 1000) {
                             ok[i].click();
                         }
                     }, 500);
@@ -750,9 +895,11 @@
 
         }, 3000);
         //切换回战斗界面
-        setTimeout(function () {
-            $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
-        }, 20000);
+        if (localStorage.getItem('afkBattle') == 'true' || localStorage.getItem('soloBattle') == 'true' || localStorage.getItem('soloUpBattle') == 'true' || localStorage.getItem('groupBattle') == 'true') {
+            setTimeout(function () {
+                $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
+            }, 20000);
+        }
     }
 
     var autoMing;
@@ -765,12 +912,16 @@
         //多留5秒
         minTime = minTime * 1000;
         autoMing = setInterval(getGem, minTime);
+        // 标识启动采矿
+        localStorage.setItem('autoMing', true);
         $(this).attr("disabled", true);
         $("#stopMing").attr("disabled", false);
     });
 
     //停止挖矿
     $("#stopMing").click(function () {
+        // 标识停止采矿
+        localStorage.setItem('autoMing', false);
         clearInterval(autoMing);
         $(this).attr("disabled", true);
         $("#startMing").attr("disabled", false);
@@ -808,11 +959,16 @@
     function getGem() {
         //自动切换到采矿界面
         $('.navbar-nav .nav-item:nth-child(3) a').trigger('click');
+        // 标识启动采矿
+        var minTime = parseInt($('#minTime').val());
+        localStorage.setItem('minTime', minTime);
         //延时3秒执行操作，避免页面未加载完
         setTimeout(function () {
             // 点第一个tab，防止当前界面非矿坑
             $('.nav-tabs .nav-item:nth-child(1) a').trigger('click');
             var mingEn = $('#MingEnergy').val();
+            // 标识采矿最低能量
+            localStorage.setItem('MingEnergy', mingEn);
             //判断能量百分比，大于指定百分比才执行挖矿。
             var minWid = ($('.progress-bar').width() / $('.progress').width()) * 100;
             if (minWid > mingEn) {
@@ -827,7 +983,7 @@
                     for (var i = 0; i <= ores.length; i++) {
                         ores[i].click();
                         // 如果是手机，还需要再点一次
-                        if($(window).width() < 1000){
+                        if ($(window).width() < 1000) {
                             ores[i].click();
                         }
                     }
@@ -837,18 +993,18 @@
                         for (var i = 0; i <= o.length; i++) {
                             o[i].click();
                             // 如果是手机，还需要再点一次
-                            if($(window).width() < 1000){
+                            if ($(window).width() < 1000) {
                                 o[i].click();
                             }
                         }
                     }, 1500)
                     console.log('发现宝石了，挖挖挖~ ' + nowTime())
-                }else if (jhs.length >= 1) {
+                } else if (jhs.length >= 1) {
                     //优先采精华矿
                     for (var i = 0; i <= jhs.length; i++) {
                         jhs[i].click();
                         // 如果是手机，还需要再点一次
-                        if($(window).width() < 1000){
+                        if ($(window).width() < 1000) {
                             jhs[i].click();
                         }
                     }
@@ -858,7 +1014,7 @@
                         for (var i = 0; i <= o.length; i++) {
                             o[i].click();
                             // 如果是手机，还需要再点一次
-                            if($(window).width() < 1000){
+                            if ($(window).width() < 1000) {
                                 o[i].click();
                             }
                         }
@@ -869,13 +1025,15 @@
 
                 //获取自定义的矿
                 var myOre = $('#MingType').val();
+                // 标识启动采矿
+                localStorage.setItem('MingType', myOre);
                 var myOres = getElementByAttr3('img', 'class', 'src', myOre, 'png');
                 if (myOres.length >= 1) {
                     //挖自定义的矿石
                     for (var i = 0; i <= myOres.length; i++) {
                         myOres[i].click();
                         // 如果是手机，还需要再点一次
-                        if($(window).width() < 1000){
+                        if ($(window).width() < 1000) {
                             myOres[i].click();
                         }
                     }
@@ -885,7 +1043,7 @@
                         for (var i = 0; i <= o.length; i++) {
                             o[i].click();
                             // 如果是手机，还需要再点一次
-                            if($(window).width() < 1000){
+                            if ($(window).width() < 1000) {
                                 o[i].click();
                             }
                         }
@@ -897,7 +1055,7 @@
                     for (var i = 0; i <= o.length; i++) {
                         o[i].click();
                         // 如果是手机，还需要再点一次
-                        if($(window).width() < 1000){
+                        if ($(window).width() < 1000) {
                             o[i].click();
                         }
                     }
@@ -909,15 +1067,19 @@
             }
         }, 3000);
         //切换回战斗界面
-        setTimeout(function () {
-            $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
-        }, 12000);
+        if (localStorage.getItem('afkBattle') == 'true' || localStorage.getItem('soloBattle') == 'true' || localStorage.getItem('soloUpBattle') == 'true' || localStorage.getItem('groupBattle') == 'true') {
+            setTimeout(function () {
+                $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
+            }, 12000);
+        }
     }
 
     //单人Solo-开始战斗
     //固定层、自动放技能
     var autoSoloFight;
     $("#startSolo").click(function () {
+        // 标识启动个人固定战斗
+        localStorage.setItem('soloBattle', true);
         autoSoloFight = setInterval(soloFight, 10000);
         $(this).attr("disabled", true);
         $("#stopSolo").attr("disabled", false);
@@ -930,6 +1092,8 @@
 
     //单人Solo-停止战斗
     $("#stopSolo").click(function () {
+        // 标识停止个人固定战斗
+        localStorage.setItem('soloBattle', false);
         clearInterval(autoSoloFight);
         $(this).attr("disabled", true);
         $("#startSolo").attr("disabled", false);
@@ -945,6 +1109,8 @@
     //自动切换最高层、自动放技能
     var autoSoloUpFight;
     $("#startSoloUp").click(function () {
+        // 标识启动个人爬楼战斗
+        localStorage.setItem('soloUpBattle', true);
         autoSoloUpFight = setInterval(soloUpFight, 10000);
         $(this).attr("disabled", true);
         $("#stopSoloUp").attr("disabled", false);
@@ -957,6 +1123,8 @@
 
     //单人Solo-停止战斗
     $("#stopSoloUp").click(function () {
+        // 标识停止个人爬楼战斗
+        localStorage.setItem('soloUpBattle', false);
         clearInterval(autoSoloUpFight);
         $(this).attr("disabled", true);
         $("#startSoloUp").attr("disabled", false);
@@ -971,8 +1139,16 @@
     var autoEatFood;
     //启动吃食物-回血
     $("#startEatFood").click(function () {
-        if ($('#username').val() == '') {
-            alert('请输入你的用户名');
+        // 标识开始自动开始吃血
+        localStorage.setItem('autoEate', true);
+        var username = $('#username').val();
+        if (username == '') {
+            // 如果用户名为空，先尝试从本地读取
+            if (localStorage.getItem('username')) {
+                username = localStorage.getItem('username');
+            } else {
+                alert('请输入你的用户名');
+            }
         } else {
             //获取自己信息
             lead();
@@ -984,6 +1160,8 @@
 
     //停止吃食物-回血
     $("#stopEatFood").click(function () {
+        // 标识开始自动停止吃血
+        localStorage.setItem('autoEate', false);
         clearInterval(autoEatFood);
         $(this).attr("disabled", true);
         $("#startEatFood").attr("disabled", false);
@@ -992,8 +1170,16 @@
     var autoEnergy;
     //启动吃食物-回能量
     $("#startEatEnergyFood").click(function () {
-        if ($('#username').val() == '') {
-            alert('请输入你的用户名');
+        // 标识开始自动开始能量
+        localStorage.setItem('autoEateEnergy', true);
+        var username = $('#username').val();
+        if (username == '') {
+            // 如果用户名为空，先尝试从本地读取
+            if (localStorage.getItem('username')) {
+                username = localStorage.getItem('username');
+            } else {
+                alert('请输入你的用户名');
+            }
         } else {
             //获取自己信息
             lead();
@@ -1007,6 +1193,8 @@
 
     //停止吃食物-回能量
     $("#stopEatEnergyFood").click(function () {
+        // 标识开始自动停止吃能量
+        localStorage.setItem('autoEateEnergy', false);
         clearInterval(autoEnergy);
         $(this).attr("disabled", true);
         $("#startEatEnergyFood").attr("disabled", false);
@@ -1014,11 +1202,18 @@
     });
 
     //组队-开始战斗
-    //自动切换最高层、自动放技能
     var autoGroupFight;
     $("#startGroupFight").click(function () {
-        if ($('#username').val() == '') {
-            alert('请输入你的用户名');
+        // 标识启动组队战斗
+        localStorage.setItem('groupBattle', true);
+        var username = $('#username').val();
+        if (username == '') {
+            // 如果用户名为空，先尝试从本地读取
+            if (localStorage.getItem('username')) {
+                username = localStorage.getItem('username');
+            } else {
+                alert('请输入你的用户名');
+            }
         } else {
             //获取自己信息
             lead();
@@ -1036,6 +1231,8 @@
     });
     //组队-停止战斗
     $("#stopGroupFight").click(function () {
+        // 标识停止组队战斗
+        localStorage.setItem('groupBattle', false);
         clearInterval(autoGroupFight);
         $(this).attr("disabled", true);
         $("#startGroupFight").attr("disabled", false);
@@ -1051,6 +1248,8 @@
     //自动切换最高层、自动放技能
     var autoAFK;
     $("#startAFK").click(function () {
+        // 标识启动AFK战斗
+        localStorage.setItem('afkBattle', true);
         //获取自己信息
         lead();
         autoAFK = setInterval(afkFight, 60000);
@@ -1066,6 +1265,8 @@
     });
     //冒险（AFK）-停止战斗
     $("#stopAFK").click(function () {
+        // 标识启动AFK战斗
+        localStorage.setItem('afkBattle', false);
         clearInterval(autoAFK);
         $(this).attr("disabled", true);
         $("#startGroupFight").attr("disabled", false);
@@ -1118,6 +1319,8 @@
     function groupFight() {
         // 进入战斗界面
         $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
+        // 存储组队战斗时间间隔
+        localStorage.setItem('fightTime', $('#fightTime').val());
         //本次战斗未完成，继续战斗
         if ($('.forfeit-battle').length > 0) {
             //            console.log('正在战斗中~')
@@ -1132,6 +1335,9 @@
             lead();
             var minHp = $('#fightMinHP').val();
             var minEnergy = $('#fightMinEnergy').val();
+            // 标识
+            localStorage.setItem('fightMinHP', minHp);
+            localStorage.setItem('fightMinEnergy', minEnergy);
             //判断自己血量、能量
             var energy = parseInt($('.me').parent().parent().find('.energy-bar .health-bar').text().substring(1))
             var minWid1 = ($('.me').parent().parent().find('.health-bar .progress-bar').width() / $('.me').parent().parent().find('.progress.health-bar').width()) * 100;
@@ -1187,6 +1393,10 @@
     //获取自己信息
     function lead() {
         var leads = $('#username').val();
+        if (leads != '') {
+            // 如果用户名不是空的，保存用户名存到本地
+            localStorage.setItem('username', leads);
+        }
         $(".battle-unit-name").each(function () {
             if ($(this).text().replace(/(^\s*)|(\s*$)/g, "") == leads) {
                 $(this).addClass('me');
@@ -1198,9 +1408,16 @@
     //自动踢人-开始
     var autoTiren;
     $('#startTi').click(function () {
+        // 标识开始自动踢人
+        localStorage.setItem('groupTiRen', true);
         var username = $('#username').val();
         if (username == '') {
-            alert('请输入你的用户名');
+            // 如果用户名为空，先尝试从本地读取
+            if (localStorage.getItem('username')) {
+                username = localStorage.getItem('username');
+            } else {
+                alert('请输入你的用户名');
+            }
         } else {
             //获取自己信息
             lead();
@@ -1219,6 +1436,8 @@
     });
     //自动踢人-结束
     $('#stopTi').click(function () {
+        // 标识开始自动踢人
+        localStorage.setItem('groupTiRen', false);
         $(".battle-unit-name").removeClass('me');
         clearInterval(autoTiren);
         $(this).attr("disabled", true);
@@ -1349,6 +1568,9 @@
         lead();
         var minEnergy = $("#minEnergy").val();
         var energyFood = $("#Food2").val();
+        // 标识吃东西时能量百分比、回能量食物
+        localStorage.setItem('minEnergy', minEnergy);
+        localStorage.setItem('Food2', energyFood);
         //获取食物对象
         var lemon = getElementByAttr('img', 'src', energyFood, 'svg');
         //寻找自己的血量条
@@ -1372,7 +1594,7 @@
                     for (var i = 0; i <= lemon.length; i++) {
                         lemon[i].click();
                         // 如果是手机，还需要再点一次
-                        if($(window).width() < 1000){
+                        if ($(window).width() < 1000) {
                             lemon[i].click();
                         }
                     }
@@ -1390,7 +1612,7 @@
                     for (var i = 0; i <= lemon.length; i++) {
                         lemon[i].click();
                         // 如果是手机，还需要再点一次
-                        if($(window).width() < 1000){
+                        if ($(window).width() < 1000) {
                             lemon[i].click();
                         }
                     }
@@ -1410,6 +1632,9 @@
         lead();
         var minHP = $("#minHP").val();
         var hpFood = $("#Food1").val();
+        // 标识吃东西时血量百分比、回血食物
+        localStorage.setItem('minHP', minHP);
+        localStorage.setItem('Food1', hpFood);
         //获取食物对象
         //胡萝卜-10秒内回350血
         var eatItem = getElementByAttr('img', 'src', hpFood, 'svg');
@@ -1437,7 +1662,7 @@
                     for (var i = 0; i <= eatItem.length; i++) {
                         eatItem[i].click();
                         // 如果是手机，还需要再点一次
-                        if($(window).width() < 1000){
+                        if ($(window).width() < 1000) {
                             eatItem[i].click();
                         }
                     }
@@ -1454,7 +1679,7 @@
                     for (var i = 0; i <= eatItem.length; i++) {
                         eatItem[i].click();
                         // 如果是手机，还需要再点一次
-                        if($(window).width() < 1000){
+                        if ($(window).width() < 1000) {
                             eatItem[i].click();
                         }
                     }
