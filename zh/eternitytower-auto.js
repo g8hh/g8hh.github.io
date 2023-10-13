@@ -1,9 +1,33 @@
+// ==UserScript==
+// @name         《永恒之塔》自动化脚本
+// @namespace    https://www.gityx.com/
+// @version      0.0.29.4
+// @description  Eternity Tower (https://eternitytower.net/) 游戏汉化脚本 - 锅巴汉化出品
+// @author       麦子、JAR、小蓝、好阳光的小锅巴
+// @include      *https://eternitytower.net/*
+// @grant        none
+// @website      https://www.gityx.com
+// @updateURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto.user.js
+// @downloadURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto.user.js
+// ==/UserScript==
+
+/**
+ * ---------------------------
+ * Time: 2023/09/24 00:05
+ * Author: guoba
+ * View: http://www.gityx.com
+ * ---------------------------
+ */
 
 /**
  * 更新日志
- * 0.0.2x
+ * 0.0.x
  * ·种地：自动复核是否有空地，以免浪费一轮时间；
  * ·种地：自定义种子没了的情况下，应该要自动种其它种子；
+ * 0.0.29
+ * ·种地：优化种地判断，以空地块图片作为判断依据，避免点击多次种子
+ * 0.0.28
+ * ·种地：收获时间改为自定义，不再根据种子生长时间设定，防止时间冲突浪费一轮。
  * 0.0.27.14
  * ·切战斗界面：加上判断，如果没启用战斗，就不跳转战斗界面
  * 0.0.27.7
@@ -53,15 +77,16 @@
     content += '<div class="im-footer" style="position:relative">';
     content += '<div class="weixing-container">';
     content += '<div class="weixing-show">';
-    //吃食物-开始
-    content += '<div class="JB-form">';
-    //选择技能-开始
+    //无人值守-开始
     content += '<div class="JB-form">';
     content += '<div class="tit">无人值守模式（适合睡觉、出门时启用挂机，当服务器更新时，实现自动重启脚本）</div>';
+    content += '* 首次使用需配置好需要的各项条件，然后手动点击其后面的“启动”按钮一次，完成后再启动这个 →';
     content += '<button id="nobodyStart" type="primary" >启动</button>';
     content += '<button id="nobodyStop" type="danger" disabled>停止</button>';
     content += '</div>';
-    //选择技能-结束
+    //无人值守-结束
+    //吃食物-开始
+    content += '<div class="JB-form">';
     content += '<div class="tit">吃食物（必须在战斗界面启用；包里没有的食物不要选） - 《<a href="https://shimo.im/sheets/ypTrXqgyP6Cg3vDg/forrm/" target="_blank">攻略</a>》</div>';
     content += '想回血/回能量必填<input id="username" type="text" value="" placeholder="输入你的用户名"  autocomplete="on"/>';
     content += '<br/>';
@@ -350,7 +375,8 @@
 
     content += '</select>';
     content += '<br/>';
-    content += ' 需要 <input id="famingTime" type="text" value="17" placeholder="" disabled/> 分钟；';
+    content += ' 生长需要 <input id="famingTime" type="text" value="17" placeholder="" disabled/> 分钟；';
+    content += ' 每隔 <input id="myFamingTime" type="text" value="2" placeholder=""/> 分钟自动检测一次成熟；';
     content += '<button id="startFarming" type="primary" >启动</button>';
     content += '<button id="stopFarming" type="danger" disabled>停止</button>';
     content += '<div id="noseed">你没有这种植物种子，去商店买一些吧~</div>';
@@ -507,6 +533,10 @@
                 //   从本地存储里面取出时间间隔，填入文本框
                 var FoodSeed = localStorage.getItem('FoodSeed');
                 $('#FoodSeed').val(FoodSeed)
+                var myFamingTime = parseInt(localStorage.getItem('myFamingTime'));
+                $('#myFamingTime').val(myFamingTime)
+                var famingTime = parseInt(localStorage.getItem('famingTime'));
+                $('#famingTime').val(famingTime)
                 $('.navbar-nav .nav-item:nth-child(5) a').trigger('click');
                 $('#startFarming').trigger('click');
                 setTimeout(function () {
@@ -682,6 +712,7 @@
                 break;
         }
         $('#famingTime').val(growTime)
+        localStorage.setItem('famingTime', growTime);
 
     });
 
@@ -797,6 +828,9 @@
         localStorage.setItem('FoodSeed', p);
         // 标识启动种植
         localStorage.setItem('autoFarm', true);
+        // 标识检测成熟的间隔
+        var myFamingTime = $('#myFamingTime').val();
+        localStorage.setItem('myFamingTime', myFamingTime);
         var ok = getElementByAttr('img', 'src', p, 'svg');
         //判断有无种子
         if (ok.length == 0) {
@@ -805,11 +839,13 @@
             return;
         } else {
             $('#noseed').removeClass('show');
-            var gTime = parseInt($('#famingTime').val());
+            // var gTime = parseInt($('#famingTime').val());
+            var gTime = parseInt($('#myFamingTime').val());
             //先执行一次
             farming();
             //延后3秒
-            gTime = ((gTime * 60) + 30) * 1000;
+            // gTime = ((gTime * 60) + 30) * 1000;
+            gTime = (gTime * 60) * 1000;
             autoFarming = setInterval(farming, gTime);
             $(this).attr("disabled", true);
             $("#stopFarming").attr("disabled", false);
@@ -830,44 +866,50 @@
     function farming() {
         //自动切换到种地界面
         $('.navbar-nav .nav-item:nth-child(5) a').trigger('click');
-        //延时3秒执行操作，避免页面未加载完
+        //延时2秒执行操作，避免页面未加载完
         setTimeout(function () {
             // 点第一个tab，防止当前界面非地块
             $('.nav-tabs .nav-item:nth-child(1) a').trigger('click');
             var p = $('#FoodSeed').val();
             var ok = getElementByAttr('img', 'src', p, 'svg');
-            var empty = getElementByAttr('img', 'src', 'emptyFarmSpace', 'svg');
-            //有空地时执行种地
             //成熟时执行收获
             $('.collect-plants').trigger("click");
             console.log('植物成熟了，割割割~ ' + nowTime());
             //种地
             setTimeout(function () {
                 // 判断当前有几块地可以种植
+                // 有空地有class：drop-abutted
+                // 成熟有：
                 var di = $('.farm-space-container.inactive').length
                 var v = 5;
                 // 如果花宝石解锁额外两块，多循环两次
                 if (di < 1) {
                     v = 7
                 }
-                for (var i = 0; i <= v; i++) {
-                    setTimeout(function () {
-                        ok[0].click();
-                        // 如果是手机，还需要再点一次
-                        if ($(window).width() < 1000) {
-                            ok[i].click();
-                        }
-                    }, 500);
-                    console.log('种地~ ' + nowTime())
+                // 判断是否有空地,有空地时执行种地
+                for (var x = 0; x <= v; x++) {
+                    // 获取各块地是否是空的
+                    var src = $('.farm-space-container:nth-child(' + (x + 1) + ') img.ore-icon').attr('src');
+                    // 如果是空地，则执行种植
+                    if (src.indexOf('emptyFarmSpace') > -1) {
+                        setTimeout(function () {
+                            ok[0].click();
+                            // 如果是手机，还需要再点一次
+                            if ($(window).width() < 800) {
+                                ok[0].click();
+                            }
+                        }, 800);
+                        console.log('种地~ ' + nowTime())
+                    }
                 }
             }, 1500);
 
-        }, 3000);
+        }, 2000);
         //切换回战斗界面
         if (localStorage.getItem('afkBattle') == 'true' || localStorage.getItem('soloBattle') == 'true' || localStorage.getItem('soloUpBattle') == 'true' || localStorage.getItem('groupBattle') == 'true') {
             setTimeout(function () {
                 $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
-            }, 20000);
+            }, 200000);
         }
     }
 
@@ -962,12 +1004,12 @@
                         for (var i = 0; i <= o.length; i++) {
                             o[i].click();
                             // 如果是手机，还需要再点一次
-                            if ($(window).width() < 1000) {
+                            if ($(window).width() < 800) {
                                 o[i].click();
                             }
                         }
                     }, 1500)
-                    console.log('发现宝石了，挖挖挖~ ' + nowTime())
+                    console.log('发现宝石了，挖挖挖~ ' + nowTime());
                 } else if (jhs.length >= 1) {
                     //优先采精华矿
                     for (var i = 0; i <= jhs.length; i++) {
@@ -983,7 +1025,7 @@
                         for (var i = 0; i <= o.length; i++) {
                             o[i].click();
                             // 如果是手机，还需要再点一次
-                            if ($(window).width() < 1000) {
+                            if ($(window).width() < 800) {
                                 o[i].click();
                             }
                         }
@@ -1012,7 +1054,7 @@
                         for (var i = 0; i <= o.length; i++) {
                             o[i].click();
                             // 如果是手机，还需要再点一次
-                            if ($(window).width() < 1000) {
+                            if ($(window).width() < 800) {
                                 o[i].click();
                             }
                         }
@@ -1024,7 +1066,7 @@
                     for (var i = 0; i <= o.length; i++) {
                         o[i].click();
                         // 如果是手机，还需要再点一次
-                        if ($(window).width() < 1000) {
+                        if ($(window).width() < 800) {
                             o[i].click();
                         }
                     }
@@ -1308,7 +1350,7 @@
             localStorage.setItem('fightMinHP', minHp);
             localStorage.setItem('fightMinEnergy', minEnergy);
             //判断自己血量、能量
-            var energy = parseInt($('.me').parent().parent().find('.energy-bar .health-bar').text().substring(1))
+            var energy = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
             var minWid1 = ($('.me').parent().parent().find('.health-bar .progress-bar').width() / $('.me').parent().parent().find('.progress.health-bar').width()) * 100;
             if ((energy <= minEnergy) || (minWid1 < minHp)) {
                 //能量/生命值小于指定值，则不执行战斗
@@ -1413,7 +1455,7 @@
         $("#startTi").attr("disabled", false);
     });
 
-    //刷单人Solo--自动打怪
+    //刷单人固定楼Solo--自动打怪
     function soloFight() {
         // 进入战斗界面
         $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
@@ -1426,7 +1468,7 @@
             return
         } else {
             //当前层没刷完，则继续刷当前层
-            var energy = parseInt($('.energy-bar .health-bar').text().substring(1))
+            var energy = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
             if (energy <= fightMinEnergy) {
                 //能量小于指定值，则不执行战斗
                 console.log('能量值过低，休息一下，吃个柠檬吧~')
@@ -1446,7 +1488,7 @@
         }
     }
 
-    //刷单人Solo--自动打怪
+    //刷单人爬楼Solo--自动打怪
     function soloUpFight() {
         var minHp = $('#fightMinHP').val();
         var minEnergy = $('#fightMinEnergy').val();
@@ -1460,7 +1502,7 @@
                 //刷完则自动切换新的一层
                 $('.btn-secondary+.dropdown-menu a:first-child').trigger("click");
                 console.log('本层已清理完毕，继续下一层吧~ ' + nowTime())
-                var energy1 = parseInt($('.energy-bar .health-bar').text().substring(1))
+                var energy1 = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
                 if (energy1 <= minEnergy) {
                     //能量小于指定值，则不执行战斗
                     console.log('能量值过低，休息一下，吃个柠檬吧~')
@@ -1482,7 +1524,7 @@
             } else {
                 //当前层没刷完，则继续刷当前层
                 //继续下一次战斗
-                var energy2 = parseInt($('.energy-bar .health-bar').text().substring(1))
+                var energy2 = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
                 if (energy2 <= minEnergy) {
                     //能量小于指定值，则不执行战斗
                     console.log('能量值过低，休息一下，吃个柠檬吧~')
@@ -1544,7 +1586,7 @@
         var lemon = getElementByAttr('img', 'src', energyFood, 'svg');
         //寻找自己的血量条
         //能量低于30就开始吃柠檬，柠檬冷却时间300秒        
-        var num = parseInt($('.me').parent().parent().find('.energy-bar .health-bar').text().substring(1))
+        var num = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
         if (num < minEnergy) {
             //判断在不在战斗状态时才提示
             if ($('.forfeit-battle').length <= 0) {

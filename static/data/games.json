@@ -752,6 +752,38 @@
         "status": 1
     },
     {
+        "title": "圣遗物增量",
+        "enTitle": "Incremental Relic",
+        "date": "2023-10-13",
+        "update": "2023-10-13",
+        "version": "",
+        "path": "incremental-relic",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "很有意思的一个增量放置游戏，开局有“水、火、自然、风”四种元素，每种元素都有很多升级。",
+            "游戏还拥有精彩的剧情，整个游戏仅贴图就有1500+张。",
+            "通过不断刷新商店，购买需要的神器和圣遗物，来提升这四种元素的收益。",
+            "通过工坊对你的资源加成进行升级。",
+            "还可以通过战斗获得金钱、经验、元素加成等。"
+        ],
+        "zhUrl": "https://gityxs.github.io/incremental-relic/",
+        "customUrl": "https://incremental-relic.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://incrementalrelic.github.io/incrementalrelic/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "Gooboo",
         "enTitle": "Gooboo",
         "date": "2023-10-09",

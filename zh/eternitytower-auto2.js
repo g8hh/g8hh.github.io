@@ -113,9 +113,9 @@
     content += '生命值低于<select id="fightMinHP">';
     content += '<option value="1">1%</option>';
     content += '<option value="5" >5%</option>';
-    content += '<option value="10" selected>10%</option>';
+    content += '<option value="10">10%</option>';
     content += '<option value="20">20%</option>';
-    content += '<option value="30">30%</option>';
+    content += '<option value="30" selected>30%</option>';
     content += '<option value="40">40%</option>';
     content += '<option value="50">50%</option>';
     content += '<option value="60">60%</option>';
@@ -148,6 +148,7 @@
     content += '<div class="JB-form">';
     content += '<div class="tit">组队战斗（爬塔）</div>';
     content += '组队战斗';
+    content += ' 间隔 <input id="fightTime" type="text" value="20" placeholder="输入整数数字" autocomplete="on"/> 秒自动开启战斗一次。（建议设久一点，防止残血开战导致惨败）';
     content += '<button id="startGroupFight" type="primary" >启动</button>';
     content += '<button id="stopGroupFight" type="danger" disabled>停止</button>';
     content += '<br/>';
@@ -661,6 +662,8 @@
         $('.navbar-nav .nav-item:nth-child(5) a').trigger('click');
         //延时3秒执行操作，避免页面未加载完
         setTimeout(function () {
+            // 点第一个tab，防止当前界面非地块
+            $('.nav-tabs .nav-item:nth-child(1) a').trigger('click');
             var p = $('#FoodSeed').val();
             var ok = getElementByAttr('img', 'src', p, 'svg');
             var empty = getElementByAttr('img', 'src', 'emptyFarmSpace', 'svg');
@@ -676,7 +679,14 @@
                 console.log('植物成熟了，割割割~ ' + nowTime());
                 //种地
                 setTimeout(function () {
-                    for (var i = 0; i <= 5; i++) {
+                    // 判断当前有几块地可以种植
+                    var di = $('.farm-space-container.inactive').length
+                    var v = 5;
+                    // 如果花宝石解锁额外两块，多循环两次
+                    if(di < 1){
+                        v = 7
+                    }
+                    for (var i = 0; i <= v; i++) {
                         setTimeout(function () {
                             ok[0].click();
                         }, 500);
@@ -759,6 +769,13 @@
                     for (var i = 0; i <= ores.length; i++) {
                         ores[i].click();
                     }
+                    // 自定义矿挖完时，采其它矿
+                    setTimeout(function () {
+                        var o = getElementByAttr2('img', 'class', 'ore-icon');
+                        for (var i = 0; i <= o.length; i++) {
+                            o[i].click();
+                        }
+                    }, 2000)
                     console.log('发现宝石了，挖挖挖~ ' + nowTime())
                 }
 
@@ -770,6 +787,13 @@
                     for (var i = 0; i <= myOres.length; i++) {
                         myOres[i].click();
                     }
+                    // 自定义矿挖完时，采其它矿
+                    setTimeout(function () {
+                        var o = getElementByAttr2('img', 'class', 'ore-icon');
+                        for (var i = 0; i <= o.length; i++) {
+                            o[i].click();
+                        }
+                    }, 2000)
                     console.log('发现自定义矿石，挖挖挖~ ' + nowTime())
                 } else {
                     //没有宝石卡时，采其它矿
@@ -793,7 +817,7 @@
     //固定层、自动放技能
     var autoSoloFight;
     $("#startSolo").click(function () {
-        autoSoloFight = setInterval(soloFight, 5000);
+        autoSoloFight = setInterval(soloFight, 10000);
         $(this).attr("disabled", true);
         $("#stopSolo").attr("disabled", false);
         $("#startSoloUp").attr("disabled", true);
@@ -818,7 +842,7 @@
     //自动切换最高层、自动放技能
     var autoSoloUpFight;
     $("#startSoloUp").click(function () {
-        autoSoloUpFight = setInterval(soloUpFight, 5000);
+        autoSoloUpFight = setInterval(soloUpFight, 10000);
         $(this).attr("disabled", true);
         $("#stopSoloUp").attr("disabled", false);
         $("#startSolo").attr("disabled", true);
@@ -893,6 +917,7 @@
         } else {
             //获取自己信息
             lead();
+            var fightTime = parseInt($('fightTime').text());
             autoGroupFight = setInterval(groupFight, 10000);
             $(this).attr("disabled", true);
             $("#startSoloUp").attr("disabled", true);
@@ -988,13 +1013,13 @@
         } else {
             //自动need第一个物品
 //                        $('.table-bordered tr:nth-child(2) td .ng-selector-need').trigger("click");
-            setTimeout(function () {
+            // setTimeout(function () {
                 //获取自己信息
                 lead();
                 var minHp = $('#fightMinHP').val();
                 var minEnergy = $('#fightMinEnergy').val();
                 //判断自己血量、能量
-                var energy = parseInt($('.me').parent().parent().find('.energy-bar .health-bar').text().substring(1))
+                var energy = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
                 var minWid1 = ($('.me').parent().parent().find('.health-bar .progress-bar').width() / $('.me').parent().parent().find('.progress.health-bar').width()) * 100;
                 if ((energy <= minEnergy) || (minWid1 < minHp)) {
                     //能量/生命值小于指定值，则不执行战斗
@@ -1021,7 +1046,7 @@
                         return
                     }
                 }
-            }, 5000);
+            // }, 5000);
         }
     }
 
@@ -1097,7 +1122,7 @@
             return
         } else {
             //当前层没刷完，则继续刷当前层
-            var energy = parseInt($('.energy-bar .health-bar').text().substring(1))
+            var energy = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
             if (energy <= fightMinEnergy) {
                 //能量小于指定值，则不执行战斗
                 console.log('能量值过低，休息一下，吃个柠檬吧~')
@@ -1131,7 +1156,7 @@
                 //刷完则自动切换新的一层
                 $('.btn-secondary+.dropdown-menu a:first-child').trigger("click");
                 console.log('本层已清理完毕，继续下一层吧~ ' + nowTime())
-                var energy1 = parseInt($('.energy-bar .health-bar').text().substring(1))
+                var energy1 = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
                 if (energy1 <= minEnergy) {
                     //能量小于指定值，则不执行战斗
                     console.log('能量值过低，休息一下，吃个柠檬吧~')
@@ -1153,7 +1178,7 @@
             } else {
                 //当前层没刷完，则继续刷当前层
                 //继续下一次战斗
-                var energy2 = parseInt($('.energy-bar .health-bar').text().substring(1))
+                var energy2 = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
                 if (energy2 <= minEnergy) {
                     //能量小于指定值，则不执行战斗
                     console.log('能量值过低，休息一下，吃个柠檬吧~')
@@ -1200,7 +1225,7 @@
         var lemon = getElementByAttr('img', 'src', energyFood, 'svg');
         //寻找自己的血量条
         //能量低于30就开始吃柠檬，柠檬冷却时间300秒        
-        var num = parseInt($('.me').parent().parent().find('.energy-bar .health-bar').text().substring(1))
+        var num = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
         if (num < minEnergy) {
             //判断在不在战斗状态时才提示
             if ($('.forfeit-battle').length <= 0) {
