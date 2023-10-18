@@ -359,6 +359,11 @@
         var my_seconds = d.getSeconds();
         return my_hours + ":" + my_minutes + ":" + my_seconds
     }
+    // 初始化时自动启用上次的脚本配置
+    setTimeout(function () {
+        // 禁用死亡通知
+        $('.disable-combat-deaths').trigger('click');
+    }, 5000);
     //获取种植的植物
     var growTime = 1;
     $('#FoodSeed').change(function () {
@@ -1154,7 +1159,7 @@
             //当前层刷完时，自动切换下一层
             if ($('.energyUse-dropdown').length > 0) {
                 //刷完则自动切换新的一层
-                $('.btn-secondary+.dropdown-menu a:first-child').trigger("click");
+                $('.level-dropdown .btn-secondary+.dropdown-menu a:first-child').trigger("click");
                 console.log('本层已清理完毕，继续下一层吧~ ' + nowTime())
                 var energy1 = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
                 if (energy1 <= minEnergy) {

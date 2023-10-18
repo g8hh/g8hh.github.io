@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         《永恒之塔》自动化脚本
 // @namespace    https://www.gityx.com/
-// @version      0.0.30.1
+// @version      0.0.32
 // @description  Eternity Tower (https://eternitytower.net/) 游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://eternitytower.net/*
@@ -24,6 +24,10 @@
  * 0.0.x
  * ·种地：自动复核是否有空地，以免浪费一轮时间；
  * ·种地：自定义种子没了的情况下，应该要自动种其它种子；
+ * 0.0.32
+ * ·战斗：默认关闭“死亡通知”，不然组队的时候会一直弹框，很恶心。
+ * 0.0.31
+ * ·修复自动切换黑色主题的问题；
  * 0.0.30
  * ·能量：修复由于作者改动导致的自动吃能量食物的问题；
  * 0.0.29
@@ -149,7 +153,7 @@
     //吃食物-结束
     //选择技能-开始
     content += '<div class="JB-form">';
-    content += '<div class="tit">自动放技能（T技能是选目标的，不需要点）</div>';
+    content += '<div class="tit">自动放技能（T技能是选目标的，不需要点；转职后8技能，后3个位置放被动技能）</div>';
     content += '<input type="checkbox" id="check1" checked><label for="check1">1技能</label>';
     content += '<input type="checkbox" id="check2" checked><label for="check2">2技能</label>';
     content += '<input type="checkbox" id="check3" checked><label for="check3">3技能</label>';
@@ -192,6 +196,8 @@
     content += '<option value="30">30</option>';
     content += '<option value="35">35</option>';
     content += '</select>时停止战斗';
+    content += '<br/>';
+    content += '间隔 <input id="soloFightTime" type="text" value="10" placeholder="输入整数数字" autocomplete="on"/> 秒自动开启战斗一次。';
     content += '<br/>';
     content += '刷固定楼层';
     content += '<button id="startSolo" type="primary" >启动</button>';
@@ -429,6 +435,8 @@
         if (localStorage.getItem('autoFill') == 'true') {
             $('#nobodyStart').trigger('click');
         }
+        // 禁用死亡通知
+        $('.disable-combat-deaths').trigger('click');
     }, 5000);
     // 1分钟检测一次页面是否刷新过
     var autoFill;
@@ -508,6 +516,9 @@
                 $('#fightMinHP').val(fightMinHP);
                 var fightMinEnergy = parseInt(localStorage.getItem('fightMinEnergy'));
                 $('#fightMinEnergy').val(fightMinEnergy);
+                // 单人战斗时间间隔
+                var soloFightTime = parseInt(localStorage.getItem('soloFightTime'));
+                $('#soloFightTime').val(soloFightTime);
                 $('#startSolo').trigger('click');
             }
             // 如果用户在solo爬楼战斗，则继续战斗
@@ -516,6 +527,9 @@
                 $('#fightMinHP').val(fightMinHP);
                 var fightMinEnergy = parseInt(localStorage.getItem('fightMinEnergy'));
                 $('#fightMinEnergy').val(fightMinEnergy);
+                // 单人战斗时间间隔
+                var soloFightTime = parseInt(localStorage.getItem('soloFightTime'));
+                $('#soloFightTime').val(soloFightTime);
                 $('#startSoloUp').trigger('click');
             }
             // 自动采矿
@@ -719,7 +733,7 @@
     });
 
     var autoSkill;
-    var c1, c2, c3, c4, c5, c6;
+    var c1, c2, c3, c4, c5, c6, c7, c8;
     //    var bb;
     //启用放技能
     $('#startSkill').click(function () {
@@ -898,7 +912,9 @@
                             ok[0].click();
                             // 如果是手机，还需要再点一次
                             if ($(window).width() < 800) {
-                                ok[0].click();
+                                setTimeout(function () {
+                                    ok[0].click();
+                                }, 310)
                             }
                         }, 800);
                         console.log('种地~ ' + nowTime())
@@ -1091,9 +1107,12 @@
     //固定层、自动放技能
     var autoSoloFight;
     $("#startSolo").click(function () {
+        var soloFightTime = parseInt($('#soloFightTime').val());
+        var times = soloFightTime * 1000;
         // 标识启动个人固定战斗
         localStorage.setItem('soloBattle', true);
-        autoSoloFight = setInterval(soloFight, 10000);
+        localStorage.setItem('soloFightTime', soloFightTime);
+        autoSoloFight = setInterval(soloFight, times);
         $(this).attr("disabled", true);
         $("#stopSolo").attr("disabled", false);
         $("#startSoloUp").attr("disabled", true);
@@ -1122,9 +1141,12 @@
     //自动切换最高层、自动放技能
     var autoSoloUpFight;
     $("#startSoloUp").click(function () {
+        var soloFightTime = parseInt($('#soloFightTime').val());
+        var times = soloFightTime * 1000;
         // 标识启动个人爬楼战斗
         localStorage.setItem('soloUpBattle', true);
-        autoSoloUpFight = setInterval(soloUpFight, 10000);
+        localStorage.setItem('soloFightTime', soloFightTime);
+        autoSoloUpFight = setInterval(soloUpFight, times);
         $(this).attr("disabled", true);
         $("#stopSoloUp").attr("disabled", false);
         $("#startSolo").attr("disabled", true);
@@ -1502,7 +1524,7 @@
             //当前层刷完时，自动切换下一层
             if ($('.energyUse-dropdown').length > 0) {
                 //刷完则自动切换新的一层
-                $('.btn-secondary+.dropdown-menu a:first-child').trigger("click");
+                $('.level-dropdown .btn-secondary+.dropdown-menu a:first-child').trigger("click");
                 console.log('本层已清理完毕，继续下一层吧~ ' + nowTime())
                 var energy1 = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
                 if (energy1 <= minEnergy) {
