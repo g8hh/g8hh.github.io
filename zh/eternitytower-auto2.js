@@ -256,46 +256,50 @@
     content += '<div class="JB-form">';
     content += '<div class="tit">自动种地</div>';
     content += '定时自动种植 <select id="FoodSeed">';
-    content += '<option value="letticeSeed">生菜-回75血-持续30秒-需要种植1级</option>';
+    content += '<option value="letticeSeed">生菜-回75血-持续30秒-需要种植1级-生长需1分钟</option>';
     content += '<option value="grapeFruitSeed" >葡萄柚-回150血-持续45秒-需要种植3级</option>';
-    content += '<option value="redAppleSeed" >红苹果-回185血-持续30秒-需要种植5级</option>';
+    content += '<option value="redAppleSeed" >红苹果-回185血-持续30秒-需要种植5级-生长需10分钟</option>';
     content += '<option value="pearSeed" >梨-回150血-持续25秒-需要种植8级</option>';
     content += '<option value="pineappleSeed" >菠萝-回550血-持续80秒-需要种植10级</option>';
-    content += '<option value="watermelonSeed">西瓜-回200血-持续10秒-需要种植15级</option>';
-    content += '<option value="carrotSeed">胡萝卜-回350血-持续10秒-需要种植20级</option>';
+    content += '<option value="watermelonSeed">西瓜-回200血-持续10秒-需要种植15级-生长需15分钟</option>';
+    content += '<option value="carrotSeed">胡萝卜-回350血-持续10秒-需要种植20级-生长需10分钟</option>';
     content += '<option value="potatoSeed" >土豆-回2700血-持续900秒-需要种植20级</option>';
     content += '<option value="acaiBerrySeed" >巴西莓-回300血-持续25秒-需要种植30级</option>';
     content += '<option value="orangeSeed" >橙子-回750血-持续80秒-需要种植35级</option>';
-    content += '<option value="bananaSeed">香蕉-回650血-持续13秒-需要种植40级</option>';
+    content += '<option value="bananaSeed">香蕉-回650血-持续13秒-需要种植40级-生长需10分钟</option>';
     content += '<option value="sweetPotatoSeed" >甘薯-回4050血-持续900秒-需要种植35级</option>';
-    content += '<option value="lemonSeed">柠檬-回9能量-冷却300秒-需要种植2级</option>';
-    content += '<option value="rockmelonSeed" selected>哈密瓜-秒回900生命；回5能量和360生命-持续120秒-需要种植50级</option>';
+    content += '<option value="lemonSeed">柠檬-回9能量-冷却300秒-需要种植2级-生长需5分钟</option>';
+    content += '<option value="rockmelonSeed" selected>哈密瓜-秒回900生命；回5能量和360生命-持续120秒-需要种植50级-生长需17分钟</option>';
+    content += '<option value="snowberrySeed">雪莓-秒回3500生命；额外回复100生命-持续60秒-需要种植50级-生长需8分钟</option>';
     content += '<option value="dragonfruitSeed">火龙果-秒回450生命；回2能量和300生命-持续120秒-需要种植25级</option>';
 
-    content += '<option value="marigoldSeed" >万寿菊-可以卖钱-需要种植9级</option>';
-    content += '<option value="blueRoseSeed" >蓝玫瑰-可以卖钱-需要种植19级</option>';
+    content += '<option value="marigoldSeed" >万寿菊-可以卖钱-需要种植9级-生长需15分钟</option>';
+    content += '<option value="blueRoseSeed" >蓝玫瑰-可以卖钱-需要种植19级-生长需15分钟</option>';
     content += '<option value="chrysanthemumSeed" >菊花-可以卖钱-需要种植19级</option>';
     content += '<option value="pinkHydrangeaSeed" >粉红色的绣球花-可以卖钱-需要种植29级</option>';
     content += '<option value="hydrangeaSeed" >绣球花-可以卖钱-需要种植39级</option>';
     content += '<option value="poppySeed" >罂粟-可以卖钱-需要种植49级</option>';
     content += '<option value="redHydrangeaSeed" >红色绣球花-可以卖钱-需要种植49级</option>';
+    content += '<option value="sunburstHydrangeaSeed" >阳光绣球花-可以卖钱-需要种植59级-生长需15分钟</option>';
+    content += '<option value="zinniaSeed" >百日菊-可以卖钱-需要种植59级-生长需8小时</option>';
 
-    content += '<option value="rubiaFlowerSeed" >茜草花-可以用来铭刻-需要种植2级</option>';
+    content += '<option value="rubiaFlowerSeed" >茜草花-可以用来铭刻-需要种植2级-生长需2分钟</option>';
     content += '<option value="basilSeed" >蓬蒿-可以用来铭刻-需要种植4级</option>';
     content += '<option value="pinkRoseSeed" >粉红玫瑰-可以用来铭刻-需要种植5级</option>';
     content += '<option value="endiveSeed" >莴苣-可以用来铭刻-需要种植6级</option>';
-    content += '<option value="juniperSeed" >杜松-可以用来铭刻-需要种植7级</option>';
+    content += '<option value="juniperSeed" >杜松-可以用来铭刻-需要种植7级-生长需10分钟</option>';
     content += '<option value="agrimonySeed" >仙鹤草-可以用来铭刻-需要种植12级</option>';
 
 
     content += '<option value="chiliSeed" >辣椒-可以用来铭刻-打怪掉落-需要种植15级</option>';
     content += '<option value="celerySeed" >芹菜-可以用来铭刻-打怪掉落-需要种植20级</option>';
     content += '<option value="cardoonSeed" >刺棘蓟-可以用来铭刻-打怪掉落-需要种植25级</option>';
-    content += '<option value="feverfewSeed" >小白菊-可以用来铭刻-打怪掉落-需要种植30级</option>';
+    content += '<option value="feverfewSeed" >小白菊-可以用来铭刻-打怪掉落-需要种植74级-生长需24分钟</option>';
+    content += '<option value="garlicSeed" >大蒜-可以用来铭刻-需要种植90级</option>';
 
-    content += '<option value="pineSeed" >松树-可以获得种植技能经验-需要种植1级</option>';
-    content += '<option value="beechSeed" >榉木-可以获得种植技能经验-需要种植5级</option>';
-    content += '<option value="ashSeed" >岑树-可以获得种植技能经验-需要种植10级</option>';
+    content += '<option value="pineSeed" >松树-可以获得种植技能经验-需要种植1级-生长需8小时</option>';
+    content += '<option value="beechSeed" >榉木-可以获得种植技能经验-需要种植5级-生长需8小时</option>';
+    content += '<option value="ashSeed" >岑树-可以获得种植技能经验-需要种植10级-生长需8小时</option>';
     content += '<option value="oakSeed" >橡木-可以获得种植技能经验-需要种植15级</option>';
     content += '<option value="mapleSeed" >枫树-可以获得种植技能经验-需要种植20级</option>';
     content += '<option value="walnutSeed" >核桃树-可以获得种植技能经验-需要种植25级</option>';
@@ -304,9 +308,11 @@
     content += '<option value="elkSeed" >榆树-可以获得种植技能经验-需要种植40级</option>';
     content += '<option value="blackSeed" >黑木-可以获得种植技能经验-需要种植45级</option>';
     content += '<option value="blueGumSeed" >蓝桉树-可以获得种植技能经验-需要种植50级</option>';
-    content += '<option value="cedarSeed" >雪松-可以获得种植技能经验-需要种植55级</option>';
+    content += '<option value="cedarSeed" >雪松-可以获得种植技能经验-需要种植55级-生长需8小时</option>';
+    content += '<option value="kenafSeed" >红麻-可以获得种植技能经验-需要种植56级-生长需30分钟</option>';
+    content += '<option value="denyaSeed" >加蓬盘豆木-可以获得种植技能经验-需要种植60级-生长需8小时</option>';
 
-    content += '<option value="cactusSeed" >仙人掌-看起来很有用-需要种植6级</option>';
+    content += '<option value="cactusSeed" >仙人掌-看起来很有用-需要种植6级-生长需1小时</option>';
     content += '<option value="reedSeed" >芦苇-看起来很有用-需要种植16级</option>';
     content += '<option value="papyrusSeed" >纸莎草-看起来很有用-需要种植26级</option>';
     content += '<option value="bambooSeed" >竹子-看起来很有用-需要种植36级</option>';
@@ -424,6 +430,9 @@
             case 'chilliSeed':
                 growTime = 60;
                 break;
+            case 'snowberrySeed':
+                growTime = 8;
+                break;
                 //卖钱
             case 'marigoldSeed':
                 growTime = 15;
@@ -446,6 +455,12 @@
             case 'poppySeed':
                 growTime = 240;
                 break;
+            case 'sunburstHydrangeaSeed':
+                growTime = 15;
+                break;
+            case 'zinniaSeed':
+                growTime = 480;
+                break;
                 //铭刻
             case 'rubiaFlowerSeed':
                 growTime = 2;
@@ -463,6 +478,9 @@
                 growTime = 10;
                 break;
             case 'agrimonySeed':
+                growTime = 60;
+                break;
+            case 'garlicSeed':
                 growTime = 60;
                 break;
                 //打怪掉落
@@ -512,6 +530,9 @@
             case 'cedarSeed':
                 growTime = 480;
                 break;
+            case 'kenafSeed':
+                growTime = 30;
+                break;
                 //杂项
             case 'cactusSeed':
                 growTime = 60;
@@ -527,6 +548,9 @@
                 break;
             case 'bambooSeed':
                 growTime = 60;
+                break;
+            case 'denyaSeed':
+                growTime = 480;
                 break;
         }
         $('#famingTime').val(growTime)
@@ -646,7 +670,7 @@
             farming();
             //延后3秒
             gTime = ((gTime * 60) + 30) * 1000;
-//            gTime = 60 * 1000;
+            //            gTime = 60 * 1000;
             autoFarming = setInterval(farming, 60000);
             $(this).attr("disabled", true);
             $("#stopFarming").attr("disabled", false);
@@ -688,7 +712,7 @@
                     var di = $('.farm-space-container.inactive').length
                     var v = 5;
                     // 如果花宝石解锁额外两块，多循环两次
-                    if(di < 1){
+                    if (di < 1) {
                         v = 7
                     }
                     for (var i = 0; i <= v; i++) {
@@ -702,9 +726,9 @@
 
         }, 3000);
         //切换回战斗界面
-//        setTimeout(function () {
-//            $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
-//        }, 8000);
+        //        setTimeout(function () {
+        //            $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
+        //        }, 8000);
     }
 
     var autoMing;
@@ -761,61 +785,61 @@
         //自动切换到采矿界面
         $('.navbar-nav .nav-item:nth-child(3) a').trigger('click');
         //延时3秒执行操作，避免页面未加载完
-            var mingEn = $('#MingEnergy').val();
-            //判断能量百分比，大于指定百分比才执行挖矿。
-            var minWid = ($('.progress-bar').width() / $('.progress').width()) * 100;
-            if (minWid > mingEn) {
-                //获取优先要挖的矿石
-                var ks = 'gem';
-                //获取带宝石的矿
-                var ores = getElementByAttr('img', 'src', ks, 'png');
-                if (ores.length >= 1) {
-                    //优先采宝石矿
-                    for (var i = 0; i <= ores.length; i++) {
-                        ores[i].click();
-                    }
-                    // 自定义矿挖完时，采其它矿
-                    setTimeout(function () {
-                        var o = getElementByAttr2('img', 'class', 'ore-icon');
-                        for (var i = 0; i <= o.length; i++) {
-                            o[i].click();
-                        }
-                    }, 2000)
-                    console.log('发现宝石了，挖挖挖~ ' + nowTime())
+        var mingEn = $('#MingEnergy').val();
+        //判断能量百分比，大于指定百分比才执行挖矿。
+        var minWid = ($('.progress-bar').width() / $('.progress').width()) * 100;
+        if (minWid > mingEn) {
+            //获取优先要挖的矿石
+            var ks = 'gem';
+            //获取带宝石的矿
+            var ores = getElementByAttr('img', 'src', ks, 'png');
+            if (ores.length >= 1) {
+                //优先采宝石矿
+                for (var i = 0; i <= ores.length; i++) {
+                    ores[i].click();
                 }
-
-                //获取自定义的矿
-                var myOre = $('#MingType').val();
-                var myOres = getElementByAttr3('img', 'class', 'src', myOre, 'png');
-                if (myOres.length >= 1) {
-                    //挖自定义的矿石
-                    for (var i = 0; i <= myOres.length; i++) {
-                        myOres[i].click();
-                    }
-                    // 自定义矿挖完时，采其它矿
-                    setTimeout(function () {
-                        var o = getElementByAttr2('img', 'class', 'ore-icon');
-                        for (var i = 0; i <= o.length; i++) {
-                            o[i].click();
-                        }
-                    }, 2000)
-                    console.log('发现自定义矿石，挖挖挖~ ' + nowTime())
-                } else {
-                    //没有宝石卡时，采其它矿
+                // 自定义矿挖完时，采其它矿
+                setTimeout(function () {
                     var o = getElementByAttr2('img', 'class', 'ore-icon');
                     for (var i = 0; i <= o.length; i++) {
                         o[i].click();
                     }
-                    console.log('采集其它矿石，挖挖挖~ ' + nowTime())
-                }
-            } else {
-                console.log('挖矿能量低于设定值:' + mingEn + '% ，不执行操作~ ' + nowTime())
-                return
+                }, 2000)
+                console.log('发现宝石了，挖挖挖~ ' + nowTime())
             }
+
+            //获取自定义的矿
+            var myOre = $('#MingType').val();
+            var myOres = getElementByAttr3('img', 'class', 'src', myOre, 'png');
+            if (myOres.length >= 1) {
+                //挖自定义的矿石
+                for (var i = 0; i <= myOres.length; i++) {
+                    myOres[i].click();
+                }
+                // 自定义矿挖完时，采其它矿
+                setTimeout(function () {
+                    var o = getElementByAttr2('img', 'class', 'ore-icon');
+                    for (var i = 0; i <= o.length; i++) {
+                        o[i].click();
+                    }
+                }, 2000)
+                console.log('发现自定义矿石，挖挖挖~ ' + nowTime())
+            } else {
+                //没有宝石卡时，采其它矿
+                var o = getElementByAttr2('img', 'class', 'ore-icon');
+                for (var i = 0; i <= o.length; i++) {
+                    o[i].click();
+                }
+                console.log('采集其它矿石，挖挖挖~ ' + nowTime())
+            }
+        } else {
+            console.log('挖矿能量低于设定值:' + mingEn + '% ，不执行操作~ ' + nowTime())
+            return
+        }
         //切换回战斗界面
-//        setTimeout(function () {
-//            $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
-//        }, 8000);
+        //        setTimeout(function () {
+        //            $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
+        //        }, 8000);
     }
 
     //单人Solo-开始战斗
@@ -1017,40 +1041,40 @@
             return
         } else {
             //自动need第一个物品
-//                        $('.table-bordered tr:nth-child(2) td .ng-selector-need').trigger("click");
+            //                        $('.table-bordered tr:nth-child(2) td .ng-selector-need').trigger("click");
             // setTimeout(function () {
-                //获取自己信息
-                lead();
-                var minHp = $('#fightMinHP').val();
-                var minEnergy = $('#fightMinEnergy').val();
-                //判断自己血量、能量
-                var energy = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
-                var minWid1 = ($('.me').parent().parent().find('.health-bar .progress-bar').width() / $('.me').parent().parent().find('.progress.health-bar').width()) * 100;
-                if ((energy <= minEnergy) || (minWid1 < minHp)) {
-                    //能量/生命值小于指定值，则不执行战斗
-                    console.log('能量值/生命值过低，吃点东西恢复点能量吧~')
-                    return
+            //获取自己信息
+            lead();
+            var minHp = $('#fightMinHP').val();
+            var minEnergy = $('#fightMinEnergy').val();
+            //判断自己血量、能量
+            var energy = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
+            var minWid1 = ($('.me').parent().parent().find('.health-bar .progress-bar').width() / $('.me').parent().parent().find('.progress.health-bar').width()) * 100;
+            if ((energy <= minEnergy) || (minWid1 < minHp)) {
+                //能量/生命值小于指定值，则不执行战斗
+                console.log('能量值/生命值过低，吃点东西恢复点能量吧~')
+                return
+            } else {
+                //能量充足，继续下一次战斗
+                //生命值大于指定百分比，才能继续战斗，可以改为自己需要的。
+                var minWid2 = ($('.me').parent().parent().find('.health-bar .progress-bar').width() / $('.me').parent().parent().find('.progress.health-bar').width()) * 100;
+                if (minWid2 > minHp) {
+                    //队长AFK时队员可以开战
+                    $(".battle-btn").trigger("click");
+                    //判断自己是队长才开战
+                    //                        if ($('.me').parent().parent().find('.mr-1').length > 0) {
+                    //                            $(".battle-btn").trigger("click");
+                    //
+                    //                        } else {
+                    //                            console.log('不是队长，等待队长开战~')
+                    //                            return;
+                    //                        }
                 } else {
-                    //能量充足，继续下一次战斗
-                    //生命值大于指定百分比，才能继续战斗，可以改为自己需要的。
-                    var minWid2 = ($('.me').parent().parent().find('.health-bar .progress-bar').width() / $('.me').parent().parent().find('.progress.health-bar').width()) * 100;
-                    if (minWid2 > minHp) {
-                        //队长AFK时队员可以开战
-                        $(".battle-btn").trigger("click");
-                        //判断自己是队长才开战
-//                        if ($('.me').parent().parent().find('.mr-1').length > 0) {
-//                            $(".battle-btn").trigger("click");
-//
-//                        } else {
-//                            console.log('不是队长，等待队长开战~')
-//                            return;
-//                        }
-                    } else {
-                        //生命值小于，则不执行战斗
-                        console.log('生命值过低，暂停战斗，回回血吧~')
-                        return
-                    }
+                    //生命值小于，则不执行战斗
+                    console.log('生命值过低，暂停战斗，回回血吧~')
+                    return
                 }
+            }
             // }, 5000);
         }
     }

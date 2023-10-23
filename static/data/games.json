@@ -617,7 +617,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2023-10-16",
+        "update": "2023-10-21",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -674,6 +674,42 @@
         "status": 1
     },
     {
+        "title": "音乐游戏树",
+        "enTitle": "",
+        "date": "2023-10-23",
+        "update": "2023-10-23",
+        "version": "0.0888",
+        "path": "the-rhyhm-game-tree",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "群里又一位小伙伴动手做游戏了，欢迎大家体验~",
+            "对于制作模组树感兴趣的小伙伴，可以加入模组树群963150347交流学习，期待大家更多的作品！"
+        ],
+        "customUrl": "https://qqqe308.github.io/The-Rhythm-Game-Tree/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://the-rhyhm-game-tree.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "超级游戏",
         "enTitle": "Hyper Game",
         "date": "2023-10-18",
@@ -687,6 +723,7 @@
         ],
         "content": [
             "《十二龙》作者的另一款游戏。",
+            "注意：游戏似乎不能自动保存，需要自己去 设置 - 手动保存。",
             "这是基于Hyper-E的游戏。 是《数组游戏》（Array Game） 的精神继承者。"
         ],
         "zhUrl": "https://gityxs.github.io/hyper-game/",
@@ -815,8 +852,8 @@
         "title": "Gooboo",
         "enTitle": "Gooboo",
         "date": "2023-10-09",
-        "update": "2023-10-18",
-        "version": "1.3.2",
+        "update": "2023-10-20",
+        "version": "1.3.3",
         "path": "gooboo",
         "type": [
             "点击",
@@ -825,6 +862,7 @@
             "放置"
         ],
         "content": [
+            "更新到1.3.3版本了，我把汉化放入了国际化文件，现在可以在设置里面自由切换中英德语了~",
             "​Gooboo 是一款放置/增量游戏，您可以在神秘、未知的世界中管理多个功能。 收集不同的资源来购买各种各样的升级，以增加你的资源收益。 取得主要功能的进展以解锁新内容并了解有关这个世界的更多信息。 当进展开始放缓时，声望个人功能可以将您的收获提升到一个新的等级。",
             "该游戏包括：",
             "基于流行的放置游戏，有 5 个不同的主要功能可供探索和掌握",
@@ -842,6 +880,7 @@
         "customUrl": "https://gooboo.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://tendsty.itch.io/gooboo",
+        "QQ": "468760729",
         "pic": [
             1,
             2,
@@ -3417,8 +3456,8 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2023-08-01",
-        "version": "0.1.5",
+        "update": "2023-10-22",
+        "version": "0.1.7",
         "path": "fundamental",
         "type": [
             "已汉化"
@@ -3427,7 +3466,7 @@
             "这是 awWhy 制作的测试项目。 应受现代浏览器、手机和屏幕阅读器的支持（需要在设置中打开支持）。 灵感来自“协同放置”、“反物质维度”等游戏。"
         ],
         "zhUrl": "https://gityxs.github.io/fundamental/",
-        "customUrl": "https://fundamental.g8hh.com/",
+        "customUrl": "https://fundamental.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://awwhy.github.io/Fundamental/",
         "pic": [
@@ -16224,7 +16263,7 @@
         "content": [
             "一款太空类型的模拟经营类型游戏。"
         ],
-        "customUrl2": "https://idlespace2.g8hh.com/",
+        "customUrl2": "https://idlespace2.g8hh.com.cn/",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/idlespace2",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idlespace-2?sfa=permalink&referrer=SunshineDad",
@@ -19252,7 +19291,7 @@
         "content": [
             ""
         ],
-        "customUrl2": "https://idlespace.g8hh.com/",
+        "customUrl2": "https://idlespace.g8hh.com.cn/",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/idlespace",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idle-space?sfa=permalink&referrer=SunshineDad",

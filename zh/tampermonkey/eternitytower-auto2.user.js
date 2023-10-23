@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         《永恒之塔》自动化脚本-三合一版（一个标签页同时：战斗、采矿、种地）
+// @name         《永恒之塔》自动化脚本-多标签页版（一个标签页只做一件事）
 // @namespace    https://www.gityx.com/
-// @version      0.0.32.3
+// @version      0.0.32.4
 // @description  Eternity Tower (https://eternitytower.net/) 游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://eternitytower.net/*
 // @grant        none
 // @website      https://www.gityx.com
-// @updateURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto.user.js
-// @downloadURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto.user.js
+// @updateURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto2.user.js
+// @downloadURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto2.user.js
 // ==/UserScript==
 
 /**
@@ -438,33 +438,34 @@
     // 初始化时自动启用上次的脚本配置
     setTimeout(function () {
         // 自动攻击右边敌人
-        if (localStorage.getItem('autoFill') == 'true') {
+        if (localStorage.getItem('autoFill2') == 'true') {
             $('#nobodyStart').trigger('click');
         }
         // 禁用死亡通知
         $('.disable-combat-deaths').trigger('click');
     }, 5000);
     // 1分钟检测一次页面是否刷新过
-    var autoFill;
+    var autoFill2;
     //启动无人值守模式
     var autoSoloUpFight;
     $("#nobodyStart").click(function () {
-        autoFill = setInterval(autoLoad, 10000)
-        localStorage.setItem('autoFill', true);
+        autoFill2 = setInterval(autoLoad2, 5000)
+        localStorage.setItem('autoFill2', true);
         $(this).attr("disabled", true);
         $("#nobodyStop").attr("disabled", false);
     });
 
     //停止无人值守模式
     $("#nobodyStop").click(function () {
-        clearInterval(autoFill);
-        localStorage.setItem('autoFill', false);
+        clearInterval(autoFill2);
+        localStorage.setItem('autoFill2', false);
         $("#nobodyStart").attr("disabled", false);
         $("#nobodyStop").attr("disabled", true);
     });
 
-    function autoLoad() {
+    function autoLoad2() {
         var username = $('#username').val();
+        var url = window.location.href;
         if (username == '') {
             // 如果用户名为空，先尝试从本地读取
             if (localStorage.getItem('username')) {
@@ -513,7 +514,10 @@
             }
             // 如果用户在AFK战斗，则继续战斗
             if (localStorage.getItem('afkBattle') == 'true') {
-                $('#startAFK').trigger('click');
+
+                if (url == 'https://eternitytower.net/battle') {
+                    $('#startAFK').trigger('click');
+                }
             }
             // 如果用户在solo固定战斗，则继续战斗
             if (localStorage.getItem('soloBattle') == 'true') {
@@ -525,7 +529,9 @@
                 // 单人战斗时间间隔
                 var soloFightTime = parseInt(localStorage.getItem('soloFightTime'));
                 $('#soloFightTime').val(soloFightTime);
-                $('#startSolo').trigger('click');
+                if (url == 'https://eternitytower.net/battle') {
+                    $('#startSolo').trigger('click');
+                }
             }
             // 如果用户在solo爬楼战斗，则继续战斗
             if (localStorage.getItem('soloUpBattle') == 'true') {
@@ -536,7 +542,9 @@
                 // 单人战斗时间间隔
                 var soloFightTime = parseInt(localStorage.getItem('soloFightTime'));
                 $('#soloFightTime').val(soloFightTime);
-                $('#startSoloUp').trigger('click');
+                if (url == 'https://eternitytower.net/battle') {
+                    $('#startSoloUp').trigger('click');
+                }
             }
             // 自动采矿
             if (localStorage.getItem('autoMing') == 'true') {
@@ -547,8 +555,9 @@
                 $('#MingType').val(MingType)
                 var MingEnergy = parseInt(localStorage.getItem('MingEnergy'));
                 $('#MingEnergy').val(MingEnergy)
-                $('.navbar-nav .nav-item:nth-child(3) a').trigger('click');
-                $('#startMing').trigger('click');
+                if (url == 'https://eternitytower.net/mining') {
+                    $('#startMing').trigger('click');
+                }
             }
             // 自动种地
             if (localStorage.getItem('autoFarm') == 'true') {
@@ -559,11 +568,9 @@
                 $('#myFamingTime').val(myFamingTime)
                 var famingTime = parseInt(localStorage.getItem('famingTime'));
                 $('#famingTime').val(famingTime)
-                $('.navbar-nav .nav-item:nth-child(5) a').trigger('click');
-                $('#startFarming').trigger('click');
-                setTimeout(function () {
+                if (url == 'https://eternitytower.net/farming') {
                     $('#startFarming').trigger('click');
-                }, 3000);
+                }
             }
         }
     }
@@ -947,12 +954,6 @@
             }, 1500);
 
         }, 2000);
-        //切换回战斗界面
-        if (localStorage.getItem('afkBattle') == 'true' || localStorage.getItem('soloBattle') == 'true' || localStorage.getItem('soloUpBattle') == 'true' || localStorage.getItem('groupBattle') == 'true') {
-            setTimeout(function () {
-                $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
-            }, 10000);
-        }
     }
 
     var autoMing;
@@ -1119,12 +1120,6 @@
                 return
             }
         }, 3000);
-        //切换回战斗界面
-        if (localStorage.getItem('afkBattle') == 'true' || localStorage.getItem('soloBattle') == 'true' || localStorage.getItem('soloUpBattle') == 'true' || localStorage.getItem('groupBattle') == 'true') {
-            setTimeout(function () {
-                $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
-            }, 12000);
-        }
     }
 
     //单人Solo-开始战斗
