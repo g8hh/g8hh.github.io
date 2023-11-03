@@ -674,6 +674,42 @@
         "status": 1
     },
     {
+        "title": "Perceptron - An Idle Game",
+        "enTitle": "",
+        "date": "2023-10-30",
+        "update": "2023-10-30",
+        "version": "",
+        "path": "perceptron",
+        "type": [
+            "安卓",
+            "苹果",
+            "英文",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "感知器是一种新的增量游戏，它基于构建和训练神经网络的想法。在这个放置模拟中，神经网络背后的概念已被提炼成其本质。",
+            "并不是说游戏很简单。当然，它刚开始很简单，只有节点、训练和数据，但很快就会膨胀成具有声望和升级的复杂闲置游戏。更不用说离线支持了。",
+            "扮演一个年轻的本科生，成为一个闲散的大亨。很快，您甚至可以与 GPT-3 匹敌。",
+            "感知器不仅仅是另一个放置的点击游戏。它围绕训练神经网络的想法而设计，并从许多神经网络主题中汲取灵感。谁知道呢，您甚至可能最终会学到一些东西。",
+            "注意：游戏是英文的，游戏流程可能非常非常慢。"
+        ],
+        "customUrl": "https://apps.apple.com/us/app/perceptron-an-idle-game/id1537908817​",
+        "customUrlTit": "iOS版",
+        "customUrl2": "https://apkpremier.com/details/com-amorfatite-perceptron",
+        "customUrlTit2": "安卓直链下载",
+        "customUrl3": "https://play.google.com/store/apps/details?id=com.amorfatite.perceptron",
+        "customUrlTit3": "安卓市场版",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "音乐游戏树",
         "enTitle": "The Rhyhm Game Tree",
         "date": "2023-10-23",
@@ -852,8 +888,8 @@
         "title": "Gooboo",
         "enTitle": "Gooboo",
         "date": "2023-10-09",
-        "update": "2023-10-20",
-        "version": "1.3.3",
+        "update": "2023-10-24",
+        "version": "1.3.5",
         "path": "gooboo",
         "type": [
             "点击",
@@ -1075,8 +1111,8 @@
         "title": "增量神树2",
         "enTitle": "Gods of Incremental",
         "date": "2023-09-05",
-        "update": "2023-09-05",
-        "version": "1.1b",
+        "update": "2023-11-03",
+        "version": "1.2b",
         "path": "gods-of-incremental",
         "type": [
             "汉化中",
@@ -2626,8 +2662,8 @@
         "title": "英雄之歌",
         "enTitle": "Ballad Of Heroes",
         "date": "2023-04-27",
-        "update": "2023-08-25",
-        "version": "0.65",
+        "update": "2023-10-30",
+        "version": "0.71",
         "path": "ballad-of-heroes",
         "type": [
             "已汉化",
@@ -3167,20 +3203,22 @@
         "title": "同化放置",
         "enTitle": "Absorber",
         "date": "2023-03-29",
-        "update": "2023-03-29",
-        "version": "1.9",
+        "update": "2023-11-03",
+        "version": "1.13",
         "path": "absorber",
         "type": [
             "已汉化",
             "放置"
         ],
         "content": [
+            "Absorber：一个引人入胜的放置型RPG冒险，你可以吸收被击败敌人的力量和技能。探索一个幻想世界，击败具有挑战性的敌人。沉浸在独特的游戏玩法中。你能否成为终极的Absorber？​",
             "探索地牢击败敌人并获得他们的力量。击败所有怪物后，会解锁转生功能。​"
         ],
         "zhUrl": "https://gityxs.github.io/absorber/",
-        "customUrl": "https://absorber.g8hh.com/",
+        "customUrl": "https://absorber.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://absorber.wick-alexander.de/",
+        "steamUrl": "https://store.steampowered.com/app/2017540/Energy_Collector/",
         "pic": [
             1,
             2,
@@ -6501,8 +6539,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2023-08-08",
-        "version": "0.5",
+        "update": "2023-11-03",
+        "version": "0.5.2",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -6512,7 +6550,7 @@
         "content": [
             "《真实割草放置》是一款模拟割草的增量放置游戏（凑字数，嘻嘻），是《质量增量重制版》作者的另一个作品。"
         ],
-        "customUrl": "https://yx.g8hh.com/really-grass-cutting-incremental",
+        "customUrl": "https://really-grass-cutting-incremental.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/really-grass-cutting-incremental",
         "enUrl": "https://mrredshark77.github.io/Really-Grass-Cutting-Incremental/",
@@ -14485,8 +14523,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2023-09-11",
-        "version": "0.6.22",
+        "update": "2023-10-30",
+        "version": "0.6.23",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
