@@ -720,6 +720,37 @@
         "status": 1
     },
     {
+        "title": "植物放置",
+        "enTitle": "Idle Plant Game",
+        "date": "2023-11-28",
+        "update": "2023-11-28",
+        "version": "",
+        "path": "idle-plant-game",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是一款放置和拥有离线进度的模拟植物生长的点击游戏！Steam版预计于12月发布。",
+            "汉化还在进行中，如果你玩得快，可以发存档给我补汉化哦！",
+            "注意：如果游戏进度不动了，可以去菜单暂停一次游戏，再恢复即可。"
+        ],
+        "zhUrl": "https://gityxs.github.io/idle-plant-game/",
+        "customUrl": "https://idle-plant-game.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://idleplantgame.com/",
+        "steamUrl": "https://store.steampowered.com/app/2701250/Idle_Plant_Game/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "终极文明点击器",
         "enTitle": "Clicker Ultimate",
         "date": "2023-11-24",
@@ -2651,8 +2682,8 @@
         "title": "未命名太空放置",
         "enTitle": "Unnamed Space Idle",
         "date": "2023-05-07",
-        "update": "2023-07-24",
-        "version": "",
+        "update": "2023-11-28",
+        "version": "0.50.3.3",
         "path": "unnamed-space-idle-prototype",
         "type": [
             "放置",
@@ -11647,8 +11678,8 @@
         "title": "生命树",
         "enTitle": "The Tree Of Life",
         "date": "2021-10-15",
-        "update": "2023-07-03",
-        "version": "2.065",
+        "update": "2023-11-28",
+        "version": "2.068",
         "path": "the-tree-of-life",
         "type": [
             "汉化中",
