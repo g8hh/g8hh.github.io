@@ -720,6 +720,66 @@
         "status": 1
     },
     {
+        "title": "放置MMO",
+        "enTitle": "Idle MMO",
+        "date": "2023-12-08",
+        "update": "2023-12-08",
+        "version": "",
+        "path": "idle-mmo",
+        "type": [
+            "汉化中",
+            "多人",
+            "放置",
+            "联网"
+        ],
+        "content": [
+            "踏上史诗般的冒险，追捕不同的敌人，踏上地下城探险之旅，甚至在小睡的时候也能击败世界首领！",
+            "放置MMO《Idle MMO》是一个放置玩法的大型多人在线角色扮演游戏。它是之前咱们发的《Simple MMO》的兄弟篇，是同一个作者。由于之前简单MMO的玩法过于费鼠标，然后作者就开发了这个放置版的MMO，玩法类似于《梅尔沃放置》。 ",
+            "注意：起名字不能用中文哦，包括个人简介。"
+        ],
+        "customUrl": "https://web.idle-mmo.com?ref=IMMO2266",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://gityx.com/help/faq/633.html",
+        "customUrlTit2": "汉化教程",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "触摸星空，群友自制",
+        "enTitle": "",
+        "date": "2023-12-06",
+        "update": "2023-12-06",
+        "version": "",
+        "path": "chu-mo-xing-kong",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "群里小伙伴自荐的游戏，界面和玩法参考了《猫国建设者》和《进化》，糅合了作者自己的想法而制作出来的，点赞。",
+            "注意：游戏还在开发中，遇到问题了可以在群里 @null 反馈。"
+        ],
+        "customUrl": "https://aduhtkjm.github.io/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://chu-mo-xing-kong.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "永无止境，多人修仙挂机放置",
         "enTitle": "",
         "date": "2023-12-01",
@@ -767,7 +827,7 @@
         "title": "植物放置",
         "enTitle": "Idle Plant Game",
         "date": "2023-11-28",
-        "update": "2023-11-28",
+        "update": "2023-12-07",
         "version": "",
         "path": "idle-plant-game",
         "type": [
@@ -776,6 +836,7 @@
             "放置"
         ],
         "content": [
+            "Steam版已发布！",
             "这是一款放置和拥有离线进度的模拟植物生长的点击游戏！Steam版预计于12月发布。",
             "汉化还在进行中，如果你玩得快，可以发存档给我补汉化哦！",
             "注意：如果游戏进度不动了，可以去菜单暂停一次游戏，再恢复即可。"
@@ -2412,8 +2473,8 @@
         "title": "采石场放置",
         "enTitle": "Into The Quarry",
         "date": "2023-06-12",
-        "update": "2023-08-16",
-        "version": "0.0.5α-4",
+        "update": "2023-12-05",
+        "version": "0.11",
         "path": "into-the-quarry",
         "type": [
             "已汉化",
@@ -2425,7 +2486,7 @@
             "该游戏受到 Minecraft Prisons 的启发。​"
         ],
         "zhUrl": "https://g1tyx.github.io/into-the-quarry/",
-        "customUrl": "https://into-the-quarry.g8hh.com/",
+        "customUrl": "https://into-the-quarry.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://into-the-quarry.vercel.app/",
         "pic": [
@@ -9561,8 +9622,8 @@
         "title": "筑基",
         "enTitle": "Zhu Ji",
         "date": "2022-01-21",
-        "update": "2023-11-12",
-        "version": "0.0.3.8",
+        "update": "2023-12-06",
+        "version": "0.0.3.9",
         "path": "zhu-ji",
         "type": [
             "放置",
@@ -16099,8 +16160,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2023-07-17",
-        "version": "0.10.13",
+        "update": "2023-11-05",
+        "version": "0.10.17",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -17917,7 +17978,7 @@
         "title": "NGU放置，有汉化了",
         "enTitle": "NGU",
         "date": "2019-12-06",
-        "update": "2023-05-05",
+        "update": "2023-12-07",
         "path": "ngu",
         "type": [
             "汉化中",
@@ -17930,6 +17991,7 @@
             "Steam"
         ],
         "content": [
+            "2023-12-07：翻新一下，拉一波新人~",
             "2023-05-05：因 ① 群已满，建了个 ② 群，欢迎新人加入：683847928",
             "NGU Idle 是一款免费的放置游戏，充满了怪异的幽默、大量的升级和数百小时的内容！ 立即尝试 NGU Idle，体验数字上升的乐趣！",
             "每个人都喜欢上升的数字。 玩NGU放置，并获得许多如此激动人心的高峰！",
