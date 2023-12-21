@@ -720,6 +720,76 @@
         "status": 1
     },
     {
+        "title": "氨基放置",
+        "enTitle": "Amino Idle",
+        "date": "2023-12-21",
+        "update": "2023-12-21",
+        "version": "0.15",
+        "path": "amino-idle",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是一款模拟点击放置游戏，有点杀时间。",
+            "游戏暂时没有导出存档功能，只能去浏览器控制台-本地存储里面备份。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/amino-idle/",
+        "customUrl": "https://amino-idle.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://devjon.com/amino/idle.html",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "亿万富翁放置",
+        "enTitle": "Idle Trillionaire",
+        "date": "2023-12-15",
+        "update": "2023-12-15",
+        "version": "",
+        "path": "idle-trillionaire",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            " 网页版是试玩版，只能玩190关。 安卓、iOS都是付费的。Steam版还未发布。",
+            "比你的朋友更快地达到成就目标！",
+            "在 1 周年纪念日和其他里程碑时争夺比其他玩家更多的钱！",
+            "*您可以直接在浏览器中免费玩本游戏的演示版！",
+            "您准备好投入终极放置游戏体验了吗？这将重新定义您对繁荣的理解？ 《Idle Trillionaire》就是您的最佳选择，这款游戏将放置类游戏的概念提升到了前所未有的高度！ 让自己沉浸在迷人的旅程中，您的战略决策将为难以想象的财富铺平道路，同时以您从未想过的方式征服虚拟世界。",
+            " **建立你的帝国：** 通过战略性地获取和升级资源增强卡，开始攀登难以想象的财富。 每购买一张卡，您的金钱收入和幸福感都会飙升，为指数级的财富积累奠定基础。",
+            " **释放你的潜力：** 随着你的财富积累，探索不断扩大的卡库，进一步增加你的收入。 见证您的财务实力达到世界上最富有的精英的水平，每小时轻松赚取数百万美元。",
+            " **收集快乐：** 快乐不仅仅是一种感觉；更是一种感觉。 这是一个宝贵的资源！ 积累快乐积分，解锁新的成长维度，让每一次游戏都充满欢乐和充实的体验。",
+            " **超越万亿：** 虽然 1 万亿美元可能看起来是一个天文数字，但您的野心不必止步于此。 Idle Trillionaire 鼓励您实现更大的梦想 - 购买整个国家、大陆，甚至整个地球，以前所未有的规模巩固您的统治地位。",
+            "您准备好踏上一场超越界限、超越期望的财富积累冒险了吗？ 加入闲置亿万富翁的行列，体验闲置游戏的终极进化。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/idle-trillionaire/",
+        "customUrl": "https://idle-trillionaire.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.idletrillionaire.www",
+        "customUrlTit2": "安卓市场版",
+        "customUrl3": "https://apps.apple.com/us/app/idle-trillionaire-money-game/id6473220418",
+        "customUrlTit3": "iOS版",
+        "enUrl": "https://www.idletrillionaire.com/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "放置MMO",
         "enTitle": "Idle MMO",
         "date": "2023-12-08",

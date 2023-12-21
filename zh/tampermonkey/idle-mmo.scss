@@ -1,0 +1,86 @@
+/* 主体背景色 */
+body,
+.bg-white,
+.bg-\[\#1c2434\] {
+  background: #fff !important;
+}
+
+/* 灰色字色 */
+.text-gray-500,
+.text-gray-200,
+.text-gray-400 {
+  color: #666 !important;
+}
+
+/* 灰色背景色 */
+.bg-gray-900 {
+  background: #ddd !important;
+  &.sticky{
+        background: none !important;
+  }
+}
+
+.bg-gray-800,
+.bg-gray-700 {
+  background: #eee !important;
+}
+.bg-gray-800.quality\:premium\:background {
+   background: #fff !important;
+ }
+.text-gray-300,.text-gray-100{
+  color: #333;
+}
+/* 按钮背景色 */
+.to-indigo-700 {
+  background: #aaa !important;
+  color: #fff !important;
+}
+
+.text-white {
+   color: #999 !important;
+ }
+/* 灰色背景色 */
+/* .bg-\[\#1c212c\]{background:#ccc !important;} */
+/* 怪物按钮背景色 */
+.quality\:standard\:background,.bg-black\/30{
+  background: #fff !important;
+}
+.bg-gray-900\/40,.bg-\[\#1c212c\],.bg-gray-900\/60,.bg-gray-800\/90{
+  background: #ddd !important;
+}
+.bg-green-700{
+   background: #ccc !important;
+}
+/* 左侧菜单 */
+.hover\:bg-gray-800:hover,.bg-\[\#202734\]\/50{
+  background: #eee !important;
+}
+
+.bg-gray-700\/30{
+   background: #fff !important;
+}
+div[x-data="inventory"] {
+   .bg-gray-800 {
+     background: #fff !important;
+   }
+ }
+ .rounded-lg{
+    background-image: none !important;
+ }
+ .overflow-hidden{
+    background: #fff !important;
+    &.overflow-hide{
+       background: #eee !important;
+    }
+    img{
+       opacity: 0 !important;
+    }
+ }
+ img{
+    &.max-w-full{
+       opacity: 0 !important;
+    }
+ }
+ .opacity-10{
+   opacity: 0 !important;
+ }
