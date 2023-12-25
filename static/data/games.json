@@ -720,6 +720,75 @@
         "status": 1
     },
     {
+        "title": "二合一合并树",
+        "enTitle": "Prestige Tree Mod About Merging Two",
+        "date": "2023-12-25",
+        "update": "2023-12-25",
+        "version": "0.0.1",
+        "path": "merging-two",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是一个可以合并东西的声望树模组，现在你有更多的时间可以浪费！ 目前，它包含：合并、合并、声望、合并等内容。",
+            "温馨提示：本游戏费手，费鼠标。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/merging-two/",
+        "customUrl": "https://merging-two.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://abitoftetration.github.io/PrestigeTreeModAboutMergingTwo/",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "公式树：扩展",
+        "enTitle": "The Formula Extended",
+        "date": "2023-12-24",
+        "update": "2023-12-24",
+        "version": "1.0",
+        "path": "the-formula-extended",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "群里小伙伴 @Shinwmyste【辉影神秘】 的作品，欢迎大家体验。"
+        ],
+        "customUrl": "https://shenmi124.github.io/The-Formula-Extended/",
+        "customUrlTit": "开始游戏",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "氨基放置",
         "enTitle": "Amino Idle",
         "date": "2023-12-21",
@@ -1091,8 +1160,8 @@
         "title": "超级游戏",
         "enTitle": "Hyper Game",
         "date": "2023-10-18",
-        "update": "2023-10-18",
-        "version": "1.3.0",
+        "update": "2023-12-21",
+        "version": "1.4.2",
         "path": "hyper-game",
         "type": [
             "点击",
@@ -10564,7 +10633,7 @@
         "title": "梅尔沃放置",
         "enTitle": "Melvor Idle",
         "date": "2020-05-22",
-        "update": "2023-01-31",
+        "update": "2023-12-22",
         "version": "",
         "path": "melvor-idle",
         "type": [
@@ -10582,6 +10651,7 @@
             "英文"
         ],
         "content": [
+            "2023-12-22：Epic平台免费领游戏本体，没有DLC哦。",
             "外国的一款网络游戏，游戏内容很多，值得一玩。现在已经出了官方汉化，所以咱们的汉化可以不用了。",
             "感谢之前 @冬天的雨 帮忙汉化、校对。",
             "不定期更新汉化文件~所以没事儿可以刷一下~"
@@ -10596,6 +10666,8 @@
         "customUrlTit2": "安卓直链下载",
         "customUrl3": "https://apps.apple.com/hk/app/melvor-idle/id1518963622",
         "customUrlTit3": "iOS版",
+        "customUrl4": "https://store.epicgames.com/zh-CN/p/melvor-idle-b6a9b3",
+        "customUrlTit4": "Epic今天免费领",
         "QQ": "967180028",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=4fuheHfVAmLnUaY1Utb7rcq93xWpv7yH&jump_from=webapi",
         "pic": [
@@ -12793,7 +12865,7 @@
             "《勇往直前》是一款基于卡片的冒险游戏，您可以尽可能多地杀死怪物。"
         ],
         "zhUrl": "https://g8hh.github.io/forward/",
-        "customUrl": "https://yx.g8hh.com/forward/",
+        "customUrl": "https://yx.g8hh.com.cn/forward/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
