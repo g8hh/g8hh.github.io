@@ -720,6 +720,71 @@
         "status": 1
     },
     {
+        "title": "你是先驱者",
+        "enTitle": "You're A Pioneer",
+        "date": "2023-12-28",
+        "update": "2023-12-28",
+        "version": "",
+        "path": "youre-a-pioneer",
+        "type": [
+            "点击",
+            "经营",
+            "模拟",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "从零开始，建设整个国家，一次建设一个村庄。 这是一款增量游戏，声望层是一个更大的城镇。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/youre-a-pioneer/",
+        "customUrl": "https://youre-a-pioneer.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://kygron.itch.io/youre-a-pioneer",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "修真大陆，国人自制修仙游戏，内测中",
+        "enTitle": "",
+        "date": "2023-12-27",
+        "update": "2023-12-27",
+        "version": "",
+        "path": "xiu-zhen-da-lu",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "原创",
+            "PC",
+            "修仙"
+        ],
+        "content": [
+            "国人自制的修仙游戏，欢迎大家体验。目前处于内测阶段，后期会登陆Steam平台。",
+            "欢迎加入QQ交流群: 792736191"
+        ],
+        "customUrl": "https://www.123pan.com/s/Rnf9-qya93.html",
+        "customUrlTit": "下载地址",
+        "QQ": "792736191",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "二合一合并树",
         "enTitle": "Prestige Tree Mod About Merging Two",
         "date": "2023-12-25",
@@ -7954,7 +8019,7 @@
         "content": [
             "《鸡蛋公司》是一款《Egg Inc》爱好者制作的网页放置版。"
         ],
-        "customUrl": "https://yx.g8hh.com/icoop-co",
+        "customUrl": "https://yx.g8hh.com/coop-co",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/coop-co",
         "enUrl": "https://mrbacon470.github.io/Coop-Co/",
@@ -18439,9 +18504,11 @@
         "status": 1
     },
     {
-        "title": "圣诞点击",
+        "title": "圣诞点击快乐",
         "enTitle": "Merry Clickmas",
         "date": "2019-08-14",
+        "update": "2023-12-26",
+        "version": "1.0.4",
         "path": "merry-clickmas",
         "type": [
             "已汉化",
@@ -18452,13 +18519,18 @@
             "挂机"
         ],
         "content": [
-            ""
+            "这是一个圣诞节制作礼物的放置游戏。翻出来给大家玩。"
         ],
-        "zhUrl": "https://yx.g8hh.com/merryclickmas",
+        "zhUrl": "https://g1tyx.github.io/merryclickmas/",
+        "customUrlTit": "备用-g8hh",
+        "customUrl": "https://merryclickmas.g8hh.com.cn/",
         "enUrl": "http://www.digitalchestnut.com/merryclickmas/",
         "pic": [
             1,
-            2
+            2,
+            3,
+            4,
+            5
         ],
         "status": 1
     },
@@ -20399,7 +20471,7 @@
         "title": "口袋妖怪放置",
         "enTitle": "Pokemon",
         "date": "2018-12-05",
-        "update": "2022-04-16",
+        "update": "2023-12-26",
         "path": "pokemon",
         "type": [
             "已汉化",
@@ -20411,13 +20483,14 @@
             "养成"
         ],
         "content": [
+            "2023-12-26：修复战斗刷新页面的问题",
             "这是精灵宝可梦的网页放置版，你的目标是抓齐图鉴里面全部的宝宝。",
             "感谢@Lunatic。、@大道、@寒天 等大佬帮忙汉化。"
         ],
         "zhUrl": "https://g1tyx.github.io/pokemon/",
         "enUrl": "https://pokeidle.net/",
         "wikiUrl": "https://yx.g8hh.com/piddb/",
-        "customUrl": "https://pokemon.g8hh.com/",
+        "customUrl": "https://pokemon.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
