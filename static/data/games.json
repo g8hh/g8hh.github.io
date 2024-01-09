@@ -720,6 +720,71 @@
         "status": 1
     },
     {
+        "title": "巫术放置2",
+        "enTitle": "Idle Mancery 2",
+        "date": "2024-01-02",
+        "update": "2024-01-06",
+        "version": "0.0.0a",
+        "path": "idle-mancery2",
+        "type": [
+            "汉化中",
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "《激燃太空》作者的新游戏，目前还在开发中。",
+            "游戏还在汉化，大家发现英文、缺图或汉化不对的情况，请及时发存档或建议给我处理哈，么么哒。"
+        ],
+        "customUrl": "https://idle-mancery2.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/idle-mancery2/",
+        "enUrl": "https://idlemancery-v2.vercel.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "卡巴拉增量之树",
+        "enTitle": "Kabalah Incremental Tree",
+        "date": "2023-12-31",
+        "update": "2023-12-31",
+        "version": "",
+        "path": "kabalah-incremental-tree",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "群里的美女姐姐2024年给大家的新年礼物！",
+            "在2023年通关的话可以获得美女姐姐的一份惊喜哦！"
+        ],
+        "customUrl": "https://kabalah-incremental-tree.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://beautyfallencat.github.io/Kabalah-Incremental-Tree",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "你是先驱者",
         "enTitle": "You're A Pioneer",
         "date": "2023-12-28",
@@ -3970,8 +4035,8 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2023-10-22",
-        "version": "0.1.7",
+        "update": "2024-01-09",
+        "version": "0.1.9",
         "path": "fundamental",
         "type": [
             "已汉化"
