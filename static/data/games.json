@@ -516,7 +516,7 @@
         "title": "迷你梦幻，怀旧多人在线游戏",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2023-10-16",
+        "update": "2024-01-10",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -617,7 +617,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2023-10-21",
+        "update": "2024-01-10",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -677,7 +677,7 @@
         "title": "放置传奇，PC挂机摸鱼放置游戏",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2023-11-18",
+        "update": "2024-01-10",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -717,6 +717,35 @@
             5
         ],
         "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "控制台放置",
+        "enTitle": "Idle Mancery 2",
+        "date": "2024-01-12",
+        "update": "2024-01-12",
+        "version": "0.97.1.0",
+        "path": "console-idle",
+        "type": [
+            "汉化中",
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "Console Idle 是一款引人入胜的点击游戏，您将在其中对抗强大的人工智能 G.A.I.A.。 您的目标是尽可能长时间地抵制并保持对系统的控制，或者决定对其进行格式化。 让自己沉浸在类似计算机的环境中，扮演操作员，做出战略决策，智胜人工智能。 你能抵挡住 G.A.I.A. 的无情攻击并证明你的实力吗？"
+        ],
+        "customUrl": "https://console-idle.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gityxs.github.io/console-idle/",
+        "enUrl": "https://www.crazygames.com/game/console-idle",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
         "status": 1
     },
     {
