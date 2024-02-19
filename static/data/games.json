@@ -617,7 +617,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-01-10",
+        "update": "2024-01-28",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -720,6 +720,118 @@
         "status": 1
     },
     {
+        "title": "文明放置，Steam中文模拟放置游戏",
+        "enTitle": "CivIdle",
+        "date": "2024-02-19",
+        "update": "2024-02-19",
+        "version": "",
+        "path": "cividle",
+        "type": [
+            "放置",
+            "点击",
+            "中文",
+            "U3D",
+            "模拟"
+        ],
+        "content": [
+            "帝国必须成长",
+            "扩大帝国的领土、生产和影响力，推进人民的科学和文化，让人民幸福——帝国必须发展，人口必须增加！",
+            "每次开局都是不同的",
+            "探索程序生成的地图，寻找资源和自然奇观。 扩大你的帝国并利用不同的地形。 随着技术的进步，您甚至可以重塑地形。",
+            "巨大的科技树",
+            "研究并解锁包含 100 多种技术的庞大科技树：从狩猎和采集，到写作和数学，一直到虚拟现实和人工智能。 随着技术的进步，你将解锁更多的游戏系统和机制，极大地扩展游戏玩法。"
+        ],
+        "customUrl": "https://store.steampowered.com/app/2181940/CivIdle/",
+        "customUrlTit": "Steam地址",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "放置妹妹，群友资质PC放置",
+        "enTitle": "",
+        "date": "2024-02-19",
+        "update": "2024-02-19",
+        "version": "0.0.2",
+        "path": "fzmm",
+        "type": [
+            "PC",
+            "PC独立",
+            "联网"
+        ],
+        "content": [
+            "欢迎来到《放置妹妹：传奇模式》——一款由独立开发者精心打造的放置类游戏。这款游戏旨在为玩家提供一个轻松愉快的娱乐体验，让你在忙碌的生活中找到片刻的放松。现在，我们邀请你加入这场不删档内测，与众多玩家一起探索这个充满传奇色彩的游戏世界。",
+            "游戏特色：",
+            "装备获取：所有装备均需通过在线打怪来获得，让你的冒险之旅充满挑战与惊喜。",
+            "离线成长：即使在离线状态下，你的角色也能继续积累经验，让你的冒险之旅永不停歇。",
+            "BOSS挑战：每个地图的最后一个怪物都是强大的BOSS，它们拥有更高的掉落率，尤其是那些变异的BOSS，更是不容错过。",
+            "经济策略：在经济紧张时，不妨尝试挑战鸡和稻草人，它们虽然弱小，但也能为你提供宝贵的资源。",
+            "战斗机制：在战斗中，怪物有几率变异，变异后的怪物不仅更强大，而且掉落率更高。注意，战斗失败会损失金钱，并有小概率掉落背包物品。记得提前准备好自动加血和加蓝的药水，以及选择好要使用的技能。",
+            "技能提升：掌握所有技能书，提升你的战斗能力。基本剑术提高命中率，抗拒火环增强魔法攻击，攻杀剑术增加物理攻击，精神力战法则能增加道术。技能效果与等级成正比。",
+            "离线挂机：游戏支持离线挂机功能，让你在退出游戏后也能继续积累经验，最长可达4小时。",
+            "未来展望：我们计划在未来加入挖矿、装备附魔、宠物召唤等更多功能，具体开发进度将取决于开发者的时间安排。",
+            "下载方式：想要体验这款独特的放置游戏吗？你可以通过123盘下载游戏包，或者加入我们的QQ交流群（群号：184332275）获取最新信息和下载链接。",
+            "准备好了吗？让我们一起在《放置妹妹：传奇模式》中，开启一段传奇般的冒险旅程吧！"
+        ],
+        "customUrl": "https://www.123pan.com/s/2lirVv-qy5av.html",
+        "customUrlTit": "下载地址",
+        "customUrl2": "https://docs.qq.com/doc/DSXVMb1dmalNEcG9Z",
+        "customUrlTit2": "游戏攻略",
+        "QQ": "184332275",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "元素周期增量树",
+        "enTitle": "Periodic Elements Incremental Tree",
+        "date": "2024-01-30",
+        "update": "2024-01-30",
+        "version": "0.2.2",
+        "path": "periodic-elements-incremental-tree",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是群友自制的一个模组树"
+        ],
+        "customUrl": "https://banana3864.github.io/Periodic-Elements-Incremental-Tree/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://periodic-elements-incremental-tree.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "挤猫猫增量",
         "enTitle": "Incrementally Dense Kittens",
         "date": "2024-01-19",
@@ -781,8 +893,8 @@
         "title": "巫术放置2",
         "enTitle": "Idle Mancery 2",
         "date": "2024-01-02",
-        "update": "2024-01-06",
-        "version": "0.0.0a",
+        "update": "2024-01-22",
+        "version": "0.0.1",
         "path": "idle-mancery2",
         "type": [
             "汉化中",
@@ -798,6 +910,8 @@
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/idle-mancery2/",
         "enUrl": "https://idlemancery-v2.vercel.app/",
+        "QQ": "881240068",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=d1cy3VkKrf-3OLcd6qj0GPebZcb1Ifkw&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -873,10 +987,10 @@
         "status": 1
     },
     {
-        "title": "修真大陆，国人自制修仙游戏，公测中",
+        "title": "修真大陆，国人自制修仙游戏，不删档内测",
         "enTitle": "",
         "date": "2023-12-27",
-        "update": "2024-01-20",
+        "update": "2024-01-24",
         "version": "",
         "path": "xiu-zhen-da-lu",
         "type": [
@@ -890,7 +1004,7 @@
             "修仙"
         ],
         "content": [
-            "国人自制的修仙游戏，欢迎大家体验。目前处于公测阶段，后期会登陆Steam平台。",
+            "国人自制的修仙游戏，欢迎大家体验。目前处于不删档内测阶段，后期会登陆Steam平台。",
             "欢迎加入QQ交流群: 792736191",
             "【接引码】SPN8-K61Z-WXRT-BR05",
             "进游戏-每日福利-获得仙缘-填入接引码获得初始福利",
@@ -1003,8 +1117,8 @@
         "title": "氨基放置",
         "enTitle": "Amino Idle",
         "date": "2023-12-21",
-        "update": "2023-12-21",
-        "version": "0.15",
+        "update": "2024-01-24",
+        "version": "0.16",
         "path": "amino-idle",
         "type": [
             "点击",
@@ -1012,6 +1126,7 @@
             "放置"
         ],
         "content": [
+            "2024-01-24：修复“地形”无法“分析异常情况”的问题；",
             "这是一款模拟点击放置游戏，有点杀时间。",
             "游戏暂时没有导出存档功能，只能去浏览器控制台-本地存储里面备份。"
         ],
@@ -5178,8 +5293,8 @@
         "title": "继续解锁",
         "enTitle": "Theres More",
         "date": "2022-11-09",
-        "update": "2023-04-24",
-        "version": "0.60",
+        "update": "2024-02-19",
+        "version": "0.62",
         "path": "theresmoregame",
         "type": [
             "已汉化",
@@ -9972,7 +10087,7 @@
         "title": "筑基",
         "enTitle": "Zhu Ji",
         "date": "2022-01-21",
-        "update": "2023-12-06",
+        "update": "2024-01-23",
         "version": "0.0.3.9",
         "path": "zhu-ji",
         "type": [
@@ -9984,12 +10099,13 @@
             "修仙"
         ],
         "content": [
+            "2024-01-23：备用地址由于有敏感词，被服务器运营商警告了，已废弃，请导出存档前往github地址游戏。",
             "《魔法理论群》的 @Mr.Pldada 小伙伴在《魔法理论》的基础上进行了二次开发，搞了一个修仙版本。",
             "目前还在开发中，锅巴特此推荐~欢迎小伙伴们体验！"
         ],
         "customUrl": "https://mostlai.github.io/HD-TEST/",
         "customUrlTit": "开始游戏",
-        "customUrl2": "https://hd-test.g8hh.com/",
+        "customUrl2": "https://hd-test.g8hh.com.cn/",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl3": "http://mostlai.ink/HD-TEST/",
         "customUrlTit3": "旧地址域名过期",
