@@ -720,6 +720,35 @@
         "status": 1
     },
     {
+        "title": "无限按钮模拟器",
+        "enTitle": "Infinite Button Simulator",
+        "date": "2024-02-20",
+        "update": "2024-02-20",
+        "version": "1.1",
+        "path": "infinite-button-simulator",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是一款模拟按钮点击的放置游戏，随着进度的深入，会解锁各种不同的按钮，需要的点击量也是很恐怖的。"
+        ],
+        "zhUrl": "https://gityxs.github.io/infinite-button-simulator/",
+        "customUrl": "https://infinite-button-simulator.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://ducdat0507.github.io/infinite-bsim/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "文明放置，Steam中文模拟放置游戏",
         "enTitle": "CivIdle",
         "date": "2024-02-19",
@@ -730,7 +759,7 @@
             "放置",
             "点击",
             "中文",
-            "U3D",
+            "Steam",
             "模拟"
         ],
         "content": [
@@ -835,7 +864,7 @@
         "title": "挤猫猫增量",
         "enTitle": "Incrementally Dense Kittens",
         "date": "2024-01-19",
-        "update": "2024-01-109",
+        "update": "2024-01-19",
         "version": "",
         "path": "incrementally-dense-kittens",
         "type": [
