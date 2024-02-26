@@ -720,6 +720,37 @@
         "status": 1
     },
     {
+        "title": "不法之治",
+        "enTitle": "Unlawful Reign",
+        "date": "2024-02-26",
+        "update": "2024-02-26",
+        "version": "",
+        "path": "unlawful-reign",
+        "type": [
+            "已汉化",
+            "点击",
+            "模拟",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "一开始是个小喽啰，只会扒窃，最终赚到钱、名声大噪等等，解锁升级、新的任务、组建自己的帮派等等。",
+            "提示：游戏仅供娱乐，切勿代入生活。"
+        ],
+        "zhUrl": "https://gityxs.github.io/unlawful-reign/",
+        "customUrl": "https://unlawful-reign.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://dainty-horse-1b0c9c.netlify.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "无限定义，群友自制战棋放置页游",
         "enTitle": "",
         "date": "2024-02-22",
