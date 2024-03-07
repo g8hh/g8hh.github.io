@@ -351,7 +351,7 @@
         "title": "梦幻阁 - 梦幻题材文字放置类上班摸鱼游戏",
         "enTitle": "",
         "date": "2023-03-09",
-        "update": "2023-10-16",
+        "update": "2024-03-01",
         "version": "",
         "path": "mhg",
         "type": [
@@ -516,7 +516,7 @@
         "title": "迷你梦幻，怀旧多人在线游戏",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2024-02-20",
+        "update": "2024-03-02",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -548,7 +548,7 @@
         "title": "迷你传奇，是兄弟就来被我砍",
         "enTitle": "",
         "date": "2022-06-14",
-        "update": "2023-10-16",
+        "update": "2024-02-28",
         "version": "",
         "path": "mini-cq",
         "type": [
@@ -617,7 +617,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-02-21",
+        "update": "2024-03-03",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -677,7 +677,7 @@
         "title": "放置传奇，PC挂机摸鱼放置游戏",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2024-02-20",
+        "update": "2024-03-02",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -720,11 +720,45 @@
         "status": 1
     },
     {
-        "title": "不法之治",
+        "title": "Idle Iktah，中文手机放置",
+        "enTitle": "",
+        "date": "2024-03-05",
+        "update": "2024-03-05",
+        "version": "",
+        "path": "idle-iktah",
+        "type": [
+            "中文",
+            "安卓",
+            "苹果",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "您的冒险始于未驯服的荒野的中心，在那里，在宁静的河流旁钓鱼、开采岩石露头或砍伐当地松树等简单行为将成为繁荣生存的基础。作为一款多功能的制作模拟器，Idle Iktah 将传统角色扮演游戏元素与令人满意的渐进式游戏进程无缝融合，让您可以以适合您的节奏制作工具，升级技能并解锁土地的秘密。",
+            "在这个点击游戏中升级是非常有意义的，提供强大的奖励和能力。无论您是离线还是积极参与，您的旅程都会继续。离线进度 (AFK) 功能可确保您的社区不断发展，资源积累，故事不断展开，即使您不积极玩游戏！"
+        ],
+        "customUrl": "https://apps.apple.com/fr/app/idle-iktah/id1631764038",
+        "customUrlTit": "iOS版",
+        "customUrl2": "https://play.google.com/store/apps/details?id=games.grounded.idleiktah",
+        "customUrlTit2": "安卓市场下载",
+        "customUrl3": "https://apkpremier.com/games-grounded-idleiktah/idle-iktah/download/",
+        "customUrlTit3": "安卓版直链下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1
+    },
+    {
+        "title": "法外之王",
         "enTitle": "Unlawful Reign",
         "date": "2024-02-26",
-        "update": "2024-02-26",
-        "version": "",
+        "update": "2024-02-27",
+        "version": "0.3.1",
         "path": "unlawful-reign",
         "type": [
             "已汉化",
@@ -734,6 +768,7 @@
             "放置"
         ],
         "content": [
+            "2024-02-27：同步到最新版，可能会丢档，做好心理准备！",
             "一开始是个小喽啰，只会扒窃，最终赚到钱、名声大噪等等，解锁升级、新的任务、组建自己的帮派等等。",
             "提示：游戏仅供娱乐，切勿代入生活。"
         ],
@@ -1107,7 +1142,7 @@
         "content": [
             "国人自制的修仙游戏，欢迎大家体验。目前处于不删档内测阶段，后期会登陆Steam平台。",
             "欢迎加入QQ交流群: 792736191",
-            "【接引码】SPN8-K61Z-WXRT-BR05",
+            "【接引码】F2YC-WUKD-EZJ7-F1I4",
             "进游戏-每日福利-获得仙缘-填入接引码获得初始福利",
             "此游戏是作者上班闲暇时独自一人开发，服务需费用以及steam注册费用都是自掏,不喜勿喷,非商业游戏，",
             "（注：这是一个多人在线的文字网游，非单机游戏!）",
@@ -3500,8 +3535,8 @@
         "title": "英雄之歌",
         "enTitle": "Ballad Of Heroes",
         "date": "2023-04-27",
-        "update": "2024-01-22",
-        "version": "0.76",
+        "update": "2024-02-27",
+        "version": "0.82",
         "path": "ballad-of-heroes",
         "type": [
             "已汉化",
@@ -16730,8 +16765,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2024-01-22",
-        "version": "0.10.18",
+        "update": "2024-02-29",
+        "version": "0.10.19",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -20567,7 +20602,7 @@
             ""
         ],
         "zhUrl": "https://g1tyx.github.io/structure",
-        "customUrl": "https://structure.g8hh.com/",
+        "customUrl": "https://structure.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://zhaolinxu.github.io/structure/",
         "oscUrl": "https://www.oschina.net/p/structure",
