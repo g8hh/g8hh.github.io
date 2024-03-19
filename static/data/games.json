@@ -351,7 +351,7 @@
         "title": "梦幻阁 - 梦幻题材文字放置类上班摸鱼游戏",
         "enTitle": "",
         "date": "2023-03-09",
-        "update": "2024-03-01",
+        "update": "2024-03-11",
         "version": "",
         "path": "mhg",
         "type": [
@@ -516,7 +516,7 @@
         "title": "迷你梦幻，怀旧多人在线游戏",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2024-03-02",
+        "update": "2024-03-11",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -617,7 +617,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-03-03",
+        "update": "2024-03-12",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -677,7 +677,7 @@
         "title": "放置传奇，PC挂机摸鱼放置游戏",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2024-03-02",
+        "update": "2024-03-11",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -7175,8 +7175,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2023-08-22",
-        "version": "1.6.5",
+        "update": "2024-03-19",
+        "version": "1.7.4",
         "path": "spice-idle",
         "type": [
             "已汉化",
@@ -7186,7 +7186,7 @@
             "《香料放置》是《经验模拟器》作者的另一个作品，目前来看，游戏比较肝，你的肝准备好了吗？​",
             "后面发现没汉化的地方可以先保存、刷新下看看汉化有木有更新；如果没有，请发存档给我~​"
         ],
-        "customUrl": "https://yx.g8hh.com/spice-idle",
+        "customUrl": "https://spice-idle.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/spice-idle",
         "enUrl": "http://zakuro98.github.io/Spice-Idle/",
@@ -18338,8 +18338,8 @@
         "title": "一起打怪兽",
         "enTitle": "Let's Fight Monster",
         "date": "2020-03-31",
-        "update": "2020-05-28",
-        "version": "1.525",
+        "update": "2024-03-14",
+        "version": "",
         "path": "lets-fight-monster",
         "type": [
             "点击",
@@ -18349,10 +18349,15 @@
             "PC"
         ],
         "content": [
-            "百度盘密码：lpc2"
+            "游戏特色：",
+            "1.文字挂机游戏，摸鱼更快乐；",
+            "2.特色的装备打造系统，装备合成，官职系统，转身系统，宠物炼丹挖矿一应俱全~；",
+            "3.官群畅所欲言，你想知道的答案都可以在群里问，有事儿@作者，解决问题不墨迹；",
+            "4.重点：（持续更新~~~），坚挺的作者几乎日日更新。"
         ],
         "weiyunUrl": "https://share.weiyun.com/59lFieY",
-        "baiduUrl": "https://pan.baidu.com/s/1jKLqizT1zZGER7RIRe4Gbw",
+        "baiduUrl": "https://pan.baidu.com/s/1AnbthveoXK3wIfaoD939iw?pwd=8b52",
+        "QQ": "952551682",
         "pic": [
             1,
             2
