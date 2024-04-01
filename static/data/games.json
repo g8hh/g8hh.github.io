@@ -763,6 +763,39 @@
         "status": 1
     },
     {
+        "title": "混沌时空",
+        "enTitle": "Chaos Time And Space",
+        "date": "2024-04-01",
+        "update": "2024-04-01",
+        "version": "0.4.2.1",
+        "path": "chaos-time-and-space",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "群友自制"
+        ],
+        "content": [
+            "这游戏是群里的 @Shinwmyste【辉影神秘】2022年做的，已经不更新了（可能会做重置版）",
+            "官方QQ群：688646311"
+        ],
+        "customUrl": "https://shenmi124.github.io/chaos_time_and_space/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://chaos-time-and-space.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "QQ": "688646311",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "模拟资本家 ",
         "enTitle": "Sim Companies",
         "date": "2024-03-11",
@@ -1053,8 +1086,8 @@
         "title": "元素周期增量树",
         "enTitle": "Periodic Elements Incremental Tree",
         "date": "2024-01-30",
-        "update": "2024-01-30",
-        "version": "0.2.2",
+        "update": "2024-03-30",
+        "version": "0.3.2+",
         "path": "periodic-elements-incremental-tree",
         "type": [
             "放置",
@@ -1459,6 +1492,8 @@
         "customUrlTit": "开始游戏",
         "customUrl2": "https://gityx.com/help/faq/633.html",
         "customUrlTit2": "汉化教程",
+        "QQ": "701342586",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=uWi2pd8HCNjx3nHncLpm8B4elxc7uHDS&jump_from=webapi&authKey=8ac6knYnTowr9nX6ILV2X0iRolSjoD0KRIYMF3do7TXCx/svoB1VP6n6S11fnDa5",
         "pic": [
             1,
             2,
@@ -4662,6 +4697,8 @@
         "customUrlTit": "开始游戏",
         "customUrl2": "https://gityx.com/help/faq/633.html",
         "customUrlTit2": "汉化教程",
+        "QQ": "701342586",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=uWi2pd8HCNjx3nHncLpm8B4elxc7uHDS&jump_from=webapi&authKey=8ac6knYnTowr9nX6ILV2X0iRolSjoD0KRIYMF3do7TXCx/svoB1VP6n6S11fnDa5",
         "pic": [
             1,
             2,
@@ -8307,7 +8344,7 @@
         "title": "银河奶牛放置",
         "enTitle": "Milky Way Idle",
         "date": "2022-07-04",
-        "update": "2022-07-04",
+        "update": "2024-03-20",
         "version": "",
         "path": "milkywayidle",
         "type": [
@@ -8317,13 +8354,16 @@
             "策略"
         ],
         "content": [
+            "最新汉化文件去交流群：701342586 获取。",
             "​《银河奶牛放置》是一款以太空中的魔法奶牛为主题的多人在线放置奇幻角色扮演游戏。您可以学习多种技能，包括采集、制作或战斗。您还可以通过市场与其他玩家聊天或交易。",
             "玩过《梅尔沃放置》的小伙伴估计一下就看出来了，这个游戏借鉴了很多梅尔沃的特色。",
             " 游戏还在汉化中，目前计划是初步是先机翻走一遍，然后再慢慢润色。​所以大家玩的时候可以时不时的刷新下游戏，然后重新引入汉化脚本。"
         ],
         "customUrl": "https://note.youdao.com/s/EzfCCyh4",
         "customUrlTit": "汉化脚本/方式",
-        "enUrl": "https://www.milkywayidle.com",
+        "enUrl": "https://www.milkywayidle.com/?ref=88725",
+        "QQ": "701342586",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=uWi2pd8HCNjx3nHncLpm8B4elxc7uHDS&jump_from=webapi&authKey=8ac6knYnTowr9nX6ILV2X0iRolSjoD0KRIYMF3do7TXCx/svoB1VP6n6S11fnDa5",
         "pic": [
             1,
             2,
@@ -14569,8 +14609,8 @@
         "title": "等级树",
         "enTitle": "The Leveling Tree",
         "date": "2021-06-04",
-        "update": "2021-09-20",
-        "version": "0.1.3.2",
+        "update": "2024-03-24",
+        "version": "0.2.0.1",
         "path": "the-leveling-tree",
         "type": [
             "已汉化",
@@ -14588,7 +14628,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-leveling-tree/",
         "enUrl": "https://denisolenison.github.io/The-Leveling-Tree/",
-        "customUrl": "https://yx.g8hh.com/the-leveling-tree/",
+        "customUrl": "https://the-leveling-tree.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
