@@ -763,6 +763,115 @@
         "status": 1
     },
     {
+        "title": "魔法研究2",
+        "enTitle": "Magic Research 2",
+        "date": "2024-04-10",
+        "update": "2024-04-10",
+        "version": "1.0.0",
+        "path": "magic-research2",
+        "type": [
+            "汉化中",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "欢迎来到《Magic Research 2》，这是一款来自《Magic Research》作者的增量RPG。学习无数的咒语，面对强大的敌人，并指挥一个巫师团队，他们可以在你寻找或创造魔法石的旅程中为你施法。",
+            "在《魔法研究2》中，你是一个新手巫师，只有一个目标:找到或创造魔法石，一种传说中的魔法物品，据说可以治愈任何疾病。当你这样做的时候，你会学到比你想象的更多的魔法和你周围的世界。什么样的冒险在等着你呢?"
+        ],
+        "zhUrl": "https://gltyx.github.io/magic-research2/",
+        "customUrl": "https://magic-research2.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://mcolotto.github.io/magic-research-demo/magic-research-2/",
+        "steamUrl": "https://store.steampowered.com/app/2864890/Magic_Research_2/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "像素猎人放置",
+        "enTitle": "Pixel Hunter Idle",
+        "date": "2024-04-08",
+        "update": "2024-04-08",
+        "version": "",
+        "path": "pixel-hunter-idle",
+        "type": [
+            "放置",
+            "iOS",
+            "安卓",
+            "经营",
+            "离线",
+            "养成",
+            "升级",
+            "冒险",
+            "联网"
+        ],
+        "content": [
+            "注意：iOS版需要外区账号才能下载，国区是没有的。",
+            "-欢迎来到像素猎人，最终的空闲RPG，在那里你可以升级你的猎人，并有壮观的战斗与吨的怪物，而你离开了24小时!",
+            "-令人上瘾的游戏，令人惊叹的像素图形和大量的内容将让你娱乐数小时。",
+            "-探索一个充满宝藏的地下城和强大敌人的广阔世界。从各种具有独特特征和技能的武器中进行选择，并通过各种装备和技能选项展示您的策略!",
+            "-参与对抗怪物和boss的惊心动魄的战斗，收集战利品来升级你的英雄的装备和技能。随着你在游戏中的进展，你将解锁新的区域来探索和发现强大的神器和物品，这些神器和物品可以给你在战斗中带来显著的优势。",
+            "-这还没完!Idle Gameplay系统允许你在不玩游戏的情况下继续赚取离线奖励。设置你的英雄自动战斗，看着他们处理敌人和收集物品。",
+            "-那你还在等什么?下载像素猎人空闲现在和体验最终的空闲RPG冒险!现在玩!",
+            "砍杀生存2D像素空闲角色扮演游戏!猎杀大量的怪物并升级你的角色。现在就开始吧!"
+        ],
+        "customUrl4": "https://play.google.com/store/apps/details?id=com.zilliongames.hunteridle",
+        "customUrlTit4": "安卓市场版",
+        "customUrl3": "https://apkpure.com/pixel-hunter-idle-x-tickethero/com.zilliongames.hunteridle",
+        "customUrlTit3": "安卓直链下载",
+        "customUrl2": "https://apps.apple.com/us/app/pixel-hunter-idle/id1664366717",
+        "customUrlTit2": "iOS美区地址",
+        "customUrl": "https://app.adjust.com/14e16hl8",
+        "customUrlTit": "​锅巴的邀请地址（IOS）",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "status": 1
+    },
+    {
+        "title": "RPG放置",
+        "enTitle": "Yet Another Idle RPG Game",
+        "date": "2024-04-03",
+        "update": "2024-04-03",
+        "version": "0.3.5i",
+        "path": "yet-another-idle-rpg",
+        "type": [
+            "已汉化",
+            "点击",
+            "挂机",
+            "RPG",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "只需点击“获取数字”，您就可以升级您的最小值和最大值。游戏逐渐展开，您的目标是总共获得 1,000,000 个数字（已花费的数字仍计入此目标）。"
+        ],
+        "zhUrl": "https://gityxs.github.io/yet-another-idle-rpg/",
+        "customUrl": "https://yet-another-idle-rpg.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://miktaew.github.io/yet-another-idle-rpg/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "混沌时空",
         "enTitle": "Chaos Time And Space",
         "date": "2024-04-01",
@@ -5591,6 +5700,8 @@
             "放置"
         ],
         "content": [
+            "2024-04-01：更新到0.71版本了",
+            "2024-04-01：汉化版打不开的，在.com后面加个.cn",
             "11-18：更新到0.42.3版本了",
             "11-12：更新到0.42.2版本了，由 @by22dgb 大佬接手汉化，锅巴我可以专心发掘新游戏去了~",
             "11-10：锅巴汉化的累死了，没事儿就刷新一下，可能就汉化了~游戏内容超级多，墙裂推荐！",
@@ -7212,8 +7323,8 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2024-03-19",
-        "version": "1.7.4",
+        "update": "2024-04-05",
+        "version": "1.7.5",
         "path": "spice-idle",
         "type": [
             "已汉化",
@@ -11323,7 +11434,7 @@
             "由于文本太多。汉化缓慢，大家玩着先~没事儿了就刷新看看~"
         ],
         "enUrl": "https://23html.github.io/",
-        "customUrl": "https://proto23.g8hh.com/",
+        "customUrl": "https://proto23.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/proto23",
         "customUrlTit2": "备用地址-GitHub",
