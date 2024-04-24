@@ -617,7 +617,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-03-12",
+        "update": "2024-04-21",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -627,6 +627,15 @@
             "升级"
         ],
         "content": [
+            "新区计划：风云际会，4月26日，10：00开启",
+            "《无尽洪荒》五一活动公告",
+            " 活动时间：2024年5月1日00:00-2024年5月5日23：59",
+            "活动内容：",
+            "1、五行宫重置双倍护灵符双倍；",
+            "2、每日首次充值任意金额，领取100元宝；",
+            "3、5月1日00：00元宝充值双倍重置（含648以上档位）；",
+            "4、五一节日礼包码1个（活动开启后，通过游戏内容活动页面查看）。",
+            "特别说明：本活动仅在有效期内生效。",
             "《无尽洪荒》是一款复古文字挂机文字游戏，可以在游戏中扮演一位洪荒修行者，击败神兽，获取材料，通过中华古代五行相生相克的原理，锻造强力装备，站立于洪荒之巅。",
             "不同五行职业，各有千秋，相生相克；专属的五行技能，畅玩五行特色；自由选择套装，搭配最强属性；挂机获得高级材料，手动锻造最强装备；游戏所有功能，概率全部看脸。",
             "QQ交流群：37459311，有不懂的可以加群问，或者看游戏内的攻略。",
@@ -763,6 +772,62 @@
         "status": 1
     },
     {
+        "title": "记忆体放置",
+        "enTitle": "Re:member",
+        "date": "2024-04-24",
+        "update": "2024-04-24",
+        "version": "",
+        "path": "remember",
+        "type": [
+            "汉化中",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "这是作者为练习网络开发而制作的增量游戏。游戏玩法大致就是不断购买各种设备、带宽升级，解锁更多的升级。"
+        ],
+        "zhUrl": "https://gltyx.github.io/remember/",
+        "customUrl": "https://remember.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://remember.netlify.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "炼金与战斗",
+        "enTitle": "Alchy Angular",
+        "date": "2024-04-17",
+        "update": "2024-04-17",
+        "version": "0.0.1f",
+        "path": "alchy-angular",
+        "type": [
+            "汉化中",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "作者说是受到《另类史学家》和《脆皮》的启发，然后写了这个游戏，战斗地图看着就是脆皮的玩法。"
+        ],
+        "zhUrl": "https://gltyx.github.io/alchy-angular/",
+        "customUrl": "https://alchy-angular.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://alchy.bagsofcode.de/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "魔法研究2",
         "enTitle": "Magic Research 2",
         "date": "2024-04-10",
@@ -844,8 +909,8 @@
         "title": "RPG放置",
         "enTitle": "Yet Another Idle RPG Game",
         "date": "2024-04-03",
-        "update": "2024-04-03",
-        "version": "0.3.5i",
+        "update": "2024-04-23",
+        "version": "0.4.0o",
         "path": "yet-another-idle-rpg",
         "type": [
             "已汉化",
@@ -982,7 +1047,7 @@
         "title": "Idle Iktah，中文手机放置",
         "enTitle": "",
         "date": "2024-03-05",
-        "update": "2024-03-05",
+        "update": "2024-04-19",
         "version": "",
         "path": "idle-iktah",
         "type": [
@@ -1002,6 +1067,8 @@
         "customUrlTit2": "安卓市场下载",
         "customUrl3": "https://pan.baidu.com/s/14H4sUgS_4JgrlZBGzUYfhw?pwd=fimq",
         "customUrlTit3": "安卓版网盘下载",
+        "QQ": "920405353",
+        "qqUrl": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=EazjGRywyhaWaCip5oIcG3XQIM5069hv&authKey=OHp2XsoHFO7VHvPjo7CctgO9FZOa7tKisosFnkkJqowNvppZ9MMmru%2Fkjr5M%2F3UG&noverify=0&group_code=920405353",
         "pic": [
             1,
             2,
@@ -1195,8 +1262,8 @@
         "title": "元素周期增量树",
         "enTitle": "Periodic Elements Incremental Tree",
         "date": "2024-01-30",
-        "update": "2024-03-30",
-        "version": "0.3.2+",
+        "update": "2024-04-14",
+        "version": "0.3.3",
         "path": "periodic-elements-incremental-tree",
         "type": [
             "放置",
@@ -1401,7 +1468,7 @@
         "content": [
             "国人自制的修仙游戏，欢迎大家体验。目前处于不删档内测阶段，后期会登陆Steam平台。",
             "欢迎加入QQ交流群: 792736191",
-            "【接引码】F2YC-WUKD-EZJ7-F1I4",
+            "【接引码】SGIZ-G0HU-MYN9-O40Y",
             "进游戏-每日福利-获得仙缘-填入接引码获得初始福利",
             "此游戏是作者上班闲暇时独自一人开发，服务需费用以及steam注册费用都是自掏,不喜勿喷,非商业游戏，",
             "（注：这是一个多人在线的文字网游，非单机游戏!）",
@@ -1912,8 +1979,8 @@
     {
         "title": "修仙小屋，Steam修仙放置",
         "enTitle": "",
-        "date": "2023-10-11",
-        "update": "2023-10-11",
+        "date": "2024-04-22",
+        "update": "2024-04-22",
         "version": "",
         "path": "xiuxianxiaowu",
         "type": [
@@ -1977,7 +2044,8 @@
             "反馈：",
             "有任何问题或BUG可以通过反馈快速提交，作者看到后会进行回复，一些重大BUG会给与称号的奖励！"
         ],
-        "steamUrl": "https://store.steampowered.com/app/2496860/_/",
+        "steamUrl": "https://store.steampowered.com/app/2892880/_/",
+        "QQ": "7718256",
         "pic": [
             1,
             2,
@@ -7680,8 +7748,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2023-11-03",
-        "version": "0.5.2",
+        "update": "2024-04-11",
+        "version": "0.5.3",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -13362,7 +13430,7 @@
         "title": "人生重开模拟器",
         "enTitle": "Life Restart",
         "date": "2021-09-03",
-        "update": "2021-09-06",
+        "update": "2024-04-19",
         "version": "",
         "path": "life-restart",
         "type": [
@@ -13376,7 +13444,7 @@
         "content": [
             "群里突然火起来的游戏，貌似有点意思，搬过来给大家玩~"
         ],
-        "zhUrl": "https://life-restart.g8hh.com/view/",
+        "zhUrl": "https://life-restart.g8hh.com.cn/",
         "enUrl": "https://liferestart.syaro.io/view/",
         "customUrl": "https://g8hh.github.io/life-restart/view/",
         "customUrlTit": "备用地址-GitHub",
@@ -15497,8 +15565,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "",
         "date": "2021-04-22",
-        "update": "2024-01-15",
-        "version": "0.6.165",
+        "update": "2024-04-20",
+        "version": "0.6.167",
         "path": "jyf",
         "type": [
             "放置",
@@ -18508,7 +18576,7 @@
         ],
         "weiyunUrl": "https://share.weiyun.com/59lFieY",
         "baiduUrl": "https://pan.baidu.com/s/1AnbthveoXK3wIfaoD939iw?pwd=8b52",
-        "QQ": "952551682",
+        "QQ": "531466370",
         "pic": [
             1,
             2
