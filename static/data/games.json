@@ -729,6 +729,79 @@
         "status": 1
     },
     {
+        "title": "怨种树，群友自制模组树游戏",
+        "enTitle": "A YuanZhong Tree",
+        "date": "2024-05-07",
+        "update": "2024-05-07",
+        "version": "",
+        "path": "a-yuanzhong-tree",
+        "type": [
+            "放置",
+            "文字",
+            "群友自制",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "群里又一位小伙伴动手做游戏了，欢迎大家体验~",
+            "这是一个用了非常创新的手法写的树，虽然只有15分钟的流程，但是真的十分创人 作者qq：2960729702"
+        ],
+        "customUrl": "https://qwqe198.github.io/a-yuanzhongtree/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://a-yuanzhong-tree.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "Rusty's Retirement，Steam休闲农场模拟摸鱼放置",
+        "enTitle": "",
+        "date": "2024-05-07",
+        "update": "2024-05-07",
+        "path": "rustys-retirement",
+        "type": [
+            "中文",
+            "放置",
+            "模拟",
+            "挂机",
+            "Steam"
+        ],
+        "content": [
+            "这是一款模拟农场种植的休闲养成放置游戏，游戏亮点是可以固定在屏幕底部摸鱼，不会影响您的正常工作。",
+            "游戏是4月26号发布的，非免费，原价29，目前-10%折扣，26.1可到手。",
+            "休闲农场模拟游戏《Rusty's Retirement》会显示在屏幕底部，让您可以一边处理其他事务，一边打理自己的农场！",
+            "种植作物：",
+            "种植各种作物，观看鲁斯蒂给这些庄稼浇水施肥，除草采摘。随着游戏的不断深入，您还可以解锁香脆胡萝卜和红彤彤的番茄等新作物。",
+            "生产生物燃料：",
+            "利用作物生产清洁节能的生物燃料，这是机器人的重要动力来源。向其他机器居民出售生物燃料，并将所得资金再投资，不断扩建您的农场。",
+            "使用机器人自动化作业：",
+            "部署可爱的小机器人，协助播种、浇水和收获。定制与升级机器人助手，提高他们的工作效率。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/2666510/Rustys_Retirement/",
+        "QQ": "683847928",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=p1P9dU9ukMcZPPCjG5A17d6QruBJAtgE&jump_from=webapi&authKey=suq2gqcP1sFSNfUY5cmAnt1WbGHif77PIQBDx0XFv97SvwTYJNYCB17Wnm9BHLKB",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "放置仙缘，网页文字摸鱼放置",
         "enTitle": "",
         "date": "2024-03-12",
@@ -772,6 +845,47 @@
         "status": 1
     },
     {
+        "title": "永夜之开局一把剑，文字摸鱼放置RPG",
+        "enTitle": "Re:member",
+        "date": "2024-04-26",
+        "update": "2024-04-26",
+        "version": "",
+        "path": "yyzkjybj",
+        "type": [
+            "联网",
+            "适配手机",
+            "RPG",
+            "战斗",
+            "挂机",
+            "摸鱼",
+            "放置"
+        ],
+        "content": [
+            "建议首选地址①，如果打不开，请尝试备用地址。",
+            "两者同步更新，但存档互相独立。",
+            "游戏交流群：614658451",
+            "游戏界面可以自适应手机或者电脑。"
+        ],
+        "customUrl": "https://cszwbirbwl.github.io/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://cszwbirbwl-github-io.pages.dev/",
+        "customUrlTit2": "备用地址",
+        "customUrl3": "https://df.app.meideng.net/",
+        "customUrlTit3": "永夜2016典藏回忆版",
+        "customUrl4": "https://brucebaldasd.github.io/EternalNight/",
+        "customUrlTit4": "修真神器版",
+        "customUrl5": "http://dark.nbfeng.top/",
+        "customUrlTit5": "online赛季版",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "记忆体放置",
         "enTitle": "Re:member",
         "date": "2024-04-24",
@@ -803,8 +917,8 @@
         "title": "炼金与战斗",
         "enTitle": "Alchy Angular",
         "date": "2024-04-17",
-        "update": "2024-04-17",
-        "version": "0.0.1f",
+        "update": "2024-05-06",
+        "version": "0.0.1g",
         "path": "alchy-angular",
         "type": [
             "汉化中",
@@ -15565,7 +15679,7 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "",
         "date": "2021-04-22",
-        "update": "2024-04-20",
+        "update": "2024-05-02",
         "version": "0.6.167",
         "path": "jyf",
         "type": [
@@ -15581,6 +15695,7 @@
             "武侠"
         ],
         "content": [
+            "注意：游戏地址已变更~",
             "点击版本号即可进入对应版本开玩~",
             "《金庸群侠•大乱斗》是爱好者自制的游戏，仅供金庸武侠世界爱好者分享和交流，不用于商业盈利，大家可以当放置游戏玩。",
             "大部分素材来自各类金庸mod，如《金书群侠传》、《金庸群芳谱》、《金庸群侠前传》等。。",
@@ -15589,9 +15704,9 @@
             "喜欢的朋友可以加玩家群，给作者提建议、交流等（锅巴我已经加进去了~）。",
             "QQ群：922600429"
         ],
-        "customUrl": "https://zhouxiaobo1990.gitee.io/jyf/",
+        "customUrl": "https://zhouxiaobo.fun/jyf",
         "customUrlTit": "原版",
-        "customUrl2": "https://yx.g8hh.com/jyf",
+        "customUrl2": "https://jyf.g8hh.com.cn/",
         "customUrlTit2": "备用地址-g8hh",
         "oscUrl": "https://www.oschina.net/p/jyf",
         "QQ": "922600429",
@@ -18557,8 +18672,8 @@
         "title": "一起打怪兽",
         "enTitle": "Let's Fight Monster",
         "date": "2020-03-31",
-        "update": "2024-03-14",
-        "version": "",
+        "update": "2024-05-07",
+        "version": "1.53",
         "path": "lets-fight-monster",
         "type": [
             "点击",
@@ -18568,6 +18683,7 @@
             "PC"
         ],
         "content": [
+            "2024-04-19：更新到1.54版本了，下载链接换成作者网盘地址~",
             "游戏特色：",
             "1.文字挂机游戏，摸鱼更快乐；",
             "2.特色的装备打造系统，装备合成，官职系统，转身系统，宠物炼丹挖矿一应俱全~；",
