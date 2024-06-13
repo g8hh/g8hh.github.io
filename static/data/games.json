@@ -252,7 +252,7 @@
         "title": "火爆H5页游手游大全",
         "enTitle": "",
         "date": "2021-10-14",
-        "update": "2024-05-17",
+        "update": "2024-06-10",
         "version": "",
         "path": "h5-sy",
         "type": [
@@ -514,7 +514,7 @@
         "title": "迷你梦幻，怀旧多人在线游戏",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2024-03-11",
+        "update": "2024-06-02",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -615,7 +615,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-04-21",
+        "update": "2024-06-10",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -684,7 +684,7 @@
         "title": "放置传奇，PC挂机摸鱼放置游戏",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2024-05-12",
+        "update": "2024-06-02",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -727,6 +727,65 @@
         "status": 1
     },
     {
+        "title": "放置武侠",
+        "enTitle": "Idle WuXia",
+        "date": "2024-06-14",
+        "update": "2024-06-14",
+        "version": "",
+        "path": "idle-wuxia",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "老外对咱们的武侠文化很感兴趣啊，昨晚熬夜到三点多，发现了这个​武侠题材的放置游戏，试玩了一下，感觉还可以​。​",
+            "如果遇到缺图的情况，可以F12打开控制台，把缺的图片链接右键复制了发我。"
+        ],
+        "zhUrl": "https://idle-wuxia.g8hh.com.cn/",
+        "enUrl": "https://idlewuxia.com/en",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1
+    },
+    {
+        "title": "元素放置",
+        "enTitle": "Idle Elemental",
+        "date": "2024-06-06",
+        "update": "2024-06-06",
+        "version": "3.6.0",
+        "path": "idle-elem",
+        "type": [
+            "已汉化",
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "2024-06-06：《元素放置》修复打不开、以及声望时卡死的问题，记得导出存档备份一下，可能要重置游戏一下~",
+            "游戏包含了木头、火、地、水、气、金属等元素，各种元素相生相克。目前我才解锁了三种，游戏耐玩性还可以的哈。"
+        ],
+        "customUrl": "https://idle-elem.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://gltyx.github.io/idle-elem/",
+        "enUrl": "https://idleelem.net/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "超级乌龟放置",
         "enTitle": "Super Turtle Idle",
         "date": "2025-05-22",
@@ -740,12 +799,15 @@
             "放置"
         ],
         "content": [
+            "2024-05-27：汉化由 @澱舟 大佬接手了；顺便新建游戏交流群：821355753",
             "游戏主角是一只乌龟，通过战斗、做任务，深入探索剧情。"
         ],
         "zhUrl": "https://gltyx.github.io/super-turtle-idle/",
         "customUrl": "https://super-turtle-idle.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://superturtleidle.github.io/",
+        "QQ": "821355753",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=qA4anZoRboFetsuUF6HwkoEw3qTRK5WD&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -1536,7 +1598,7 @@
         "enTitle": "Idle Mancery 2",
         "date": "2024-01-02",
         "update": "2024-01-22",
-        "version": "0.0.1",
+        "version": "0.0.2c",
         "path": "idle-mancery2",
         "type": [
             "汉化中",
@@ -4876,8 +4938,8 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2024-02-20",
-        "version": "0.1.9",
+        "update": "2024-06-10",
+        "version": "0.2.0",
         "path": "fundamental",
         "type": [
             "已汉化"
@@ -17001,7 +17063,7 @@
         "title": "王朝之系谱",
         "enTitle": "The Dynas Tree",
         "date": "2021-01-05",
-        "update": "2020-11-16",
+        "update": "2024-06-10",
         "version": "0.4.0",
         "path": "the-dynas-tree",
         "type": [
@@ -17020,7 +17082,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-dynas-tree",
         "enUrl": "https://ducdat0507.github.io/thedynastree/",
-        "customUrl": "https://yx.g8hh.com/the-dynas-tree",
+        "customUrl": "https://the-dynas-tree.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
