@@ -615,7 +615,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-06-10",
+        "update": "2024-06-14",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -625,7 +625,7 @@
             "升级"
         ],
         "content": [
-            "新区计划：风云际会，4月26日，10：00开启",
+            "新区计划：厚积薄发，6月14日，10：00开启",
             "《无尽洪荒》五一活动公告",
             " 活动时间：2024年5月1日00:00-2024年5月5日23：59",
             "活动内容：",
@@ -727,6 +727,101 @@
         "status": 1
     },
     {
+        "title": "战利品收集放置",
+        "enTitle": "Coloot Idle",
+        "date": "2024-06-20",
+        "update": "2024-06-20",
+        "version": "1.0.1",
+        "path": "coloot-idle",
+        "type": [
+            "已汉化",
+            "战斗",
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "本游戏深受 TopCog 的 Idle Loot Quest 启发。​",
+            "与怪物战斗并寻找战利品以不断增强实力！升级声望水晶并购买神器！​"
+        ],
+        "zhUrl": "https://g1tyx.github.io/coloot-idle/",
+        "customUrl": "https://coloot-idle.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://veprogames.github.io/coloot-idle/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "你为什么要入侵火星？",
+        "enTitle": "Why did you invade Mars?",
+        "date": "2024-06-19",
+        "update": "2024-06-19",
+        "version": "0.1",
+        "path": "why-did-you-invade-mars",
+        "type": [
+            "已汉化",
+            "战斗",
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "按住“X”键，你会看到怪物被消灭。你可以通过雇佣士兵来自动击杀怪物，还有许多其他升级。​",
+            "请注意，这仅适用于电脑浏览器，无法在手机上玩。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/why-did-you-invade-mars/",
+        "customUrl": "https://why-did-you-invade-mars.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://louigiverona.com/mars/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "赛博朋克生活",
+        "enTitle": "Cyberpunk Life",
+        "date": "2024-06-17",
+        "update": "2024-06-17",
+        "version": "0.65",
+        "path": "cyberpunk-life",
+        "type": [
+            "已汉化",
+            "模拟",
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "作者受到《土拨鼠生活》和《骑士进度条》玩法的影响，制作了此游戏。​",
+            "还是老样子，我边玩边汉化的，玩的快的小伙伴欢迎发存档给我，我来补汉化~"
+        ],
+        "zhUrl": "https://g1tyx.github.io/cyberpunk-life/",
+        "customUrl": "https://cyberpunk-life.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://gameplaya.fr/CyberpunkLife/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1
+    },
+    {
         "title": "放置武侠",
         "enTitle": "Idle WuXia",
         "date": "2024-06-14",
@@ -743,7 +838,9 @@
             "老外对咱们的武侠文化很感兴趣啊，昨晚熬夜到三点多，发现了这个​武侠题材的放置游戏，试玩了一下，感觉还可以​。​",
             "如果遇到缺图的情况，可以F12打开控制台，把缺的图片链接右键复制了发我。"
         ],
-        "zhUrl": "https://idle-wuxia.g8hh.com.cn/",
+        "zhUrl": "https://static.oschina.net/trytry/idle-wuxia/index.html",
+        "customUrl": "https://idle-wuxia.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://idlewuxia.com/en",
         "pic": [
             1,
@@ -774,6 +871,8 @@
         ],
         "customUrl": "https://idle-elem.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.everlastinggames.idle_elemental",
+        "customUrlTit2": "安卓市场版",
         "zhUrl": "https://gltyx.github.io/idle-elem/",
         "enUrl": "https://idleelem.net/",
         "pic": [
@@ -788,8 +887,8 @@
     {
         "title": "超级乌龟放置",
         "enTitle": "Super Turtle Idle",
-        "date": "2025-05-22",
-        "update": "2025-05-22",
+        "date": "2024-05-22",
+        "update": "2024-05-22",
         "version": "0.3.9",
         "path": "super-turtle-idle",
         "type": [
@@ -2332,8 +2431,8 @@
         "title": "Gooboo",
         "enTitle": "Gooboo",
         "date": "2023-10-09",
-        "update": "2023-11-15",
-        "version": "1.4.1",
+        "update": "2024-06-16",
+        "version": "1.4.2",
         "path": "gooboo",
         "type": [
             "点击",
@@ -15807,8 +15906,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "",
         "date": "2021-04-22",
-        "update": "2024-05-02",
-        "version": "0.6.167",
+        "update": "2024-06-13",
+        "version": "0.6.171",
         "path": "jyf",
         "type": [
             "放置",
@@ -15823,7 +15922,7 @@
             "武侠"
         ],
         "content": [
-            "注意：游戏地址已变更~",
+            "新增AI对话的模式~",
             "点击版本号即可进入对应版本开玩~",
             "《金庸群侠•大乱斗》是爱好者自制的游戏，仅供金庸武侠世界爱好者分享和交流，不用于商业盈利，大家可以当放置游戏玩。",
             "大部分素材来自各类金庸mod，如《金书群侠传》、《金庸群芳谱》、《金庸群侠前传》等。。",
@@ -16915,7 +17014,7 @@
         "needHH": 0
     },
     {
-        "title": "土拨鼠人生",
+        "title": "土拨鼠生活",
         "enTitle": "Groundhog Life",
         "date": "2021-01-25",
         "update": "2018-10-12",
@@ -18800,8 +18899,8 @@
         "title": "一起打怪兽",
         "enTitle": "Let's Fight Monster",
         "date": "2020-03-31",
-        "update": "2024-05-07",
-        "version": "1.53",
+        "update": "2024-06-13",
+        "version": "2.01",
         "path": "lets-fight-monster",
         "type": [
             "点击",
