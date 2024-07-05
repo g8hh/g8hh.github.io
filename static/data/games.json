@@ -252,7 +252,7 @@
         "title": "火爆H5页游手游大全",
         "enTitle": "",
         "date": "2021-10-14",
-        "update": "2024-06-10",
+        "update": "2024-07-01",
         "version": "",
         "path": "h5-sy",
         "type": [
@@ -597,7 +597,7 @@
             "4、原创放置类挂机游戏,只做玩家最爱的挂机游戏。",
             "5、QQ交流群：724573944"
         ],
-        "customUrl": "https://mh.uuuyx.com/down/sgcq/sgcq28600.rar",
+        "customUrl": "http://down.uuuyx.com/sgcq/sgcq28600.rar",
         "customUrlTit": "直接下载",
         "customUrl2": "https://share.weiyun.com/vtX4kYcW",
         "customUrlTit2": "微云网盘下载",
@@ -615,7 +615,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-06-14",
+        "update": "2024-06-27",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -625,7 +625,7 @@
             "升级"
         ],
         "content": [
-            "新区计划：厚积薄发，6月14日，10：00开启",
+            "新区计划：朝乾夕惕，6月28日，10：00开启",
             "《无尽洪荒》五一活动公告",
             " 活动时间：2024年5月1日00:00-2024年5月5日23：59",
             "活动内容：",
@@ -716,6 +716,153 @@
         "customUrlTit": "游戏下载",
         "QQ": "724573944",
         "qqUrl": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=f7VIxdOcM_pwWWxkEY-7gXUpq2FViJ63&authKey=SNSaicFetF3zy6rwpShWnvxHI2NeGdDBMc%2F9%2F2397zRh5gRWUo%2B4HD4H5vVz47xe&noverify=0&group_code=724573944",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "鲨鱼增量",
+        "enTitle": "Shark Incremental",
+        "date": "2024-07-05",
+        "update": "2024-07-05",
+        "version": "0.2.3",
+        "path": "shark-incremental",
+        "type": [
+            "文字",
+            "点击",
+            "放置",
+            "升级"
+        ],
+        "content": [
+            "又一款鲨鱼题材的增量放置游戏，此游戏玩法可能借鉴了《反物质维度》​。​"
+        ],
+        "customUrl": "https://mrredshark77.github.io/shark-incremental/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://shark-incremental.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "大学模拟器",
+        "enTitle": "",
+        "date": "2024-07-04",
+        "update": "2024-07-04",
+        "version": "0.99",
+        "path": "univsimulator",
+        "type": [
+            "文字",
+            "点击",
+            "养成",
+            "模拟"
+        ],
+        "content": [
+            "继《人生重开模拟器》大火之后，又一款模拟人生的游戏出炉了，欢迎大家体验​！",
+            "不同的选择会决定不同的未来​。"
+        ],
+        "customUrl": "https://bijiazu.inari.site/UnivSimulator/",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "扣税国王，群友自制游戏",
+        "enTitle": "",
+        "date": "2024-07-01",
+        "update": "2024-07-01",
+        "version": "",
+        "path": "ksgw",
+        "type": [
+            "群友自制",
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "灵感来源 致谢！​",
+            "《Antimatter Dimensions》,作者Hevipelle​",
+            "《饺子增量Jiaozi Increment》，作者aquamarine​",
+            "----------------------------​",
+            "好了，听好了乡巴佬​",
+            "等我当上国王，​",
+            "我会制定新的税法！​",
+            "我瞧瞧，​",
+            "吸气要扣税​",
+            "呼气要扣税​",
+            "憋住气也要扣税​",
+            "停止呼吸要扣税​",
+            "“我抗议以上的税!”​",
+            "----------------------------​",
+            "抗议以上的税要扣税!​",
+            "----------------------------​",
+            "系鞋带要扣税​",
+            "穿鞋子要扣税​",
+            "“要是我们光脚丫呢？”“对啊。”​",
+            "光脚丫也要扣税！谢谢。​",
+            "钉图钉要扣税​",
+            "起司三明治加番茄酱要扣税...​",
+            "----------------------------​",
+            "操作说明​",
+            "用税购买1-8税法维度，高的税法生产低一级的税法​",
+            "税法^1生产税​",
+            "新的税法，税法提升*2​",
+            "政策提升新的税法和税法提升​",
+            "建筑和支持率：建筑按b，建筑和支持率给所有税法加成​",
+            "目前游戏进度：17%（税箱后，税币前）​",
+            "我怎么知道快捷键是什么 9​"
+        ],
+        "customUrl": "https://www.ccw.site/detail/662f9c9685bb2275410c4a4b",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "风灵作成，群友自制网页放置",
+        "enTitle": "",
+        "date": "2024-06-27",
+        "update": "2024-06-27",
+        "version": "4.0",
+        "path": "wind-spirit-creation",
+        "type": [
+            "群友自制",
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "传说在纤细脆弱的蝴蝶体内，也藏有引发飓风的力量，这由纯粹的风构成的蝴蝶，无疑在等待着再次召来暴风的那一天。​"
+        ],
+        "customUrl": "https://dlsdl.github.io/wind_spirit_creation/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://wind-spirit-creation.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
             2,
@@ -990,6 +1137,7 @@
             4,
             5
         ],
+        "needHH": 0,
         "status": 1
     },
     {
@@ -17443,8 +17591,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2024-02-29",
-        "version": "0.10.19",
+        "update": "2024-06-23",
+        "version": "0.10.20",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -18910,6 +19058,7 @@
             "PC"
         ],
         "content": [
+            "2024-06-24：更新到2.12版本了~",
             "2024-04-19：更新到1.54版本了，下载链接换成作者网盘地址~",
             "游戏特色：",
             "1.文字挂机游戏，摸鱼更快乐；",
@@ -18918,7 +19067,7 @@
             "4.重点：（持续更新~~~），坚挺的作者几乎日日更新。"
         ],
         "weiyunUrl": "https://share.weiyun.com/59lFieY",
-        "baiduUrl": "https://pan.baidu.com/s/1AnbthveoXK3wIfaoD939iw?pwd=8b52",
+        "baiduUrl": "https://pan.baidu.com/s/1TXusmg-vhCEzlsznujnfgg?pwd=igv9",
         "QQ": "531466370",
         "pic": [
             1,
