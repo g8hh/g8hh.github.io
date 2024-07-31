@@ -615,7 +615,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-06-27",
+        "update": "2024-07-25",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -625,7 +625,7 @@
             "升级"
         ],
         "content": [
-            "新区计划：朝乾夕惕，6月28日，10：00开启",
+            "新区预告：钝学累功，7月28日，10：00开启",
             "《无尽洪荒》五一活动公告",
             " 活动时间：2024年5月1日00:00-2024年5月5日23：59",
             "活动内容：",
@@ -724,6 +724,144 @@
             5
         ],
         "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "RPG树，群友自制",
+        "enTitle": "",
+        "date": "2024-07-31",
+        "update": "2024-07-31",
+        "version": "0.04",
+        "path": "rpg-tree",
+        "type": [
+            "原创",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是群里的 @匿_名 靓仔写的游戏，你可能玩过他的另一个游戏《传奇树》。",
+            "游戏名字里面虽然带了树，其实只是用了模组树的模板，游戏内容和树完全无关。",
+            "温馨提示：本游戏对移动端不友好~"
+        ],
+        "customUrl": "https://n-i-ming.github.io/rpg-tree/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://rpg-tree.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "我的文字修仙全靠刷，群友自制文字游戏",
+        "enTitle": "",
+        "date": "2024-07-30",
+        "update": "2024-07-30",
+        "version": "0.6.8",
+        "path": "vue-xiuxian",
+        "type": [
+            "点击",
+            "战斗",
+            "群友自制",
+            "文字",
+            "修仙"
+        ],
+        "content": [
+            "这是作者Vue练手写的游戏，欢迎大家给作者点个星星。",
+            "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
+            "QQ交流群：920930589"
+        ],
+        "customUrl": "https://setube.github.io/vue-XiuXianGame/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://vue-xiuxian.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://github.com/setube/vue-XiuXianGame",
+        "customUrlTit3": "项目地址求点星",
+        "enUrl": "https://superturtleidle.github.io/",
+        "QQ": "920930589",
+        "qqUrl": "https://qm.qq.com/q/iifNs5qukg",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "霸主增量",
+        "enTitle": "overlord",
+        "date": "2024-07-26",
+        "update": "2024-07-26",
+        "version": "",
+        "path": "overlord",
+        "type": [
+            "英文",
+            "油猴",
+            "汉化中",
+            "联网"
+        ],
+        "content": [
+            "霸主增量是一款基于文本，在线，基地管理，基于tick的PvP放置游戏!你的目标是维持和提高你的基地，获得力量，并提升等级。",
+            "油猴汉化文件地址：",
+            "https://g8hh.com.cn/zh/tampermonkey/overlord-chs.user.js"
+        ],
+        "customUrl": "https://overlord.gg/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://gityx.com/help/faq/633.html",
+        "customUrlTit2": "油猴汉化教程",
+        "customUrl3": "https://www.tampermonkey.net/",
+        "customUrlTit3": "油猴官网",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "扩建者",
+        "enTitle": "Matter of Scale",
+        "date": "2024-07-10",
+        "update": "2024-07-10",
+        "version": "",
+        "path": "matter-of-scale",
+        "type": [
+            "文字",
+            "点击",
+            "放置",
+            "升级"
+        ],
+        "content": [
+            "游戏玩法类似传统的城镇建设游戏，满足小目标即可解锁进度。​",
+            "城镇规模有12个阶段，目测还是蛮肝的~​"
+        ],
+        "zhUrl": "https://gityxs.github.io/matter-of-scale/",
+        "customUrl": "https://matter-of-scale.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://astarsearcher.bitbucket.io/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
         "status": 1
     },
     {
@@ -939,8 +1077,8 @@
         "title": "赛博朋克生活",
         "enTitle": "Cyberpunk Life",
         "date": "2024-06-17",
-        "update": "2024-06-17",
-        "version": "0.65",
+        "update": "2024-07-25",
+        "version": "0.7",
         "path": "cyberpunk-life",
         "type": [
             "已汉化",
@@ -1035,8 +1173,8 @@
         "title": "超级乌龟放置",
         "enTitle": "Super Turtle Idle",
         "date": "2024-05-22",
-        "update": "2024-05-22",
-        "version": "0.3.9",
+        "update": "2024-07-22",
+        "version": "0.4.0",
         "path": "super-turtle-idle",
         "type": [
             "点击",
@@ -1045,6 +1183,7 @@
             "放置"
         ],
         "content": [
+            "2024-07-22：《超级乌龟放置》更新到0.4.0版本了~存档貌似不兼容，合并存档可能会出bug~建议导出存档备份，硬重置~",
             "2024-05-27：汉化由 @澱舟 大佬接手了；顺便新建游戏交流群：821355753",
             "游戏主角是一只乌龟，通过战斗、做任务，深入探索剧情。"
         ],
@@ -1941,7 +2080,7 @@
         "title": "修真大陆，国人自制修仙游戏，不删档内测",
         "enTitle": "",
         "date": "2023-12-27",
-        "update": "2024-01-24",
+        "update": "2024-07-09",
         "version": "",
         "path": "xiu-zhen-da-lu",
         "type": [
@@ -4206,8 +4345,8 @@
         "title": "未命名太空放置",
         "enTitle": "Unnamed Space Idle",
         "date": "2023-05-07",
-        "update": "2023-11-28",
-        "version": "0.50.3.3",
+        "update": "2024-07-23",
+        "version": "0.53.3.2",
         "path": "unnamed-space-idle-prototype",
         "type": [
             "放置",
@@ -4219,6 +4358,7 @@
             "养成"
         ],
         "content": [
+            "2024-07-23：同步网页最新版；新增iOS、安卓版链接，有中文~",
             "咱们群里大佬提交了汉化给官方，所以现在游戏有中文了！",
             "群文件里我放了本地版，欢迎下载了在本地玩。",
             "游戏文件比较大（50M左右），加载慢是正常现象。",
@@ -4242,6 +4382,10 @@
         "customUrlTit2": "搬运版地址",
         "customUrl3": "https://idle.g8hh.cn/unnamed-space-idle-prototype/index.html",
         "customUrlTit3": "搬运备用地址-g8hh",
+        "customUrl4": "https://play.google.com/store/apps/details?id=com.jdogcorp.unnamedspaceidle",
+        "customUrlTit4": "安卓市场版",
+        "customUrl5": "https://apps.apple.com/us/app/unnamed-space-idle/id6483933995",
+        "customUrlTit5": "iOS版(外区)",
         "QQ": "816462152",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
@@ -8809,8 +8953,8 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2023-09-19",
-        "version": "1.1.3",
+        "update": "2024-07-15",
+        "version": "1.2.5",
         "path": "immortality-idle",
         "type": [
             "已汉化",
@@ -8820,7 +8964,7 @@
         "content": [
             "《不朽放置》是一款受修炼故事启发的时间管理增量游戏。 你可以选择你的日常活动来生存、成长和茁壮成长，以实现不朽的目标。 你可能不会在你的第一个生命中实现你的目标。 不要担心，如果你在成功之前就死了！ 每一世所养成的属性，都会在你转世时提升你的资质，让你未来的努力更加有效。 如果你坚持自己的成长，找到平衡，寻求洞察力，你最终会发展出神奇的能力，完成不可能的任务，成为不朽者。"
         ],
-        "customUrl": "https://yx.g8hh.com/immortality-idle/",
+        "customUrl": "https://immortality-idle.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/immortality-idle/",
         "enUrl": "https://immortalityidle.github.io/",
@@ -8838,8 +8982,8 @@
         "title": "鲨鱼之心重制版",
         "enTitle": "Shark Game Remaster",
         "date": "2022-07-11",
-        "update": "2022-07-11",
-        "version": "",
+        "update": "2024-07-22",
+        "version": "20230618a",
         "path": "shark-game-remaster",
         "type": [
             "已汉化",
@@ -8847,6 +8991,7 @@
             "升级"
         ],
         "content": [
+            "2024-07-22：同步最新版~",
             "这是《鲨鱼之心》的重制版。"
         ],
         "customUrl": "https://shark-game-remaster.g8hh.com.cn/",
@@ -9241,7 +9386,7 @@
         "content": [
             "《鸡蛋公司》是一款《Egg Inc》爱好者制作的网页放置版。"
         ],
-        "customUrl": "https://yx.g8hh.com/coop-co",
+        "customUrl": "https://coop-co.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/coop-co",
         "enUrl": "https://mrbacon470.github.io/Coop-Co/",
@@ -16229,8 +16374,8 @@
         "title": "病毒树",
         "enTitle": "C0v1d Modding Tree",
         "date": "2021-04-09",
-        "update": "2023-10-30",
-        "version": "0.6.23",
+        "update": "2024-07-15",
+        "version": "0.6.25",
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -17591,8 +17736,8 @@
         "title": "宝可梦点击2.0",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2024-06-23",
-        "version": "0.10.20",
+        "update": "2024-07-15",
+        "version": "0.10.21",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -19047,8 +19192,8 @@
         "title": "一起打怪兽",
         "enTitle": "Let's Fight Monster",
         "date": "2020-03-31",
-        "update": "2024-06-13",
-        "version": "2.01",
+        "update": "2024-07-09",
+        "version": "2.20",
         "path": "lets-fight-monster",
         "type": [
             "点击",
@@ -19413,10 +19558,10 @@
         "status": 1
     },
     {
-        "title": "NGU放置，有汉化了",
+        "title": "NGU放置，汉化度100%！",
         "enTitle": "NGU",
         "date": "2019-12-06",
-        "update": "2023-12-07",
+        "update": "2024-07-10",
         "path": "ngu",
         "type": [
             "汉化中",
@@ -19429,6 +19574,7 @@
             "Steam"
         ],
         "content": [
+            "2024-07-10：B佬反馈：NGU汉化度100%了！",
             "2023-12-07：翻新一下，拉一波新人~",
             "2023-05-05：因 ① 群已满，建了个 ② 群，欢迎新人加入：683847928",
             "NGU Idle 是一款免费的放置游戏，充满了怪异的幽默、大量的升级和数百小时的内容！ 立即尝试 NGU Idle，体验数字上升的乐趣！",
@@ -20230,7 +20376,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/ares/",
+        "zhUrl": "https://ares.g8hh.com.cn/",
         "enUrl": "https://okn1ce.github.io/Ares",
         "pic": [
             1,
