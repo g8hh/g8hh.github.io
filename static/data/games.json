@@ -727,6 +727,64 @@
         "status": 1
     },
     {
+        "title": "十二黄金计算器",
+        "enTitle": "Dodeca Gold Reckoner",
+        "date": "2024-08-02",
+        "update": "2024-08-02",
+        "version": "0.1.1",
+        "path": "dodeca-gold-reckoner",
+        "type": [
+            "文字",
+            "点击",
+            "放置",
+            "升级"
+        ],
+        "content": [
+            "这是《十二龙》作者的另一款游戏，​魔性上瘾，看着数值越来越大。​"
+        ],
+        "zhUrl": "https://gityxs.github.io/dodeca-gold-reckoner/",
+        "customUrl": "https://dodeca-gold-reckoner.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/dodecaGoldReckoner/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "岑提点击",
+        "enTitle": "Centi Click",
+        "date": "2024-08-01",
+        "update": "2024-08-02",
+        "version": "1.2",
+        "path": "centi-click",
+        "type": [
+            "文字",
+            "点击",
+            "放置",
+            "升级"
+        ],
+        "content": [
+            "​感谢 @QwQe308 大佬汉化并投稿本游戏。​"
+        ],
+        "zhUrl": "https://qwqe308.github.io/centiclick-chVer/",
+        "customUrl": "https://centi-click.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://netheriteingot.github.io/centiclick/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "RPG树，群友自制",
         "enTitle": "",
         "date": "2024-07-31",
@@ -768,8 +826,8 @@
         "title": "我的文字修仙全靠刷，群友自制文字游戏",
         "enTitle": "",
         "date": "2024-07-30",
-        "update": "2024-07-30",
-        "version": "0.6.8",
+        "update": "2024-08-02",
+        "version": "0.7",
         "path": "vue-xiuxian",
         "type": [
             "点击",
@@ -779,6 +837,7 @@
             "修仙"
         ],
         "content": [
+            "2024-08-02：更新到0.7版本，存档不兼容，需要删档重玩~",
             "这是作者Vue练手写的游戏，欢迎大家给作者点个星星。",
             "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
             "QQ交流群：920930589"
@@ -4714,7 +4773,7 @@
             "《序数品客》是《序数增量》的一个Mod，目前作者还在不断更新中。"
         ],
         "zhUrl": "https://gityxs.github.io/ordinal-pringles/",
-        "customUrl": "https://ordinal-pringles.g8hh.com/",
+        "customUrl": "https://ordinal-pringles.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://flamemasternxf.github.io/ordinal-pringles/",
         "pic": [
