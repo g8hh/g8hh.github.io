@@ -514,7 +514,7 @@
         "title": "迷你梦幻，怀旧多人在线游戏",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2024-06-02",
+        "update": "2024-08-01",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -546,7 +546,7 @@
         "title": "迷你传奇，是兄弟就来被我砍",
         "enTitle": "",
         "date": "2022-06-14",
-        "update": "2024-02-28",
+        "update": "2024-08-01",
         "version": "",
         "path": "mini-cq",
         "type": [
@@ -581,7 +581,7 @@
         "title": "三国传奇，耐玩挂机电脑游戏",
         "enTitle": "",
         "date": "2022-08-19",
-        "update": "2023-10-16",
+        "update": "2024-08-01",
         "version": "",
         "path": "sgcq",
         "type": [
@@ -615,7 +615,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-07-25",
+        "update": "2024-08-03",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -684,7 +684,7 @@
         "title": "放置传奇，PC挂机摸鱼放置游戏",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2024-06-02",
+        "update": "2024-08-04",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -724,6 +724,35 @@
             5
         ],
         "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "克隆实验",
+        "enTitle": "Clone Experiment",
+        "date": "2024-08-05",
+        "update": "2024-08-05",
+        "version": "",
+        "path": "clone-experiment",
+        "type": [
+            "文字",
+            "点击",
+            "放置",
+            "升级"
+        ],
+        "content": [
+            "一个关于建立一个由你和你自己组成的文明的增量游戏！建造建筑物、农场和克隆，以扩大你的财富、储存、影响力和权力。​"
+        ],
+        "zhUrl": "https://gityxs.github.io/clone-experiment/",
+        "customUrl": "https://clone-experiment.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://epic-doughnut.itch.io/clone-experiment",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
         "status": 1
     },
     {
@@ -4761,8 +4790,8 @@
         "title": "序数品客",
         "enTitle": "Ordinal Pringles",
         "date": "2023-04-14",
-        "update": "2023-07-14",
-        "version": "0.1.2",
+        "update": "2024-08-02",
+        "version": "0.3.3",
         "path": "ordinal-pringles",
         "type": [
             "已汉化",
