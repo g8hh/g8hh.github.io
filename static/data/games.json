@@ -511,10 +511,10 @@
         "status": 0
     },
     {
-        "title": "迷你梦幻，怀旧多人在线游戏",
+        "title": "迷你梦幻，怀旧多人在线游戏，七夕活动进行中",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2024-08-01",
+        "update": "2024-08-08",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -681,10 +681,10 @@
         "status": 1
     },
     {
-        "title": "放置传奇，PC挂机摸鱼放置游戏",
+        "title": "放置传奇，PC挂机摸鱼放置游戏，七夕活动进行中",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2024-08-04",
+        "update": "2024-08-08",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -724,6 +724,131 @@
             5
         ],
         "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "放置冒险RPG，网络文字放置摸鱼",
+        "enTitle": "",
+        "date": "2024-08-16",
+        "update": "2024-08-16",
+        "version": "",
+        "path": "idle-quest-rpg",
+        "type": [
+            "英文",
+            "油猴",
+            "汉化中",
+            "联网"
+        ],
+        "content": [
+            "霸主增量是一款基于文本，在线，基地管理，基于tick的PvP放置游戏!你的目标是维持和提高你的基地，获得力量，并提升等级。",
+            "油猴汉化文件地址：",
+            "https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js"
+        ],
+        "customUrl": "https://www.iqrpg.com/?r=21364",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://gityx.com/help/faq/633.html",
+        "customUrlTit2": "油猴汉化教程",
+        "customUrl3": "https://www.tampermonkey.net/",
+        "customUrlTit3": "油猴官网",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1
+    },
+    {
+        "title": "迷失太空",
+        "enTitle": "Lost In Space",
+        "date": "2024-08-15",
+        "update": "2024-08-15",
+        "version": "",
+        "path": "lost-in-space",
+        "type": [
+            "生存",
+            "点击",
+            "解谜",
+            "升级"
+        ],
+        "content": [
+            "你是一个被困在太空中的宇航员。你的宇宙飞船没有反应，你唯一拥有的是可以将能量转化为物质的3D打印机。你能否在与氧气供应的赛跑中获胜，并最终逃脱?​"
+        ],
+        "zhUrl": "https://gltyx.github.io/lost-in-space/",
+        "customUrl": "https://lost-in-space.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://semenar.itch.io/lost-in-space",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1
+    },
+    {
+        "title": "方块大作战",
+        "enTitle": "Squareixion",
+        "date": "2024-08-09",
+        "update": "2024-08-09",
+        "version": "0.4.1",
+        "path": "squareixion",
+        "type": [
+            "战斗",
+            "点击",
+            "放置",
+            "升级"
+        ],
+        "content": [
+            "这是一款关于方块的增量游戏。​",
+            "在这里，你需要杀死方块来变得更强大，并面对更强大的方块。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/squareixion/",
+        "customUrl": "https://squareixion.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://troxi54.github.io/Squareixion/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "抽卡放置",
+        "enTitle": "Idle Tcg",
+        "date": "2024-08-08",
+        "update": "2024-08-08",
+        "version": "",
+        "path": "idle-tcg",
+        "type": [
+            "文字",
+            "点击",
+            "放置",
+            "升级"
+        ],
+        "content": [
+            "这是一款带有TCG(交易卡牌游戏)主题的浏览器增量游戏。​",
+            "包含了抽卡、升级、战斗等元素，游戏流程大概在1-3天左右。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/idle-tcg/",
+        "customUrl": "https://idle-tcg.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://gust42.github.io/idletcg/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
         "status": 1
     },
     {
@@ -817,8 +942,8 @@
         "title": "RPG树，群友自制",
         "enTitle": "",
         "date": "2024-07-31",
-        "update": "2024-07-31",
-        "version": "0.04",
+        "update": "2024-08-14",
+        "version": "0.10",
         "path": "rpg-tree",
         "type": [
             "原创",
@@ -855,8 +980,8 @@
         "title": "我的文字修仙全靠刷，群友自制文字游戏",
         "enTitle": "",
         "date": "2024-07-30",
-        "update": "2024-08-02",
-        "version": "0.7",
+        "update": "2024-08-13",
+        "version": "0.75",
         "path": "vue-xiuxian",
         "type": [
             "点击",
@@ -866,6 +991,7 @@
             "修仙"
         ],
         "content": [
+            "2024-08-05：更新到0.73版本~",
             "2024-08-02：更新到0.7版本，存档不兼容，需要删档重玩~",
             "这是作者Vue练手写的游戏，欢迎大家给作者点个星星。",
             "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
@@ -907,7 +1033,7 @@
             "油猴汉化文件地址：",
             "https://g8hh.com.cn/zh/tampermonkey/overlord-chs.user.js"
         ],
-        "customUrl": "https://overlord.gg/",
+        "customUrl": "https://overlord.gg/ref/698",
         "customUrlTit": "开始游戏",
         "customUrl2": "https://gityx.com/help/faq/633.html",
         "customUrlTit2": "油猴汉化教程",
@@ -1261,8 +1387,8 @@
         "title": "超级乌龟放置",
         "enTitle": "Super Turtle Idle",
         "date": "2024-05-22",
-        "update": "2024-07-22",
-        "version": "0.4.0",
+        "update": "2024-08-11",
+        "version": "0.44",
         "path": "super-turtle-idle",
         "type": [
             "点击",
@@ -2399,8 +2525,8 @@
         "title": "触摸星空，群友自制",
         "enTitle": "",
         "date": "2023-12-06",
-        "update": "2023-12-06",
-        "version": "",
+        "update": "2024-08-09",
+        "version": "0.2.1",
         "path": "chu-mo-xing-kong",
         "type": [
             "点击",
@@ -4209,7 +4335,7 @@
         "title": "化学树",
         "enTitle": "The Chemistry Tree",
         "date": "2023-05-27",
-        "update": "2023-05-27",
+        "update": "2024-08-16",
         "version": "",
         "path": "the-chemistry-tree",
         "type": [
@@ -4222,16 +4348,21 @@
             "声望树"
         ],
         "content": [
+            "2024-08-16：更新另一个群友2222制作的NG版本。",
             "这是群里的Fallen_Cat（小姐姐）和紫梦Puremare437合作的一款模组树游戏。",
             "这是她们第一个基于TMT开发的游戏。",
             "游戏还在开发中，目前游戏内容可能比较少。"
         ],
-        "customUrl": "https://beautyfallencat.github.io/The-Chemistry-Tree/",
-        "customUrlTit": "开始游戏",
-        "customUrl2": "https://the-chemistry-tree.g8hh.com/",
-        "customUrlTit2": "备用地址-g8hh",
-        "customUrl3": "https://yhvr.me/pt/mods.html",
-        "customUrlTit3": "其它树游戏集合",
+        "customUrl": "https://gltyx.github.io/the-chemistry-tree/",
+        "customUrlTit": "NG版",
+        "customUrl2": "https://the-chemistry-tree-ng.g8hh.com.cn/",
+        "customUrlTit2": "NG版备用地址-g8hh",
+        "customUrl3": "https://beautyfallencat.github.io/The-Chemistry-Tree/",
+        "customUrlTit3": "小姐姐原版",
+        "customUrl4": "https://the-chemistry-tree.g8hh.com.cn/",
+        "customUrlTit4": "原版备用地址-g8hh",
+        "customUrl5": "https://yhvr.me/pt/mods.html",
+        "customUrlTit5": "其它树游戏集合",
         "QQ": "963150347",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
@@ -4585,8 +4716,8 @@
         "title": "英雄之歌",
         "enTitle": "Ballad Of Heroes",
         "date": "2023-04-27",
-        "update": "2024-02-27",
-        "version": "0.82",
+        "update": "2024-08-05",
+        "version": "1.02",
         "path": "ballad-of-heroes",
         "type": [
             "已汉化",
