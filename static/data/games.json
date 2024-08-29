@@ -561,7 +561,7 @@
             "新人大礼包：U9141-8338F-5SD6O-20C74",
             "咱们的人玩21区就好。"
         ],
-        "customUrl": "https://mh.uuuyx.com/down/mncq52105.rar",
+        "customUrl": "http://down.uuuyx.com/mir/mncq52105.rar",
         "customUrlTit": "直接下载",
         "customUrl2": "https://share.weiyun.com/lQYW2euL",
         "customUrlTit2": "微云网盘下载",
@@ -727,6 +727,98 @@
         "status": 1
     },
     {
+        "title": "佩德罗·帕斯卡声望三角 2",
+        "enTitle": "Pedro Pascals Triangle Of Prestige 2",
+        "date": "2024-08-27",
+        "update": "2024-08-27",
+        "version": "",
+        "path": "pedro-pascals-triangle-of-prestige2",
+        "type": [
+            "已汉化",
+            "放置"
+        ],
+        "content": [
+            "在这个游戏中，玩家扮演电脑用户的角色，需要通过删除文件来清理硬盘。 游戏从有限的磁盘空间开始，用作购买升级和能量提升的货币。"
+        ],
+        "zhUrl": "https://gltyx.github.io/pedro-pascals-triangle-of-prestige2/",
+        "customUrl": "https://pedro-pascals-triangle-of-prestige2.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://asteriskman7.github.io/PPToP2/#",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 0
+    },
+    {
+        "title": "活星放置",
+        "enTitle": "Planet Life",
+        "date": "2024-08-29",
+        "update": "2024-08-29",
+        "version": "",
+        "path": "planetlife",
+        "type": [
+            "点击",
+            "剧情",
+            "放置",
+            "升级"
+        ],
+        "content": [
+            "这是一款以小行星视角进行的太空探索游戏，游戏有着有趣的对话，以及战斗、探索、升级等多种元素。​",
+            "游戏界面也适配手机，照顾到了手机党的体验。​",
+            "对游戏感兴趣的小伙伴，可以考虑加入Discord支持作者！​"
+        ],
+        "zhUrl": "https://gltyx.github.io/planetlife/",
+        "customUrl": "https://planetlife.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://www.photopea.com/",
+        "customUrlTit2": "作者的在线P图工具",
+        "enUrl": "https://www.planetlife.space/static/game/index.html",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "豌豆制造器",
+        "enTitle": "Peas Maker",
+        "date": "2024-08-23",
+        "update": "2024-08-23",
+        "version": "",
+        "path": "peasmaker",
+        "type": [
+            "点击",
+            "放置",
+            "升级"
+        ],
+        "content": [
+            "本游戏是作者为了宣传自己的在线图像处理工具（www.photopea.com）而写的。​",
+            "平时有处理图片需求的朋友，欢迎试试使用这个免费的在线图像编辑器，支持 PSD、XCF、Sketch、XD、CDR 等格式 (Adobe Photoshop, Adobe Illustrator, PDF, SVG, CorelDRAW).​",
+            "可以用它创建新图像或打开已有文件。存储你的文件为 PSD 格式（文件 - 存储为 PSD）或 JPG / PNG / SVG 格式（文件 - 导出为）。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/peasmaker/",
+        "customUrl": "https://peasmaker.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://www.photopea.com/",
+        "customUrlTit2": "作者的在线P图工具",
+        "enUrl": "https://www.photopea.com/plugins/peasmaker/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "放置冒险RPG，网络文字放置摸鱼",
         "enTitle": "",
         "date": "2024-08-16",
@@ -740,9 +832,31 @@
             "联网"
         ],
         "content": [
-            "霸主增量是一款基于文本，在线，基地管理，基于tick的PvP放置游戏!你的目标是维持和提高你的基地，获得力量，并提升等级。",
+            "这游戏就三个规则：不能开自动，不能多个账号，不准现金交易。",
+            "2024-08-19：群友反馈：苹果手机浏览器玩，是可以弹出验证码的。",
+            "2024-08-17：建了QQ群：492589108，欢迎大家交流~",
             "油猴汉化文件地址：",
-            "https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js"
+            "https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js",
+            "游戏Boss提醒插件：",
+            "https://greasyfork.org/zh-CN/scripts/398028-iqrpg",
+            "战斗",
+            "在不同的区域和地下城中战斗，随着你的进步获得有价值的物品……",
+            "战斗:与怪物战斗，收集地下城钥匙和组件来增加你的力量……",
+            "地下城工程:让你的方式通过地下城获得战利品的箱子在最后…",
+            "收集",
+            "收集资源，帮助建立一个氏族，收集有价值的物品，一路上需要制作。",
+            "采矿:为你的部落收集金属，收集宝石来制作戒指……",
+            "伐木:为你的部落收集木材，收集树液来制作药剂……",
+            "采石:为你的部落收集石头，收集有价值的石头来制作符文……",
+            "制作",
+            "所有道具都是由玩家制作的。只有最高级别的工匠才能制作最高级别的道具。选择你的工艺技能，并在市场上提供的项目。",
+            "符文制作:制作符文以在战斗中提供好处……",
+            "珠宝制作:制作戒指来增加你的力量……",
+            "炼金术:制作药剂，增加资源，经验和更多…",
+            "宗族",
+            "创建或加入一个部落与其他玩家组队。",
+            "战场:在你的部落战场上击败boss和怪物来升级你的部落……",
+            "建筑:使用你的资源来建造建筑，为你的部落和所有成员提供利益……"
         ],
         "customUrl": "https://www.iqrpg.com/?r=21364",
         "customUrlTit": "开始游戏",
@@ -750,6 +864,10 @@
         "customUrlTit2": "油猴汉化教程",
         "customUrl3": "https://www.tampermonkey.net/",
         "customUrlTit3": "油猴官网",
+        "customUrl4": "https://greasyfork.org/zh-CN/scripts/398028-iqrpg",
+        "customUrlTit4": "游戏Boss提醒插件",
+        "QQ": "492589108",
+        "qqUrl": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uZsnvr7mEtGZ81_xDg2Qt0uLZDEESJgw&authKey=%2FHbKTDddbAJv5JEEX7%2Fp9YpVzPUjP3wa7JJcEyAJzIdZcQjViSPM63kKyjGgWqBR&noverify=0&group_code=492589108",
         "pic": [
             1,
             2,
@@ -942,8 +1060,8 @@
         "title": "RPG树，群友自制",
         "enTitle": "",
         "date": "2024-07-31",
-        "update": "2024-08-14",
-        "version": "0.10",
+        "update": "2024-08-17",
+        "version": "0.11",
         "path": "rpg-tree",
         "type": [
             "原创",
@@ -1082,8 +1200,8 @@
         "title": "鲨鱼增量",
         "enTitle": "Shark Incremental",
         "date": "2024-07-05",
-        "update": "2024-07-05",
-        "version": "0.2.3",
+        "update": "2024-08-17",
+        "version": "0.3.1",
         "path": "shark-incremental",
         "type": [
             "文字",
@@ -1387,8 +1505,8 @@
         "title": "超级乌龟放置",
         "enTitle": "Super Turtle Idle",
         "date": "2024-05-22",
-        "update": "2024-08-11",
-        "version": "0.44",
+        "update": "2024-08-25",
+        "version": "0.46",
         "path": "super-turtle-idle",
         "type": [
             "点击",
@@ -2104,8 +2222,8 @@
         "title": "元素周期增量树",
         "enTitle": "Periodic Elements Incremental Tree",
         "date": "2024-01-30",
-        "update": "2024-04-14",
-        "version": "0.3.3",
+        "update": "2024-08-28",
+        "version": "0.4",
         "path": "periodic-elements-incremental-tree",
         "type": [
             "放置",
@@ -2116,15 +2234,15 @@
             "声望树"
         ],
         "content": [
-            "这是群友自制的一个模组树"
+            "这是群友自制的一个模组树，QQ群：951232913"
         ],
-        "customUrl": "https://banana3864.github.io/Periodic-Elements-Incremental-Tree/",
+        "customUrl": "https://liuliu66686.github.io/The-Periodic-Elements-Incemental-Tree/TMTR/",
         "customUrlTit": "开始游戏",
         "customUrl2": "https://periodic-elements-incremental-tree.g8hh.com.cn/",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
-        "QQ": "963150347",
+        "QQ": "951232913",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
         "pic": [
             1,
@@ -2229,8 +2347,8 @@
         "title": "卡巴拉增量之树",
         "enTitle": "Kabalah Incremental Tree",
         "date": "2023-12-31",
-        "update": "2023-12-31",
-        "version": "",
+        "update": "2024-08-24",
+        "version": "vHkm.Hbc.11",
         "path": "kabalah-incremental-tree",
         "type": [
             "放置",
@@ -2241,16 +2359,23 @@
             "声望树"
         ],
         "content": [
+            "2024-08-24：英文版更新vHkm.Hbc.11版本了~",
+            "2024-08-23：英文版更新vHkm.Hal.10版本了~",
+            "2024-08-20：英文版更新比中文版更新要快；当前版本不作弊获得10的2300次方精华，可以找作者小姐姐领取美照哦~",
             "群里的美女姐姐2024年给大家的新年礼物！",
             "在2023年通关的话可以获得美女姐姐的一份惊喜哦！"
         ],
-        "customUrl": "https://kabalah-incremental-tree.g8hh.com.cn/",
-        "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://beautyfallencat.github.io/Kabalah-Incremental-Tree",
-        "customUrl3": "https://yhvr.me/pt/mods.html",
-        "customUrlTit3": "其它树游戏集合",
-        "QQ": "963150347",
-        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "customUrl2": "https://kabalah-incremental-tree.g8hh.com.cn/",
+        "customUrlTit2": "英文版备用地址-g8hh",
+        "customUrl": "https://beautyfallencat.github.io/Kabalah-Incremental-Tree/",
+        "customUrlTit": "官方中文版",
+        "customUrl3": "https://kabalah-incremental-tree.g8hh.com.cn/",
+        "customUrlTit3": "中文版备用地址-g8hh",
+        "customUrl4": "https://yhvr.me/pt/mods.html",
+        "customUrlTit4": "其它树游戏集合",
+        "QQ": "714647341",
+        "qqUrl": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0xGfZS-KOwBlnbyko6W0D4WoG3PHr4jn&authKey=S42arbCEql8tbn1cMGZ4%2Bmnyd3IM7cOeiYxP8PbCCUVIM%2BV5cO7JZNdzK1inRapr&noverify=0&group_code=714647341",
         "pic": [
             1,
             2,
@@ -2258,7 +2383,7 @@
             4,
             5
         ],
-        "status": 0
+        "status": 1
     },
     {
         "title": "你是先驱者",
@@ -2492,7 +2617,7 @@
         "title": "放置MMO",
         "enTitle": "Idle MMO",
         "date": "2023-12-08",
-        "update": "2023-12-08",
+        "update": "2024-12-08",
         "version": "",
         "path": "idle-mmo",
         "type": [
@@ -2510,6 +2635,10 @@
         "customUrlTit": "开始游戏",
         "customUrl2": "https://gityx.com/help/faq/633.html",
         "customUrlTit2": "汉化教程",
+        "customUrl3": "https://play.google.com/store/apps/details?id=dawsn.idlemmo&pcampaignid=web_share",
+        "customUrlTit3": "安卓市场下载",
+        "customUrl4": "https://apps.apple.com/us/app/idlemmo-online-idle-rpg/id6469646231",
+        "customUrlTit4": "iOS美区地址",
         "QQ": "701342586",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=uWi2pd8HCNjx3nHncLpm8B4elxc7uHDS&jump_from=webapi&authKey=8ac6knYnTowr9nX6ILV2X0iRolSjoD0KRIYMF3do7TXCx/svoB1VP6n6S11fnDa5",
         "pic": [
@@ -14099,7 +14228,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/grindcraft-remastered",
         "enUrl": "https://zh.y8.com/games/grindcraft_remastered",
-        "customUrl": "https://yx.g8hh.com/grindcraft-remastered",
+        "customUrl": "https://grindcraft-remastered.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://share.weiyun.com/aSiZJzCP",
         "customUrlTit2": "Flash版本",
@@ -16418,8 +16547,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "",
         "date": "2021-04-22",
-        "update": "2024-06-13",
-        "version": "0.6.171",
+        "update": "2024-08-25",
+        "version": "0.6.178",
         "path": "jyf",
         "type": [
             "放置",
@@ -16434,6 +16563,7 @@
             "武侠"
         ],
         "content": [
+            "2024-08-25：更新到0.6.178版本了，增加剧情模式和MOD功能~",
             "新增AI对话的模式~",
             "点击版本号即可进入对应版本开玩~",
             "《金庸群侠•大乱斗》是爱好者自制的游戏，仅供金庸武侠世界爱好者分享和交流，不用于商业盈利，大家可以当放置游戏玩。",
@@ -17410,8 +17540,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2023-08-23",
-        "version": "0.10.5",
+        "update": "2024-08-22",
+        "version": "0.13.2b",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -17431,7 +17561,7 @@
             "【汉化版】这个链接就是最新版~"
         ],
         "enUrl": "https://lodev.org/etherealfarm/",
-        "customUrl": "https://ethereal-farm.g8hh.com",
+        "customUrl": "https://ethereal-farm.g8hh.com.cn",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/ethereal-farm",
         "customUrlTit2": "备用地址-GitHub",
