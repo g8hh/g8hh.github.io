@@ -615,7 +615,7 @@
         "title": "无尽洪荒，10点新区开放，文字MUD修仙游戏",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-08-03",
+        "update": "2024-09-04",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -684,7 +684,7 @@
         "title": "放置传奇，PC挂机摸鱼放置游戏，七夕活动进行中",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2024-08-08",
+        "update": "2024-09-15",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -695,6 +695,7 @@
             "文字"
         ],
         "content": [
+            "2024-09-15：中秋活动进行中~",
             "今天中午12点整开服，喜欢的小伙伴可以提前下载注册！",
             "游戏名字：放置传奇（pc放置）",
             "作者：鸟software",
@@ -754,6 +755,245 @@
         "status": 0
     },
     {
+        "title": "Tetrationally，英文长流程增量",
+        "enTitle": "Tetrationally",
+        "date": "2024-09-18",
+        "update": "2024-09-18",
+        "version": "1.1",
+        "path": "tetrationally",
+        "type": [
+            "英文",
+            "点击",
+            "放置",
+            "升级",
+            "挂机"
+        ],
+        "content": [
+            "欢迎来到Tetrational。这是一款用Scratch制作的长时间增量游戏。这个游戏基本上是什么?另一个增量?和增量组合(这两款游戏都是用Scratch制作的)。​",
+            "这款游戏在前1.5个小时非常活跃。当你打开e40的东西时，游戏会变慢一些，并且在Fermion的早期变得很无聊。​",
+            "没有云存储，但不用担心。如果你丢失了你的存档，有一个存档银行。​",
+            "超过7000点需要很多策略。确保你在那之后阅读了升级的效果。​",
+            "控制:你只需要鼠标来玩!(或手)​",
+            "游戏文件大小为18兆左右，加载慢的小伙伴请耐心等待~​",
+            "因为是英文的，有点考验阅读理解能力。​",
+            "祝大家玩得开心~​"
+        ],
+        "customUrl": "https://gltyx.github.io/tetrationally/",
+        "customUrlTit": "备用地址-github",
+        "enUrl": "https://hasamentalist117.itch.io/tetrationally",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "稀有宝珠 XL",
+        "enTitle": "Rarity Orbs XL",
+        "date": "2024-09-10",
+        "update": "2024-09-10",
+        "version": "0.1.1",
+        "path": "rarity-orbs",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置"
+        ],
+        "content": [
+            "《十二龙》作者的新作，另一个版本的小球掉落。作者保持了一贯的像素风和大数值，肝就完了。",
+            "作者的其他游戏：《十二黄金计算器》、《超级游戏》、《采矿点击器：重新挖掘》、《地狱高尔夫》、《数组游戏》。"
+        ],
+        "zhUrl": "https://gltyx.github.io/rarity-orbs/",
+        "customUrl": "https://rarity-orbs.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://www.demonin.com/games/rarityOrbs/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "荣耀之径，群友自制挂机页游",
+        "enTitle": "",
+        "date": "2024-09-09",
+        "update": "2024-09-09",
+        "version": "",
+        "path": "ryzj",
+        "type": [
+            "原创",
+            "放置",
+            "文字",
+            "点击",
+            "挂机"
+        ],
+        "content": [
+            "群里的小伙伴自己写的融合了hof和poe的放置游戏。现在是原型状态，在线/离线模式都做了，大概技能有十来个，几张地图。",
+            "欢迎感兴趣的小伙伴，欢迎进群和作者一起讨论思路或者提建议：1006242560",
+            "游戏加载可能略慢，请耐心等待~"
+        ],
+        "customUrl": "https://icy-island-03d254800.5.azurestaticapps.net/",
+        "customUrlTit": "开始游戏",
+        "QQ": "1006242560",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "超能力放置",
+        "enTitle": "",
+        "date": "2024-09-06",
+        "update": "2024-09-06",
+        "version": "",
+        "path": "idle-superpowers",
+        "type": [
+            "英文",
+            "安卓",
+            "iOS",
+            "战斗",
+            "Steam"
+        ],
+        "content": [
+            "​《Idle Superpowers》是一款roguelike的空闲rpg游戏，你是一名超级英雄，可以获得多种相互组合和协同的超能力!",
+            "作者还有其他游戏：骰子放置、骰子放置2、放置游戏开发放置、砍树放置。",
+            "- 99+超能力解锁",
+            "- 随机生成的力量，确保每次运行发挥不同",
+            "- 结合超能力创造强大的协同效应",
+            "- 随机生成的道具和敌人",
+            "- 解锁新升级的挑战，需要不同的游戏风格"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1831980/Idle_Superpowers/",
+        "customUrl": "https://play.google.com/store/apps/details?id=com.lutsgames.IdleSuperpowers",
+        "customUrlTit": "安卓版",
+        "customUrl2": "https://apps.apple.com/hk/app/idle-superpowers/id1542024472",
+        "customUrlTit2": "iOS版",
+        "customUrl3": "https://www.lutsgames.com/games/idle-superpowers/",
+        "customUrlTit3": "英文网页版",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1
+    },
+    {
+        "title": "超级结构",
+        "enTitle": "Hyper Structure",
+        "date": "2024-09-06",
+        "update": "2024-09-06",
+        "version": "0.1.37",
+        "path": "hyper-structure",
+        "type": [
+            "已汉化",
+            "点击",
+            "放置",
+            "升级",
+            "挂机"
+        ],
+        "content": [
+            "《HyperStructure》是一款没有重置层的渐进式游戏，围绕着“组件”的概念，即你可以放入插槽的道具，它们的位置决定了你的资源增长方向。​",
+            "许多其他的层将被解锁，在这个旅程的建设结构如此之大，将超越存在。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/hyper-structure/",
+        "customUrl": "https://hyper-structure.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://teckentech.github.io/HyperStructure/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "文明末日",
+        "enTitle": "Society Fail",
+        "date": "2024-09-03",
+        "update": "2024-09-03",
+        "version": "",
+        "path": "society-fail",
+        "type": [
+            "已汉化",
+            "点击",
+            "生存",
+            "策略",
+            "经营"
+        ],
+        "content": [
+            "这是一款模拟末日生存的文字游戏，有高中低三种难度。你需要平衡资源，解锁升级，尽可能的活下去。​",
+            "注意：暂停功能还没做，所以要盯着状态条，某一个条变成0可能就挂了。​",
+            "发现英文，大家可以帮忙提取英文文本发我补汉化~​"
+        ],
+        "zhUrl": "https://gltyx.github.io/society-fail/",
+        "customUrl": "https://society-fail.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://society.fail/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "挂机吧！传奇！群友自制",
+        "enTitle": "",
+        "date": "2024-08-30",
+        "update": "2024-08-08",
+        "version": "0.1",
+        "path": "chuan-qi-tree",
+        "type": [
+            "原创",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "2024-09-08：请使用第一个链接游戏，备用地址不再同步版本更新，欢迎大家支持作者~",
+            "这是群里的 @匿_名 大佬的新作。",
+            "之前咱们发过他的《RPG放置》、《传奇树》等作品。"
+        ],
+        "customUrl": "https://chuanqi-v5.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "zhUrl": "https://n-i-ming.github.io/chuanqi-v5.0/",
+        "customUrl3": "https://gityx.com/modding-trees.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "763178598",
+        "qqUrl": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=3WLiivmCOpZtbUzCHTigsnkwEGBl0mu7&authKey=%2BYcp0OBFEgl9l5DND9Bh3LfgnmpfYnk6Hwt95gql%2Fo7fzj2av80KCDf9hzeqyvqt&noverify=0&group_code=763178598",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "活星放置",
         "enTitle": "Planet Life",
         "date": "2024-08-29",
@@ -787,6 +1027,40 @@
         "status": 1
     },
     {
+        "title": "天天刷深渊 2，群友投稿自制安卓手游",
+        "enTitle": "",
+        "date": "2024-08-26",
+        "update": "2024-08-26",
+        "version": "",
+        "path": "ttssy",
+        "type": [
+            "安卓",
+            "点击",
+            "冒险"
+        ],
+        "content": [
+            "这是一款极具魅力的放置挂机游戏！",
+            "全新挂机与组队模式结合，轻松游玩无压力，绝不孤单。时装、称号皆可提升，资源只需投入时间便能获得。",
+            "玩法更新由玩家掌控，凭借超强攻击力闯荡深渊和远古试炼，夺取史诗装备超欢乐。",
+            "强化、符文、宝石、增幅等系统，提升实力超有趣。",
+            "团本模式即将璀璨登场，和大佬争抢神话装备比伤害，刺激无比。",
+            "每日福利极为丰厚，副本惊喜不断涌现，新手上线即享福利，迅速开启冒险之旅。",
+            "快来加入，尽情畅玩游戏！",
+            "交流群：568205060"
+        ],
+        "customUrl2": "https://wwp.lanzouj.com/ttssy",
+        "customUrlTit2": "安卓版",
+        "QQ": "568205060",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "豌豆制造器",
         "enTitle": "Peas Maker",
         "date": "2024-08-23",
@@ -794,6 +1068,7 @@
         "version": "",
         "path": "peasmaker",
         "type": [
+            "已汉化",
             "点击",
             "放置",
             "升级"
@@ -822,7 +1097,7 @@
         "title": "放置冒险RPG，网络文字放置摸鱼",
         "enTitle": "",
         "date": "2024-08-16",
-        "update": "2024-08-16",
+        "update": "2024-09-03",
         "version": "",
         "path": "idle-quest-rpg",
         "type": [
@@ -832,9 +1107,10 @@
             "联网"
         ],
         "content": [
-            "这游戏就三个规则：不能开自动，不能多个账号，不准现金交易。",
+            "2024-09-03：新增测试版地址，无限自动，可以纯挂机，体验氪佬的快乐哦~",
             "2024-08-19：群友反馈：苹果手机浏览器玩，是可以弹出验证码的。",
             "2024-08-17：建了QQ群：492589108，欢迎大家交流~",
+            "这游戏就三个规则：不能开自动，不能多个账号，不准现金交易。",
             "油猴汉化文件地址：",
             "https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js",
             "游戏Boss提醒插件：",
@@ -860,12 +1136,14 @@
         ],
         "customUrl": "https://www.iqrpg.com/?r=21364",
         "customUrlTit": "开始游戏",
-        "customUrl2": "https://gityx.com/help/faq/633.html",
-        "customUrlTit2": "油猴汉化教程",
-        "customUrl3": "https://www.tampermonkey.net/",
-        "customUrlTit3": "油猴官网",
-        "customUrl4": "https://greasyfork.org/zh-CN/scripts/398028-iqrpg",
-        "customUrlTit4": "游戏Boss提醒插件",
+        "customUrl2": "https://test.iqrpg.com/",
+        "customUrlTit2": "测试服(6倍速)",
+        "customUrl3": "https://gityx.com/help/faq/633.html",
+        "customUrlTit3": "油猴汉化教程",
+        "customUrl4": "https://www.tampermonkey.net/",
+        "customUrlTit4": "油猴官网",
+        "customUrl5": "https://greasyfork.org/zh-CN/scripts/398028-iqrpg",
+        "customUrlTit5": "游戏Boss提醒插件",
         "QQ": "492589108",
         "qqUrl": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uZsnvr7mEtGZ81_xDg2Qt0uLZDEESJgw&authKey=%2FHbKTDddbAJv5JEEX7%2Fp9YpVzPUjP3wa7JJcEyAJzIdZcQjViSPM63kKyjGgWqBR&noverify=0&group_code=492589108",
         "pic": [
@@ -887,6 +1165,7 @@
         "version": "",
         "path": "lost-in-space",
         "type": [
+            "已汉化",
             "生存",
             "点击",
             "解谜",
@@ -917,6 +1196,7 @@
         "version": "0.4.1",
         "path": "squareixion",
         "type": [
+            "已汉化",
             "战斗",
             "点击",
             "放置",
@@ -947,6 +1227,7 @@
         "version": "",
         "path": "idle-tcg",
         "type": [
+            "已汉化",
             "文字",
             "点击",
             "放置",
@@ -1098,8 +1379,8 @@
         "title": "我的文字修仙全靠刷，群友自制文字游戏",
         "enTitle": "",
         "date": "2024-07-30",
-        "update": "2024-08-13",
-        "version": "0.75",
+        "update": "2024-09-06",
+        "version": "0.8",
         "path": "vue-xiuxian",
         "type": [
             "点击",
@@ -1109,6 +1390,7 @@
             "修仙"
         ],
         "content": [
+            "2024-09-06：更新到0.8版本~",
             "2024-08-05：更新到0.73版本~",
             "2024-08-02：更新到0.7版本，存档不兼容，需要删档重玩~",
             "这是作者Vue练手写的游戏，欢迎大家给作者点个星星。",
@@ -1200,8 +1482,8 @@
         "title": "鲨鱼增量",
         "enTitle": "Shark Incremental",
         "date": "2024-07-05",
-        "update": "2024-08-17",
-        "version": "0.3.1",
+        "update": "2024-09-12",
+        "version": "0.3.2",
         "path": "shark-incremental",
         "type": [
             "文字",
@@ -1210,6 +1492,7 @@
             "升级"
         ],
         "content": [
+            "2024-09-12：同步到0.3.2版本了~​",
             "又一款鲨鱼题材的增量放置游戏，此游戏玩法可能借鉴了《反物质维度》​。​"
         ],
         "customUrl": "https://mrredshark77.github.io/shark-incremental/",
@@ -1317,8 +1600,8 @@
         "title": "风灵作成，群友自制网页放置",
         "enTitle": "",
         "date": "2024-06-27",
-        "update": "2024-06-27",
-        "version": "4.0",
+        "update": "2024-09-02",
+        "version": "4.3",
         "path": "wind-spirit-creation",
         "type": [
             "群友自制",
@@ -1327,6 +1610,7 @@
             "放置"
         ],
         "content": [
+            "2024-09-02：更新到0.4.3版本了~​",
             "传说在纤细脆弱的蝴蝶体内，也藏有引发飓风的力量，这由纯粹的风构成的蝴蝶，无疑在等待着再次召来暴风的那一天。​"
         ],
         "customUrl": "https://dlsdl.github.io/wind_spirit_creation/",
@@ -1409,8 +1693,8 @@
         "title": "赛博朋克生活",
         "enTitle": "Cyberpunk Life",
         "date": "2024-06-17",
-        "update": "2024-07-25",
-        "version": "0.7",
+        "update": "2024-09-09",
+        "version": "0.71",
         "path": "cyberpunk-life",
         "type": [
             "已汉化",
@@ -1505,8 +1789,8 @@
         "title": "超级乌龟放置",
         "enTitle": "Super Turtle Idle",
         "date": "2024-05-22",
-        "update": "2024-08-25",
-        "version": "0.46",
+        "update": "2024-08-31",
+        "version": "0.47",
         "path": "super-turtle-idle",
         "type": [
             "点击",
@@ -2576,7 +2860,7 @@
         "title": "亿万富翁放置",
         "enTitle": "Idle Trillionaire",
         "date": "2023-12-15",
-        "update": "2023-12-15",
+        "update": "2024-08-31",
         "version": "",
         "path": "idle-trillionaire",
         "type": [
@@ -2603,6 +2887,8 @@
         "customUrlTit2": "安卓市场版",
         "customUrl3": "https://apps.apple.com/us/app/idle-trillionaire-money-game/id6473220418",
         "customUrlTit3": "iOS版",
+        "customUrl4": "https://store.steampowered.com/app/2753100/Idle_Trillionaire/",
+        "customUrlTit4": "Steam版",
         "enUrl": "https://www.idletrillionaire.com/",
         "pic": [
             1,
@@ -2617,7 +2903,7 @@
         "title": "放置MMO",
         "enTitle": "Idle MMO",
         "date": "2023-12-08",
-        "update": "2024-12-08",
+        "update": "2023-12-08",
         "version": "",
         "path": "idle-mmo",
         "type": [
@@ -6218,7 +6504,7 @@
         "title": "骰子放置2",
         "enTitle": "Idle Dice 2",
         "date": "2023-01-02",
-        "update": "2023-01-02",
+        "update": "2024-09-06",
         "path": "idle-dice2",
         "type": [
             "放置",
@@ -6249,6 +6535,7 @@
         "customUrlTit2": "IOS下载",
         "customUrl3": "https://apkpremier.com/details/com-lutsgames-IdleDice2",
         "customUrlTit3": "安卓直接下载",
+        "steamUrl": "https://store.steampowered.com/app/2238180/Idle_Dice_2/",
         "pic": [
             1,
             2,
@@ -8892,7 +9179,7 @@
             "群里的 @匿_名 大佬写的，游戏主题就是国风的传奇主题，锅巴表示，他很强！",
             "挺久没更新新的模组树游戏了，今天来一个吧，这个Mod的玩法也算新颖。"
         ],
-        "customUrl": "https://yx.g8hh.com/chuan-qi-tree/",
+        "customUrl": "https://chuan-qi-tree.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://whzyhx.github.io/Ni-Ming/",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -15699,8 +15986,8 @@
         "title": "弹珠放置",
         "enTitle": "Pachinkremental",
         "date": "2021-06-07",
-        "update": "2023-05-17",
-        "version": "2.1.3",
+        "update": "2024-09-11",
+        "version": "2.1.5",
         "path": "pachinkremental",
         "type": [
             "已汉化",
@@ -15717,7 +16004,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/pachinkremental/",
         "enUrl": "https://poochyexe.github.io/pachinkremental/pachinkremental.html",
-        "customUrl": "https://yx.g8hh.com/pachinkremental",
+        "customUrl": "https://pachinkremental.g8hh.com.cn/",
         "customUrlTit": "最新版",
         "pic": [
             1,
@@ -18657,7 +18944,7 @@
             ""
         ],
         "zhUrl": "https://g1tyx.github.io/pincremental",
-        "customUrl": "https://pincremental.g8hh.com/",
+        "customUrl": "https://pincremental.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/Makopaz/pincremental?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -19448,8 +19735,8 @@
         "title": "协同放置",
         "enTitle": "Synergism",
         "date": "2020-05-05",
-        "update": "2022-04-13",
-        "version": "2.9.1",
+        "update": "2024-09-03",
+        "version": "2.10.10",
         "path": "synergism",
         "type": [
             "汉化中",
@@ -19461,13 +19748,15 @@
             "K站"
         ],
         "content": [
+            "2024-09-03：可以去setting - language 里面切换为中文。",
             "感谢 @by22dgb 帮忙汉化。",
             "点点点！买买买！"
         ],
         "QQ": "952923286",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=nBhkCL9RVu899j7Rm2E3U5mn1dc2drBk&jump_from=webapi",
         "kUrl": "https://www.kongregate.com/games/Platonic/synergism?sfa=permalink&referrer=SunshineDad",
         "enUrl": "https://pseudo-corp.github.io/SynergismOfficial/",
-        "customUrl": "https://synergism.g8hh.com/",
+        "customUrl": "https://synergism.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/Synergism/",
         "customUrlTit2": "备用地址-GitHub",
@@ -20352,8 +20641,10 @@
             ""
         ],
         "zhUrl": "https://g1tyx.github.io/luts91/idle-idle-gamedev/index.html",
-        "customUrl": "https://yx.g8hh.com/luts91/idle-idle-gamedev/index.html",
+        "customUrl": "https://yx.g8hh.com.cn/luts91/idle-idle-gamedev/index.html",
         "customUrlTit": "汉化版-g8hh",
+        "customUrl2": "https://apps.apple.com/us/app/idle-idle-gamedev/id1512956685?ls=1",
+        "customUrlTit2": "iOS版",
         "enUrl": "https://luts91.github.io/idle-idle-gamedev/index.html",
         "pic": [
             1,
