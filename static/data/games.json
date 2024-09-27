@@ -677,6 +677,201 @@
         "status": 0
     },
     {
+        "title": "按钮模拟器",
+        "enTitle": "Button Simulator",
+        "date": "2024-09-27",
+        "update": "2024-09-27",
+        "version": "",
+        "path": "button-simulator",
+        "type": [
+            "文字",
+            "点击",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "这是一款模拟按钮点击的放置游戏，总共分为3个阶段，相辅相成。",
+            "注意：刷新页面后，需要手动点“加载”才会载入上次保存的进度。"
+        ],
+        "zhUrl": "https://gltyx.github.io/button-simulator/",
+        "customUrl": "https://button-simulator.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://ttr0511.itch.io/button-simulator",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "三国杀，尔虞我诈，三分钟一局！",
+        "enTitle": "",
+        "date": "2024-09-27",
+        "update": "2024-09-27",
+        "version": "",
+        "path": "sgs",
+        "type": [
+            "养成",
+            "棋牌",
+            "策略",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《三国杀》是一款集历史、美术、卡牌等元素于一身的原创三国题材策略卡牌微信小游戏。国战经典玩法，创新推出2V2、斗地主模式，更有丰富主题的PVE玩法体验！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/dx3lEPIKQFPtG8GK5TChAw",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "贪吃蛇大作战，5亿人都在玩的休闲游戏",
+        "enTitle": "",
+        "date": "2024-09-27",
+        "update": "2024-09-27",
+        "version": "",
+        "path": "tcsdzz",
+        "type": [
+            "养成",
+            "动作",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《贪吃蛇大作战》是一款超好玩的休闲竞技微信小游戏,不仅比拼手速,更考验你的策略!在贪吃蛇大作战的世界中,每个人在初始都化身为一条小蛇,通过不断努力变得越来越长,最终制霸一方！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/ffkVOaEjlf6tvNZ72uklOw",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "山海经异兽录，远古神话，开拓洪荒世界！",
+        "enTitle": "",
+        "date": "2024-09-27",
+        "update": "2024-09-27",
+        "version": "",
+        "path": "shjysl",
+        "type": [
+            "养成",
+            "角色",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《山海经异兽录》以山海经题材为主的微信小游戏。多种奇珍异兽角色都可以选择，让大家感受多样化的生存进化方式。游戏玩法丰富有趣，玩家可以组合多种华丽炫酷的打斗招式，感受非常有趣的神兽争斗。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/7SwzDVf2-GAopQRjQ5zynQ",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "JJ斗地主，高手都在这",
+        "enTitle": "",
+        "date": "2024-09-27",
+        "update": "2024-09-27",
+        "version": "",
+        "path": "jjddz",
+        "type": [
+            "点击",
+            "棋牌",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《JJ斗地主》是一款画面精美、特效绚丽、操作爽快的斗地主棋牌竞技微信小游戏。3千万人与您PK，真正做到与PC同步，开赛零等待！锦标赛、房间赛、大奖赛多种赛事多玩法，针对不同水平的玩家分了不同赛区!",
+            "高手都在这，掼蛋、2V2亲友房免费即玩！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/eXAYZ2XO-lRgFnUfTsNzsA",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "原始传奇，还是当年的味道",
+        "enTitle": "",
+        "date": "2024-09-27",
+        "update": "2024-09-27",
+        "version": "",
+        "path": "yscq",
+        "type": [
+            "点击",
+            "角色",
+            "传奇",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《原始传奇》是一款MMORPG微信小游戏，有战士、法师和道士三种职业。玩家可以在游戏的虚拟世界中与同伴尽情冒险，体验到养成、打斗、社交、互动等各种丰富多样的功能，成就一段强者的成长之路。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/kfJI_5ky25-J4dfAr_VCzA",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
         "title": "凡人修仙之洪荒传奇，群友自制",
         "enTitle": "Primitive Legend",
         "date": "2024-09-26",
