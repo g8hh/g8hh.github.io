@@ -677,6 +677,68 @@
         "status": 0
     },
     {
+        "title": "锤峰放置",
+        "enTitle": "Hammer Crest Idle",
+        "date": "2024-09-29",
+        "update": "2024-09-29",
+        "version": "0.8.2.1",
+        "path": "hammer-crest",
+        "type": [
+            "挂机",
+            "英文",
+            "经营",
+            "升级",
+            "益智"
+        ],
+        "content": [
+            "注意：游戏好像不会自动备份存档，刷新、关闭前，记得去设置里面导出存档备份哈。",
+            "游戏包含了战斗、生活、制作、任务等元素。因为这是一款Unity开发的游戏，暂时无汉化。",
+            "由于游戏文件比较大，加载速度慢属于正常情况，请稍安勿躁。",
+            "对于那些访问*.github.io就提示“无法访问此网站”的小伙伴，可以通过修改hosts文件来解决。建议查看教程：https://www.cnblogs.com/m0re/p/14269975.html"
+        ],
+        "enUrl": "https://hammercrest.github.io/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "挂机吧！传奇！群友自制",
+        "enTitle": "",
+        "date": "2024-09-28",
+        "update": "2024-09-28",
+        "version": "0.1",
+        "path": "chuanqi-v5",
+        "type": [
+            "原创",
+            "放置",
+            "文字",
+            "传奇",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "这是群里的 @匿_名 大佬的新作。之前咱们发过他的《RPG放置》、《传奇树》等作品。",
+            "游戏交流群：763178598"
+        ],
+        "customUrl": "https://n-i-ming.github.io/chuanqi-v5.0/",
+        "customUrlTit": "开始游戏",
+        "QQ": "763178598",
+        "qqUrl": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=3WLiivmCOpZtbUzCHTigsnkwEGBl0mu7&authKey=%2BYcp0OBFEgl9l5DND9Bh3LfgnmpfYnk6Hwt95gql%2Fo7fzj2av80KCDf9hzeqyvqt&noverify=0&group_code=763178598",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
         "title": "按钮模拟器",
         "enTitle": "Button Simulator",
         "date": "2024-09-27",
@@ -705,6 +767,167 @@
             5
         ],
         "status": 1
+    },
+    {
+        "title": "冒险大作战，冒险有家族，作战不菇独！",
+        "enTitle": "",
+        "date": "2024-09-29",
+        "update": "2024-09-29",
+        "version": "",
+        "path": "xyx_mxdzz",
+        "type": [
+            "养成",
+            "战斗",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《冒险大作战》是一款放置冒险微信小游戏，十分考验玩家的策略思维能力，精彩的实力战役选择强大的装备展开猛烈的战役。合理的去匹配更多的资源提升自己的实力。挑战各种副本和主线关卡任务，轻松放置的挂机系统，多种蘑菇职业任您挑选，感兴趣的小伙伴快来体验吧！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/xka9lwuAIRRGI0ngjf_iWA",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "小兵大作战，开局一小兵，三分钟爽赢！",
+        "enTitle": "",
+        "date": "2024-09-29",
+        "update": "2024-09-29",
+        "version": "",
+        "path": "xyx_xbdzz",
+        "type": [
+            "养成",
+            "割草",
+            "动作",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《小兵大作战》是一款多人联机战争策略对抗微信小游戏，以丰富的兵种组合以及行军策略和武将的技能释放时机为玩家带来多样的战争对抗体验。快节奏游戏多样战争模拟玩法，简单几分钟一把的休闲对抗，快乐不停歇。游戏中的养成内容相当良心，各种武将最终升级都可成为强大的战力和战局关键力量。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/c9aHhM6Zc3DcmmkyecrJaw",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "青云诀之伏魔，降妖伏魔，体验最真实的修仙",
+        "enTitle": "",
+        "date": "2024-09-29",
+        "update": "2024-09-29",
+        "version": "",
+        "path": "xyx_qyjzfm",
+        "type": [
+            "养成",
+            "修仙",
+            "战斗",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《青云诀之伏魔》是一款仙侠题材的ARPG微信小游戏，该游戏具有独特的功能和精美的画面。玩家不仅可以在游戏中修仙，还可以结识仙侣，驯服神兽坐骑，全新的地图和装备，让你体验修仙。玩家在游戏中化身修真者，穿梭于修仙界，不断提升实力，在战斗中成长，用神器武装自己，一步步走向修仙界的巅峰。多种多样的酷炫时装，神奇百变的天神坐骑，最原汁原味的仙侠世界等你一起来体验！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/HubAtP5OEXs_cCzc2RvNIA",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "抓大鹅，摸鱼神器，解压三消",
+        "enTitle": "",
+        "date": "2024-09-29",
+        "update": "2024-09-29",
+        "version": "",
+        "path": "xyx_zde",
+        "type": [
+            "三消",
+            "益智",
+            "休闲",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《抓大鹅》是一款充满魔性和趣味的3D找茬加消除类型的微信小游戏，它以抓鹅为主题，通过智慧和反应速度，完成关卡任务，并有机会登上全国排行榜，为自己的省份争光。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/9X8QDeZXDpw4BhsuqvRNJw",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "羊了个羊，通关率仅有百分之0.01，快来挑战！",
+        "enTitle": "",
+        "date": "2024-09-29",
+        "update": "2024-09-29",
+        "version": "",
+        "path": "xyx_ylgy",
+        "type": [
+            "三消",
+            "益智",
+            "休闲",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《羊了个羊》是一款爆火的卡通消除微信小游戏，拥有精美的画面设计，有着十分丰富的内容，打造出多样化的关卡，玩家可以实时体验，不断点击场景之中的各种物品，消除不同的道具以及陷阱，轻松通过关卡，完成各个任务。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/eSqrnLwD814k3KOv_z1HTg",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1,
+        "needHH": 0
     },
     {
         "title": "三国杀，尔虞我诈，三分钟一局！",
@@ -875,7 +1098,7 @@
         "title": "凡人修仙之洪荒传奇，群友自制",
         "enTitle": "Primitive Legend",
         "date": "2024-09-26",
-        "update": "2024-09-26",
+        "update": "2024-09-28",
         "version": "0.1",
         "path": "primitive-legend",
         "type": [
@@ -1213,7 +1436,7 @@
         "title": "荣耀之径，群友自制挂机页游",
         "enTitle": "",
         "date": "2024-09-09",
-        "update": "2024-09-09",
+        "update": "2024-09-29",
         "version": "",
         "path": "ryzj",
         "type": [
@@ -1224,6 +1447,10 @@
             "挂机"
         ],
         "content": [
+            "2024-09-29：版本优化了，重构了2/3的代码，各种繁琐和自以为是的地方都改了，主要是：",
+            "1、背包和战利品改了搜索和批量操作过滤器；",
+            "2、技能重构 界面 描述 和汇总信息都改了；",
+            "3、战斗模式重构.，不在要求必须看着战斗，战斗在后台持续进行，可以看回放和伤害分析。",
             "群里的小伙伴自己写的融合了hof和poe的放置游戏。现在是原型状态，在线/离线模式都做了，大概技能有十来个，几张地图。",
             "欢迎感兴趣的小伙伴，欢迎进群和作者一起讨论思路或者提建议：1006242560",
             "游戏加载可能略慢，请耐心等待~"
@@ -17214,9 +17441,7 @@
             "QQ群：922600429"
         ],
         "customUrl": "https://zhouxiaobo.fun/jyf",
-        "customUrlTit": "原版",
-        "customUrl2": "https://jyf.g8hh.com.cn/",
-        "customUrlTit2": "备用地址-g8hh",
+        "customUrlTit": "开始游戏",
         "oscUrl": "https://www.oschina.net/p/jyf",
         "QQ": "922600429",
         "pic": [
