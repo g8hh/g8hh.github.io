@@ -349,7 +349,7 @@
         "title": "梦幻阁 - 梦幻题材文字放置类上班摸鱼游戏",
         "enTitle": "",
         "date": "2023-03-09",
-        "update": "2024-03-11",
+        "update": "2024-10-01",
         "version": "",
         "path": "mhg",
         "type": [
@@ -360,6 +360,7 @@
             "文字"
         ],
         "content": [
+            "2024-10-01：国庆新区活动进行中~",
             "欢迎来玩为咱们专门建的区：赞美太阳",
             "最近锅巴确实太忙了，没精力更新新游戏，最近还要参加CMMI培训，还要背几页考题。。。",
             "刚好群里小伙伴推荐了另一款梦幻题材，文字放置挂机游戏，适合上班摸鱼~",
@@ -433,10 +434,10 @@
         "status": 1
     },
     {
-        "title": "迷你梦幻，怀旧多人在线游戏，七夕活动进行中",
+        "title": "迷你梦幻，怀旧多人在线游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2024-09-24",
+        "update": "2024-10-01",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -444,6 +445,7 @@
             "文字"
         ],
         "content": [
+            "2024-10-01：国庆新区活动进行中~",
             "今天给大家推荐一个文字版的梦幻游戏，三端互通。群里小伙伴推荐的，适合挂机、摸鱼。",
             "欧皇可以试试，出极品装备了可以挂市场卖，或者攒金币卖，现在11区行情大概在180-200金币=1元，还可以搞点零花，不怕卖不出去。",
             "新人可以加讨论群：724573944，用本站链接注册，开了交易找群主送超级泡泡。",
@@ -534,10 +536,10 @@
         "status": 1
     },
     {
-        "title": "无尽洪荒，文字MUD修仙游戏",
+        "title": "无尽洪荒，文字MUD修仙游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-09-25",
+        "update": "2024-10-17",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -547,7 +549,7 @@
             "升级"
         ],
         "content": [
-            "新区预告：壮志凌云，9月28日，10：00开启",
+            "新区计划：卧薪尝胆，10月17日，10：00开启",
             "《无尽洪荒》五一活动公告",
             " 活动时间：2024年5月1日00:00-2024年5月5日23：59",
             "活动内容：",
@@ -677,6 +679,356 @@
         "status": 0
     },
     {
+        "title": "随机地牢爬行者",
+        "enTitle": "Dungeon Crawler On Demand",
+        "date": "2024-10-18",
+        "update": "2024-10-18",
+        "version": "",
+        "path": "dungeon-crawler-od",
+        "type": [
+            "升级",
+            "点击",
+            "战斗",
+            "Rogue"
+        ],
+        "content": [
+            "注意：名字不要起中文的，会导致无法导出存档！",
+            "快速，轻松地访问一个惊心动魄的地牢爬行的经验，在任何时候。只需简单的点击一下按钮，玩家就可以进入一个完全实现的，随机生成的地牢，里面充满了怪物和暗黑破坏神启发的装备战利品系统！",
+            "汉化应该只剩下一些怪物、装备名称了，不影响游戏，有时间的话会继续汉化哈。",
+            "游戏机制",
+            "在Roguelite游戏玩法中，当玩家死亡时进度会被重置，但装备会被保留。",
+            "玩家通过爬上带有随机事件的楼层来导航地下城。",
+            "玩家可以在升级时升级自己的属性，每级选择3种可能的升级和2次掷骰机会。",
+            "玩家可以装备6个装备槽。",
+            "有6种稀有装备，分别是普通、不常见、稀有、史诗、传奇和传家宝。",
+            "游戏内数据",
+            "HP（生命值）-一个单位在死亡前所能承受的伤害。",
+            "ATK（攻击）-单位攻击时造成的伤害。",
+            "DEF（防御）-对攻击的伤害减免量。",
+            "ATK SPD（攻击速度）-单位每秒能进行攻击的速度。",
+            "VAMP（吸血）-治疗一定百分比的伤害。",
+            "C.RATE（暴击率）-造成暴击的几率。",
+            "C.DMG（暴击伤害）-暴击造成的额外伤害。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/dungeon-crawler-od/",
+        "customUrl": "https://dungeon-crawler-od.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://redpangilinan.itch.io/dungeon-crawler-od",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "深渊钓鱼，PC自动钓鱼挂机放置",
+        "enTitle": "Fhising The Abyss",
+        "date": "2024-10-18",
+        "update": "2024-10-18",
+        "version": "1.1.1",
+        "path": "fhising-the-abyss",
+        "type": [
+            "PC",
+            "单机",
+            "钓鱼",
+            "挂机",
+            "联网"
+        ],
+        "content": [
+            "一个奇怪的钓鱼世界来补充你的桌面，游戏界面属于竖长形，可以丢在屏幕一侧挂机。",
+            "百度网盘地址：链接: https://pan.baidu.com/s/1IN6bQ5oriNWHSG-jopemfA?pwd=ekfb 提取码: ekfb",
+            "这个闲着的游戏安静地坐在屏幕的边缘，提供一个寒冷和古怪的气氛，而不是通常的快节奏的动作。",
+            "把你的线扔进一个神秘的鱼塘深处，遇到奇怪的，超凡脱俗的生物。赚取积分，而空转提高你的钓鱼能力，让你的想象力漫游在这个古怪的，异想天开的世界。有时,",
+            "你甚至可能遇到一个看起来很危险的巨型生物。",
+            "与其说它是一款游戏，不如说是一款桌面配件，它非常适合那些喜欢观察奇怪和不可预测事物的人。"
+        ],
+        "customUrl": "https://umaaaaaa.itch.io/fhising-the-abyss",
+        "customUrlTit": "下载地址",
+        "customUrl2": "https://pan.baidu.com/s/1IN6bQ5oriNWHSG-jopemfA?pwd=ekfb",
+        "customUrlTit2": "百度网盘下载",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "乌格利矿工",
+        "enTitle": "Wogley",
+        "date": "2024-10-16",
+        "update": "2024-10-16",
+        "version": "0.4.1",
+        "path": "wogley",
+        "type": [
+            "升级",
+            "点击",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "《十二龙》作者的新作，又是一款肝爆的放置增量游戏。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/wogley/",
+        "customUrl": "https://g1tyx.github.io/wogley/index2.html",
+        "customUrlTit": "汉化版-白色摸鱼",
+        "customUrl2": "https://wogley.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://wogley.g8hh.com.cn/index2.html",
+        "customUrlTit3": "备用地址-白色摸鱼",
+        "enUrl": "https://demonin.com/games/wogley/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "弹珠盘增量",
+        "enTitle": "Plinko Incremental",
+        "date": "2024-10-10",
+        "update": "2024-10-10",
+        "version": "1.5",
+        "path": "plinko-incremental",
+        "type": [
+            "小球",
+            "点击",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "又一款扔弹珠的增量休闲游戏，这个游戏节奏慢了很多，升级也很多，欢迎大家体验。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/plinko-incremental/",
+        "customUrl": "https://plinko-incremental.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://yes7933.github.io/plinko-incremental/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "status": 1
+    },
+    {
+        "title": "足球大玩家，FIFPro正版授权模拟经营策略足球游戏",
+        "enTitle": "",
+        "date": "2024-10-10",
+        "update": "2024-10-10",
+        "version": "",
+        "path": "xyx_zqdwj",
+        "type": [
+            "模拟",
+            "经营",
+            "动作",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《足球大玩家》是一款正版授权的足球游戏，在这里你将和其他的玩家来一场刺激好玩的实时pvp比赛，建立属于自己的球队，招募实力强大的球员们，感受比赛的乐趣。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/Ifuzzgc3TscGSWyiNS5Rvg",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "地铁跑酷，经典3D跑酷，随开随跑，畅享极速！",
+        "enTitle": "",
+        "date": "2024-10-10",
+        "update": "2024-10-10",
+        "version": "",
+        "path": "xyx_dtpk",
+        "type": [
+            "休闲",
+            "动作",
+            "敏捷",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《地铁跑酷》是一款Q版卡通画面风格的休闲跑酷闯关游戏。在游戏中玩家操作多个不同的卡通人物来进行跑酷闯关，每个人物有着专属的技能，玩家可以利用好技能特性来规模障碍物、躲避追捕、收集金币积分等，最终的目标就是以更高的分数完成关卡，并且在跑酷闯关的同时还有非常激情的音乐伴随着玩家的操作律动，令玩家代入音乐的节奏中。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/6ltEIU-EP1q-BdTWRqP4fw",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "合成大西瓜传奇，魔性好玩的合成游戏",
+        "enTitle": "",
+        "date": "2024-10-10",
+        "update": "2024-10-10",
+        "version": "",
+        "path": "xyx_hcdxgcq",
+        "type": [
+            "休闲",
+            "合成",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《合成大西瓜传奇》是一款经典的合成休闲微信小游戏，游戏的玩法非常的简单魔性类似于2048的玩法和俄罗斯方块的结合，通过系统随机飞配的水果，玩家将两个相同的水果不断合成以至于合成大西瓜，就像俄罗斯方块一样水果不能超过一定的空间否则就失败，看似简单的合成玩法给玩家的挑战也不是那么的容易，考验玩家一定的策略智谋，感兴趣的小伙伴挑战吧！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/zcf5U4nPx7Q5SREhhEZIqQ",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "剑侠风云，零氪也能玩的福利自走棋",
+        "enTitle": "",
+        "date": "2024-10-10",
+        "update": "2024-10-10",
+        "version": "",
+        "path": "xyx_jxfy",
+        "type": [
+            "养成",
+            "自走棋",
+            "Rogue",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《剑侠风云》创新地把Roguelike+自走棋玩法融合，5分钟一把，随时开打。轻松解压，好玩不肝，同时又带有策略配置，游戏中有30种不同的侠客角色，64种不同的武功，14种门派羁绊，10种职业羁绊。每个侠客都有擅长的天赋技能，每种武功升到满星还可激活专有特效，可搭配出多种各具特色的武功阵容。丰富的培养玩法，打怪随机掉装备，几十种不同类型的装备词条效果，支持装备合成。支持挂机放置玩法，可通过离线挂机获取到游戏中的道具物品，有效护肝。成为什么样的大侠由你决定！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/VRfJ8ZJeDtbxHxRiwIupgg",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "无名之辈，摸鱼一分钟，打怪很轻松",
+        "enTitle": "",
+        "date": "2024-10-10",
+        "update": "2024-10-10",
+        "version": "",
+        "path": "xyx_wmzb",
+        "type": [
+            "武侠",
+            "养成",
+            "战斗",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《无名之辈》是一款超刺激的国风武侠微信小游戏，无名之辈小游戏采用全新AI技术倾力打造，众多可爱的人物角色更能让伙伴们自由选择。快速结交各种各样的英雄，轻松学习超多的功法技能，更多华丽的特效全屏释放，完美重现大武侠场景，各种各样的强大技能更能让玩家们充分发挥极强的战斗力。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/jZNFwrtH7nGQCi1Z94t42Q",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "叫我大掌柜，开局一把锤，逆袭当贵妃！",
+        "enTitle": "",
+        "date": "2024-10-10",
+        "update": "2024-10-10",
+        "version": "",
+        "path": "xyx_jwdzg",
+        "type": [
+            "模拟",
+            "经营",
+            "建造",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《叫我大掌柜》是一款古代模拟经商游戏，搭载精美水墨画面和厚涂风格人物，带你梦回古代。游戏中，玩家作为一个新手掌柜来到汴梁打拼，结识各位奇人，并将其招为门客，合力经营买卖；邂逅红颜知己，相知相遇，一起白手起家；通过拼搏与努力，成为一个独当一面、富甲一方的商人。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/h1fwq8jeejx7iVnZCcKqCQ",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
         "title": "锤峰放置",
         "enTitle": "Hammer Crest Idle",
         "date": "2024-09-29",
@@ -796,7 +1148,8 @@
             4,
             5,
             6,
-            7
+            7,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -829,7 +1182,8 @@
             3,
             4,
             5,
-            6
+            6,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -861,7 +1215,8 @@
             2,
             3,
             4,
-            5
+            5,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -892,7 +1247,8 @@
             1,
             2,
             3,
-            4
+            4,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -924,7 +1280,8 @@
             2,
             3,
             4,
-            5
+            5,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -957,7 +1314,8 @@
             3,
             4,
             5,
-            6
+            6,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -989,7 +1347,8 @@
             3,
             4,
             5,
-            6
+            6,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -1023,7 +1382,8 @@
             5,
             6,
             7,
-            8
+            8,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -1057,7 +1417,8 @@
             4,
             5,
             6,
-            7
+            7,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -1089,7 +1450,8 @@
             2,
             3,
             4,
-            5
+            5,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -1098,8 +1460,8 @@
         "title": "凡人修仙之洪荒传奇，群友自制",
         "enTitle": "Primitive Legend",
         "date": "2024-09-26",
-        "update": "2024-09-28",
-        "version": "0.1",
+        "update": "2024-10-14",
+        "version": "0.95a",
         "path": "primitive-legend",
         "type": [
             "原创",
@@ -1110,6 +1472,8 @@
             "升级"
         ],
         "content": [
+            "2024-10-14：更新到0.95a版本了~",
+            "2024-10-09：更新到0.93a版本了~",
             "道友，洪荒已至！天地不仁，以万物为刍狗。盘古降世，屠杀三千神魔、以己身化万物得以开天。又有龙凤大劫，道魔大劫，巫妖量劫，百教大劫，封神大劫。如今大劫再起，而你作为唯一变数，大道遁去的其一，当于洪荒之中杀尽敌手，扫除四洲，一统九天，道友，洪荒已至！凡人修仙之洪荒传奇，由筑基原版人马倾情打造，带给你爽快的洪荒修仙传说！",
             "QQ交流群：839785679",
             "这是群里的 @Mr.Pldada 大佬的新作。",
@@ -1157,7 +1521,8 @@
             1,
             2,
             3,
-            4
+            4,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -1189,7 +1554,8 @@
             1,
             2,
             3,
-            4
+            4,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -1221,7 +1587,8 @@
             1,
             2,
             3,
-            4
+            4,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -1251,7 +1618,8 @@
             1,
             2,
             3,
-            4
+            4,
+            0
         ],
         "status": 1,
         "needHH": 0
@@ -1436,7 +1804,7 @@
         "title": "荣耀之径，群友自制挂机页游",
         "enTitle": "",
         "date": "2024-09-09",
-        "update": "2024-09-29",
+        "update": "2024-10-18",
         "version": "",
         "path": "ryzj",
         "type": [
@@ -1447,6 +1815,23 @@
             "挂机"
         ],
         "content": [
+            "2024-10-18：版本更新：",
+            "根据星际五行恶搞了几个战斗风格",
+            "1. 稳. 使用 “能量” 作为资源. 每秒回复能量. 使用基础技能时恢复能量. 所有资源的基础",
+            "2. 偷. 使用 “秘能” 作为资源. 每秒回复大量秘能. 基础技能不能回复秘能",
+            "3. 莽. 使用 “怒气” 作为资源. 进入战斗时没有怒气. 使用基础技能时回复怒气 ",
+            "4. 狗. 使用 “精神” 作为资源. 基础资源为150精神. 技能消耗增加50%的消耗. 每秒回复精神,使用基础技能也可以回复精神",
+            "5. 谐. 使用 符文/符文能量 作为资源. 消耗符文回复符文能量. 基础技能均消耗符文.",
+            "2024-10-14：版本更新：",
+            "主要是根据玩家老爷们的反馈改变了一下游戏逻辑，现在已经是完全的挂机放置游戏了~",
+            "1. 重做了在线模式的逻辑. 在线模式下. 所有的战斗都会再服务器上发生. 会持续不断的进行战斗. 最长维持24小时. ",
+            "2. 离线模式增加了离线结算. 因为离线模式没有服务器. 所以进入游戏以后会计算上次游戏的时间间隔. 进行离线结算. 这里有2种模式, ",
+            "a.即时演算. 就是一刀一枪一场战斗一场战斗的计算. 直到战斗至时间结束. 可以获得和在线挂机同时间一模一样的收益 但是结算时间会比较久.",
+            "b. 快速结算. 根据伤害,所选地图等属性. 快速的估算出可以获得的经验和通货. 因为是估算的. 所以不会获得物品. 但是经验和通货会获得的更多.",
+            "2024-10-09：版本更新：",
+            "1. 更新了更高级的词缀过滤器. 现在甚至可以过滤比如 x女之x精长矛。",
+            "2. 增加了锻造功能. 物品锻造. 虽然目前只有3个公式 重铸, 附魔, 锁定词缀刷新. 等完成了框架内容添加的会更快的。",
+            "3. 增加了 windows的客户端和安卓的apk客户端。",
             "2024-09-29：版本优化了，重构了2/3的代码，各种繁琐和自以为是的地方都改了，主要是：",
             "1、背包和战利品改了搜索和批量操作过滤器；",
             "2、技能重构 界面 描述 和汇总信息都改了；",
@@ -1457,6 +1842,10 @@
         ],
         "customUrl": "https://icy-island-03d254800.5.azurestaticapps.net/",
         "customUrlTit": "开始游戏",
+        "customUrl2": "https://share.weiyun.com/2ebcERRn",
+        "customUrlTit2": "安卓版",
+        "customUrl3": "https://share.weiyun.com/O91EUNgJ",
+        "customUrlTit3": "电脑版",
         "QQ": "1006242560",
         "pic": [
             1,
@@ -3927,8 +4316,8 @@
         "title": "Gooboo",
         "enTitle": "Gooboo",
         "date": "2023-10-09",
-        "update": "2024-06-16",
-        "version": "1.4.2",
+        "update": "2024-10-09",
+        "version": "1.5.3",
         "path": "gooboo",
         "type": [
             "点击",
@@ -11468,7 +11857,7 @@
             "升级"
         ],
         "content": [
-            "《弹珠突围放置》是又一款放置小球的消除类放置游戏。"
+            "《放置小球2》是又一款放置小球的消除类放置游戏。"
         ],
         "enUrl": "https://jacoby-y.itch.io/idle-orbs-2",
         "customUrl": "https://idle-orbs-2.g8hh.com/view/",
@@ -13398,24 +13787,27 @@
         "title": "旋转放置重制版",
         "enTitle": "Revolution Idle RE",
         "date": "2021-11-29",
-        "update": "2021-05-12",
+        "update": "2024-10-15",
         "version": "",
         "path": "revolution-idle-re",
         "type": [
             "已汉化",
+            "Steam",
             "放置",
             "点击",
             "挂机",
             "升级"
         ],
         "content": [
+            "2024-10-15：新增steam版链接，自带中文~",
             "《旋转放置重制版》是《旋转放置》Flash版的重制版，一个循环放置的游戏，以获得更高的数字。",
             "这款游戏来自同一家开发商。现在有了迷人的图像和更好的移动支持。会有更多的更新，相信它会比原来的Flash游戏更好。再次尽情玩这个2017年的酷游戏吧!",
             "购买升级、转生、威望。更多的威望层在未来的更新!"
         ],
         "zhUrl": "https://g8hh.github.io/revolution-idle-re",
         "enUrl": "https://www.crazygames.com/game/revolution-idle-re",
-        "customUrl": "https://yx.g8hh.com/revolution-idle-re",
+        "customUrl": "http://revolution-idle-re.g8hh.com.cn/",
+        "steamUrl": "https://store.steampowered.com/app/2763740/Revolution_Idle/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -13547,7 +13939,7 @@
             1,
             2
         ],
-        "status": 1
+        "status": 0
     },
     {
         "title": "合并塔",
@@ -15718,7 +16110,7 @@
         "content": [
             "这是原版声望树的重制版，感谢 @rainy 大佬帮忙汉化本游戏。"
         ],
-        "zhUrl": "https://yx.g8hh.com/prestige-tree/",
+        "zhUrl": "https://prestige-tree.g8hh.com.cn/",
         "enUrl": "https://jacorb90.me/Prestige-Tree/index.html",
         "customUrl": "https://g8hh.github.io/prestige-tree",
         "customUrlTit": "备用地址-GitHub",
@@ -23763,7 +24155,6 @@
             "这是一款放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步完善你的小猫王国。游戏虽然没什么精美的图片和动听的音乐，但还是有相当的经营乐趣。",
             "注意：现在 中文版已经集成了小猫科学家 ，请在游戏右上角 “选项” 里面通过 “点击启用小猫科学家”启用。"
         ],
-        "zhUrl": "http://likexia.gitee.io/cat-zh",
         "customUrl2": "https://cat.g8hh.com.cn/",
         "customUrlTit2": "汉化版-g8hh",
         "customUrl": "https://lolitalibrary.com/maomao/",

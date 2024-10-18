@@ -2,10 +2,10 @@
     {
         "left": [
             {
-                "title": "2023京东、天猫双11超级红包",
+                "title": "2024京东、天猫双11超级红包",
                 "path": "1111",
                 "html": false,
-                "status": 0
+                "status": 1
             },
             {
                 "title": "美团、饿了么外卖红包，天天可领",
@@ -17,7 +17,7 @@
                 "title": "各种优惠红包",
                 "path": "g8hh",
                 "html": false,
-                "status": 1
+                "status": 0
             },
             {
                 "title": "猫国建设中",

@@ -5,14 +5,20 @@
     "tips": "欢迎关注公众号：Git游戏",
     "status": 1
 },{
+    "title": "欢迎关注公众号：Git游戏",
+    "link": "https://game.weixin.qq.com/cgi-bin/comm/openlink?auth_appid=wx62d9035fd4fd2059&url=https%3A%2F%2Fgame.weixin.qq.com%2Fcgi-bin%2Fminigame%2Fstatic%2Fcps-transfer%2Findex.html%3Ft%3DAARwtQwFAAABAAAAAAArHWolGK5b4ywHl5MIZxAAAADA8RG5WEKQmoqKviNESI_tHoKzc54tLZmnZcdRmYRjOnYEYtDPoMFkl9M5dqJwd4iEEUp1LChaNu75%26wechat_pkgid%3Dminigame__cps_transfer_index",
+    "button": "点击开玩",
+    "tips": "千款好玩的微信小游戏合集",
+    "status": 1
+},{
     "title": "Git游戏：gityx.com",
     "link": "https://www.gityx.com",
     "button": "点击访问",
     "tips": "Git游戏网站，简单好记，游戏同步发布",
     "status": 1
 },{
-    "title": "锅巴汉化：g8hh.com",
-    "link": "https://www.g8hh.com",
+    "title": "锅巴汉化：g8hh.com.cn",
+    "link": "https://www.g8hh.com.cn",
     "button": "点击访问",
     "tips": "锅巴汉化，简单好记，就是当前页面地址",
     "status": 1
