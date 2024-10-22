@@ -679,6 +679,70 @@
         "status": 0
     },
     {
+        "title": "绝境仙途，群友自制",
+        "enTitle": "Desolate Path",
+        "date": "2024-10-22",
+        "update": "2024-10-22",
+        "version": "1.4",
+        "path": "desolate-path",
+        "type": [
+            "升级",
+            "点击",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "道友，仙缘已至，在绝境仙途中，你将踏上一段激动人心的地牢探险之旅！这款独特的爬塔类游戏，融合了丰富多样的元素与创新机制，为你呈现出一个前所未有的冒险体验。",
+            "绝境仙途包含了近百种各具特色的怪物，每一次遭遇都可能跌入万丈深渊或是盆满钵满。同时，你可以选择二十多种被动先天技能，让你的角色养成充满个性与战术选择。",
+            "绝境仙途引入了多周目成长要素和建筑系统，让玩家在不断探索中积累经验，提升实力。游戏中，角色的属性系统包括气血、攻击、护体、汲元、暴击几率和暴击伤害，策略组合和装备搭配是制胜的关键。你将可以同时装备六件物品，灵活运用，创造出无与伦比的战斗风格。"
+        ],
+        "customUrl": "https://mostlai.github.io/Desolate-Path/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://desolate-path.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "QQ": "839785679",
+        "qqUrl": "https://qm.qq.com/q/pNwpq4AW1W",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "幻想文字放置",
+        "enTitle": "Fantasy Text Idle",
+        "date": "2024-10-21",
+        "update": "2024-10-21",
+        "version": "0.4.1",
+        "path": "fantasy-text-idle",
+        "type": [
+            "升级",
+            "点击",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "这是一款基于文本的基本放置游戏。核心循环设计为花费几个小时“通关”才能成为皇帝。在达到最高贵族等级后，没有什么可以阻止你继续游戏。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/fantasy-text-idle/",
+        "customUrl2": "https://fantasy-text-idle.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "enUrl": "https://daneren2005.itch.io/fantasy-text-idle",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "随机地牢爬行者",
         "enTitle": "Dungeon Crawler On Demand",
         "date": "2024-10-18",
@@ -1842,9 +1906,9 @@
         ],
         "customUrl": "https://icy-island-03d254800.5.azurestaticapps.net/",
         "customUrlTit": "开始游戏",
-        "customUrl2": "https://share.weiyun.com/2ebcERRn",
+        "customUrl2": "https://share.weiyun.com/qV0r8Pk1",
         "customUrlTit2": "安卓版",
-        "customUrl3": "https://share.weiyun.com/O91EUNgJ",
+        "customUrl3": "https://share.weiyun.com/aNRauO3a",
         "customUrlTit3": "电脑版",
         "QQ": "1006242560",
         "pic": [
@@ -6828,7 +6892,7 @@
             "这是一款类似《骰子放置》玩法的放置游戏，简单粗暴​，享受大数值上升的快感。​"
         ],
         "zhUrl": "https://gityxs.github.io/poker-the-idle-game/",
-        "customUrl": "https://poker-the-idle-game.g8hh.com/",
+        "customUrl": "https://poker-the-idle-game.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://poker-the-idle-game.vercel.app/",
         "pic": [
@@ -15247,7 +15311,7 @@
             "一款类似《循环放置》的游戏。"
         ],
         "enUrl": "https://nucaranlaeg.github.io/incremental/CavernousII/",
-        "customUrl": "https://yx.g8hh.com/cavernous2",
+        "customUrl": "https://cavernous2.g8hh.com.cn",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/cavernous2",
         "customUrlTit2": "备用地址-GitHub",
