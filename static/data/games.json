@@ -679,11 +679,42 @@
         "status": 0
     },
     {
+        "title": "质量增量重制版ng++",
+        "enTitle": "Incremental Mass Rewritten Ng++",
+        "date": "2024-10-24",
+        "update": "2024-10-24",
+        "version": "",
+        "path": "incremental-mass-rewritten-ng--ch",
+        "type": [
+            "放置",
+            "增量",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "这是群友在《质量增量重制版》的基础上制作的NG++版本，欢迎小伙伴们体验。作者小伙伴说要自己边开发边汉化，不影响游戏哈。",
+            "游戏交流群：963150347"
+        ],
+        "customUrl": "https://qwqe198.github.io/incremental-mass-rewritten-ng--ch/",
+        "customUrlTit": "开始游戏",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "绝境仙途，群友自制",
         "enTitle": "Desolate Path",
         "date": "2024-10-22",
-        "update": "2024-10-22",
-        "version": "1.4",
+        "update": "2024-10-24",
+        "version": "1.7",
         "path": "desolate-path",
         "type": [
             "升级",
@@ -692,6 +723,20 @@
             "放置"
         ],
         "content": [
+            "2024-10-24：更新Ver1.7",
+            "1.添加苦难煎熬",
+            "2.现在装备等级阶位不设限",
+            "3.提高了裂隙碎片的掉落",
+            "======================",
+            "1.添加了5个新的免费先天",
+            "2.修复若干Bug",
+            "3添加了通天祭坛",
+            "4.Boss现在掉落诅咒/裂隙灵宝碎片,超级Boss现在掉落裂隙/帝者灵宝碎片",
+            "======================",
+            "1.添加了5个新的免费先天",
+            "2.添加了建筑-珍宝阁",
+            "3.添加了多个装备分级",
+            "4.超级Boss现在掉落复活卷轴,臻宝,道宝.普通Boss掉落灵宝,先天灵宝",
             "道友，仙缘已至，在绝境仙途中，你将踏上一段激动人心的地牢探险之旅！这款独特的爬塔类游戏，融合了丰富多样的元素与创新机制，为你呈现出一个前所未有的冒险体验。",
             "绝境仙途包含了近百种各具特色的怪物，每一次遭遇都可能跌入万丈深渊或是盆满钵满。同时，你可以选择二十多种被动先天技能，让你的角色养成充满个性与战术选择。",
             "绝境仙途引入了多周目成长要素和建筑系统，让玩家在不断探索中积累经验，提升实力。游戏中，角色的属性系统包括气血、攻击、护体、汲元、暴击几率和暴击伤害，策略组合和装备搭配是制胜的关键。你将可以同时装备六件物品，灵活运用，创造出无与伦比的战斗风格。"
@@ -1758,7 +1803,7 @@
         "title": "未来财富",
         "enTitle": "Future Fortune",
         "date": "2024-09-19",
-        "update": "2024-09-19",
+        "update": "2024-10-23",
         "version": "",
         "path": "future-fortune",
         "type": [
@@ -1769,6 +1814,7 @@
             "放置"
         ],
         "content": [
+            "2024-10-23：新增安卓、iOS版链接。",
             "未来财富 是一个增量/放置游戏，具有大数字，多层声望系统，里程碑奖励系统，多个升级商店，以及更多!",
             "网页版可以通过咱们的油猴汉化脚本来进行汉化，Steam版目前只有英文。",
             "本游戏请用浏览器的油猴插件，导入汉化脚本：https://g8hh.com.cn/zh/tampermonkey/futurefortune-chs.user.js",
@@ -1788,6 +1834,10 @@
         ],
         "customUrl": "https://gityx.com/help/faq/633.html",
         "customUrlTit": "通用油猴汉化教程",
+        "customUrl3": "https://apps.apple.com/us/app/future-fortune/id6547832627",
+        "customUrlTit3": "iOS版",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.typeten.futurefortune",
+        "customUrlTit2": "安卓市场下载",
         "enUrl": "https://futurefortune.io/",
         "steamUrl": "https://store.steampowered.com/app/1572380/Future_Fortune/",
         "pic": [
