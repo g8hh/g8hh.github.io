@@ -679,6 +679,46 @@
         "status": 0
     },
     {
+        "title": "天体增量树",
+        "enTitle": "Celestial Incremental",
+        "date": "2024-10-28",
+        "update": "2024-10-28",
+        "version": "1.1",
+        "path": "celestial-incremental",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是《增量神树》、《增量神树2》、《增量开发树》作者的新作品。",
+            "又是一款糅合了多个游戏元素的声望树游戏，像割草增量重制版、反物质维度、鲨鱼游戏...等等。",
+            "开发者：我从2月份就开始制作这款游戏了，我已经尽我所能地保证了游戏的质量，是的，这款游戏仍然是用the Modding Tree制作的，但我已经突破了界限，添加了一些以前从未添加到任何mod Tree游戏中的东西。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/celestial-incremental/",
+        "customUrl2": "https://celestial-incremental.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "enUrl": "https://icecreamdudes.github.io/celestial_incremental/",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "闲置洞穴采矿，好玩的Steam/手机采矿放置",
         "enTitle": "Idle Cave Miner",
         "date": "2024-10-26",
