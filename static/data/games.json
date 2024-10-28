@@ -679,6 +679,67 @@
         "status": 0
     },
     {
+        "title": "闲置洞穴采矿，好玩的Steam/手机采矿放置",
+        "enTitle": "Idle Cave Miner",
+        "date": "2024-10-26",
+        "update": "2024-10-26",
+        "version": "",
+        "path": "idle-cave-miner",
+        "type": [
+            "点击",
+            "Steam",
+            "安卓",
+            "苹果",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "闲置洞穴采矿 是一款关于制作物品、开采宝石和建立矿工团队的闲置游戏。在一个可完整摧毁的交互式矿山中点击，以开采黄金、钻石和其他资源。组建你的矿工团队，尝试尽可能深入，利用每个矿工的优势和能力，找到最佳组合，作为你的策略的起点。声望、工艺和出行前往其他矿井可以增强你的力量。",
+            "空闲洞穴采矿特点：",
+            "熔炼、工艺和精炼矿石：",
+            "· 制作酷炫的新物品，比以往更深地开采，并找到新的稀有矿石和宝石！",
+            "· 升级你的熔炉，以提高熔炼稀有矿石或精炼美丽宝石时的速度和效率！",
+            "· 使用你制作的物品永久提升矿工团队的能力值！",
+            "建立你自己的矿工团队：",
+            "· 解锁酷炫且独特的新矿工来为你挖矿，助力你深入矿井深处！➤ 使用你制作的物品升级矿工，让他们的采矿效率更上一层楼！",
+            "· 当你的矿工为你工作时，你可以无所事事，为你带来前所未见的利润！",
+            "多个矿井：",
+            "· 矿井会随着你升级，你走得越远，矿井的变化就越大，以适应独特和有趣的新环境！",
+            "· 独特的矿山可供探索，每个矿山都有自己的资源供你获取，无论是待冶炼的稀有矿石还是待精炼的独特宝石！",
+            "· 在这些矿井耕种以获得资源，使其变得比以往更强大，并深入主矿井，让你可以获得新奇有趣的新矿石和宝石！",
+            "无尽的升级：",
+            "· 升级你最喜欢的矿工的一切，建立一支日益强大的团队，取得前所未有的进步！",
+            "· 声望可让你获得强大的奖励，让你比以往任何时候都更深入未知的矿井深处！",
+            "· 获得声望后，收集永久升级，让你轻松完成以前不可能完成的任务！",
+            "大量任务和成就：",
+            "· 完成有趣的成就来解锁炫酷奖励！",
+            "· 参加每日、每周和每月的任务，根据难度级别为你提供更多奖励！",
+            "· 随时检查游戏的统计数据，以查看你的整体进度和其他有趣的统计数据！",
+            "其他炫酷功能：",
+            "· 云保存！",
+            "· 在线排行榜！",
+            "· 离线玩游戏！",
+            "交互式可破坏挖掘和制作游戏的爱好者将无法放下这款令人上瘾的闲置采矿和制作游戏。踏上史诗般的点击冒险，探索矿山并寻找新奇而令人兴奋的矿石和宝石！"
+        ],
+        "customUrl": "https://play.google.com/store/apps/details?id=com.ColdHours.IdleMiner",
+        "customUrlTit": "安卓市场版",
+        "customUrl2": "https://znas.cn/AppH5/share/?nid=LIYDIMZQGEYTCMSOGUYTO&code=nLkQH6QnBq8UDuMhDum1uUjRhpnEm2LaQPgjfm2RDAqOIa2ELTzw3LdMbJqoa2Ya5VY&mode=file&display=list",
+        "customUrlTit2": "安卓版",
+        "customUrl3": "https://apps.apple.com/sg/app/idle-cave-miner/id1550645417?l=zh",
+        "customUrlTit3": "iOS版",
+        "customUrl4": "https://store.steampowered.com/app/2289450/Idle_Cave_Miner/",
+        "customUrlTit4": "Steam版",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "质量增量重制版ng++",
         "enTitle": "Incremental Mass Rewritten Ng++",
         "date": "2024-10-24",
@@ -713,8 +774,8 @@
         "title": "绝境仙途，群友自制",
         "enTitle": "Desolate Path",
         "date": "2024-10-22",
-        "update": "2024-10-24",
-        "version": "1.7",
+        "update": "2024-10-26",
+        "version": "1.9",
         "path": "desolate-path",
         "type": [
             "升级",
@@ -723,6 +784,26 @@
             "放置"
         ],
         "content": [
+            "2024-10-27：更新Ver2.0a",
+            "1.宝箱怪有用化",
+            "2.添加更多种装备",
+            "3.修复自动打开乾坤袋",
+            "4.增加游戏内纸条提示",
+            "======================",
+            "2024-10-26：更新Ver1.90",
+            "1.升级加成随机化",
+            "2.多种升级稀有度",
+            "3.身体现在20%几率搜刮到灵石 ",
+            "======================",
+            "1.添加装备锁(WIP)",
+            "2.添加11种新的装备类型",
+            "3.现在可以砸毁弃天雕像",
+            "======================",
+            "2024-10-25：更新Ver1.8a",
+            "1.添加传送阵",
+            "2.现在通天影响装备加成",
+            "3.修复若干Bug",
+            "======================",
             "2024-10-24：更新Ver1.7",
             "1.添加苦难煎熬",
             "2.现在装备等级阶位不设限",
@@ -2180,7 +2261,7 @@
         "title": "放置冒险RPG，网络文字放置摸鱼",
         "enTitle": "",
         "date": "2024-08-16",
-        "update": "2024-09-03",
+        "update": "2024-10-27",
         "version": "",
         "path": "idle-quest-rpg",
         "type": [
@@ -2190,6 +2271,7 @@
             "联网"
         ],
         "content": [
+            "2024-10-27：测试服更新了新功能，最近会重新开放注册。想畅享自动挂机可以玩测试服。",
             "2024-09-03：新增测试版地址，无限自动，可以纯挂机，体验氪佬的快乐哦~",
             "2024-08-19：群友反馈：苹果手机浏览器玩，是可以弹出验证码的。",
             "2024-08-17：建了QQ群：492589108，欢迎大家交流~",
@@ -2219,7 +2301,7 @@
         ],
         "customUrl": "https://www.iqrpg.com/?r=21364",
         "customUrlTit": "开始游戏",
-        "customUrl2": "https://test.iqrpg.com/",
+        "customUrl2": "https://www.iqrpg.com/?r=17398",
         "customUrlTit2": "测试服(6倍速)",
         "customUrl3": "https://gityx.com/help/faq/633.html",
         "customUrlTit3": "油猴汉化教程",
@@ -3236,8 +3318,8 @@
         "title": "RPG放置",
         "enTitle": "Yet Another Idle RPG Game",
         "date": "2024-04-03",
-        "update": "2024-04-23",
-        "version": "0.4.0o",
+        "update": "2024-10-26",
+        "version": "0.4.4e",
         "path": "yet-another-idle-rpg",
         "type": [
             "已汉化",
@@ -3248,6 +3330,7 @@
             "放置"
         ],
         "content": [
+            "2024-10-26：更新到v0.4.4e版本了~",
             "只需点击“获取数字”，您就可以升级您的最小值和最大值。游戏逐渐展开，您的目标是总共获得 1,000,000 个数字（已花费的数字仍计入此目标）。"
         ],
         "zhUrl": "https://gityxs.github.io/yet-another-idle-rpg/",
@@ -22800,6 +22883,7 @@
         "title": "环球回形针",
         "enTitle": "Universal Paperclips",
         "date": "2019-04-26",
+        "update": "2024-10-25",
         "path": "universal-paperclips",
         "type": [
             "已汉化",
@@ -22813,11 +22897,16 @@
             "太空"
         ],
         "content": [
-            ""
+            "2024-10-25：新增手机版下载链接。因为是经典游戏，所以刷新一下，让新朋友玩玩~",
+            "一款很经典的游戏，当年很火。"
         ],
         "zhUrl": "https://g1tyx.github.io/paperclips",
-        "customUrl": "https://yx.g8hh.com/paperclips",
+        "customUrl": "https://paperclips.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
+        "customUrl3": "https://apps.apple.com/us/app/universal-paperclips/id1300634274",
+        "customUrlTit3": "iOS版",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.everybodyhouse.paperclipsuniquetest",
+        "customUrlTit2": "安卓市场下载",
         "enUrl": "http://www.decisionproblem.com/paperclips/index2.html",
         "pic": [
             1,
