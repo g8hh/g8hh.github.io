@@ -679,6 +679,37 @@
         "status": 0
     },
     {
+        "title": "Fg异星工厂3",
+        "enTitle": "FG Factory 3",
+        "date": "2024-11-13",
+        "update": "2024-11-13",
+        "version": "0.19",
+        "path": "fgfactory3",
+        "type": [
+            "汉化中",
+            "工厂",
+            "建造",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《异星工厂网页版》是一款爱好者自制的网页放置版的《异星工厂》游戏。《异星工厂》在Steam目前售价已经涨到130元了，让很多人望而却步，但是锅巴想说的是，对于喜欢流水线游戏的小伙伴，异星工厂YYDS。"
+        ],
+        "enUrl": "https://freddecgames.github.io/fgfactory/",
+        "customUrl": "https://g1tyx.github.io/fgfactory3",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://yx.g8hh.com.cn/fgfactory3/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 0
+    },
+    {
         "title": "原子点击器",
         "enTitle": "Atom Clicker",
         "date": "2024-11-11",
@@ -11727,7 +11758,7 @@
         "enUrl": "https://freddecgames.github.io/fgfactory/",
         "customUrl": "https://g1tyx.github.io/fgfactory",
         "customUrlTit": "备用地址-github",
-        "zhUrl": "https://yx.g8hh.com/fgfactory",
+        "zhUrl": "https://yx.g8hh.com.cn/fgfactory/",
         "pic": [
             1,
             2,
@@ -15598,8 +15629,8 @@
         "title": "风雪见闻录",
         "enTitle": "Feng Xue Jian Wen Lu",
         "date": "2021-10-11",
-        "update": "2022-01-17",
-        "version": "0.02629_3",
+        "update": "2024-11-12",
+        "version": "0.155",
         "path": "feng-xue-jian-wen-lu",
         "type": [
             "点击",
@@ -17338,7 +17369,7 @@
         "title": "Torn，多人模拟人生游戏",
         "enTitle": "Torn",
         "date": "2021-06-11",
-        "update": "2023-10-09",
+        "update": "2024-11-12",
         "version": "",
         "path": "torn",
         "type": [
@@ -21024,7 +21055,7 @@
         "title": "反物质维度",
         "enTitle": "Antimatter Dimensions",
         "date": "2018-08-28",
-        "update": "2023-01-06",
+        "update": "2024-11-11",
         "version": "",
         "path": "antimatter-dimensions",
         "type": [
@@ -21037,16 +21068,22 @@
             "挂机"
         ],
         "content": [
+            "2024-11-11：新开②群：1037470315，①群满了：1050424901",
             "通过维度获得反物质!获得无限反物质来瓦解宇宙!"
         ],
-        "customUrl": "https://antimatter-dimensions.g8hh.com",
-        "customUrlTit": "开始游戏",
+        "customUrl": "https://antimatter-dimensions.g8hh.com.cn",
+        "customUrlTit": "备用地址-旧版",
+        "customUrl2": "https://antimatter-dimensions.g8hh.com.cn/new/",
+        "customUrlTit2": "备用地址-新版",
+        "customUrl3": "https://g1tyx.github.io/antimatter-dimensions/new/",
+        "customUrlTit3": "汉化版-新版",
         "zhUrl": "https://g1tyx.github.io/antimatter-dimensions/",
         "enUrl": "https://ivark.github.io/",
         "kUrl": "https://www.kongregate.com/games/Hevipelle/antimatter-dimensions?sfa=permalink&referrer=SunshineDad",
         "steamUrl": "https://store.steampowered.com/app/1399720/Antimatter_Dimensions/",
         "oscUrl": "https://www.oschina.net/p/antimatter-dimensions",
-        "QQ": "1050424901",
+        "QQ": "1037470315",
+        "qqUrl": "https://qm.qq.com/q/qjkR1AzPJ6",
         "pic": [
             1,
             2,
