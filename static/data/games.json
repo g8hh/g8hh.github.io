@@ -539,7 +539,7 @@
         "title": "无尽洪荒，文字MUD修仙游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-11-08",
+        "update": "2024-11-15",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -549,7 +549,7 @@
             "升级"
         ],
         "content": [
-            "新区计划：卧薪尝胆，10月17日，10：00开启",
+            "新区计划：学无止境，11月15日，10：00开启",
             "《无尽洪荒》五一活动公告",
             " 活动时间：2024年5月1日00:00-2024年5月5日23：59",
             "活动内容：",
@@ -679,6 +679,71 @@
         "status": 0
     },
     {
+        "title": "飞向未来",
+        "enTitle": "",
+        "date": "2024-11-18",
+        "update": "2024-11-18",
+        "version": "",
+        "path": "fxwl",
+        "type": [
+            "放置",
+            "增量",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "这是群友发现推荐的一款放置游戏，玩法类似《猫国建设者》，作者还在努力更新中。你可以选择注册登录使用云存档、参与排行榜，或者手动保存存档。",
+            "建议：非必要，别刷新页面，免得把作者的小水管挤爆了哈~",
+            "游戏交流群：739347812"
+        ],
+        "customUrl": "http://182.43.19.5:9999/",
+        "customUrlTit": "开始游戏",
+        "QQ": "739347812",
+        "qqUrl": "https://qm.qq.com/q/V7SM1O7FOS",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "无限制造",
+        "enTitle": "Infinite Craft",
+        "date": "2024-11-14",
+        "update": "2024-11-14",
+        "version": "",
+        "path": "infinite-craft",
+        "type": [
+            "汉化中",
+            "合并",
+            "点击"
+        ],
+        "content": [
+            "本游戏玩法主要是把Emoji图标代表的物品，任意进行两两合并，生成新的物品。",
+            "这个游戏看似简单，其实一点也不难。在玩的同时还可以帮助我们学习英语单词，妙啊！",
+            "这个和之前咱们发的《汉字炼金术》类似，只是这这次没有条条框框限制，可以生成无数种资源。",
+            "汉化与否其实不影响游戏，需要的小伙伴可以导入油猴汉化脚本~",
+            "本游戏请用浏览器的油猴插件，导入汉化脚本：https://g8hh.com.cn/zh/tampermonkey/infinite-craft.user.js"
+        ],
+        "customUrl2": "https://gityx.com/help/faq/633.html",
+        "customUrlTit2": "通用油猴汉化教程",
+        "customUrl": "https://apps.apple.com/us/app/infinite-craft-by-neal/id6499235533?l=zh-Hans-CN",
+        "customUrlTit": "iOS版(美区)",
+        "enUrl": "https://neal.fun/infinite-craft/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "Fg异星工厂3",
         "enTitle": "FG Factory 3",
         "date": "2024-11-13",
@@ -707,7 +772,7 @@
             5,
             0
         ],
-        "status": 0
+        "status": 1
     },
     {
         "title": "原子点击器",
@@ -2264,7 +2329,7 @@
         "title": "荣耀之径，群友自制挂机页游",
         "enTitle": "",
         "date": "2024-09-09",
-        "update": "2024-11-11",
+        "update": "2024-11-15",
         "version": "",
         "path": "ryzj",
         "type": [
@@ -2275,6 +2340,9 @@
             "挂机"
         ],
         "content": [
+            "2024-11-15：更新",
+            "1. 重新梳理了持续性效果, 并且添加了wiki.",
+            "2. 战斗演出更新了持续效果的说明.鼠标指向持续效果时会显示效果的详情",
             "2024-11-10：更新",
             "1. 过滤器增加了简化的过滤器. 如果不想设置复杂的过滤器可以用简化版本的",
             "2. 增加了难度选项. 随着难度的增加有更多的挑战和回报",
@@ -19837,8 +19905,8 @@
         "title": "宝可梦点击",
         "enTitle": "Poke Clicker",
         "date": "2019-11-04",
-        "update": "2024-07-15",
-        "version": "0.10.21",
+        "update": "2024-11-15",
+        "version": "0.10.23",
         "path": "poke-clicker2",
         "type": [
             "汉化中",
@@ -19860,7 +19928,7 @@
         "enUrl": "https://www.pokeclicker.com/",
         "customUrl": "https://g8hh.github.io/pokeclicker/",
         "customUrlTit": "备用地址-GitHub",
-        "customUrl2": "https://pokeclicker.g8hh.com/",
+        "customUrl2": "https://pokeclicker.g8hh.com.cn/",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl3": "https://docs.qq.com/doc/DVFp2T3NWTkpKYkJH",
         "customUrlTit3": "教程/攻略",
@@ -20421,10 +20489,10 @@
         "status": 1
     },
     {
-        "title": "图形工厂",
+        "title": "异形工厂，Steam特卖7元，截止11月28号",
         "enTitle": "shapez.io",
         "date": "2020-07-01",
-        "update": "2023-04-07",
+        "update": "2024-11-14",
         "path": "shapez-io",
         "type": [
             "放置",
@@ -20436,13 +20504,14 @@
             "Steam"
         ],
         "content": [
+            "2024-11-14：Steam特卖7元，截止11月28号。史低为3.5元。",
             "2023-04-07：Epic上最近可以免费领哦，截止到4月13日23:00。",
             "画风很可爱啊，感觉是《异星工厂》的玩法，Steam售价18元。网页版是体验版。"
         ],
         "zhUrl": "https://shapez.io/",
         "steamUrl": "https://store.steampowered.com/app/1318690/shapezio/",
         "customUrl": "https://store.epicgames.com/zh-CN/p/shapez-0929c9",
-        "customUrlTit": "Epic上免费领",
+        "customUrlTit": "Epic版",
         "QQ": "816462152",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
