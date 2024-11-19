@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         《永恒之塔》自动化脚本-多标签页版（一个标签页只做一件事）
 // @namespace    https://www.gityx.com/
-// @version      0.0.32.4
+// @version      0.0.33.14
 // @description  Eternity Tower (https://eternitytower.net/) 游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://eternitytower.net/*
@@ -22,8 +22,9 @@
 /**
  * 更新日志
  * 0.0.x
- * ·种地：自动复核是否有空地，以免浪费一轮时间；
  * ·种地：自定义种子没了的情况下，应该要自动种其它种子；
+ * 0.0.33
+ * ·战斗技能：1技能放治疗技能的话，当生命值低于80%就会给自己加血。
  * 0.0.32
  * ·战斗：默认关闭“死亡通知”，不然组队的时候会一直弹框，很恶心。
  * 0.0.31
@@ -64,14 +65,14 @@
 ! function () {
     var content = '';
     content += '<!-- 脚本动态内容 开始 -->';
-    content += '<style>.main-im{position:fixed;right:10px;bottom:50px;line-height:normal;z-index:9999}.main-im .qq-a{display:block;width:106px;height:116px;font-size:14px;color:#0484cd !important;text-align:center;position:relative;}.main-im .qq-a span{bottom:5px;position:absolute;width:90px;left:10px;}.main-im .qq-hover-c{width:70px;height:70px;border-radius:35px;position:absolute;left:18px;top:10px;overflow:hidden;z-index:9;}.main-im .qq-container{z-index:99;position:absolute;width:109px;height:118px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom:1px solid #dddddd;background-image:url("//g8hh.com.cn/static/images/kf/qq-icon-bg.png");background-position:center 8px;background-repeat:no-repeat;}.main-im .img-qq{max-width:60px;display:block;position:absolute;left:6px;top:3px;-webkit-transition:all 0.5s;-o-transition:all 0.5s;transition:all 0.5s;}.main-im .im-qq:hover .img-qq{max-width:70px;left:1px;top:8px;position:absolute;color:#ff0000 !important;}.main-im .im_main{background-color:#F9FAFB !important;border:1px solid #dddddd;border-radius:10px;background-color:#F9FAFB !important;display:none;z-index:999;}.main-im .im_main .im-tel{color:#000000 !important;text-align:center;width:109px;height:105px;border-bottom:1px solid #dddddd;}.main-im .im_main .im-tel div{font-weight:bold;font-size:12px;margin-top:6px;}.main-im .im_main .im-tel .tel-num{font-family:Arial;font-weight:bold;}.main-im .im_main .im-tel .tel-num a{color:#e66d15 !important;}.main-im .im_main .im-tel:hover{background-color:#fafafa !important;}.main-im .im_main .weixing-container{width:55px;height:47px;border-right:1px solid #dddddd;background-color:#f5f5f5 !important;border-bottom-left-radius:10px;background-image:url("//g8hh.com.cn/static/images/kf/weixing-icon.png");background-position:center;background-repeat:no-repeat;float:left;}.main-im .im_main .weixing-show{width:670px;height:400px;background-color:#ffffff;border-radius:10px;border:1px solid #dddddd;position:absolute;left:-680px;top:-354px;overflow-y:auto;}.main-im .im_main .weixing-show .weixing-sanjiao{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #ffffff;border-width:6px;left:112px;top:134px;position:absolute;z-index:2;}.main-im .im_main .weixing-show .weixing-sanjiao-big{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #dddddd;border-width:8px;left:112px;top:132px;position:absolute;}.main-im .im_main .weixing-show .weixing-ma{width:104px;height:103px;padding-left:5px;padding-top:5px;}.main-im .im_main .weixing-show .weixing-txt{position:absolute;top:110px;left:7px;width:100px;margin:0 auto;text-align:center;color:#000 !important;}.main-im .im_main .weixing-show .weixing-txt a,.main-im .im_main .weixing-show .weixing-txt a:hover,.main-im .im_main .im-tel .tel-num a:hover{color:#ff0000 !important;}.main-im .im_main .go-top{width:50px;height:47px;background-color:#f5f5f5;border-bottom-right-radius:10px;background-image:url("//g8hh.com.cn/static/images/kf/totop-icon.png");float:right;background-position:center center;background-repeat:no-repeat;}.main-im .im_main .go-top a{display:block;width:52px;height:47px;}.main-im .close-im{position:absolute;right:10px;top:-12px;z-index:100;width:24px;height:24px;}.main-im .close-im a{display:block;width:24px;height:24px;background-image:url("//g8hh.com.cn/static/images/kf/close_im.png") !important;text-decoration:none;background-position:left top;background-repeat:no-repeat;}.main-im .close-im a:hover{text-decoration:none;}.main-im .open-im{cursor:pointer;margin-left:68px;width:30px;height:30px;background-image:url("//g8hh.com.cn/static/images/kf/open_im.png");background-repeat:no-repeat;background-position:left top;cursor:pointer;background-size:100%;z-index:100;position:fixed;right:10px;bottom:320px;}@media screen and (max-width:480px){.main-im{display:none;}}.JB-form{padding:10px;color:#000;}.JB-form *{margin:5px;font-size:13px;}.JB-form .tit{font-weight:bold;}.JB-form input{width:100px;height:30px;line-height:30px;text-align:center;}.JB-form input#minTime,.JB-form input#famingTime{width:50px;}.JB-form button{width:50px;height:30px;}#nofood,#noseed,#noSkill{opacity:0;color:red;}#nofood.show,#noseed.show,#noSkill.show{opacity:1;}.JB-form input[type=checkbox]{width:auto;vertical-align: middle;}.JB-form label{user-select: none;margin-left:0;}</style>';
+    content += '<style>.main-im{position:fixed;right:10px;bottom:50px;line-height:normal;z-index:9999}.main-im .qq-a{display:block;width:106px;height:116px;font-size:14px;color:#0484cd !important;text-align:center;position:relative;}.main-im .qq-a span{bottom:5px;position:absolute;width:90px;left:10px;}.main-im .qq-hover-c{width:70px;height:70px;border-radius:35px;position:absolute;left:18px;top:10px;overflow:hidden;z-index:9;}.main-im .qq-container{z-index:99;position:absolute;width:109px;height:118px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom:1px solid #dddddd;background-image:url("//g8hh.com.cn/static/images/kf/qq-icon-bg.png");background-position:center 8px;background-repeat:no-repeat;}.main-im .img-qq{max-width:60px;display:block;position:absolute;left:6px;top:3px;-webkit-transition:all 0.5s;-o-transition:all 0.5s;transition:all 0.5s;}.main-im .im-qq:hover .img-qq{max-width:70px;left:1px;top:8px;position:absolute;color:#ff0000 !important;}.main-im .im_main{background-color:#F9FAFB !important;border:1px solid #dddddd;border-radius:10px;background-color:#F9FAFB !important;display:none;z-index:999;}.main-im .im_main .im-tel{color:#000000 !important;text-align:center;width:109px;height:105px;border-bottom:1px solid #dddddd;}.main-im .im_main .im-tel div{font-weight:bold;font-size:12px;margin-top:6px;}.main-im .im_main .im-tel .tel-num{font-family:Arial;font-weight:bold;}.main-im .im_main .im-tel .tel-num a{color:#e66d15 !important;}.main-im .im_main .im-tel:hover{background-color:#fafafa !important;}.main-im .im_main .weixing-container{width:55px;height:47px;border-right:1px solid #dddddd;background-color:#f5f5f5 !important;border-bottom-left-radius:10px;background-image:url("//g8hh.com.cn/static/images/kf/weixing-icon.png");background-position:center;background-repeat:no-repeat;float:left;}.main-im .im_main .weixing-show{width:670px;height:400px;background-color:#ffffff;border-radius:10px;border:1px solid #dddddd;position:absolute;left:-680px;top:-354px;overflow-y:auto;}.main-im .im_main .weixing-show .weixing-sanjiao{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #ffffff;border-width:6px;left:112px;top:134px;position:absolute;z-index:2;}.main-im .im_main .weixing-show .weixing-sanjiao-big{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #dddddd;border-width:8px;left:112px;top:132px;position:absolute;}.main-im .im_main .weixing-show .weixing-ma{width:104px;height:103px;padding-left:5px;padding-top:5px;}.main-im .im_main .weixing-show .weixing-txt{position:absolute;top:110px;left:7px;width:100px;margin:0 auto;text-align:center;color:#000 !important;}.main-im .im_main .weixing-show .weixing-txt a,.main-im .im_main .weixing-show .weixing-txt a:hover,.main-im .im_main .im-tel .tel-num a:hover{color:#ff0000 !important;}.main-im .im_main .go-top{width:50px;height:47px;background-color:#f5f5f5;border-bottom-right-radius:10px;background-image:url("//g8hh.com.cn/static/images/kf/totop-icon.png");float:right;background-position:center center;background-repeat:no-repeat;}.main-im .im_main .go-top a{display:block;width:52px;height:47px;}.main-im .close-im{position:absolute;right:-10px;top:-12px;z-index:100;width:24px;height:24px;}.main-im .close-im a{display:block;width:24px;height:24px;background-image:url("//g8hh.com.cn/static/images/kf/close_im.png") !important;text-decoration:none;background-position:left top;background-repeat:no-repeat;}.main-im .close-im a:hover{text-decoration:none;}.main-im .open-im{cursor:pointer;margin-left:68px;width:30px;height:30px;background-image:url("//g8hh.com.cn/static/images/kf/open_im.png");background-repeat:no-repeat;background-position:left top;cursor:pointer;background-size:100%;z-index:100;position:fixed;right:10px;bottom:320px;}@media screen and (max-width:480px){.main-im{display:none;}}.JB-form{padding:10px;color:#000;}.JB-form *{margin:5px;font-size:13px;}.JB-form .tit{font-weight:bold;}.JB-form input{width:100px;height:30px;line-height:30px;text-align:center;}.JB-form input#minTime,.JB-form input#famingTime{width:50px;}.JB-form button{width:50px;height:30px;}#nofood,#noseed,#noSkill{opacity:0;color:red;}#nofood.show,#noseed.show,#noSkill.show{opacity:1;}.JB-form input[type=checkbox]{width:auto;vertical-align: middle;}.JB-form label{user-select: none;margin-left:0;}</style>';
     content += '<div class="main-im">';
     content += '<div id="open_im" class="open-im">&nbsp;</div>  ';
     content += '<div class="im_main" id="im_main">';
     content += '<div id="close_im" class="close-im"><a href="javascript:void(0);" title="点击关闭">&nbsp;</a></div>';
-    content += '<a href="https://qm.qq.com/cgi-bin/qm/qr?k=g-yVu_Uf_rCUbHOVbLHy-ko0G7nJl1nI&jump_from=webapi" target="_blank" class="im-qq qq-a" title="点击加入 - 永恒之塔交流群:867979275">';
     content += '<div class="qq-container"></div>';
     content += '<div class="qq-hover-c"><img class="img-qq" src="//g8hh.com.cn/static/images/kf/qq.png"></div>';
+    content += '<a href="https://qm.qq.com/cgi-bin/qm/qr?k=g-yVu_Uf_rCUbHOVbLHy-ko0G7nJl1nI&jump_from=webapi" target="_blank" class="im-qq qq-a" title="点击加入 - 永恒之塔交流群:867979275">';
     content += '<span>点击加群</span>';
     content += '</a>';
     content += '<div class="im-tel">';
@@ -153,16 +154,19 @@
     //吃食物-结束
     //选择技能-开始
     content += '<div class="JB-form">';
-    content += '<div class="tit">自动放技能（T技能是选目标的，不需要点；转职后8技能，后3个位置放被动技能）</div>';
+    content += '<div class="tit">自动放技能（T技能是选目标的，不需要点）</div>';
     content += '<input type="checkbox" id="check1" checked><label for="check1">1技能</label>';
     content += '<input type="checkbox" id="check2" checked><label for="check2">2技能</label>';
     content += '<input type="checkbox" id="check3" checked><label for="check3">3技能</label>';
     content += '<input type="checkbox" id="check4" checked><label for="check4">4技能</label>';
     content += '<input type="checkbox" id="check5" checked><label for="check5">5技能</label>';
-    //    content += '<input type="checkbox" id="check6"><label for="check6">6召唤同伴</label>';
     content += '<button id="startSkill" type="primary" >启动</button>';
     content += '<button id="stopSkill" type="danger" disabled>停止</button>';
-    //    content += '<div id="noSkill">你没有装备该技能，请不要勾选6技能~</div>';
+    content += '<br/>';
+    content += '自动回血，1技能放治疗技能，低于80%血就会自动回血。1技能不是治疗技能时不要启动';
+    content += '<br/>';
+    content += '<button id="autoHeal" type="primary">开启</button>';
+    content += '<button id="stopHeal" type="danger" disabled>关闭</button>';
     content += '<br/>';
     content += '优先攻击最右位置的怪物（部分怪物会召唤小弟）需先启动自动技能';
     content += '<button id="attLeft" type="primary">开启</button>';
@@ -341,6 +345,8 @@
     content += '<option value="rockmelonSeed" selected>哈密瓜-秒回900生命；回5能量和360生命-持续120秒-需要种植50级-生长需17分钟</option>';
     content += '<option value="snowberrySeed">雪莓-秒回3500生命；额外回复100生命-持续60秒-需要种植50级-生长需8分钟</option>';
     content += '<option value="dragonfruitSeed">火龙果-秒回450生命；回2能量和300生命-持续120秒-需要种植25级</option>';
+    content += '<option value="grapesSeed">葡萄-秒回1500生命；额外回复500生命-持续20秒-需要种植65级-生长需15分钟</option>';
+    content += '<option value="strawberrySeed">草莓-秒回300生命；额外回复1200生命-持续15秒-需要种植70级-生长需10分钟</option>';
 
     content += '<option value="marigoldSeed" >万寿菊-可以卖钱-需要种植9级-生长需15分钟</option>';
     content += '<option value="blueRoseSeed" >蓝玫瑰-可以卖钱-需要种植19级-生长需15分钟</option>';
@@ -351,6 +357,12 @@
     content += '<option value="redHydrangeaSeed" >红色绣球花-可以卖钱-需要种植49级</option>';
     content += '<option value="sunburstHydrangeaSeed" >阳光绣球花-可以卖钱-需要种植59级-生长需15分钟</option>';
     content += '<option value="zinniaSeed" >百日菊-可以卖钱-需要种植59级-生长需8小时</option>';
+    content += '<option value="crimsonHydrangeaSeed" >深红色绣球花-可以卖钱-需要种植69级-生长需8小时</option>';
+    content += '<option value="tulipSeed" >郁金香-可以卖钱-需要种植69级-生长需8小时</option>';
+    content += '<option value="lilySeed" >百合-可以卖钱-需要种植79级-生长需15分钟</option>';
+    content += '<option value="orchidSeed" >兰花-可以卖钱-需要种植79级-生长需8小时</option>';
+    content += '<option value="gardeniaSeed" >栀子花-可以卖钱-需要种植89级-生长需4小时</option>';
+    content += '<option value="poenySeed" >牡丹-可以卖钱-需要种植89级-生长需15分钟</option>';
 
     content += '<option value="rubiaFlowerSeed" >茜草花-可以用来铭刻-需要种植2级-生长需2分钟</option>';
     content += '<option value="basilSeed" >蓬蒿-可以用来铭刻-需要种植4级</option>';
@@ -380,6 +392,15 @@
     content += '<option value="cedarSeed" >雪松-可以获得种植技能经验-需要种植55级-生长需8小时</option>';
     content += '<option value="kenafSeed" >红麻-可以获得种植技能经验-需要种植56级-生长需30分钟</option>';
     content += '<option value="denyaSeed" >加蓬盘豆木-可以获得种植技能经验-需要种植60级-生长需8小时</option>';
+    content += '<option value="juteSeed" >黄麻-可以获得种植技能经验-需要种植66级-生长需30分钟</option>';
+    content += '<option value="larchSeed" >落叶松-可以获得种植技能经验-需要种植75级-生长需8小时</option>';
+    content += '<option value="flaxSeed" >亚麻-可以获得种植技能经验-需要种植76级-生长需30分钟</option>';
+    content += '<option value="poplarSeed" >非洲菠萝格树-可以获得种植技能经验-需要种植80级-生长需8小时</option>';
+    content += '<option value="taliSeed" >非洲菠萝格树-可以获得种植技能经验-需要种植85级-生长需8小时</option>';
+    content += '<option value="sisalSeed" >剑麻-可以获得种植技能经验-需要种植86级-生长需30分钟</option>';
+    content += '<option value="willowSeed" >柳树-可以获得种植技能经验-需要种植90级-生长需8小时</option>';
+    content += '<option value="teakSeed" >柚木-可以获得种植技能经验-需要种植95级-生长需8小时</option>';
+    content += '<option value="raffiaSeed" >拉菲草-可以获得种植技能经验-需要种植96级-生长需2小时</option>';
 
     content += '<option value="cactusSeed" >仙人掌-看起来很有用-需要种植6级-生长需1小时</option>';
     content += '<option value="reedSeed" >芦苇-看起来很有用-需要种植16级</option>';
@@ -462,10 +483,9 @@
         $("#nobodyStart").attr("disabled", false);
         $("#nobodyStop").attr("disabled", true);
     });
-
+    var url = window.location.href;
     function autoLoad2() {
         var username = $('#username').val();
-        var url = window.location.href;
         if (username == '') {
             // 如果用户名为空，先尝试从本地读取
             if (localStorage.getItem('username')) {
@@ -494,6 +514,10 @@
             // 自动放技能
             if (localStorage.getItem('autoSkill') == 'true') {
                 $('#startSkill').trigger('click');
+            }
+            // 自动放回血技能
+            if (localStorage.getItem('autoHeal') == 'true') {
+                $('#autoHeal').trigger('click');
             }
             // 自动攻击右边敌人
             if (localStorage.getItem('attLeft') == 'true') {
@@ -638,6 +662,12 @@
             case 'snowberrySeed':
                 growTime = 8;
                 break;
+            case 'grapesSeed':
+                growTime = 15;
+                break;
+            case 'strawberrySeed':
+                growTime = 10;
+                break;
                 //卖钱
             case 'marigoldSeed':
                 growTime = 15;
@@ -665,6 +695,24 @@
                 break;
             case 'zinniaSeed':
                 growTime = 480;
+                break;
+            case 'tulipSeed':
+                growTime = 480;
+                break;
+            case 'crimsonHydrangeaSeed':
+                growTime = 480;
+                break;
+            case 'lilySeed':
+                growTime = 15;
+                break;
+            case 'orchidSeed':
+                growTime = 480;
+                break;
+            case 'poenySeed':
+                growTime = 15;
+                break;
+            case 'gardeniaSeed':
+                growTime = 240;
                 break;
                 //铭刻
             case 'rubiaFlowerSeed':
@@ -735,8 +783,29 @@
             case 'cedarSeed':
                 growTime = 480;
                 break;
+            case 'poplarSeed':
+                growTime = 480;
+                break;
+            case 'taliSeed':
+                growTime = 480;
+                break;
             case 'kenafSeed':
                 growTime = 30;
+                break;
+            case 'larchSeed':
+                growTime = 480;
+                break;
+            case 'sisalSeed':
+                growTime = 30;
+                break;
+            case 'willowSeed':
+                growTime = 480;
+                break;
+            case 'raffiaSeed':
+                growTime = 120;
+                break;
+            case 'teakSeed':
+                growTime = 480;
                 break;
                 //杂项
             case 'cactusSeed':
@@ -757,6 +826,12 @@
             case 'denyaSeed':
                 growTime = 480;
                 break;
+            case 'juteSeed':
+                growTime = 30;
+                break;
+            case 'flaxSeed':
+                growTime = 30;
+                break;
         }
         $('#famingTime').val(growTime)
         localStorage.setItem('famingTime', growTime);
@@ -775,17 +850,7 @@
         c3 = $('#check3').is(':checked');
         c4 = $('#check4').is(':checked');
         c5 = $('#check5').is(':checked');
-        //        c6 = $('#check6').is(':checked');
-        //        bb = $('.ability-icon-container:nth-child(7)').length;
-        //        if (bb <= 0) {
-        //            if (c6) {
-        //                $('#noSkill').addClass('show');
-        //                return;
-        //            } else {
-        //                $('#noSkill').removeClass('show');
-        //            }
-        //        }
-        var skillTime = 2000;
+        var skillTime = 500;
         autoSkill = setInterval(skills, skillTime);
         $(this).attr("disabled", true);
         $("#stopSkill").attr("disabled", false);
@@ -798,6 +863,24 @@
         clearInterval(autoSkill);
         $(this).attr("disabled", true);
         $("#startSkill").attr("disabled", false);
+    });
+    //启用放回血技能
+    var isAutoHeal = false
+    $('#autoHeal').click(function () {
+        // 标识开始自动放技能
+        localStorage.setItem('autoHeal', true);
+        isAutoHeal = true;
+        $(this).attr("disabled", true);
+        $("#stopHeal").attr("disabled", false);
+    });
+
+    //停止放回血技能
+    $('#stopHeal').click(function () {
+        // 标识停止自动放技能
+        localStorage.setItem('autoHeal', false);
+        isAutoHeal = false
+        $(this).attr("disabled", true);
+        $("#autoHeal").attr("disabled", false);
     });
     //执行事件
     function doSkill(e) {
@@ -839,24 +922,27 @@
                 $('.battle-units-container+.col .flex-row .flex-column:last-child img').trigger("click");
             }
             if (c1) {
-                doSkill(2)
+                doSkill(2);
+                // 1技能放加血技能，给自己加血
+                var minWid2 = ($('.me').parent().parent().find('.health-bar .progress-bar').width() / $('.me').parent().parent().find('.progress.health-bar').width()) * 100;
+                if (isAutoHeal && minWid2 < 80) {
+                    setTimeout(function() {
+                        $('.me').parent().find('.battle-unit').trigger('click'); 
+                     },50)
+                }
             }
             if (c2) {
-                doSkill(3)
+                    doSkill(3)
             }
             if (c3) {
-                doSkill(4)
+                    doSkill(4)
             }
             if (c4) {
-                doSkill(5)
+                    doSkill(5)
             }
             if (c5) {
-                doSkill(6)
+                    doSkill(6)
             }
-            //            if (c6) {
-            //                $('.ability-icon-container:nth-child(7)').trigger("click");
-            //                console.log('施放6技能，召唤同伴~');
-            //            }
             return
         } else {
             //            console.log('您已离开战斗界面~不执行操作');
@@ -921,7 +1007,7 @@
             var ok = getElementByAttr('img', 'src', p, 'svg');
             //成熟时执行收获
             $('.collect-plants').trigger("click");
-            console.log('植物成熟了，割割割~ ' + nowTime());
+            // console.log('植物成熟了，割割割~ ' + nowTime());
             //种地
             setTimeout(function () {
                 // 判断当前有几块地可以种植
@@ -948,7 +1034,7 @@
                                 }, 310)
                             }
                         }, 800);
-                        console.log('种地~ ' + nowTime())
+                        // console.log('种地~ ' + nowTime())
                     }
                 }
             }, 1500);
@@ -1052,7 +1138,7 @@
                             }
                         }
                     }, 1500)
-                    console.log('发现宝石了，挖挖挖~ ' + nowTime());
+                    // console.log('发现宝石了，挖挖挖~ ' + nowTime());
                 } else if (jhs.length >= 1) {
                     //优先采精华矿
                     for (var i = 0; i <= jhs.length; i++) {
@@ -1073,7 +1159,7 @@
                             }
                         }
                     }, 1500)
-                    console.log('发现宝石了，挖挖挖~ ' + nowTime())
+                    // console.log('发现宝石了，挖挖挖~ ' + nowTime())
 
                 }
 
@@ -1102,7 +1188,7 @@
                             }
                         }
                     }, 1500)
-                    console.log('发现自定义矿石，挖挖挖~ ' + nowTime())
+                    // console.log('发现自定义矿石，挖挖挖~ ' + nowTime())
                 } else {
                     //没有宝石矿时，采其它矿
                     var o = getElementByAttr2('img', 'class', 'ore-icon');
@@ -1113,10 +1199,10 @@
                             o[i].click();
                         }
                     }
-                    console.log('采集其它矿石，挖挖挖~ ' + nowTime())
+                    // console.log('采集其它矿石，挖挖挖~ ' + nowTime())
                 }
             } else {
-                console.log('挖矿能量低于设定值:' + mingEn + '% ，不执行操作~ ' + nowTime())
+                // console.log('挖矿能量低于设定值:' + mingEn + '% ，不执行操作~ ' + nowTime())
                 return
             }
         }, 3000);
@@ -1397,7 +1483,7 @@
             var minWid1 = ($('.me').parent().parent().find('.health-bar .progress-bar').width() / $('.me').parent().parent().find('.progress.health-bar').width()) * 100;
             if ((energy <= minEnergy) || (minWid1 < minHp)) {
                 //能量/生命值小于指定值，则不执行战斗
-                console.log('能量值/生命值过低，吃点东西恢复点能量吧~')
+                // console.log('能量值/生命值过低，吃点东西恢复点能量吧~')
                 return
             } else {
                 //能量充足，继续下一次战斗
@@ -1416,7 +1502,7 @@
                     //                        }
                 } else {
                     //生命值小于，则不执行战斗
-                    console.log('生命值过低，暂停战斗，回回血吧~')
+                    // console.log('生命值过低，暂停战斗，回回血吧~')
                     return
                 }
             }
@@ -1436,7 +1522,7 @@
             //判断自己之外的人、能量值低于2、没有在吃柠檬
             if ((person != username2) && (penergy < 2) && (isEating == 0)) {
                 //踢人
-                console.log($(this).parents('.flex-column.d-flex').children().find('.btn-kick').html())
+                // console.log($(this).parents('.flex-column.d-flex').children().find('.btn-kick').html())
                 $(this).parents('.flex-column.d-flex').children().find('.btn-kick').trigger('click');
             } else {
                 return;
@@ -1514,7 +1600,7 @@
             var energy = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
             if (energy <= fightMinEnergy) {
                 //能量小于指定值，则不执行战斗
-                console.log('能量值过低，休息一下，吃个柠檬吧~')
+                // console.log('能量值过低，休息一下，吃个柠檬吧~')
                 return
             } else {
                 //能量充足，继续下一次战斗
@@ -1524,7 +1610,7 @@
                     $(".battle-btn").trigger("click");
                 } else {
                     //生命值小于，则不执行战斗
-                    console.log('生命值过低，暂停战斗，回回血吧~')
+                    // console.log('生命值过低，暂停战斗，回回血吧~')
                     return
                 }
             }
@@ -1544,11 +1630,11 @@
             if ($('.energyUse-dropdown').length > 0) {
                 //刷完则自动切换新的一层
                 $('.level-dropdown .btn-secondary+.dropdown-menu a:first-child').trigger("click");
-                console.log('本层已清理完毕，继续下一层吧~ ' + nowTime())
+                // console.log('本层已清理完毕，继续下一层吧~ ' + nowTime())
                 var energy1 = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
                 if (energy1 <= minEnergy) {
                     //能量小于指定值，则不执行战斗
-                    console.log('能量值过低，休息一下，吃个柠檬吧~')
+                    // console.log('能量值过低，休息一下，吃个柠檬吧~')
                     return
                 } else {
                     //能量充足，继续下一次战斗
@@ -1558,7 +1644,7 @@
                         $(".battle-btn").trigger("click");
                     } else {
                         //生命值小于，则不执行战斗
-                        console.log('生命值过低，暂停战斗，回回血吧~')
+                        // console.log('生命值过低，暂停战斗，回回血吧~')
                         return
                     }
 
@@ -1570,7 +1656,7 @@
                 var energy2 = parseInt($('.me').parent().parent().find('.energy-bar .energy-bar').text())
                 if (energy2 <= minEnergy) {
                     //能量小于指定值，则不执行战斗
-                    console.log('能量值过低，休息一下，吃个柠檬吧~')
+                    // console.log('能量值过低，休息一下，吃个柠檬吧~')
                     return
                 } else {
                     //能量充足，继续下一次战斗
@@ -1580,7 +1666,7 @@
                         $(".battle-btn").trigger("click");
                     } else {
                         //生命值小于，则不执行战斗
-                        console.log('生命值过低，暂停战斗，回回血吧~')
+                        // console.log('生命值过低，暂停战斗，回回血吧~')
                         return
                     }
                 }
@@ -1643,7 +1729,7 @@
             //判断自己是否是队长，因为图片会影响判断
             if ($('.me').parent().parent().find('.mr-1').length > 0) {
                 //判断是否正在吃柠檬，
-                if ($('.me').parent().parent().find('.justify-content-center img:nth-child(2)').length <= 0) {
+                if ($('.me').parent().parent().find('.justify-content-center img:nth-child(2)').length <= 0 && $('.battle-btn').length > 0) {
                     //没吃柠檬，则点击柠檬
                     for (var i = 0; i <= lemon.length; i++) {
                         lemon[i].click();
@@ -1652,16 +1738,16 @@
                             lemon[i].click();
                         }
                     }
-                    console.log('没能量了，吃个柠檬~ ' + nowTime())
+                    // console.log('没能量了，吃个柠檬~ ' + nowTime())
                 } else {
                     //正在吃柠檬，不执行操作
-                    console.log('正在吃东西~ ' + nowTime())
+                    // console.log('正在吃东西~ ' + nowTime())
                     return
                 }
             } else {
                 //不是队长
                 //判断是否正在吃柠檬，
-                if ($('.me').parent().parent().find('.justify-content-center img').length == 0) {
+                if ($('.me').parent().parent().find('.justify-content-center img').length == 0 && $('.battle-btn').length > 0) {
                     //没吃柠檬，则点击柠檬
                     for (var i = 0; i <= lemon.length; i++) {
                         lemon[i].click();
@@ -1670,10 +1756,10 @@
                             lemon[i].click();
                         }
                     }
-                    console.log('没能量了，吃个柠檬~ ' + nowTime())
+                    // console.log('没能量了，吃个柠檬~ ' + nowTime())
                 } else {
                     //正在吃柠檬，不执行操作
-                    console.log('正在吃东西~ ')
+                    // console.log('正在吃东西~ ')
                     return
                 }
             }
@@ -1720,10 +1806,10 @@
                             eatItem[i].click();
                         }
                     }
-                    console.log('生命值低于设定值，吃点东西回回血~ ' + nowTime())
+                    // console.log('生命值低于设定值，吃点东西回回血~ ' + nowTime())
                 } else {
                     //正在东西，不执行操作
-                    console.log('正在吃东西~')
+                    // console.log('正在吃东西~')
                     return
                 }
             } else {
@@ -1737,17 +1823,17 @@
                             eatItem[i].click();
                         }
                     }
-                    console.log('生命值低于设定值，吃点东西回回血~ ' + nowTime())
+                    // console.log('生命值低于设定值，吃点东西回回血~ ' + nowTime())
                 } else {
                     //正在吃食物，不执行操作
-                    console.log('正在吃东西~')
+                    // console.log('正在吃东西~')
                     return
                 }
             }
         }
     }
 
-    console.log("加载自动化脚本 " + nowTime());
+    // console.log("加载自动化脚本 " + nowTime());
 }();
 
 

@@ -82,6 +82,8 @@ var cnItems = {
     "SEEDS": "种子",
     "Sheep": "羊",
     "Strawberry Seeds": "草莓种子",
+    "strawberry Seed": "草莓种子",
+    "strawberry seed": "草莓种子",
     "TIER": "等级",
     "UNAVAILABLE": "不可用",
     "update notes": "更新日志",
