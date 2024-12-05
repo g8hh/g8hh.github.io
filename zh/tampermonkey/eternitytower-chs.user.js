@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         《永恒之塔》汉化脚本
 // @namespace    https://www.gityx.com/
-// @version      0.1.53
+// @version      0.1.54
 // @description  Eternity Tower (https://eternitytower.net/) 游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://eternitytower.net/*
@@ -5727,12 +5727,12 @@ function TransSubTextNode(node) {
                                 node.innerText = cnItem(node.innerText, node);
                         } else {
                             TransSubTextNode(node);
-                            transTaskMgr.doTask();
                         }
                     }
                 }
             }
         }
+        transTaskMgr.doTask();
         observer.observe(targetNode, observer_config);
         //window.afterTransTime = performance.now();
         //console.log("捕获到页面变化并执行汉化，耗时" + (afterTransTime - beforeTransTime) + "毫秒");
