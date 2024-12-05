@@ -437,7 +437,7 @@
         "title": "迷你梦幻，怀旧多人在线游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2024-10-01",
+        "update": "2024-11-28",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -470,7 +470,7 @@
         "title": "迷你传奇，是兄弟就来被我砍",
         "enTitle": "",
         "date": "2022-06-14",
-        "update": "2024-08-01",
+        "update": "2024-08-27",
         "version": "",
         "path": "mini-cq",
         "type": [
@@ -505,7 +505,7 @@
         "title": "三国传奇，耐玩挂机电脑游戏",
         "enTitle": "",
         "date": "2022-08-19",
-        "update": "2024-09-22",
+        "update": "2024-11-22",
         "version": "",
         "path": "sgcq",
         "type": [
@@ -539,7 +539,7 @@
         "title": "无尽洪荒，文字MUD修仙游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-11-15",
+        "update": "2024-12-01",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -608,7 +608,7 @@
         "title": "放置传奇，PC挂机摸鱼放置游戏，七夕活动进行中",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2024-11-09",
+        "update": "2024-12-01",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -677,6 +677,303 @@
             5
         ],
         "status": 0
+    },
+    {
+        "title": "时钟计时器放置",
+        "enTitle": "Clock Ticker",
+        "date": "2024-12-04",
+        "update": "2024-12-04",
+        "version": "",
+        "path": "clock-ticker",
+        "type": [
+            "已汉化",
+            "模拟",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "一款简短的“点击/放置/增量”游戏，没有离线功能。通常情况下，这类游戏一开始都是快速发展，然后逐渐放慢速度。这个正好相反。",
+            "网页版可能只是个Demo，完整版可以期待Steam版上线。"
+        ],
+        "enUrl": "https://jorava.itch.io/clock-ticker",
+        "customUrl": "https://clock-ticker.g8hh.com.cn/",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://g1tyx.github.io/clock-ticker/",
+        "steamUrl": "https://store.steampowered.com/app/2455170/Clock_Ticker/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "宫爆老奶奶家族篇 - 老奶奶重出江湖！十八般武艺样样精通！",
+        "enTitle": "",
+        "date": "2024-12-04",
+        "update": "2024-12-04",
+        "version": "",
+        "path": "xyx_gblnnjzp",
+        "type": [
+            "角色",
+            "Rogue",
+            "战斗",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《宫爆老奶奶家族篇》是一款充满趣味与策略的动作休闲微信小游戏，在游戏中，玩家将扮演一位身怀绝技的老奶奶，通过灵活走位、精准操作，对抗从四面八方袭来的各式怪物。游戏创新性地引入家族系统，玩家可招募并升级多位个性鲜明的老奶奶角色，利用各自独特的技能组合与天赋树打造最强阵容。画面色彩明快，音效幽默逗趣。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/_DlzKmuXGLgOr57FJxWyOg",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "天天爱掼蛋 - 经典掼蛋，亲友组队，免费来玩！",
+        "enTitle": "",
+        "date": "2024-12-04",
+        "update": "2024-12-04",
+        "version": "",
+        "path": "xyx_ttagd",
+        "type": [
+            "休闲",
+            "棋牌",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《天天爱掼蛋》是一款休闲娱乐的棋牌微信小游戏，在这里你每天可以登录领取各种福利，所有玩法全都免费。经典掼蛋，亲友组队，免费来玩！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/h1iE-_-t83JogiLp6pcWRw",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "五子棋 - 黑白双色争锋，方寸棋盘对垒",
+        "enTitle": "",
+        "date": "2024-12-04",
+        "update": "2024-12-04",
+        "version": "",
+        "path": "xyx_wzq",
+        "type": [
+            "休闲",
+            "棋牌",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《五子棋》游戏相比于围棋来说，它的玩法非常简单，只要一方达到五颗棋子一条线就能获得胜利，游戏进度也是十分之快。不论是在上班路上还是休闲时光都可以随时打开手机畅玩一把，更有的支持在线联机对战，与其他的网友随时斗智斗勇。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/QErTevRdM_pH_5CrKYPdng",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "四季物语 - 手拿逆袭剧本，改造闪亮新家园",
+        "enTitle": "",
+        "date": "2024-12-04",
+        "update": "2024-12-04",
+        "version": "",
+        "path": "xyx_sjwy",
+        "type": [
+            "休闲",
+            "消除",
+            "建造",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《四季物语》是一款深受玩家喜爱的模拟经营微信小游戏。这款游戏以四季变换为背景，让玩家在游戏中体验不同季节的韵味，同时挑战经营管理的乐趣。在游戏中，玩家将扮演一位农场主，从春天的播种开始，到夏天的耕耘，再到秋天的收获，最后到冬天的休整，每个季节都有独特的任务和挑战。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/xJU_gjZot1zUiKRoNmW07Q",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "石头总是赢放置",
+        "enTitle": "Rock Always Wins Idle",
+        "date": "2024-12-03",
+        "update": "2024-12-03",
+        "version": "0.2.0",
+        "path": "rock-always-wins-idle",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "挂机",
+            "升级"
+        ],
+        "content": [
+            "这是《神奇迷宫放置》作者的新游戏，欢迎小伙伴们体验~"
+        ],
+        "zhUrl": "https://gityxs.github.io/about-trade",
+        "enUrl": "https://imgreghenry.github.io/RockAlwaysWinsIdle/",
+        "customUrl": "https://rock-always-wins-idle.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "仙剑奇侠传之新的开始，经典还原，仙剑沉浸式单机解谜！",
+        "enTitle": "",
+        "date": "2024-12-03",
+        "update": "2024-12-03",
+        "version": "",
+        "path": "xyx_xjqxzzxdks",
+        "type": [
+            "角色",
+            "养成",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《仙剑奇侠传之新的开始》以李逍遥视角代入仙剑世界，高度还原仙剑1-6剧情。并且将客栈经营、迷宫探索、隐藏奇遇彩蛋等特色玩法融入其中，玩家在陪伴主角成长的过程中不仅可以突破经典剧情线，还可利用回梦之术回到过去，扭转命运，改变人物故事。 ",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/UqFEjMxpE57QA-qpdq6mSA",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "星际帝国，类EVE星战文字放置",
+        "enTitle": "",
+        "date": "2024-11-28",
+        "update": "2024-11-28",
+        "version": "",
+        "path": "xjdg",
+        "type": [
+            "点击",
+            "战斗",
+            "建造",
+            "文字",
+            "升级"
+        ],
+        "content": [
+            "注意：注册后需要去邮箱里面点激活链接之后，才能登录！",
+            "星际帝国是一款宇宙空间模拟网页游戏，从一颗星球开始发展，攻击其他玩家的星球或与其他玩家结盟，建立你强大的宇宙帝国！",
+            "这是《我的文字修仙全靠刷》作者的新游戏。",
+            "QQ交流群：920930589"
+        ],
+        "customUrl": "https://og.jntm.cool/index.php?ref=649",
+        "customUrlTit": "开始游戏",
+        "QQ": "920930589",
+        "qqUrl": "https://qm.qq.com/q/iifNs5qukg",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "火星土豆放置",
+        "enTitle": "Martian Potato",
+        "date": "2024-11-16",
+        "update": "2024-12-04",
+        "version": "1.2.0",
+        "path": "martian-potato",
+        "type": [
+            "汉化中",
+            "模拟",
+            "农场",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "2024-12-04：同步最新版本~",
+            "一款关于用土豆殖民火星的元意识游戏。功能包括资源管理、自动化系统和对游戏设计操作的诙谐评论。"
+        ],
+        "enUrl": "https://www.martianpotato.com/",
+        "customUrl": "https://martian-potato.g8hh.com.cn/",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://g1tyx.github.io/martian-potato/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
     },
     {
         "title": "奎斯拉，网络文字放置摸鱼MMORPG",
@@ -839,7 +1136,7 @@
         "title": "原子点击器",
         "enTitle": "Atom Clicker",
         "date": "2024-11-11",
-        "update": "2024-11-11",
+        "update": "2024-11-26",
         "version": "",
         "path": "atom-clicker",
         "type": [
@@ -866,10 +1163,10 @@
         "status": 1
     },
     {
-        "title": "土豆兄弟（Brotato），上头的Steam/手机割草Rogue游戏",
+        "title": "土豆兄弟（Brotato），Epic免费领！上头的Steam/手机割草Rogue游戏",
         "enTitle": "Brotato",
         "date": "2024-11-08",
-        "update": "2024-11-08",
+        "update": "2024-11-29",
         "version": "",
         "path": "brotato",
         "type": [
@@ -882,6 +1179,7 @@
             "模拟"
         ],
         "content": [
+            "2024-11-29：Epic上可以免费领。",
             "Steam版目前史低13.2元，带DLC打包是28.08元，还有9小时结束。手机版好像默认是体验版，深入玩应该是要买买买的。",
             "土豆兄弟(Brotato)是一款自上而下的竞技场射击轻度ROGUE游戏，玩家将在游戏中扮演一个同时使用6种武器以击退成群外星人的土豆。从各种特征和道具中进行选择，创造独特的建筑并生存下去，直到救援到来。",
             "来自土豆世界的宇宙飞船坠毁在异形星球上。土豆兄弟Brotato是唯一的幸存者，也是唯一一颗能够同时扛起6把武器的土豆哥。在Brotato等待伙伴们来拯救他之前，得想办法在这个危机四伏的鬼地方活下去才行！",
@@ -896,10 +1194,12 @@
             "自定义难度选项：你可以在设置里调整敌人的生命值、伤害量和速度，找出最适合你的难度开始你的生存之旅！"
         ],
         "steamUrl": "https://store.steampowered.com/app/1942280/Brotato/",
-        "customUrl": "https://www.taptap.cn/app/256335",
-        "customUrlTit": "安卓 (TapTap)",
+        "customUrl3": "https://www.taptap.cn/app/256335",
+        "customUrlTit3": "安卓 (TapTap)",
         "customUrl2": "https://apps.apple.com/us/app/brotato/id6445884925?l=zh-Hans-CN",
         "customUrlTit2": "iOS (美区)",
+        "customUrl": "https://store.epicgames.com/zh-CN/p/brotato-ed4097",
+        "customUrlTit": "Epic免费领",
         "QQ": "816462152",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
         "pic": [
@@ -1009,8 +1309,8 @@
         "title": "天体增量树",
         "enTitle": "Celestial Incremental",
         "date": "2024-10-28",
-        "update": "2024-11-10",
-        "version": "1.2",
+        "update": "2024-12-04",
+        "version": "1.3",
         "path": "celestial-incremental",
         "type": [
             "放置",
@@ -1021,6 +1321,8 @@
             "声望树"
         ],
         "content": [
+            "2024-12-04：更新到1.3版本~",
+            "2024-11-26：更新到1.2.1版本~",
             "这是《增量神树》、《增量神树2》、《增量开发树》作者的新作品。",
             "又是一款糅合了多个游戏元素的声望树游戏，像割草增量重制版、反物质维度、鲨鱼游戏...等等。",
             "开发者：我从2月份就开始制作这款游戏了，我已经尽我所能地保证了游戏的质量，是的，这款游戏仍然是用the Modding Tree制作的，但我已经突破了界限，添加了一些以前从未添加到任何mod Tree游戏中的东西。"
@@ -2390,7 +2692,7 @@
         "title": "荣耀之径，群友自制挂机页游",
         "enTitle": "",
         "date": "2024-09-09",
-        "update": "2024-11-15",
+        "update": "2024-11-25",
         "version": "",
         "path": "ryzj",
         "type": [
@@ -2401,6 +2703,15 @@
             "挂机"
         ],
         "content": [
+            "2024-11-25：更新",
+            "- 增加平原地图1-5",
+            "- 增加了若干新怪物",
+            "- 新的怪物都有一些自己的机制, 比如有的受伤会复仇攻击全部的敌人, 有的会吸收伤害, 有的会逐渐增加伤害慢慢变得狂暴.",
+            "- 修复了不可名状的怪物数量",
+            "- 重新更改了溅射的逻辑. 现在是有概率对全部敌人造成百分比伤害",
+            "2024-11-22：更新",
+            "1. 增加了角色属性, 优缺点都有的人物特性,还有被动精通. 可以通过升级获得的点数升级.",
+            "2. 增加了一些新技能",
             "2024-11-15：更新",
             "1. 重新梳理了持续性效果, 并且添加了wiki.",
             "2. 战斗演出更新了持续效果的说明.鼠标指向持续效果时会显示效果的详情",
@@ -2514,8 +2825,8 @@
         "title": "超级结构",
         "enTitle": "Hyper Structure",
         "date": "2024-09-06",
-        "update": "2024-09-06",
-        "version": "0.1.37",
+        "update": "2024-11-25",
+        "version": "0.1.55",
         "path": "hyper-structure",
         "type": [
             "已汉化",
@@ -3063,8 +3374,8 @@
         "title": "鲨鱼增量",
         "enTitle": "Shark Incremental",
         "date": "2024-07-05",
-        "update": "2024-09-12",
-        "version": "0.3.2",
+        "update": "2024-12-05",
+        "version": "0.3.2.3",
         "path": "shark-incremental",
         "type": [
             "文字",
@@ -3073,7 +3384,9 @@
             "升级"
         ],
         "content": [
+            "2024-12-05：同步到0.3.2.3版本了~​",
             "2024-09-12：同步到0.3.2版本了~​",
+            "游戏自带中文，需要去选项里面去选择。​",
             "又一款鲨鱼题材的增量放置游戏，此游戏玩法可能借鉴了《反物质维度》​。​"
         ],
         "customUrl": "https://mrredshark77.github.io/shark-incremental/",
@@ -3181,8 +3494,8 @@
         "title": "风灵作成，群友自制网页放置",
         "enTitle": "",
         "date": "2024-06-27",
-        "update": "2024-09-02",
-        "version": "4.3",
+        "update": "2024-11-27",
+        "version": "5.0.1",
         "path": "wind-spirit-creation",
         "type": [
             "群友自制",
@@ -3191,6 +3504,7 @@
             "放置"
         ],
         "content": [
+            "2024-11-27：更新到5.0.1版本了~​",
             "2024-09-02：更新到0.4.3版本了~​",
             "传说在纤细脆弱的蝴蝶体内，也藏有引发飓风的力量，这由纯粹的风构成的蝴蝶，无疑在等待着再次召来暴风的那一天。​"
         ],
@@ -3734,8 +4048,8 @@
         "title": "RPG放置",
         "enTitle": "Yet Another Idle RPG Game",
         "date": "2024-04-03",
-        "update": "2024-10-26",
-        "version": "0.4.4e",
+        "update": "2024-11-26",
+        "version": "0.4.4h",
         "path": "yet-another-idle-rpg",
         "type": [
             "已汉化",
@@ -3746,6 +4060,7 @@
             "放置"
         ],
         "content": [
+            "2024-11-26：更新到v0.4.4h版本了~",
             "2024-10-26：更新到v0.4.4e版本了~",
             "只需点击“获取数字”，您就可以升级您的最小值和最大值。游戏逐渐展开，您的目标是总共获得 1,000,000 个数字（已花费的数字仍计入此目标）。"
         ],
@@ -4932,8 +5247,8 @@
         "title": "Gooboo",
         "enTitle": "Gooboo",
         "date": "2023-10-09",
-        "update": "2024-10-09",
-        "version": "1.5.3",
+        "update": "2024-11-24",
+        "version": "1.5.5",
         "path": "gooboo",
         "type": [
             "点击",
@@ -4942,6 +5257,7 @@
             "放置"
         ],
         "content": [
+            "2024-11-24：更新到1.5.5版本了~",
             "更新到1.3.5版本了，我把汉化放入了国际化文件，现在可以在设置里面自由切换中英德语了~",
             "​Gooboo 是一款放置/增量游戏，您可以在神秘、未知的世界中管理多个功能。 收集不同的资源来购买各种各样的升级，以增加你的资源收益。 取得主要功能的进展以解锁新内容并了解有关这个世界的更多信息。 当进展开始放缓时，声望个人功能可以将您的收获提升到一个新的等级。",
             "该游戏包括：",
@@ -7487,14 +7803,15 @@
         "title": "骑士进度条2 Mod",
         "enTitle": "Progress Knight 2 Mod",
         "date": "2023-03-22",
-        "update": "2023-09-20",
-        "version": "2.3.3",
+        "update": "2023-12-04",
+        "version": "2.5.0",
         "path": "progress-knight2-mod",
         "type": [
             "已汉化",
             "放置"
         ],
         "content": [
+            "2024-12-04：同步到2.5.0版本了~",
             "本Mod是基于《骑士进度条2.0》的基础上，进行再次开发的。",
             "大概变化：",
             "1、工作、技能的进程由之前的单线程，变成了多线程，就是说可以同时做多件事了，大大解放了双手。",
@@ -11018,7 +11335,7 @@
             5
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "武侠放置",
@@ -20093,7 +20410,7 @@
         "content": [
             "一款渐进式增量游戏，您可以开始喝咖啡，并通过游戏解锁更多元素。"
         ],
-        "zhUrl": "https:/yx.g8hh.com/coffee-drinker",
+        "zhUrl": "https://yx.g8hh.com/coffee-drinker",
         "enUrl": "https://extradavid.com",
         "pic": [
             1,
@@ -20749,7 +21066,7 @@
         "enTitle": "Alpha RPG",
         "date": "2020-06-16",
         "update": "2023-07-06",
-        "version": "3.5",
+        "version": "3.6",
         "path": "alpha-rpg",
         "type": [
             "汉化中",
@@ -20764,7 +21081,7 @@
             "这款游戏的主要目标是通过对抗敌人和完成任务取得进展，目前有总共21个任务。"
         ],
         "zhUrl": "https://g1tyx.github.io/alpharpg/",
-        "customUrl": "https://alpharpg.g8hh.com",
+        "customUrl": "https://alpharpg.g8hh.com.cn",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://purplewizard.space/AlphaRPG/",
         "oscUrl": "https://www.oschina.net/p/alpharpg",
@@ -22186,10 +22503,10 @@
         "status": 1
     },
     {
-        "title": "永恒之塔",
+        "title": "永恒之塔，12月底即将再次关服",
         "enTitle": "Eternity Tower",
         "date": "2019-08-08",
-        "update": "2023-11-06",
+        "update": "2024-12-02",
         "path": "eternity-tower",
         "type": [
             "汉化中",
@@ -22202,6 +22519,7 @@
             "英文"
         ],
         "content": [
+            "2024-12-02：好嘛，作者又要关服了，特此通知~",
             "2023-11-06：目前排行榜前10有一大半是国人，欢迎大家加群：867979275。老外作者听取咱们的意见，特意加上了支付宝氪金方式，哈哈哈！氪金的目的是开全服Buff（锻造装备、战斗经验、采矿经验）。",
             "时隔4年，本游戏已重新开服。",
             "《永恒之塔》是一款基于浏览器的增量游戏，专注于社区游戏玩法。 使用游戏中的 10 种技能，您可以收集材料、制作物品和装备，并参与塔中的 PVE 战斗。 我们的目标是变得更强并清除所有塔楼楼层（从 1 层到 25 层），一路解锁新的战利品和敌人。",
