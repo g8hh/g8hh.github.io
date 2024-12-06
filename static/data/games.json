@@ -301,7 +301,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/lit-plus",
         "enUrl": "https://www.thepaperpilot.org/lit/",
-        "customUrl": "https://yx.g8hh.com/lit",
+        "customUrl": "https://yx.g8hh.com.cn/lit",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -333,7 +333,7 @@
             "《无尽的地下城》是一款类似《点击英雄》的放置游戏。！"
         ],
         "enUrl": "https://endlessdungeon.github.io/",
-        "customUrl": "https://yx.g8hh.com/endless-dungeon",
+        "customUrl": "https://yx.g8hh.com.cn/endless-dungeon",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/endless-dungeon",
         "pic": [
@@ -677,6 +677,40 @@
             5
         ],
         "status": 0
+    },
+    {
+        "title": "松露巫师",
+        "enTitle": "Truffle Wizard",
+        "date": "2024-12-06",
+        "update": "2024-12-06",
+        "version": "1.0",
+        "path": "truffle-wizard",
+        "type": [
+            "已汉化",
+            "模拟",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "这是一款带有松露、点击和几乎没有神秘陌生人提供禁忌魔法的短增量游戏。",
+            "你在异国他乡负伤挨饿。但你还活着。",
+            "睁开你的眼睛。",
+            "你包扎了伤口。",
+            "闻闻空气。是……松露?"
+        ],
+        "enUrl": "https://timknauf.itch.io/truffle-wizard",
+        "customUrl": "https://truffle-wizard.g8hh.com.cn/",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://gityxs.github.io/truffle-wizard/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
     },
     {
         "title": "时钟计时器放置",
@@ -7617,7 +7651,7 @@
             "这个游戏，又是群里的小伙伴 @辉影神秘(Shinwmyste) 制作的。",
             "想当年的初中生，如今已经成长为高中生了，后生可畏，值得表扬。"
         ],
-        "customUrl2": "https://yx.g8hh.com/the-formula-ng--/",
+        "customUrl2": "https://yx.g8hh.com.cn/the-formula-ng--/",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl": "https://shenmi124.github.io/The_Formula_NG--/",
         "customUrlTit": "开始游戏",
@@ -7908,7 +7942,7 @@
             "6、达到进化 #11 通关游戏！"
         ],
         "zhUrl": "https://gityxs.github.io/energy-idle/",
-        "customUrl": "https://yx.g8hh.com/energy-idle/",
+        "customUrl": "https://yx.g8hh.com.cn/energy-idle/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://freddecgames.github.io/energyidle/",
         "pic": [
@@ -7961,7 +7995,7 @@
             "提示：等级的提升需要鼠标点颜色才行。"
         ],
         "zhUrl": "https://gityxs.github.io/energy-collector-game/",
-        "customUrl": "https://yx.g8hh.com/energy-collector-game/",
+        "customUrl": "https://yx.g8hh.com.cn/energy-collector-game/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://www.energycollectorgame.xyz/",
         "steamUrl": "https://store.steampowered.com/app/2017540/Energy_Collector/",
@@ -8068,7 +8102,7 @@
             "目测还是比较肝的一个放置游戏，具体玩法看游戏里面的介绍吧。"
         ],
         "zhUrl": "https://gityxs.github.io/capped-at-one/",
-        "customUrl": "https://yx.g8hh.com/capped-at-one/",
+        "customUrl": "https://yx.g8hh.com.cn/capped-at-one/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://mrredshark77.github.io/Capped-At-1/",
         "pic": [
@@ -8094,7 +8128,7 @@
             "鸡生蛋，蛋生鸡。注意：游戏开始没反应的小伙伴，需要去设置界面重置游戏一次即可。"
         ],
         "zhUrl": "https://gityxs.github.io/egg-incremental/",
-        "customUrl": "https://yx.g8hh.com/egg-incremental/",
+        "customUrl": "https://yx.g8hh.com.cn/egg-incremental/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://superjakeylkr.github.io/Egg-Incremental/",
         "pic": [
@@ -8120,7 +8154,7 @@
             "这是一款借鉴了《小黑屋》《13层》玩法的放置游戏，界面比较像《猫国建设者》。目前游戏内容还是比较少的，期待作者后续更新更多内容。"
         ],
         "zhUrl": "https://gityxs.github.io/planet-fall-idle/",
-        "customUrl": "https://yx.g8hh.com/planet-fall-idle/",
+        "customUrl": "https://yx.g8hh.com.cn/planet-fall-idle/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://idler-demo.vercel.app/",
         "pic": [
@@ -8152,7 +8186,7 @@
             "* 积累资源，建设校园"
         ],
         "zhUrl": "https://gityxs.github.io/magic-research/",
-        "customUrl": "https://yx.g8hh.com/magic-research/",
+        "customUrl": "https://yx.g8hh.com.cn/magic-research/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://play.google.com/store/apps/details?id=com.mcolotto.magicresearchfull",
         "customUrlTit2": "安卓市场完整版",
@@ -8188,7 +8222,7 @@
             "注意：后面创建游戏，别用中文，会炸存档哦~（大概是保存不了，已创建的话，刷新即可）"
         ],
         "zhUrl": "https://gityxs.github.io/scholar-clicker/",
-        "customUrl": "https://yx.g8hh.com/scholar-clicker/",
+        "customUrl": "https://yx.g8hh.com.cn/scholar-clicker/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://rebane2001.com/scholarclicker/",
         "pic": [
@@ -8219,7 +8253,7 @@
         ],
         "customUrl": "https://gityxs.github.io/iron-idle/",
         "customUrlTit": "英文版",
-        "customUrl2": "https://yx.g8hh.com/iron-idle/",
+        "customUrl2": "https://yx.g8hh.com.cn/iron-idle/",
         "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
@@ -8250,7 +8284,7 @@
         ],
         "customUrl": "https://gityxs.github.io/fantasy-2023-remake/",
         "customUrlTit": "开始游戏",
-        "customUrl2": "https://yx.g8hh.com/fantasy-2023-remake/",
+        "customUrl2": "https://yx.g8hh.com.cn/fantasy-2023-remake/",
         "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
@@ -8283,7 +8317,7 @@
             "祝你玩得开心！"
         ],
         "zhUrl": "https://gityxs.github.io/banners-begone",
-        "customUrl": "https://yx.g8hh.com/banners-begone",
+        "customUrl": "https://yx.g8hh.com.cn/banners-begone",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://dreadpon.itch.io/banners-begone",
         "pic": [
@@ -8463,7 +8497,7 @@
             "《英雄是怎样炼成的》是一款以超级英雄为灵感的放置角色扮演游戏，游戏还在开发中，更多功能敬请期待。"
         ],
         "zhUrl": "https://gityxs.github.io/wall-destroyer-rewritten/",
-        "customUrl": "https://yx.g8hh.com/wall-destroyer-rewritten/",
+        "customUrl": "https://yx.g8hh.com.cn/wall-destroyer-rewritten/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://der-reale-clemens.github.io/wall-destroyer-prod/",
         "pic": [
@@ -8479,19 +8513,21 @@
         "title": "英雄是怎样炼成的",
         "enTitle": "I Want To Be A Hero",
         "date": "2022-12-21",
-        "update": "2023-01-05",
-        "version": "0.04a",
+        "update": "2024-12-05",
+        "version": "0.07",
         "path": "i-want-to-be-a-hero",
         "type": [
             "已汉化",
+            "战斗",
             "点击",
             "放置"
         ],
         "content": [
+            "2024-12-05：同步更新到0.07版本~",
             "《英雄是怎样炼成的》是一款以超级英雄为灵感的放置角色扮演游戏，游戏还在开发中，更多功能敬请期待。"
         ],
         "zhUrl": "https://gityxs.github.io/i-want-to-be-a-hero/",
-        "customUrl": "https://yx.g8hh.com/i-want-to-be-a-hero/",
+        "customUrl": "https://i-want-to-be-a-hero.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://skeyne.github.io/I-want-to-be-a-hero/",
         "pic": [
@@ -8521,7 +8557,7 @@
             "它应该相对移动友好。 “添加到主屏幕”将使它成为一个全屏应用程序。"
         ],
         "zhUrl": "https://g8hh.github.io/evomonsters/",
-        "customUrl": "https://yx.g8hh.com/evomonsters/",
+        "customUrl": "https://yx.g8hh.com.cn/evomonsters/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://monster-evolution-clicker.en.uptodown.com/android",
         "customUrlTit2": "安卓版",
@@ -8557,7 +8593,7 @@
             "注意：游戏初次加载会比较慢，因为作者为了达到比较好的游戏体验，引用了一个20M的字体。。"
         ],
         "zhUrl": "https://gityxs.github.io/tian-jin-zhong-kao-tree",
-        "customUrl": "https://yx.g8hh.com/tian-jin-zhong-kao-tree",
+        "customUrl": "https://yx.g8hh.com.cn/tian-jin-zhong-kao-tree",
         "customUrlTit": "备用地址-g8hh",
         "customUrl4": "https://yhvr.me/pt/mods.html",
         "customUrlTit4": "其它树游戏集合",
@@ -8589,7 +8625,7 @@
             "至于汉化嘛，可能有很多奇形怪状的地方，欢迎小伙伴们提出修改意见，锅巴100%配合。"
         ],
         "zhUrl": "https://gityxs.github.io/fractory",
-        "customUrl": "https://yx.g8hh.com/fractory",
+        "customUrl": "https://yx.g8hh.com.cn/fractory",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://jamuspsi.github.io/fractory",
         "pic": [
@@ -8618,7 +8654,7 @@
             "注意：手机党玩不了~"
         ],
         "zhUrl": "https://gityxs.github.io/incremental-snake/",
-        "customUrl": "https://yx.g8hh.com/incremental-snake/",
+        "customUrl": "https://yx.g8hh.com.cn/incremental-snake/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://bootlegaidan.github.io/IncrementalSnake",
         "pic": [
@@ -8701,7 +8737,7 @@
         ],
         "zhUrl": "https://gityxs.github.io/falling-ountains-alterprestige",
         "enUrl": "https://fallingmountain.github.io/The-Modding-Tree/",
-        "customUrl": "https://yx.g8hh.com/falling-ountains-alterprestige/",
+        "customUrl": "https://yx.g8hh.com.cn/falling-ountains-alterprestige/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -8853,7 +8889,7 @@
             "某些按钮可以按住以自动单击。"
         ],
         "zhUrl": "https://gityxs.github.io/youre-a-spy-complete",
-        "customUrl": "https://yx.g8hh.com/youre-a-spy-complete",
+        "customUrl": "https://yx.g8hh.com.cn/youre-a-spy-complete",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://kygron.itch.io/youre-a-spy-complete",
         "pic": [
@@ -8881,7 +8917,7 @@
             "《时钟点击》 是一款以各种时钟为主题的点击游戏，您可以通过点击时钟来赚取 时间金钱。 使用累积的 时间金钱 购买各种类型的手表和升级，这将帮助您赚取更多货币。"
         ],
         "zhUrl": "https://gityxs.github.io/clock-clicker",
-        "customUrl": "https://yx.g8hh.com/clock-clicker/",
+        "customUrl": "https://yx.g8hh.com.cn/clock-clicker/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://www.crazygames.com/game/clock-clicker",
         "pic": [
@@ -8912,7 +8948,7 @@
             "2022年， Frederic Deconinck重制了Luke的版本。他的目标是进行 UI 更改，改进界面、样式和修复一些错误。请随时通过提交对他的改进做出贡献 Discord. 这是你正在玩的这个版本。"
         ],
         "zhUrl": "https://gityxs.github.io/civ-clicker-fg",
-        "customUrl": "https://yx.g8hh.com/civ-clicker-fg/",
+        "customUrl": "https://yx.g8hh.com.cn/civ-clicker-fg/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://gityx.com/g8hh/yihanhua/384.html",
         "customUrlTit2": "文明点击原版",
@@ -8978,7 +9014,7 @@
         "content": [
             "这是《傅里叶增量》作者的另一个游戏。"
         ],
-        "customUrl": "https://yx.g8hh.com/constellator",
+        "customUrl": "https://yx.g8hh.com.cn/constellator",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/constellator",
         "enUrl": "https://dragonmemo.github.io/Constellator/",
@@ -9003,7 +9039,7 @@
         "content": [
             "一款比较简短的增量放置游戏~"
         ],
-        "customUrl": "https://yx.g8hh.com/incremental-limited",
+        "customUrl": "https://yx.g8hh.com.cn/incremental-limited",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/incremental-limited",
         "enUrl": "https://idlesquadron.github.io/Incremental-Limited/",
@@ -9030,7 +9066,7 @@
             "很早之前发过的，后来网站改版貌似遗漏了，现在补上~",
             "游戏里面新增了一个0.4版本的，作者可能想重做的。"
         ],
-        "customUrl": "https://yx.g8hh.com/water-company",
+        "customUrl": "https://yx.g8hh.com.cn/water-company",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/water-company",
         "enUrl": "https://dimitar5555.github.io/WaterCompany/",
@@ -9057,7 +9093,7 @@
         "content": [
             "这是一款数字倍增的增量放置游戏。"
         ],
-        "customUrl": "https://yx.g8hh.com/incre-multiplication",
+        "customUrl": "https://yx.g8hh.com.cn/incre-multiplication",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/incre-multiplication",
         "enUrl": "https://idlesquadron.github.io/IncreMultiplication",
@@ -9082,7 +9118,7 @@
         "content": [
             "《逃离黑暗》《自动化工厂》《能源增量》作者的又一款游戏。"
         ],
-        "customUrl": "https://yx.g8hh.com/universe-expander-re",
+        "customUrl": "https://yx.g8hh.com.cn/universe-expander-re",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/universe-expander-re",
         "enUrl": "https://jacorb90.me/UE-Rewritten/",
@@ -9112,7 +9148,7 @@
             "玩法：",
             "使用左/右键单击（或点击移动设备）旋转瓷砖和管道，以将死亡光束从死灵法师指向仙女。 沿途收集心以进行奖励挑战。"
         ],
-        "customUrl": "https://yx.g8hh.com/deadly-affection",
+        "customUrl": "https://yx.g8hh.com.cn/deadly-affection",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/deadly-affection",
         "enUrl": "https://martintale.itch.io/deadly-affection",
@@ -9145,7 +9181,7 @@
             "玩家群：570301852",
             "目前本游戏即将登陆Steam平台。"
         ],
-        "customUrl": "https://yx.g8hh.com/more-ore/",
+        "customUrl": "https://yx.g8hh.com.cn/more-ore/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://www.u77game.net/h5/470.html",
         "customUrlTit2": "U77汉化版",
@@ -9244,7 +9280,7 @@
             "3、账号登录功能？英文版才能用。",
             "4、游戏我是边玩边搬的，可能有缺图的情况，可以打开控制台复制图片链接发我补图。"
         ],
-        "customUrl": "https://yx.g8hh.com/idle-dungeon",
+        "customUrl": "https://yx.g8hh.com.cn/idle-dungeon",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/idle-dungeon",
         "enUrl": "https://idle-dungeon.firebaseapp.com",
@@ -9272,7 +9308,7 @@
         "content": [
             "《黑暗宇宙》是一款模拟照亮宇宙的放置游戏。这个游戏节奏非常慢，适合挂机~"
         ],
-        "customUrl": "https://yx.g8hh.com/the-universe-is-dark",
+        "customUrl": "https://yx.g8hh.com.cn/the-universe-is-dark",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/the-universe-is-dark",
         "enUrl": "https://heartosis.itch.io/the-universe-is-dark",
@@ -9307,7 +9343,7 @@
             "按 F 切换全屏模式。",
             "除了手动保存之外，《破坏地球》还包括自动保存功能。 随意关闭您的浏览器，稍后再回来，您就可以从上次停下的地方继续。"
         ],
-        "customUrl": "https://yx.g8hh.com/trash-the-planet",
+        "customUrl": "https://yx.g8hh.com.cn/trash-the-planet",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/trash-the-planet",
         "enUrl": "https://thisgameishaunted.itch.io/trash-the-planet",
@@ -9368,7 +9404,7 @@
             "1、游戏无存档系统，关闭、刷新即重玩~",
             "2、剧情因为作者加密了代码，所以没汉化~"
         ],
-        "customUrl": "https://yx.g8hh.com/kale-farmer",
+        "customUrl": "https://yx.g8hh.com.cn/kale-farmer",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/kale-farmer",
         "enUrl": "https://kevlanche.com/kl/farmer",
@@ -9403,7 +9439,7 @@
             "人口满意度：如果需要的资源在市场上以低价提供，那么人口就会增长。",
             "目标是双重的：建立低价买入，高价卖出的高性价比交易体系；通过以低价提供大量资源来增加人口。"
         ],
-        "customUrl": "https://yx.g8hh.com/about-trade",
+        "customUrl": "https://yx.g8hh.com.cn/about-trade",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/about-trade",
         "enUrl": "https://tortue.itch.io/about-trade",
@@ -9436,7 +9472,7 @@
             "目前还在开发中，作者发话了，开发完后要由他们亲自汉化，哈哈，大家先玩英文版吧！"
         ],
         "enUrl": "https://cyxw.github.io/Arctree/",
-        "customUrl": "https://yx.g8hh.com/Arctree",
+        "customUrl": "https://yx.g8hh.com.cn/Arctree",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -9470,7 +9506,7 @@
             "不能导入导出存档，也不能重置存档（可以去控制台的本地存储里面导出、删除，key名是：rpgInc）。",
             "未翻译游戏中的时间单位。"
         ],
-        "customUrl": "https://yx.g8hh.com/tower-of-insanity",
+        "customUrl": "https://yx.g8hh.com.cn/tower-of-insanity",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/tower-of-insanity",
         "enUrl": "https://gsui5051.github.io/Tower-of-Insanity-zhCN/index-en.html",
@@ -9497,7 +9533,7 @@
             "这是一个由 Dystopia-user181 制作的增量游戏，这是我见过第一个基于汉字拆分的放置增量游戏。GSUI5051 修了一些 bug, 然后把它翻译成中文。",
             "群里小伙伴 @χγζ5051 汉化的，咱们收录一下。"
         ],
-        "customUrl": "https://yx.g8hh.com/bean-incremental/index-zh.html",
+        "customUrl": "https://yx.g8hh.com.cn/bean-incremental/index-zh.html",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/bean-incremental/index-zh.html",
         "enUrl": "https://gsui5051.github.io/Bean-Incremental/",
@@ -9523,7 +9559,7 @@
         "content": [
             "《零号病人》是一款关于假流行病学的游戏。一种致命的、无法治愈的疾病袭击了这个社区，你的工作是在它杀死超过 75% 的人口之前阻止它的传播。"
         ],
-        "customUrl": "https://yx.g8hh.com/patient-zero",
+        "customUrl": "https://yx.g8hh.com.cn/patient-zero",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/patient-zero",
         "enUrl": "https://btwj.itch.io/patient-zero",
@@ -9551,7 +9587,7 @@
             "曾几何时，你认出自己独自一人在森林里，除了求生的意志之外一无所有。 走你的道路，从生死边缘到假装统治世界的强大法师。",
             "重要提示：游戏处于早期开发阶段，因此可能存在错误和故障。 不要忘记导出您的存档以确保您不会丢失进度。"
         ],
-        "customUrl": "https://yx.g8hh.com/idle-mancery",
+        "customUrl": "https://yx.g8hh.com.cn/idle-mancery",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/idle-mancery",
         "enUrl": "https://strangemattergaming.itch.io/idlemancery",
@@ -9578,7 +9614,7 @@
         "content": [
             "《化学增量》是之前《鸡蛋公司》《活性测试》《增量军团》作者的又一款游戏。"
         ],
-        "customUrl": "https://yx.g8hh.com/chemcremental",
+        "customUrl": "https://yx.g8hh.com.cn/chemcremental",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/chemcremental",
         "enUrl": "https://mrbacon470.github.io/Chemcremental-JS/",
@@ -9607,7 +9643,7 @@
             "什么？兵多打不过兵少？请去设置里面勾选：启用建筑物和升级的详细文本，就能看到战斗的胜率了~",
             "游戏还在开发中~"
         ],
-        "customUrl": "https://yx.g8hh.com/chiato-inc-game",
+        "customUrl": "https://yx.g8hh.com.cn/chiato-inc-game",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/chiato-inc-game",
         "enUrl": "https://mrchiato.github.io/ChiatoIncGame/",
@@ -9635,7 +9671,7 @@
             "您已经了解了新货币 数字货币 并想用它赚大钱。 您可以在当前的市场发展中奋力拼搏，也可以通过自己的搜索来弄脏自己的手。",
             "你能取得重大突破吗？"
         ],
-        "customUrl": "https://yx.g8hh.com/crypto-manager-simulator",
+        "customUrl": "https://yx.g8hh.com.cn/crypto-manager-simulator",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/crypto-manager-simulator",
         "enUrl": "https://darkheartgames.itch.io/crypto-manager-simulator",
@@ -9672,7 +9708,7 @@
             "使用左下角的按钮更改游戏模式。",
             "在左上角，您可以找到一个用于完全重置的隐藏按钮（按四次激活）。"
         ],
-        "customUrl": "https://yx.g8hh.com/idle-necromancer",
+        "customUrl": "https://yx.g8hh.com.cn/idle-necromancer",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/idle-necromancer",
         "enUrl": "https://cutfuji-games.itch.io/idle-necromancer",
@@ -9700,7 +9736,7 @@
             "这是一款太空射击放置游戏。 这个游戏在任务期间的活跃度较低。一旦你选择了你的任务和你的飞船，你就不需要做任何其他事情了。 非常适合在做其他事情时让它在后台运行。",
             "击败任务目标，为您的飞船赢得经验、升级点数和更好的装备。"
         ],
-        "customUrl": "https://yx.g8hh.com/idle-war",
+        "customUrl": "https://yx.g8hh.com.cn/idle-war",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/idle-war",
         "enUrl": "https://oscarolim.itch.io/idle-war",
@@ -9737,7 +9773,7 @@
             "SPD 属性说明",
             "POW（力量）和HP（生命值）在游戏中的意义不言自明，但是SPD（速度）需要一点澄清。我将在以后的更新中在游戏中添加此解释，但是现在我只会在此描述中对其进行解释。因此，战斗中最快的单位将始终每2秒钟使用其能力。其他单位使用其能力的速度将基于此。例如，如果最快的单位的SPD为1000，则它们将每2秒钟攻击一次。如果另一个单位有500个SPD，他们将每4秒攻击一次。因此，您可能会注意到，如果他们已经是战斗中最快的单位，则提高速度不会使单位攻击更快，但是提高速度将有效地降低其他单位。"
         ],
-        "customUrl": "https://yx.g8hh.com/items-of-power",
+        "customUrl": "https://yx.g8hh.com.cn/items-of-power",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/items-of-power",
         "enUrl": "https://vykri.itch.io/items-of-power",
@@ -9765,7 +9801,7 @@
             "这是一个关于观看数字上涨的游戏，侧面可以看出增量游戏发展的一个过程。",
             "可以选择自己点，或者勾上自动购买，看着数字慢慢变大，也是挺有挑战性的。"
         ],
-        "customUrl": "https://yx.g8hh.com/idle-numbers/",
+        "customUrl": "https://yx.g8hh.com.cn/idle-numbers/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/idle-numbers/",
         "enUrl": "https://ozzy2.itch.io/idlenumbers",
@@ -9802,7 +9838,7 @@
             "使用“出售”按钮出售显卡或构建市场为您执行此操作",
             "升级您的工厂、制造商和市场以最大化利润！"
         ],
-        "customUrl": "https://yx.g8hh.com/graphics-card-tycoon/",
+        "customUrl": "https://yx.g8hh.com.cn/graphics-card-tycoon/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/graphics-card-tycoon/",
         "enUrl": "https://soggykiwi.itch.io/graphics-card-tycoon",
@@ -9828,7 +9864,7 @@
         "content": [
             "这是一个关于建立自己的咨询公司和大数字的游戏。 放置和增量机制可以持续玩几个月。 在解锁所有机制的同时探索不同的策略。"
         ],
-        "customUrl": "https://yx.g8hh.com/idle-consulting/",
+        "customUrl": "https://yx.g8hh.com.cn/idle-consulting/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/idle-consulting",
         "enUrl": "https://ozzy2.itch.io/idle-consulting",
@@ -9858,7 +9894,7 @@
         ],
         "customUrl": "https://g1tyx.github.io/technology-evole/",
         "customUrlTit": "开始游戏",
-        "customUrl2": "https://yx.g8hh.com/technology-evole/",
+        "customUrl2": "https://yx.g8hh.com.cn/technology-evole/",
         "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
@@ -9882,7 +9918,7 @@
         "content": [
             "这个游戏有点肝！这也是一款Windows 98风格的放置游戏，之前同样风格的还有《无尽的楼梯间》《钱包矿工》等等。"
         ],
-        "customUrl": "https://yx.g8hh.com/bananas-classic/",
+        "customUrl": "https://yx.g8hh.com.cn/bananas-classic/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/bananas-classic",
         "enUrl": "https://louigiverona.com/bananas/bananas_classic/",
@@ -9939,7 +9975,7 @@
         ],
         "customUrl": "https://g1tyx.github.io/sunshine-incremental/",
         "customUrlTit": "开始游戏",
-        "customUrl2": "https://yx.g8hh.com/sunshine-incremental",
+        "customUrl2": "https://yx.g8hh.com.cn/sunshine-incremental",
         "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
@@ -9974,7 +10010,7 @@
         ],
         "customUrl": "https://g1tyx.github.io/softcap-incremental/",
         "customUrlTit": "开始游戏",
-        "customUrl2": "https://yx.g8hh.com/softcap-incremental/",
+        "customUrl2": "https://yx.g8hh.com.cn/softcap-incremental/",
         "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
@@ -10084,7 +10120,7 @@
         "content": [
             "拉卡尼休，英文名Rakanishu ，出自暗黑破坏神2，守着崔斯特瑞姆入口的五根石柱。​"
         ],
-        "customUrl": "https://yx.g8hh.com/rakanishu/",
+        "customUrl": "https://yx.g8hh.com.cn/rakanishu/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/rakanishu",
         "enUrl": "https://rakanishu.netlify.app",
@@ -10111,7 +10147,7 @@
         "content": [
             "《卡牌弹射器放置》是一款类似于《怪物卡牌放置》玩法的放置游戏。​"
         ],
-        "customUrl": "https://yx.g8hh.com/cards-n-catapults-idle/",
+        "customUrl": "https://yx.g8hh.com.cn/cards-n-catapults-idle/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/cards-n-catapults-idle",
         "enUrl": "https://rybadour.github.io/cards-n-catapults-idle",
@@ -10205,7 +10241,7 @@
         "customUrlTit3": "原版简陋版",
         "customUrl": "https://g1tyx.github.io/yulegeyu/",
         "customUrlTit": "锅巴美化版",
-        "customUrl2": "https://yx.g8hh.com/yulegeyu/",
+        "customUrl2": "https://yx.g8hh.com.cn/yulegeyu/",
         "customUrlTit2": "备用地址-g8hh",
         "pic": [
             1,
@@ -10236,7 +10272,7 @@
             "作者：这更像是一个科普向的作品。",
             "作者就是上次《修真模拟器：凡界篇》的作者。"
         ],
-        "customUrl": "https://yx.g8hh.com/yuansu-tree",
+        "customUrl": "https://yx.g8hh.com.cn/yuansu-tree",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/yuansu-tree",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -10330,7 +10366,7 @@
         "content": [
             "《方块计数器》是一款填方块的增量放置游戏。​"
         ],
-        "customUrl": "https://yx.g8hh.com/square-counter/",
+        "customUrl": "https://yx.g8hh.com.cn/square-counter/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/square-counter",
         "enUrl": "https://squarecounter.org/",
@@ -10419,7 +10455,7 @@
             "作者语：游戏还在更新中，目前还有bug，今天会更新1.1.4；后面大约每一个星期更一次；最终目标是让数值达到1.8e308。​",
             "离线版可以在群文件或者网盘下载，百度网盘密码：igno​"
         ],
-        "customUrl": "https://yx.g8hh.com/fantasy",
+        "customUrl": "https://yx.g8hh.com.cn/fantasy",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://pan.baidu.com/s/1nh3ErSvgZrxMg0_lk6XPww",
         "customUrlTit2": "百度网盘-离线版",
@@ -10445,7 +10481,7 @@
         "content": [
             "《鸡蛋公司》作者为自己的游戏合集制作了这个游戏。（Void Development Jam 2.0）​"
         ],
-        "customUrl": "https://yx.g8hh.com/life-in-10-minutes/",
+        "customUrl": "https://yx.g8hh.com.cn/life-in-10-minutes/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/life-in-10-minutes",
         "enUrl": "https://mrbacon470.github.io/Life-In-10-Minutes",
@@ -10479,7 +10515,7 @@
             "注意：中文需要点游戏右上角的【齿轮】进去，最后一项里面切换Language为中文。​"
         ],
         "enUrl": "https://ascensiontree.semenar.ru",
-        "customUrl": "https://yx.g8hh.com/the_ascension_tree_QoL_Modded/",
+        "customUrl": "https://yx.g8hh.com.cn/the_ascension_tree_QoL_Modded/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://cyxw.github.io/the_ascension_tree_QoL_Modded/",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -10508,7 +10544,7 @@
         "content": [
             "这是《鸡蛋公司》作者的另一个游戏，是Steam游戏《Idle Research》的仿制品，只是为了好玩，因为作者尊重 CG。​"
         ],
-        "customUrl": "https://yx.g8hh.com/inactive-testing/",
+        "customUrl": "https://yx.g8hh.com.cn/inactive-testing/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/inactive-testing",
         "enUrl": "https://mrbacon470.github.io/Inactive-Testing/",
@@ -10626,7 +10662,7 @@
         "content": [
             "《FE000000》是《基础》作者的另一个作品，类似《反物质维度》玩法的放置游戏。​"
         ],
-        "customUrl": "https://yx.g8hh.com/fe000000",
+        "customUrl": "https://yx.g8hh.com.cn/fe000000",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/fe000000",
         "enUrl": "https://dan-simon.github.io/misc/fe000000/index.html",
@@ -10659,7 +10695,7 @@
             "《尘埃树》是一款以灰尘为主题的模组树游戏。锅巴我大致玩了下，游戏有合成、解谜等元素，汉化还在进行中，玩得快的靓仔可以随时发存档给我~​"
         ],
         "enUrl": "https://raw.githack.com/chipsams/The-Modding-Tree/master/index.html",
-        "customUrl": "https://yx.g8hh.com/the-dust-tree",
+        "customUrl": "https://yx.g8hh.com.cn/the-dust-tree",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/the-dust-tree",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -10690,7 +10726,7 @@
             "《耀西之门》是一款以《超级马里奥》里面的一种恐龙为主角的增量游戏。​",
             "后面内容比较多，还在补汉化，没事儿就刷新下哈~​"
         ],
-        "customUrl": "https://yx.g8hh.com/the-yoshi-portal",
+        "customUrl": "https://yx.g8hh.com.cn/the-yoshi-portal",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/the-yoshi-portal",
         "enUrl": "https://demonins-item-shop.demonin.repl.co/games/theYoshiPortal/",
@@ -10717,7 +10753,7 @@
         "content": [
             "《核电放置重制版》和之前网站上发的那个《反应堆增量》类似。​不过之前那个是Unity制作的，咱们汉化不了，现在这个是h5的，阔以汉化。​"
         ],
-        "customUrl": "https://yx.g8hh.com/reactor-knockoff",
+        "customUrl": "https://yx.g8hh.com.cn/reactor-knockoff",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/reactor-knockoff",
         "enUrl": "https://raw.githack.com/R93950X/reactor-knockoff/master/index.html",
@@ -10747,7 +10783,7 @@
             "获得 1000 万次点击后，您可以解锁终端并安装增强程序的软件包。​",
             "Enc0de 是一款用于改进游戏代码的空闲点击游戏。 查看输出的代码及其工作原理，并学习如何成为一名 Web 开发人员。 通过单击输出中的按钮来获得点击次数，并将其用于更改代码，例如添加 HTML、更改 JavaScript（例如每次单击时获得更多点击）以及在 CSS 中添加样式。 ​"
         ],
-        "customUrl": "https://yx.g8hh.com/enc0de",
+        "customUrl": "https://yx.g8hh.com.cn/enc0de",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://play.google.com/store/apps/details?id=app.netlify.enc0de&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1",
         "customUrlTit2": "安卓版",
@@ -10782,7 +10818,7 @@
             "《女团树》是粉丝给自己的偶像女团GFRIEND写的一款模组树类游戏，因为这个女团解散了，作者写了个游戏来纪念一下。"
         ],
         "enUrl": "https://raw.githack.com/ehcho0222/The-Modding-Tree/gfriend/index.html",
-        "customUrl": "https://yx.g8hh.com/the-gfriend-tree/",
+        "customUrl": "https://yx.g8hh.com.cn/the-gfriend-tree/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/the-gfriend-tree",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -10812,7 +10848,7 @@
         "content": [
             "一款类似放置矿工：重制版的游戏。​"
         ],
-        "customUrl": "https://yx.g8hh.com/stonemental",
+        "customUrl": "https://yx.g8hh.com.cn/stonemental",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/stonemental",
         "enUrl": "https://mrredshark77.github.io/Stonemental/",
@@ -10839,7 +10875,7 @@
         "content": [
             "《无尽的骰子》是一款回合制的骰子玩法RPG游戏。​"
         ],
-        "customUrl": "https://yx.g8hh.com/endless-dice",
+        "customUrl": "https://yx.g8hh.com.cn/endless-dice",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/endless-dice",
         "enUrl": "https://mrredshark77.github.io/Endless-Dice/",
@@ -10959,7 +10995,7 @@
             "这个游戏是玩家玩梗开发的，来源似乎是有人催更《协同放置》，作者老是说5小时后更新。。",
             "感谢群里的 @QwQe308 小伙伴汉化推荐~"
         ],
-        "customUrl": "https://yx.g8hh.com/5-hours/",
+        "customUrl": "https://yx.g8hh.com.cn/5-hours/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://qwqe308.github.io/5-hours-chs/",
         "enUrl": "https://dan-simon.github.io/misc/5hours/",
@@ -10986,7 +11022,7 @@
             "玩法：每个单词可以猜6次，6次都猜错就要重新开始下一局。输入任意一个5位数的单词，然后按提示猜出正确的单词，高亮的字母为答案包含的字母。",
             "快捷键：Tab键：重新开始；Enter键，确认，次数-1。"
         ],
-        "customUrl": "https://yx.g8hh.com/futile-code",
+        "customUrl": "https://yx.g8hh.com.cn/futile-code",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/futile-code",
         "enUrl": "https://futilecode.github.io/",
@@ -11013,7 +11049,7 @@
         "content": [
             "《永恒之地》是一款捕获方块的放置游戏。只看这地图，我还以为是脆皮呢。"
         ],
-        "customUrl": "https://yx.g8hh.com/forever-land",
+        "customUrl": "https://yx.g8hh.com.cn/forever-land",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/forever-land",
         "enUrl": "https://aldo111.github.io/forever-land/",
@@ -11044,7 +11080,7 @@
         "content": [
             "《反物质维度》可以说是放置游戏界的一朵奇葩，这次居然别我发现有人把它做成树了，收录过来给大家玩~"
         ],
-        "customUrl": "https://yx.g8hh.com/antreematter-dimensions",
+        "customUrl": "https://yx.g8hh.com.cn/antreematter-dimensions",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/antreematter-dimensions/",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -11113,7 +11149,7 @@
             "一款关于使用炼金术赚取超乎您想象的金钱的游戏。 发现新物品并以可笑的完全公平的价格出售它们。",
             "提示：您可以按住挖矿按钮自动点击10次/s。"
         ],
-        "customUrl": "https://yx.g8hh.com/alchemists-monopoly",
+        "customUrl": "https://yx.g8hh.com.cn/alchemists-monopoly",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/alchemists-monopoly",
         "enUrl": "https://qwertycat.itch.io/alchemistsmonopoly",
@@ -11142,7 +11178,7 @@
             "一款包含太空建造，经营，探索风格的增量放置游戏。",
             "游戏还在开发中，咱们会同步更新~"
         ],
-        "customUrl": "https://yx.g8hh.com/there-are-no-numbers",
+        "customUrl": "https://yx.g8hh.com.cn/there-are-no-numbers",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/there-are-no-numbers",
         "enUrl": "https://chabetto.github.io/therearenonumbers/",
@@ -11171,7 +11207,7 @@
             "一款包含太空建造，经营，探索风格的增量放置游戏。",
             "游戏还在开发中，咱们会同步更新~"
         ],
-        "customUrl": "https://yx.g8hh.com/spaceship-ncremental-game",
+        "customUrl": "https://yx.g8hh.com.cn/spaceship-ncremental-game",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/spaceship-ncremental-game",
         "enUrl": "https://somerandomviolinkid.github.io/",
@@ -11229,7 +11265,7 @@
             "招募流放者、挖掘者、货币翻转者和工匠。 主宰经济并升级您的公会成员。",
             "注意：本游戏无存档系统，刷新会丢失进度从头开始！"
         ],
-        "customUrl": "https://yx.g8hh.com/idle-exile",
+        "customUrl": "https://yx.g8hh.com.cn/idle-exile",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/idle-exile",
         "enUrl": "https://oosband.github.io/",
@@ -11291,7 +11327,7 @@
             "挺久没更新新的模组树游戏了，今天来一个吧，这个Mod的玩法也算新颖。"
         ],
         "enUrl": "https://raw.githack.com/BilboyX/The-Modding-Tree/master/index.html",
-        "customUrl": "https://yx.g8hh.com/the-periodic-table-tree/",
+        "customUrl": "https://yx.g8hh.com.cn/the-periodic-table-tree/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/the-periodic-table-tree",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -11381,7 +11417,7 @@
         "content": [
             "《矿山防御》是一款类似《无尽的饼干》的放置游戏，糅合了战斗、炼金、法术等元素。"
         ],
-        "customUrl": "https://yx.g8hh.com/mine-defense",
+        "customUrl": "https://yx.g8hh.com.cn/mine-defense",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/mine-defense",
         "enUrl": "http://scholtek.com/minedefense",
@@ -11409,7 +11445,7 @@
         "content": [
             "《H点击器》是作者为了练习编码而写的一个笑话类游戏，没有存档功能，刷新、关闭即重玩~"
         ],
-        "customUrl": "https://yx.g8hh.com/h-clicker",
+        "customUrl": "https://yx.g8hh.com.cn/h-clicker",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/h-clicker",
         "enUrl": "https://muzzasaurus.github.io/H-Clicker/",
@@ -11471,7 +11507,7 @@
             "《循环放置3》是爱好者在原版《Idle Loops》的基础上进行了继续开发的版本。",
             "感谢 @公子羽 大佬帮忙汉化本游戏~"
         ],
-        "customUrl": "https://yx.g8hh.com/omsi-loops",
+        "customUrl": "https://yx.g8hh.com.cn/omsi-loops",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/omsi-loops",
         "enUrl": "https://lloyd-delacroix.github.io/omsi-loops/",
@@ -11560,7 +11596,7 @@
         "content": [
             "《文字骰子放置》是一款简短的扔骰子玩法的放置游戏。"
         ],
-        "customUrl": "https://yx.g8hh.com/idledice/",
+        "customUrl": "https://yx.g8hh.com.cn/idledice/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/idledice/",
         "enUrl": "https://springheeljack.github.io/IdleDice/",
@@ -11588,7 +11624,7 @@
         "content": [
             "《傅里叶增量》是一款关于数学知识的增量放置游戏。"
         ],
-        "customUrl": "https://yx.g8hh.com/fourier-incremental",
+        "customUrl": "https://yx.g8hh.com.cn/fourier-incremental",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/fourier-incremental/",
         "enUrl": "https://dragonmemo.github.io/Fourier-Incremental/",
@@ -11617,7 +11653,7 @@
             "游戏仅供娱乐、研究学习游戏代码所用。",
             "提高警惕，远离虚拟货币骗局！"
         ],
-        "customUrl": "https://yx.g8hh.com/wallos",
+        "customUrl": "https://yx.g8hh.com.cn/wallos",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/wallos/",
         "enUrl": "https://springheeljack.github.io/WallOS/",
@@ -11646,7 +11682,7 @@
         "content": [
             "又一款扫雷玩法的放置游戏，不过这个简单很多，只有4x4个升级。"
         ],
-        "customUrl": "https://yx.g8hh.com/sweeper-idle",
+        "customUrl": "https://yx.g8hh.com.cn/sweeper-idle",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/sweeper-idle/",
         "enUrl": "https://springheeljack.github.io/SweeperIdle/",
@@ -11740,7 +11776,7 @@
             "《渐进式扫雷》是一款放置玩法的扫雷游戏，真是万物皆可放置啊！",
             "《扫雷》游戏是一款大众类的益智小游戏，于1992年发行。游戏目标是在最短的时间内根据点击格子出现的数字找出所有非雷格子，同时避免踩雷，踩到一个雷即全盘皆输。"
         ],
-        "customUrl": "https://yx.g8hh.com/progressive-mine-sweep",
+        "customUrl": "https://yx.g8hh.com.cn/progressive-mine-sweep",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/progressive-mine-sweep",
         "enUrl": "https://lepouya.github.io/progressive-mine-sweep",
@@ -11769,7 +11805,7 @@
         "content": [
             "这个游戏咱汉化不了，收录过来只是为了给感兴趣的小伙伴研究、学习代码。"
         ],
-        "customUrl": "https://yx.g8hh.com/diabloweb/",
+        "customUrl": "https://yx.g8hh.com.cn/diabloweb/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/diabloweb/",
         "enUrl": "https://d07riv.github.io/diabloweb/",
@@ -11797,7 +11833,7 @@
         "content": [
             "《增量军团》是《鸡蛋公司》作者的另一个作品。"
         ],
-        "customUrl": "https://yx.g8hh.com/incremental-army",
+        "customUrl": "https://yx.g8hh.com.cn/incremental-army",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/incremental-army",
         "enUrl": "https://mrbacon470.github.io/Incremental-Army/",
@@ -11826,7 +11862,7 @@
             "你能找回你的磁通电容器吗？ 在 《时间跳跃》 中找出答案！",
             "游戏没有存档功能，刷新就会丢档，建议一气儿​打通关！"
         ],
-        "customUrl": "https://yx.g8hh.com/time-hop",
+        "customUrl": "https://yx.g8hh.com.cn/time-hop",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/time-hop",
         "enUrl": "https://ishadijcks.github.io/ludum-dare-47-timehop/",
@@ -11855,7 +11891,7 @@
             "《森林放置》是一款模拟经营类的放置游戏，游戏体系还是很完善的​，有种树、交易，任务，雇佣工人、宠物等内容。",
             "还是老规矩，玩着汉化着，玩得快的小伙伴可以发存档给我加快汉化进度。"
         ],
-        "customUrl": "https://yx.g8hh.com/idleforest",
+        "customUrl": "https://yx.g8hh.com.cn/idleforest",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/idleforest",
         "enUrl": "https://idleforest.com/",
@@ -11891,7 +11927,7 @@
             "群里的 @QwQe308 小伙伴的新作品，又一款模组树游戏。"
         ],
         "zhUrl": "https://qwqe308.github.io/the-upgrading-tree/",
-        "customUrl": "https://yx.g8hh.com/the-upgrading-tree/",
+        "customUrl": "https://yx.g8hh.com.cn/the-upgrading-tree/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -11956,7 +11992,7 @@
             "《原始树》是一款模拟起源的模组树游戏，这次作者采用的是全新的UI，看着逼格高了很多。"
         ],
         "enUrl": "https://jacorb90.me/Primordial-Tree/",
-        "customUrl": "https://yx.g8hh.com/primordial-tree",
+        "customUrl": "https://yx.g8hh.com.cn/primordial-tree",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/primordial-tree",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -12018,7 +12054,7 @@
         "content": [
             "《NG星系》是一款模拟太空战斗的放置游戏，和《FG骑士进度条》《异星工厂网页版》是同一个作者开发的。"
         ],
-        "customUrl": "https://yx.g8hh.com/nggalaxies",
+        "customUrl": "https://yx.g8hh.com.cn/nggalaxies",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/nggalaxies",
         "enUrl": "https://nggalaxies.freddecgames.com/",
@@ -12047,7 +12083,7 @@
         "content": [
             "《游戏跳跃》是一款模拟开发游戏的放置游戏，和《卡牌冒险》《稳定宝石放置》一样，用的同一个增量游戏开发模板开发的。"
         ],
-        "customUrl": "https://yx.g8hh.com/game-hop",
+        "customUrl": "https://yx.g8hh.com.cn/game-hop",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/game-hop",
         "enUrl": "https://ishadijcks.github.io/incremental-games-2020-jam/",
@@ -12112,7 +12148,7 @@
         ],
         "customUrl": "https://lgl017temp.github.io/fgpk/",
         "customUrlTit": "汉化版-大佬修复Bug版",
-        "customUrl2": "https://yx.g8hh.com/fgpk",
+        "customUrl2": "https://yx.g8hh.com.cn/fgpk",
         "customUrlTit2": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/fgpk",
         "QQ": "808405682",
@@ -12143,7 +12179,7 @@
             "《卡牌冒险》是一款卡牌类的回合制放置游戏，"
         ],
         "enUrl": "https://ishad.itch.io/card-quest",
-        "customUrl": "https://yx.g8hh.com/card-quest",
+        "customUrl": "https://yx.g8hh.com.cn/card-quest",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/card-quest",
         "oscUrl": "https://www.oschina.net/p/card-quest",
@@ -12175,7 +12211,7 @@
         "enUrl": "https://123ishatest.github.io/stable-jewels/",
         "customUrl": "https://g1tyx.github.io/stable-jewels",
         "customUrlTit": "备用地址-g8hh",
-        "zhUrl": "https://yx.g8hh.com/stable-jewels",
+        "zhUrl": "https://stable-jewels.g8hh.com.cn",
         "pic": [
             1,
             2,
@@ -12518,7 +12554,7 @@
             "《假发师》是一款模拟制作各种各样假发的放置游戏（程序员狂喜）。"
         ],
         "enUrl": "https://redgem.games/wigmaker/",
-        "customUrl": "https://yx.g8hh.com/wigmaker",
+        "customUrl": "https://yx.g8hh.com.cn/wigmaker",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/wigmaker",
         "oscUrl": "https://www.oschina.net/p/wigmaker",
@@ -12548,7 +12584,7 @@
             "《复制增量》又是一款受到《反物质维度》启发的放置游戏。"
         ],
         "enUrl": "https://mrredshark77.github.io/Replicanti-Incremental/",
-        "customUrl": "https://yx.g8hh.com/replicanti-incremental",
+        "customUrl": "https://yx.g8hh.com.cn/replicanti-incremental",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/replicanti-incremental",
         "oscUrl": "https://www.oschina.net/p/replicanti-incremental",
@@ -12578,7 +12614,7 @@
             "《炮兵突击》是一款回合制的战棋类游戏，在这个简单而优雅的回合制游戏中为统治而战！玩法类似于接水管，通过转换炮管方向，尽可能地占领领土。游戏有两种玩法，统治模式和抹杀模式。"
         ],
         "enUrl": "https://lomaz.itch.io/corruption-ii",
-        "customUrl": "https://yx.g8hh.com/corruption-ii",
+        "customUrl": "https://yx.g8hh.com.cn/corruption-ii",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/corruption-ii",
         "pic": [
@@ -12636,7 +12672,7 @@
             "《调色板放置》是一款模拟调色的放置游戏，调色板将两种颜色混合在一起制成一种新颜色。 颜色由其十六进制 RGB 代码表示。 混合时，结果颜色的每个数字都有 45% 的概率匹配任一父数字，外加 5% 的随机值概率。 调色板可以升级为每次混合最多输出 3 种颜色。 当您从颜色库中混合您未见过的颜色时，您将获得一个调色板点并解锁永久引用该颜色进行混合的能力。 匹配所有颜色 来通关游戏！"
         ],
         "enUrl": "https://rgblender.github.io/rgblender",
-        "customUrl": "https://yx.g8hh.com/rgblender",
+        "customUrl": "https://yx.g8hh.com.cn/rgblender",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/rgblender",
         "pic": [
@@ -12668,7 +12704,7 @@
             "《协同树》是一款作者受到《协同放置》启发，然后开发的模组树游戏。"
         ],
         "enUrl": "https://patfr.github.io/The-Synergism-Tree/",
-        "customUrl": "https://yx.g8hh.com/the-synergism-tree",
+        "customUrl": "https://yx.g8hh.com.cn/the-synergism-tree",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/the-synergism-tree",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -12701,7 +12737,7 @@
             "《数码矿工放置》是一款比特币挖矿的模拟经营放置游戏。"
         ],
         "enUrl": "https://magic.uber.space/coiner/",
-        "customUrl": "https://yx.g8hh.com/coiner",
+        "customUrl": "https://yx.g8hh.com.cn/coiner",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/coiner",
         "customUrlTit2": "备用地址-GitHub",
@@ -12765,7 +12801,7 @@
             "《元素增量》是一款围绕构建原子和分子而设计的增量游戏。 这个游戏的最终目标是让每个元素都达到 Oganesson（一种化学元素名称，新元素周期表118号）。"
         ],
         "zhUrl": "https://g8hh.github.io/elemental-incremental",
-        "customUrl": "https://yx.g8hh.com/elemental-incremental",
+        "customUrl": "https://yx.g8hh.com.cn/elemental-incremental",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -12822,7 +12858,7 @@
         "content": [
             "《弹珠突围放置》是又一款放置小球的消除类放置游戏。"
         ],
-        "customUrl": "https://yx.g8hh.com/idle-pinball-breakout",
+        "customUrl": "https://yx.g8hh.com.cn/idle-pinball-breakout",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/idle-pinball-breakout",
         "customUrlTit2": "备用地址-GitHub",
@@ -12859,7 +12895,7 @@
             "为了赢得胜利，你需要有数十亿的选民和思想在你的控制之下 安全。您可以使用顶部的进度条来衡量您的进度。 。"
         ],
         "enUrl": "http://deathraygames.com/play-online/conspiracy-clicker/",
-        "customUrl": "https://yx.g8hh.com/conspiracy-clicker",
+        "customUrl": "https://yx.g8hh.com.cn/conspiracy-clicker",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/conspiracy-clicker",
         "customUrlTit2": "备用地址-GitHub",
@@ -12920,7 +12956,7 @@
             "《公司树》是一款模拟公司的模组树类游戏。"
         ],
         "enUrl": "https://randomtuba.github.io/Tree-Inc/",
-        "customUrl": "https://yx.g8hh.com/tree-inc",
+        "customUrl": "https://yx.g8hh.com.cn/tree-inc",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/tree-inc",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -13026,7 +13062,7 @@
             "《机械装置》是一款科幻增量游戏，具有令人上瘾的机制和不断增长的内容。"
         ],
         "enUrl": "https://louigiverona.com/machinery/",
-        "customUrl": "https://yx.g8hh.com/machinery",
+        "customUrl": "https://yx.g8hh.com.cn/machinery",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/machinery",
         "customUrlTit2": "备用地址-GitHub",
@@ -13090,7 +13126,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/mfi-metro/alpha",
         "enUrl": "https://smmdesign.github.io/mfiMetro/",
-        "customUrl": "https://yx.g8hh.com/mfi-metro",
+        "customUrl": "https://yx.g8hh.com.cn/mfi-metro",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -13155,7 +13191,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/algebraic-progression",
         "enUrl": "https://randomtuba.github.io/Algebraic-Progression/",
-        "customUrl": "https://yx.g8hh.com/algebraic-progression",
+        "customUrl": "https://yx.g8hh.com.cn/algebraic-progression",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -13219,7 +13255,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/pop-it-idle",
         "enUrl": "https://www.crazygames.com/game/pop-it-idle",
-        "customUrl": "https://yx.g8hh.com/pop-it-idle",
+        "customUrl": "https://yx.g8hh.com.cn/pop-it-idle",
         "pic": [
             1,
             2,
@@ -13280,7 +13316,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/underworld-idle",
         "enUrl": "https://echa.itch.io/underworld-idle",
-        "customUrl": "https://yx.g8hh.com/underworld-idle",
+        "customUrl": "https://yx.g8hh.com.cn/underworld-idle",
         "customUrlTit": "备用地址-g8hh",
         "steamUrl": "https://store.steampowered.com/app/1540960/Underworld_Idle/",
         "pic": [
@@ -13311,7 +13347,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/idle-job-market",
         "enUrl": "https://swingshock.itch.io/idle-job-market",
-        "customUrl": "https://yx.g8hh.com/idle-job-market",
+        "customUrl": "https://yx.g8hh.com.cn/idle-job-market",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -13377,7 +13413,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/galaxy-trader",
         "enUrl": "https://idle-js-games.github.io/GalaxyTrader/",
-        "customUrl": "https://yx.g8hh.com/galaxy-trader",
+        "customUrl": "https://yx.g8hh.com.cn/galaxy-trader",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -13438,7 +13474,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/universe-time",
         "enUrl": "https://mrredshark77.github.io/Universe-Time/",
-        "customUrl": "https://yx.g8hh.com/universe-time",
+        "customUrl": "https://yx.g8hh.com.cn/universe-time",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -13470,7 +13506,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/existence-simulator",
         "enUrl": "https://jelworks.itch.io/existence-simulator",
-        "customUrl": "https://yx.g8hh.com/existence-simulator",
+        "customUrl": "https://yx.g8hh.com.cn/existence-simulator",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -13508,7 +13544,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/stonk-idle",
         "enUrl": "https://timtimtstuff.itch.io/idlestonks",
-        "customUrl": "https://yx.g8hh.com/stonk-idle",
+        "customUrl": "https://yx.g8hh.com.cn/stonk-idle",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -13643,7 +13679,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/vampire-survivors",
         "enUrl": "https://poncle.itch.io/vampire-survivors",
-        "customUrl": "https://yx.g8hh.com/vampire-survivors",
+        "customUrl": "https://yx.g8hh.com.cn/vampire-survivors",
         "customUrlTit": "备用地址-g8hh",
         "steamUrl": "https://store.steampowered.com/app/259680/Tales_of_MajEyal/",
         "pic": [
@@ -13709,7 +13745,7 @@
             "《新年树》是群里的 @QwQ(放假ing) 大佬花费了13个小时，赶在春节时候做出来的树，迫不及待的想给大家玩玩~"
         ],
         "zhUrl": "https://qwqe308.github.io/Happy-Lunar-New-Year-Tree/",
-        "customUrl": "https://yx.g8hh.com/happy-lunar-new-year-tree",
+        "customUrl": "https://yx.g8hh.com.cn/happy-lunar-new-year-tree",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/happy-lunar-new-year-tree",
         "customUrlTit2": "备用地址-GitHub",
@@ -13783,7 +13819,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/tower-builder",
         "enUrl": "https://www.scienceathome.org/games/tower-builder/play-tower-builder-v2/",
-        "customUrl": "https://yx.g8hh.com/tower-builder",
+        "customUrl": "https://yx.g8hh.com.cn/tower-builder",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -13813,7 +13849,7 @@
             "《自动化工厂》是一款工厂类的放置游戏。"
         ],
         "enUrl": "https://jacorb90.me/The-Factory-Of-Automation/",
-        "customUrl": "https://yx.g8hh.com/the-factory-of-automation",
+        "customUrl": "https://yx.g8hh.com.cn/the-factory-of-automation",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/the-factory-of-automation",
         "customUrlTit2": "备用地址-GitHub",
@@ -13846,7 +13882,7 @@
             "《文物发掘放置》是一款模拟考古的放置游戏，内容不算多。"
         ],
         "enUrl": "https://bearhanded.github.io/relics/",
-        "customUrl": "https://yx.g8hh.com/relics",
+        "customUrl": "https://yx.g8hh.com.cn/relics",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/relics",
         "customUrlTit2": "备用地址-GitHub",
@@ -13877,7 +13913,7 @@
             ""
         ],
         "enUrl": "https://veprogames.github.io/yet-another-merge-game/",
-        "customUrl": "https://yx.g8hh.com/yet-another-merge-game",
+        "customUrl": "https://yx.g8hh.com.cn/yet-another-merge-game",
         "customUrlTit": "最新版",
         "customUrl2": "https://g8hh.github.io/yet-another-merge-game",
         "customUrlTit2": "备用地址-GitHub",
@@ -13907,7 +13943,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/clone-armies-clicker",
         "enUrl": "https://clonebloons.github.io/CloneArmiesClicker/",
-        "customUrl": "https://yx.g8hh.com/clone-armies-clicker",
+        "customUrl": "https://yx.g8hh.com.cn/clone-armies-clicker",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -13967,7 +14003,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-burning-tree",
         "enUrl": "https://thefinaluptake.github.io/The-Burning-Tree/",
-        "customUrl": "https://yx.g8hh.com/the-burning-tree",
+        "customUrl": "https://yx.g8hh.com.cn/the-burning-tree",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -14037,7 +14073,7 @@
         ],
         "kUrl": "https://www.kongregate.com/games/muhammad0MG/royal-dice-idle?sfa=permalink&referrer=SunshineDad",
         "zhUrl": "https://g8hh.github.io/royal-dice-idle",
-        "customUrl": "https://yx.g8hh.com/royal-dice-idle",
+        "customUrl": "https://yx.g8hh.com.cn/royal-dice-idle",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -14069,7 +14105,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/christmas-special",
         "enUrl": "https://raw.githack.com/Dystopia-user181/The-Modding-Tree/Christmas-Special/index.html",
-        "customUrl": "https://yx.g8hh.com/christmas-special",
+        "customUrl": "https://yx.g8hh.com.cn/christmas-special",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -14135,7 +14171,7 @@
         "zhUrl": "https://g8hh.github.io/the-quark-tree",
         "customUrl": "https://shenmi124.github.io/The-Quark-Tree/",
         "customUrlTit": "原版-Github",
-        "customUrl2": "https://yx.g8hh.com/the-quark-tree",
+        "customUrl2": "https://yx.g8hh.com.cn/the-quark-tree",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl4": "https://yhvr.me/pt/mods.html",
         "customUrlTit4": "其它树游戏集合",
@@ -14265,7 +14301,7 @@
         "zhUrl": "https://g8hh.github.io/the-christmas-tree",
         "customUrl": "http://christmas-tree-nolight.glitch.me/",
         "customUrlTit": "原版-Github",
-        "customUrl2": "https://yx.g8hh.com/the-christmas-tree",
+        "customUrl2": "https://yx.g8hh.com.cn/the-christmas-tree",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl4": "https://yhvr.me/pt/mods.html",
         "customUrlTit4": "其它树游戏集合",
@@ -14297,7 +14333,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/santadrop",
         "enUrl": "https://santadrop.co.uk/",
-        "customUrl": "https://yx.g8hh.com/santadrop",
+        "customUrl": "https://yx.g8hh.com.cn/santadrop",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -14331,7 +14367,7 @@
         "zhUrl": "https://g8hh.github.io/the-sacrifice-tree",
         "customUrl": "https://shenmi124.github.io/The-Sacrifice-Tree/",
         "customUrlTit": "原版-Github",
-        "customUrl2": "https://yx.g8hh.com/the-sacrifice-tree",
+        "customUrl2": "https://yx.g8hh.com.cn/the-sacrifice-tree",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl4": "https://yhvr.me/pt/mods.html",
         "customUrlTit4": "其它树游戏集合",
@@ -14365,7 +14401,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/material-warrior",
         "enUrl": "http://gamehelp16.github.io/material-warrior/",
-        "customUrl": "https://yx.g8hh.com/material-warrior",
+        "customUrl": "https://yx.g8hh.com.cn/material-warrior",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -14426,7 +14462,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-tree-of-vote",
         "enUrl": "https://ajchen02.github.io/The-Tree-of-Vote/",
-        "customUrl": "https://yx.g8hh.com/the-tree-of-vote",
+        "customUrl": "https://yx.g8hh.com.cn/the-tree-of-vote",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -14558,7 +14594,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/monster-breeder",
         "enUrl": "http://www.monsterbreeder.com/",
-        "customUrl": "https://yx.g8hh.com/monster-breeder",
+        "customUrl": "https://yx.g8hh.com.cn/monster-breeder",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -14705,7 +14741,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/stat-stealer",
         "enUrl": "https://www.crazygames.com/game/stat-stealer",
-        "customUrl": "https://yx.g8hh.com/stat-stealer",
+        "customUrl": "https://yx.g8hh.com.cn/stat-stealer",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -14778,7 +14814,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/idle-miner",
         "enUrl": "https://www.crazygames.com/game/idle-miner",
-        "customUrl": "https://yx.g8hh.com/idle-miner",
+        "customUrl": "https://yx.g8hh.com.cn/idle-miner",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -14809,7 +14845,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/moth-idle",
         "enUrl": "https://www.crazygames.com/game/moth-idle",
-        "customUrl": "https://yx.g8hh.com/moth-idle",
+        "customUrl": "https://yx.g8hh.com.cn/moth-idle",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -14901,7 +14937,7 @@
             "还有很多声望升级。 当你有足够的钱时，你会得到金块，花它们来加速你的进度！"
         ],
         "zhUrl": "https://g8hh.github.io/tower-merge",
-        "customUrl": "https://yx.g8hh.com/tower-merge",
+        "customUrl": "https://yx.g8hh.com.cn/tower-merge",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://www.crazygames.com/game/tower-merge",
         "pic": [
@@ -14965,7 +15001,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/play-dot-to",
         "enUrl": "https://play-dot-to.com/",
-        "customUrl": "https://yx.g8hh.com/play-dot-to",
+        "customUrl": "https://yx.g8hh.com.cn/play-dot-to",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -14996,7 +15032,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/inflayers",
         "enUrl": "https://cook1eegames.feedia.co/inflayers/",
-        "customUrl": "https://yx.g8hh.com/inflayers",
+        "customUrl": "https://yx.g8hh.com.cn/inflayers",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -15063,7 +15099,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/binary-sudoku",
         "enUrl": "https://0hh1.com/",
-        "customUrl": "https://yx.g8hh.com/binary-sudoku",
+        "customUrl": "https://yx.g8hh.com.cn/binary-sudoku",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -15094,7 +15130,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/a-mazing-idle",
         "enUrl": "https://imgreghenry.github.io/A-Mazing-Idle/",
-        "customUrl": "https://yx.g8hh.com/a-mazing-idle",
+        "customUrl": "https://yx.g8hh.com.cn/a-mazing-idle",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -15124,7 +15160,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/synesthesia",
         "enUrl": "http://synesthesiagame.com/game/",
-        "customUrl": "https://yx.g8hh.com/synesthesia",
+        "customUrl": "https://yx.g8hh.com.cn/synesthesia",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -15211,7 +15247,7 @@
             "手机玩的话，上下左右需要手指来滑动操作。"
         ],
         "zhUrl": "https://g8hh.github.io/greedy-snake",
-        "customUrl": "https://yx.g8hh.com/greedy-snake",
+        "customUrl": "https://yx.g8hh.com.cn/greedy-snake",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -15266,7 +15302,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-electric-tree",
         "enUrl": "https://mathnerdfromfrance.github.io/the-electric-tree/",
-        "customUrl": "https://yx.g8hh.com/the-electric-tree",
+        "customUrl": "https://yx.g8hh.com.cn/the-electric-tree",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -15302,7 +15338,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-collectors-tree",
         "enUrl": "https://abitoftetration.github.io/The-Collectors-Tree/",
-        "customUrl": "https://yx.g8hh.com/the-collectors-tree",
+        "customUrl": "https://yx.g8hh.com.cn/the-collectors-tree",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -15473,7 +15509,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/universe-shrinker",
         "enUrl": "https://veprogames.github.io/universe-shrinker/",
-        "customUrl": "https://yx.g8hh.com/universe-shrinker",
+        "customUrl": "https://yx.g8hh.com.cn/universe-shrinker",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -15501,7 +15537,7 @@
         ],
         "customUrl": "https://qwqe308.github.io/Blackhole-Dimensions--New-Era/",
         "customUrlTit": "开始游戏",
-        "customUrl3": "https://yx.g8hh.com/blackhole-dimensions--new-era",
+        "customUrl3": "https://yx.g8hh.com.cn/blackhole-dimensions--new-era",
         "customUrlTit3": "备用地址-g8hh",
         "customUrl4": "https://g8hh.github.io/blackhole-dimensions--new-era",
         "customUrlTit4": "备用地址-GitHub",
@@ -15537,7 +15573,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-prestige-rectangle",
         "enUrl": "https://gapples2.github.io/The-Prestige-Rectangle/",
-        "customUrl": "https://yx.g8hh.com/the-prestige-rectangle",
+        "customUrl": "https://yx.g8hh.com.cn/the-prestige-rectangle",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -15573,7 +15609,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/incremental-wall",
         "enUrl": "https://geogolf.github.io/Incremental-Wall/",
-        "customUrl": "https://yx.g8hh.com/incremental-wall",
+        "customUrl": "https://yx.g8hh.com.cn/incremental-wall",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -15668,7 +15704,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-null-tree",
         "enUrl": "https://vgakbzc.github.io/tnt/",
-        "customUrl": "https://yx.g8hh.com/the-null-tree",
+        "customUrl": "https://yx.g8hh.com.cn/the-null-tree",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -15744,7 +15780,7 @@
         "zhUrl": "https://g8hh.github.io/factory-missions",
         "enUrl": "https://missions.factoryidle.com/",
         "kUrl": "https://www.kongregate.com/games/Baldurans/factory-missions?sfa=permalink&referrer=SunshineDad",
-        "customUrl": "https://yx.g8hh.com/factory-missions",
+        "customUrl": "https://yx.g8hh.com.cn/factory-missions",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -15777,7 +15813,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/td-tree",
         "enUrl": "https://adsaf123.github.io/TDtree/",
-        "customUrl": "https://yx.g8hh.com/td-tree",
+        "customUrl": "https://yx.g8hh.com.cn/td-tree",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -15814,7 +15850,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/incrementalist",
         "enUrl": "https://geogolf.github.io/Incrementalist/",
-        "customUrl": "https://yx.g8hh.com/incrementalist",
+        "customUrl": "https://yx.g8hh.com.cn/incrementalist",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -15853,7 +15889,7 @@
         "zhUrl": "http://g8hh.github.io/idle-factory",
         "enUrl": "http://factoryidle.com/",
         "kUrl": "https://www.kongregate.com/games/Baldurans/factory-idle?sfa=permalink&referrer=SunshineDad",
-        "customUrl": "https://yx.g8hh.com/idle-factory/",
+        "customUrl": "https://yx.g8hh.com.cn/idle-factory/",
         "customUrlTit": "备用地址-g8hh",
         "oscUrl": "https://www.oschina.net/p/idle-factory",
         "pic": [
@@ -15886,7 +15922,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-color-tree",
         "enUrl": "https://mrredshark77.github.io/the-color-tree/",
-        "customUrl": "https://yx.g8hh.com/the-color-tree",
+        "customUrl": "https://yx.g8hh.com.cn/the-color-tree",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -15959,7 +15995,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/tree-quest/",
         "enUrl": "https://iemory.github.io/TreeQuest/",
-        "customUrl": "https://yx.g8hh.com/tree-quest",
+        "customUrl": "https://yx.g8hh.com.cn/tree-quest",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -16060,7 +16096,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/pixels-filling-squares-dx",
         "kUrl": "https://www.kongregate.com/games/Moczan/pixels-filling-squares-dx?sfa=permalink&referrer=SunshineDad",
-        "customUrl": "https://yx.g8hh.com/pixels-filling-squares-dx",
+        "customUrl": "https://yx.g8hh.com.cn/pixels-filling-squares-dx",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -16221,7 +16257,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/productive-data",
         "enUrl": "https://aarextiaokhiao.github.io/Productive-Data/",
-        "customUrl": "https://yx.g8hh.com/productive-data",
+        "customUrl": "https://yx.g8hh.com.cn/productive-data",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -16251,7 +16287,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/unpuzzle-x-remake",
         "enUrl": "https://geogolf.github.io/UnpuzzleX-Remake/",
-        "customUrl": "https://yx.g8hh.com/unpuzzle-x-remake",
+        "customUrl": "https://yx.g8hh.com.cn/unpuzzle-x-remake",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -16461,7 +16497,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-treemental",
         "enUrl": "https://mrredshark77.github.io/The-Treemental/",
-        "customUrl": "https://yx.g8hh.com/the-treemental",
+        "customUrl": "https://yx.g8hh.com.cn/the-treemental",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -16812,7 +16848,7 @@
         ],
         "zhUrl": "https://qwqe308.github.io/Rapture-30/",
         "enUrl": "https://rngeezus1.github.io/Rapture-30/",
-        "customUrl2": "https://yx.g8hh.com/rapture-30",
+        "customUrl2": "https://yx.g8hh.com.cn/rapture-30",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl3": "https://g8hh.github.io/rapture-30",
         "customUrlTit3": "备用地址-GitHub",
@@ -16879,7 +16915,7 @@
         "enUrl": "https://jacorb90.me/The-Formula/",
         "customUrl": "https://qwqe308.github.io/The-Formula/",
         "customUrlTit": "qwqe308汉化版-Github",
-        "customUrl3": "https://yx.g8hh.com/the-formula",
+        "customUrl3": "https://yx.g8hh.com.cn/the-formula",
         "customUrlTit3": "备用地址-g8hh",
         "customUrl4": "https://g8hh.github.io/the-formula",
         "customUrlTit4": "备用地址-GitHub",
@@ -16948,7 +16984,7 @@
             "《砍魔法树放置》是一款关于砍魔法树的有趣的增量放置游戏。"
         ],
         "zhUrl": "https://g8hh.github.io/magic-chop-idle",
-        "customUrl": "https://yx.g8hh.com/magic-chop-idle",
+        "customUrl": "https://yx.g8hh.com.cn/magic-chop-idle",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -17099,7 +17135,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/xxxy",
         "enUrl": "https://sshulin.itch.io/xxxy",
-        "customUrl": "https://yx.g8hh.com/xxxy",
+        "customUrl": "https://yx.g8hh.com.cn/xxxy",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -17134,7 +17170,7 @@
             "亡灵法师刚刚输掉了这场大战，他准备重建自己的军队，并以自己的方式重新登上顶峰。在这个过程中，他找到了他的良心，并改变了他的生活方式，成为一个正义的巫师与他的意愿死亡。"
         ],
         "enUrl": "https://spiritdungeons.com/legacy",
-        "customUrl": "https://yx.g8hh.com/soul-not-found",
+        "customUrl": "https://yx.g8hh.com.cn/soul-not-found",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/soul-not-found",
         "pic": [
@@ -17169,7 +17205,7 @@
         "customUrlTit": "原版",
         "customUrl2": "https://g8hh.github.io/True-Math-Tree/",
         "customUrlTit2": "锅巴搬运版",
-        "customUrl3": "https://yx.g8hh.com/true-math-tree",
+        "customUrl3": "https://yx.g8hh.com.cn/true-math-tree",
         "customUrlTit3": "备用地址-g8hh",
         "customUrl5": "https://yhvr.me/pt/mods.html",
         "customUrlTit5": "其它树游戏集合",
@@ -17204,7 +17240,7 @@
             "《公式升级放置》是一款升级数学公式的游戏。 达到最高数字，升级您的变量，玩得开心！ 您可以通过声望获得更多指数。 共有30栋建筑。"
         ],
         "zhUrl": "https://g8hh.github.io/formula-upgrade-idle",
-        "customUrl": "https://yx.g8hh.com/formula-upgrade-idle",
+        "customUrl": "https://yx.g8hh.com.cn/formula-upgrade-idle",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -17369,7 +17405,7 @@
             "斐波那契点击是一个超级简单的点击游戏，您的工作是创建最大的斐波那契数列。"
         ],
         "zhUrl": "https://g8hh.github.io/fibonacci-clicker",
-        "customUrl": "https://yx.g8hh.com/fibonacci-clicker",
+        "customUrl": "https://yx.g8hh.com.cn/fibonacci-clicker",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -17403,7 +17439,7 @@
             "基于某个流行的维京生存游戏的增量游戏。"
         ],
         "zhUrl": "https://g8hh.github.io/vikincremental",
-        "customUrl": "https://yx.g8hh.com/vikincremental",
+        "customUrl": "https://yx.g8hh.com.cn/vikincremental",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -17438,7 +17474,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-balanced-game/",
         "enUrl": "https://mrredshark77.github.io/The-Balanced-Game/",
-        "customUrl": "https://yx.g8hh.com/the-balanced-game/",
+        "customUrl": "https://yx.g8hh.com.cn/the-balanced-game/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -17608,7 +17644,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/Escape-from-Vantablack/",
         "enUrl": "https://jacorb90.me/Escape-from-Vantablack/",
-        "customUrl": "https://yx.g8hh.com/escape-from-vantablack",
+        "customUrl": "https://yx.g8hh.com.cn/escape-from-vantablack",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -17709,7 +17745,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/Incremenergy/",
         "enUrl": "https://jacorb90.me/Incremenergy/",
-        "customUrl": "https://yx.g8hh.com/Incremenergy/",
+        "customUrl": "https://yx.g8hh.com.cn/Incremenergy/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -17759,11 +17795,11 @@
             "X 导出地图字符串（复制到剪贴板）",
             "Z 返回默认缩放级别（将重置游戏！）"
         ],
-        "zhUrl": "https://yx.g8hh.com/towerdefense",
+        "zhUrl": "https://yx.g8hh.com.cn/towerdefense",
         "enUrl": "https://rsaihe.github.io/towerdefense/",
         "customUrl": "https://g8hh.github.io/towerdefense/",
         "customUrlTit": "备用地址-GitHub",
-        "customUrl2": "https://yx.g8hh.com/td-editor",
+        "customUrl2": "https://yx.g8hh.com.cn/td-editor",
         "customUrlTit2": "地图编辑器",
         "pic": [
             1,
@@ -17951,7 +17987,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-factioree/",
         "enUrl": "https://dystopia-user181.github.io/The-Modding-Tree/",
-        "customUrl": "https://yx.g8hh.com/the-factioree",
+        "customUrl": "https://yx.g8hh.com.cn/the-factioree",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -18029,7 +18065,7 @@
             "注意：游戏自动保存功能似乎有问题，​刷新会丢档！！需要自己随时导出复制备份一下~"
         ],
         "zhUrl": "https://g1tyx.github.io/burgomaster-1255",
-        "customUrl": "https://yx.g8hh.com/burgomaster-1255",
+        "customUrl": "https://yx.g8hh.com.cn/burgomaster-1255",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://cosmodream.ga/1255-burgomaster/",
         "pic": [
@@ -18060,7 +18096,7 @@
         "content": [
             "喜欢数学的人的增量游戏，玩得开心 :D"
         ],
-        "zhUrl": "https://yx.g8hh.com/formula-and-timing",
+        "zhUrl": "https://yx.g8hh.com.cn/formula-and-timing",
         "enUrl": "https://spotky1004.github.io/Formula-and-Timing/",
         "pic": [
             1,
@@ -18092,7 +18128,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/lit",
         "enUrl": "https://www.thepaperpilot.org/lit/",
-        "customUrl": "https://yx.g8hh.com/lit",
+        "customUrl": "https://yx.g8hh.com.cn/lit",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -18128,7 +18164,7 @@
             "一款科技向的放置游戏，我是一脸懵逼，K酱倒是玩得津津有味，大家试试看。"
         ],
         "zhUrl": "https://g1tyx.github.io/optical-illum",
-        "customUrl": "https://yx.g8hh.com/optical-illum",
+        "customUrl": "https://yx.g8hh.com.cn/optical-illum",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://liniarc.itch.io/optical-illum",
         "pic": [
@@ -18161,7 +18197,7 @@
             "一款模拟城市电力供应的放置游戏。"
         ],
         "zhUrl": "https://g1tyx.github.io/keep-the-lights-on",
-        "customUrl": "https://yx.g8hh.com/keep-the-lights-on",
+        "customUrl": "https://yx.g8hh.com.cn/keep-the-lights-on",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://katzenbar.itch.io/keep-the-lights-on",
         "pic": [
@@ -18230,7 +18266,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/idol",
         "enUrl": "https://nyanpals.com/idol/",
-        "customUrl": "https://yx.g8hh.com/idol",
+        "customUrl": "https://yx.g8hh.com.cn/idol",
         "customUrlTit": "最新版",
         "pic": [
             1,
@@ -18260,7 +18296,7 @@
             "一个有关升级并找出更多实现方法的游戏。该游戏需要很多放置时间，但可以通过了解游戏来加快速度。要解锁您的第一个放置选项，请在解锁“睡眠”后放置。"
         ],
         "zhUrl": "https://g8hh.github.io/all-the-levels/",
-        "customUrl": "https://yx.g8hh.com/all-the-levels",
+        "customUrl": "https://yx.g8hh.com.cn/all-the-levels",
         "customUrlTit": "最新版",
         "kUrl": "https://www.kongregate.com/games/lom1222/all-the-levels?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -18293,7 +18329,7 @@
         "content": [
             "又一款声望树的Mod游戏。"
         ],
-        "zhUrl": "https://yx.g8hh.com/the-game-dev-tree",
+        "zhUrl": "https://yx.g8hh.com.cn/the-game-dev-tree",
         "enUrl": "https://www.thepaperpilot.org/gamedevtree/",
         "customUrl2": "https://yhvr.me/pt/mods.html",
         "customUrlTit2": "其它树游戏集合",
@@ -18327,7 +18363,7 @@
             "光速已中断，您必须对其进行修复。 购买可修复光速的升级。 您将能够再次打破光速以获得额外的奖励，最终您甚至可以提高它！"
         ],
         "zhUrl": "https://g1tyx.github.io/light-speed",
-        "customUrl": "https://yx.g8hh.com/light-speed",
+        "customUrl": "https://yx.g8hh.com.cn/light-speed",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://eyewars.itch.io/light-speed",
         "pic": [
@@ -18358,7 +18394,7 @@
             "一款关于使用光产生更多光的增量放置游戏。"
         ],
         "zhUrl": "https://g1tyx.github.io/oscillight",
-        "customUrl": "https://yx.g8hh.com/oscillight",
+        "customUrl": "https://yx.g8hh.com.cn/oscillight",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://buck4437.itch.io/oscillight",
         "pic": [
@@ -18421,7 +18457,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/version-control/",
         "enUrl": "https://semenar.itch.io/version-control",
-        "customUrl": "https://yx.g8hh.com/version-control",
+        "customUrl": "https://yx.g8hh.com.cn/version-control",
         "customUrlTit": "最新版",
         "pic": [
             1,
@@ -18484,7 +18520,7 @@
             "模拟股市交易，低买高卖，同时调节市场以便对你有利。",
             "游戏仅供娱乐，现实生活中请勿轻易尝试。"
         ],
-        "zhUrl": "https://yx.g8hh.com/stock-market-simulator/",
+        "zhUrl": "https://yx.g8hh.com.cn/stock-market-simulator/",
         "kUrl": "https://www.kongregate.com/games/absolutel/stock-market-simulator?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -18520,7 +18556,7 @@
             "因为汉化会导致字体不显示的问题，所以就不汉化了。游戏单词很简单，可以轻松上手。",
             "似乎有安卓版，可以从设置里的链接，去Google Play下载。"
         ],
-        "zhUrl": "https://yx.g8hh.com/idle-heroes-2048",
+        "zhUrl": "https://yx.g8hh.com.cn/idle-heroes-2048",
         "kUrl": "https://www.kongregate.com/games/the_getsuga/2048-idle-heroes?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -18628,7 +18664,7 @@
             "因为有网页体验版，所以锅巴搬运过来给大家玩~",
             "可能有图片遗漏的情况，如果发现了，请F12打开控制台，把缺失图片的链接复制了发给锅巴补图哈~"
         ],
-        "customUrl": "https://yx.g8hh.com/sim-pocalypse/",
+        "customUrl": "https://yx.g8hh.com.cn/sim-pocalypse/",
         "customUrlTit": "网页中文版",
         "steamUrl": "https://store.steampowered.com/app/1351500/SimPocalypse/",
         "QQ": "816462152",
@@ -18731,7 +18767,7 @@
             "一款各种图形为主的放置游戏。"
         ],
         "zhUrl": "https://g1tyx.github.io/transcend/game.html",
-        "customUrl": "https://yx.g8hh.com/transcend/game.html",
+        "customUrl": "https://yx.g8hh.com.cn/transcend/game.html",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://www.taylorcalderone.com/transcendGame/game.html",
         "pic": [
@@ -18809,7 +18845,7 @@
             "蹭下2022世界杯的热度，翻新一下~",
             "《欧米伽层级》作者的新作，还在更新中~"
         ],
-        "customUrl2": "https://yx.g8hh.com/veprogames/idle-football-manager/",
+        "customUrl2": "https://yx.g8hh.com.cn/veprogames/idle-football-manager/",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/veprogames/idle-football-manager/",
         "enUrl": "https://veprogames.github.io/idle-football-manager/",
@@ -18845,7 +18881,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/fission-simulator",
+        "zhUrl": "https://yx.g8hh.com.cn/fission-simulator",
         "pic": [
             1,
             2,
@@ -18906,7 +18942,7 @@
         "content": [
             "一款文字类型的RPG放置游戏。"
         ],
-        "zhUrl": "https://yx.g8hh.com/idleslime-text/",
+        "zhUrl": "https://yx.g8hh.com.cn/idleslime-text/",
         "kUrl": "https://www.kongregate.com/games/kbvpneofit/idleslime-text?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -18972,7 +19008,7 @@
         "content": [
             "《放置矿工：重制版》是一款关于挖掘不同矿物的点击放置游戏。这款游戏的灵感来自Crovie的Idle Mine。"
         ],
-        "zhUrl": "https://yx.g8hh.com/idle-mine-remix/",
+        "zhUrl": "https://yx.g8hh.com.cn/idle-mine-remix/",
         "enUrl": "https://www.crazygames.com/game/idle-mine-remix",
         "pic": [
             1,
@@ -19157,7 +19193,7 @@
         "content": [
             "游戏内的行为，切勿在现实生活中模仿哦~"
         ],
-        "zhUrl": "https://yx.g8hh.com/idle-mobster",
+        "zhUrl": "https://yx.g8hh.com.cn/idle-mobster",
         "enUrl": "https://kek91.itch.io/idle-mobster",
         "pic": [
             1,
@@ -19188,7 +19224,7 @@
         "content": [
             "这是一个关于生产，魔法的放置游戏！"
         ],
-        "zhUrl": "https://yx.g8hh.com/production-mastery-teaser",
+        "zhUrl": "https://yx.g8hh.com.cn/production-mastery-teaser",
         "kUrl": "https://www.kongregate.com/games/nerderror/production-mastery-teaser?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -19264,7 +19300,7 @@
         "content": [
             "之前发布过《GTA放置2》，似乎后面有问题。最近认真玩了下一代，感觉这个没啥问题。"
         ],
-        "zhUrl": "https://yx.g8hh.com/idle-five/",
+        "zhUrl": "https://yx.g8hh.com.cn/idle-five/",
         "enUrl": "https://goldenlys.github.io/IdleFive/",
         "pic": [
             1,
@@ -19334,7 +19370,7 @@
             "又一个内容丰富的增量游戏。"
         ],
         "zhUrl": "https://g1tyx.github.io/calculator-evolution",
-        "customUrl": "https://yx.g8hh.com/calculator-evolution",
+        "customUrl": "https://yx.g8hh.com.cn/calculator-evolution",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://spotky1004.github.io/Calculator-Evolution/",
         "pic": [
@@ -19421,7 +19457,7 @@
         "content": [
             "以字母为主题的放置游戏。肝爆了。"
         ],
-        "customUrl2": "https://yx.g8hh.com/azinc",
+        "customUrl2": "https://yx.g8hh.com.cn/azinc",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/azinc",
         "enUrl": "https://xecutor.github.io/azinc/",
@@ -19491,7 +19527,7 @@
             "球多掉下去一层，就多得一次钱~"
         ],
         "enUrl": "https://lomaz.itch.io/idle-plinko",
-        "customUrl": "https://yx.g8hh.com/plinko-idle",
+        "customUrl": "https://yx.g8hh.com.cn/plinko-idle",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/plinko-idle",
         "customUrlTit2": "备用地址-GitHub",
@@ -19522,7 +19558,7 @@
         "content": [
             "从光子到原子，从虚无到宇宙~"
         ],
-        "customUrl2": "https://yx.g8hh.com/genesis",
+        "customUrl2": "https://yx.g8hh.com.cn/genesis",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/genesis",
         "pic": [
@@ -19549,7 +19585,7 @@
         "content": [
             "简单的玩法，丰富的趣味~"
         ],
-        "customUrl2": "https://yx.g8hh.com/dinosaur-run",
+        "customUrl2": "https://yx.g8hh.com.cn/dinosaur-run",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/dinosaur-run",
         "customUrlTit": "开始游戏",
@@ -19611,7 +19647,7 @@
             "很有意思的合并、升级类放置游戏，带有转生系统。"
         ],
         "zhUrl": "https://g8hh.github.io/incremental-merge",
-        "customUrl": "https://yx.g8hh.com/incremental-merge",
+        "customUrl": "https://yx.g8hh.com.cn/incremental-merge",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://mrredshark77.github.io/incremental-merge/",
         "pic": [
@@ -19674,7 +19710,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/incremental-blocks",
+        "zhUrl": "https://yx.g8hh.com.cn/incremental-blocks",
         "enUrl": "https://spotky1004.github.io/Incremental-Blocks/",
         "pic": [
             1,
@@ -19703,7 +19739,7 @@
         "zhUrl": "https://gityxs.github.io/black-hole-shrinker/",
         "enUrl": "https://spotky1004.github.io/Black-Hole-Shrinker/",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://yx.g8hh.com/black-hole-shrinker/",
+        "customUrl2": "https://yx.g8hh.com.cn/black-hole-shrinker/",
         "pic": [
             1,
             2
@@ -19819,7 +19855,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/energy-generator",
         "enUrl": "https://eyewars.github.io/Energy-Generator/",
-        "customUrl": "https://yx.g8hh.com/energy-generator",
+        "customUrl": "https://yx.g8hh.com.cn/energy-generator",
         "customUrlTit": "备用地址-g8hh",
         "kUrl": "https://www.kongregate.com/games/eyewars/test?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -19874,7 +19910,7 @@
             ""
         ],
         "zhUrl": "https://g1tyx.github.io/groundhog-life/",
-        "customUrl": "https://yx.g8hh.com/groundhog-life",
+        "customUrl": "https://yx.g8hh.com.cn/groundhog-life",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://mogron.itch.io/groundhog-life",
         "kUrl": "https://www.kongregate.com/games/egosummo/groundhog-life?sfa=permalink&referrer=SunshineDad",
@@ -19960,7 +19996,7 @@
         ],
         "zhUrl": "https://g8hh.github.com/distance-incremental/main.html",
         "enUrl": "https://jacorb90.github.io/DistInc.github.io/main.html",
-        "customUrl": "https://yx.g8hh.com/distance-incremental/main.html",
+        "customUrl": "https://yx.g8hh.com.cn/distance-incremental/main.html",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -19989,7 +20025,7 @@
             "有群友说无法存档？好像是因为游戏用了K站的云存储。。"
         ],
         "zhUrl": "https://g1tyx.github.io/idle-accelerator",
-        "customUrl": "https://yx.g8hh.com/idle-accelerator",
+        "customUrl": "https://yx.g8hh.com.cn/idle-accelerator",
         "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/Arkshija/idle-accelerator?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -20052,7 +20088,7 @@
             "感谢 @by22dgb 大佬帮忙汉化。"
         ],
         "zhUrl": "https://gltyx.github.io/time-layers",
-        "customUrl": "https://yx.g8hh.com/time-layers",
+        "customUrl": "https://yx.g8hh.com.cn/time-layers",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://patcailmemer.github.io/Time-Layers/",
         "pic": [
@@ -20138,7 +20174,7 @@
             "游戏期间可能会随时更新汉化，所以没事就导出存档备份下~",
             "然后刷新页面~"
         ],
-        "zhUrl": "https://yx.g8hh.com/idle-raiders-second-run/index.html",
+        "zhUrl": "https://yx.g8hh.com.cn/idle-raiders-second-run/index.html",
         "kUrl": "https://www.kongregate.com/games/romeolord/conquere-the-world?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -20169,7 +20205,7 @@
         "content": [
             "游戏玩法是买车、参加比赛赚钱、用钱买车库、升级车辆、购买更好的车，最后达成60个成就，达到人生巅峰！"
         ],
-        "customUrl": "https://yx.g8hh.com/idle-racing",
+        "customUrl": "https://yx.g8hh.com.cn/idle-racing",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gityxs.github.io/idle-racing/",
         "enUrl": "https://idleracing.netlify.app/",
@@ -20410,7 +20446,7 @@
         "content": [
             "一款渐进式增量游戏，您可以开始喝咖啡，并通过游戏解锁更多元素。"
         ],
-        "zhUrl": "https://yx.g8hh.com/coffee-drinker",
+        "zhUrl": "https://yx.g8hh.com.cn/coffee-drinker",
         "enUrl": "https://extradavid.com",
         "pic": [
             1,
@@ -20439,7 +20475,7 @@
         "customUrlTit": "搬运英文版",
         "customUrl": "https://gityxs.github.io/endless-dream-2-the-nightmare/",
         "customUrlTit2": "备用英文版",
-        "customUrl2": "https://yx.g8hh.com/endless-dream-2-the-nightmare/",
+        "customUrl2": "https://yx.g8hh.com.cn/endless-dream-2-the-nightmare/",
         "kUrl": "https://www.kongregate.com/games/Zeromatter/endless-dream-2-the-nightmare?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -20547,7 +20583,7 @@
         "content": [
             "一款数字越来越小的增量游戏。"
         ],
-        "zhUrl": "https://yx.g8hh.com/m13n-miniaturization/",
+        "zhUrl": "https://yx.g8hh.com.cn/m13n-miniaturization/",
         "kUrl": "https://www.kongregate.com/games/aaaantoine/m13n-miniaturization?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -20573,7 +20609,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/burger-master",
+        "zhUrl": "https://yx.g8hh.com.cn/burger-master",
         "pic": [
             1,
             2
@@ -20672,7 +20708,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/more-letters",
+        "zhUrl": "https://yx.g8hh.com.cn/more-letters",
         "enUrl": "https://morelettersinc.com/",
         "pic": [
             1,
@@ -20798,7 +20834,7 @@
         "content": [
             ""
         ],
-        "customUrl2": "https://yx.g8hh.com/alphabet-incremental",
+        "customUrl2": "https://yx.g8hh.com.cn/alphabet-incremental",
         "customUrlTit2": "汉化版-g8hh",
         "customUrl3": "https://g8hh.github.io/alphabet-incremental",
         "customUrlTit3": "汉化版-GitHub",
@@ -21052,7 +21088,7 @@
             "游戏里你模拟一个旅行者，通过走的距离来升级你的交通工具，通过转生获得加成，游戏还是挺有意思的。"
         ],
         "zhUrl": "https://gltyx.github.io/idle-traveller/",
-        "customUrl": "https://yx.g8hh.com/idle-traveller/",
+        "customUrl": "https://yx.g8hh.com.cn/idle-traveller/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://naoxink.github.io/idle-traveller/",
         "pic": [
@@ -21154,7 +21190,7 @@
             "页面不能滚动的朋友，换谷歌（Chrome）或者火狐（Firefox）浏览器玩吧。"
         ],
         "zhUrl": "https://g1tyx.github.io/click-for-biscuits",
-        "customUrl": "https://yx.g8hh.com/click-for-biscuits",
+        "customUrl": "https://yx.g8hh.com.cn/click-for-biscuits",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://play.clickforbiscuits.com/",
         "pic": [
@@ -21211,7 +21247,7 @@
         "content": [
             "注意：作者还在开发，没做存档功能，刷新就会丢档从头开始哦~"
         ],
-        "zhUrl": "https://yx.g8hh.com/dash-clicker",
+        "zhUrl": "https://yx.g8hh.com.cn/dash-clicker",
         "enUrl": "https://dashclicker.com",
         "pic": [
             1,
@@ -21240,7 +21276,7 @@
         "content": [
             "打海盗，升级，买买买！"
         ],
-        "customUrl2": "https://yx.g8hh.com/spacel",
+        "customUrl2": "https://yx.g8hh.com.cn/spacel",
         "customUrlTit2": "汉化版-g8hh",
         "customUrl3": "https://g8hh.github.io/spacel",
         "customUrlTit3": "汉化版-GitHub",
@@ -21271,7 +21307,7 @@
         "content": [
             "买买买，升级升级升级！"
         ],
-        "customUrl2": "https://yx.g8hh.com/idle-five2",
+        "customUrl2": "https://yx.g8hh.com.cn/idle-five2",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/idle-five-2",
         "enUrl": "https://goldenlys.github.io/IdleFive-V2/",
@@ -21312,7 +21348,7 @@
             "解决方法：请点击“更多” → “保存” → 手动保存下面的“保存”按钮一次，然后刷新页面即可正常游戏。"
         ],
         "zhUrl": "https://g1tyx.github.io/space-company/",
-        "customUrl": "https://yx.g8hh.com/space-company",
+        "customUrl": "https://yx.g8hh.com.cn/space-company",
         "customUrlTit": "备用地址-github",
         "enUrl": "https://sparticle999.github.io/SpaceCompany/",
         "kUrl": "https://www.kongregate.com/games/sparticle999/space-company?sfa=permalink&referrer=SunshineDad",
@@ -21375,7 +21411,7 @@
             "emmm..又是一个数学游戏~",
             "我是学渣，表示看不太懂，欢迎访问wiki进行了解~"
         ],
-        "zhUrl": "https://yx.g8hh.com/incremental-googology",
+        "zhUrl": "https://yx.g8hh.com.cn/incremental-googology",
         "enUrl": "https://hypcos.github.io/incremental-googology/Tetration/",
         "wikiUrl": "https://googology.wikia.org/wiki/Googology_Wiki",
         "pic": [
@@ -21404,7 +21440,7 @@
         "content": [
             "这个很早就汉化了的，不知道为啥没放出来，如果有bug欢迎反馈。"
         ],
-        "zhUrl": "https://yx.g8hh.com/dorongine",
+        "zhUrl": "https://yx.g8hh.com.cn/dorongine",
         "enUrl": "https://zhaolinxu.github.io/dorongine/index.html",
         "oscUrl": "https://www.oschina.net/p/mycity",
         "pic": [
@@ -21430,7 +21466,7 @@
         "content": [
             "《开发人生》的续作，模拟程序员接项目，开发项目，然后卖掉项目，实现人生目标。"
         ],
-        "customUrl2": "https://yx.g8hh.com/devlife2",
+        "customUrl2": "https://yx.g8hh.com.cn/devlife2",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/devlife2",
         "kUrl": "http://naoxink.epizy.com/devlife2/",
@@ -21461,7 +21497,7 @@
             "感谢 @Doppio 帮忙汉化。",
             "类似《反物质维度》的一款游戏，欢迎体验！"
         ],
-        "customUrl2": "https://yx.g8hh.com/ordinal-markup",
+        "customUrl2": "https://yx.g8hh.com.cn/ordinal-markup",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/ordinal-markup",
         "kUrl": "https://www.kongregate.com/games/Patcail/ordinal-markup?sfa=permalink&referrer=SunshineDad",
@@ -21639,7 +21675,7 @@
             "手机体验更佳"
         ],
         "zhUrl": "https://g1tyx.github.io/none-can-die",
-        "customUrl": "https://yx.g8hh.com/none-can-die",
+        "customUrl": "https://yx.g8hh.com.cn/none-can-die",
         "customUrlTit": "汉化版-g8hh",
         "pic": [
             1,
@@ -21709,7 +21745,7 @@
             "你可以杀怪获得声誉值和金钱，声誉值可以解锁新英雄，钱可以升级英雄。"
         ],
         "zhUrl": "https://g1tyx.github.io/idle-heroes",
-        "customUrl": "https://yx.g8hh.com/idle-heroes",
+        "customUrl": "https://yx.g8hh.com.cn/idle-heroes",
         "customUrlTit": "汉化版-g8hh",
         "oscUrl": "https://www.oschina.net/p/Idle-Heroes",
         "kUrl": "https://www.kongregate.com/games/Cyberspirit/idle-heroes-vs-monsters?sfa=permalink&referrer=SunshineDad",
@@ -21797,7 +21833,7 @@
         "content": [
             "快来消灭新冠状肺炎！"
         ],
-        "zhUrl": "https://yx.g8hh.com/covid-containment",
+        "zhUrl": "https://yx.g8hh.com.cn/covid-containment",
         "enUrl": "https://covidcontainment.com/",
         "pic": [
             1,
@@ -21855,7 +21891,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/vector-incremental/",
+        "zhUrl": "https://yx.g8hh.com.cn/vector-incremental/",
         "kUrl": "https://www.kongregate.com/games/denisolenison/vector-incremental?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -21970,7 +22006,7 @@
             "一起来砍树吧！这是《骰子放置》的作者另一个作品。"
         ],
         "zhUrl": "https://g1tyx.github.io/luts91/idle-chopper/index.html",
-        "customUrl": "https://yx.g8hh.com/luts91/idle-chopper/index.html",
+        "customUrl": "https://yx.g8hh.com.cn/luts91/idle-chopper/index.html",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://luts91.github.io/idle-chopper/",
         "kUrl": "https://www.kongregate.com/games/Luts91/idle-chopper?sfa=permalink&referrer=SunshineDad",
@@ -22073,7 +22109,7 @@
             "将北极推向新的高度！",
             "使用可以抽出礼物的老虎机赢取礼物，购买升级和自动化产品，赢得声誉，建立业务并彻底改变假期！"
         ],
-        "zhUrl": "https://yx.g8hh.com/holiday-slots-inc",
+        "zhUrl": "https://yx.g8hh.com.cn/holiday-slots-inc",
         "kUrl": "https://www.kongregate.com/games/Makopaz/holiday-slots-inc?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -22104,7 +22140,7 @@
             "该游戏仍在积极开发中，因此，每两周添加一次新的扩展功能时，请耐心等待。"
         ],
         "zhUrl": "https://g1tyx.github.io/creature-card-idle",
-        "customUrl": "https://yx.g8hh.com/creature-card-idle",
+        "customUrl": "https://yx.g8hh.com.cn/creature-card-idle",
         "customUrlTit": "汉化版-g8hh",
         "oscUrl": "https://www.oschina.net/p/creature-card-idle",
         "kUrl": "https://www.kongregate.com/games/Fordesoft/creature-card-idle?sfa=permalink&referrer=SunshineDad",
@@ -22225,7 +22261,7 @@
         "content": [
             "应该是爱好者在原作者基础上自行开发的。"
         ],
-        "customUrl2": "https://yx.g8hh.com/idle-loops2",
+        "customUrl2": "https://yx.g8hh.com.cn/idle-loops2",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/idle-loops2",
         "enUrl": "https://omsi6.github.io/loops/",
@@ -22350,7 +22386,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/idlemind",
+        "zhUrl": "https://yx.g8hh.com.cn/idlemind",
         "enUrl": "https://alexpizzini.github.io/IdleMind/",
         "pic": [
             1,
@@ -22374,7 +22410,7 @@
         "content": [
             ""
         ],
-        "customUrl2": "https://yx.g8hh.com/devlife",
+        "customUrl2": "https://yx.g8hh.com.cn/devlife",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/devlife",
         "kUrl": "http://naoxink.ga/devlife/",
@@ -22399,7 +22435,7 @@
         "content": [
             "本游戏不会自动保存，所以，刷新、关闭前请手动点“保存”按钮，否则会丢档。"
         ],
-        "zhUrl": "https://yx.g8hh.com/idletea",
+        "zhUrl": "https://yx.g8hh.com.cn/idletea",
         "pic": [
             1,
             2
@@ -22594,7 +22630,7 @@
         "content": [
             "由于汉化导致了后面账号金额显示的小问题，点击虽然不更新，数据其实是更新了的。"
         ],
-        "zhUrl": "https://yx.g8hh.com/c",
+        "zhUrl": "https://yx.g8hh.com.cn/c",
         "enUrl": "http://seiyria.com/c/",
         "pic": [
             1,
@@ -22618,7 +22654,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/endless-expansion",
+        "zhUrl": "https://yx.g8hh.com.cn/endless-expansion",
         "kUrl": "https://www.kongregate.com/games/Volch/endless-expansion?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -22641,7 +22677,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/ankyria",
+        "zhUrl": "https://yx.g8hh.com.cn/ankyria",
         "enUrl": "https://wen1now.github.io/Ankyria/",
         "pic": [
             1,
@@ -22666,7 +22702,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/megamiquest2",
+        "zhUrl": "https://yx.g8hh.com.cn/megamiquest2",
         "enUrl": "http://shimage.net/megamiquest2/cn.html",
         "pic": [
             1,
@@ -22719,7 +22755,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/campaign",
+        "zhUrl": "https://yx.g8hh.com.cn/campaign",
         "enUrl": "https://darklaki.github.io/OpusMagnumClicker/noads/index.html",
         "pic": [
             1,
@@ -22771,7 +22807,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/fire-watcher",
+        "zhUrl": "https://yx.g8hh.com.cn/fire-watcher",
         "enUrl": "http://pie3636.github.io/fire-watcher/",
         "pic": [
             1,
@@ -22796,7 +22832,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/hx",
+        "zhUrl": "https://yx.g8hh.com.cn/hx",
         "enUrl": "https://hx2003.github.io/",
         "pic": [
             1,
@@ -22822,7 +22858,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/quest-game",
+        "zhUrl": "https://yx.g8hh.com.cn/quest-game",
         "pic": [
             1,
             2
@@ -23249,7 +23285,7 @@
             ""
         ],
         "zhUrl": "https://gityxs.github.io/idleevolution/",
-        "customUrl": "https://yx.g8hh.com/idleevolution/",
+        "customUrl": "https://yx.g8hh.com.cn/idleevolution/",
         "customUrlTit": "备用地址-g8hh",
         "kUrl": "https://www.kongregate.com/games/NewProject1/idle-evolution?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -23302,7 +23338,7 @@
             "游戏爱好者自己开发的。"
         ],
         "zhUrl": "https://g1tyx.github.io/vuebattle",
-        "customUrl": "https://yx.g8hh.com/vuebattle",
+        "customUrl": "https://yx.g8hh.com.cn/vuebattle",
         "customUrlTit": "汉化版-g8hh",
         "otherUrl": "http://app.x4code.com/vuebattle/",
         "pic": [
@@ -23416,7 +23452,7 @@
             ""
         ],
         "zhUrl": "https://g1tyx.github.io/civ-clicker",
-        "customUrl": "https://yx.g8hh.com/civ-clicker",
+        "customUrl": "https://yx.g8hh.com.cn/civ-clicker",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://deathraygames.com/play-online/civ-clicker/",
         "pic": [
@@ -23444,7 +23480,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/spheal",
+        "zhUrl": "https://yx.g8hh.com.cn/spheal",
         "enUrl": "http://sphericalice.com/spheal/",
         "oscUrl": "https://www.oschina.net/p/spheal",
         "pic": [
@@ -23470,7 +23506,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/sandcastle-builder",
+        "zhUrl": "https://yx.g8hh.com.cn/sandcastle-builder",
         "enUrl": "http://castle.chirpingmustard.com/",
         "pic": [
             1,
@@ -23496,7 +23532,7 @@
             ""
         ],
         "zhUrl": "https://g1tyx.github.io/idlepunk",
-        "customUrl": "https://yx.g8hh.com/idlepunk",
+        "customUrl": "https://yx.g8hh.com.cn/idlepunk",
         "customUrlTit": "汉化版-g8hh",
         "oscUrl": "https://www.oschina.net/p/idlepunk",
         "enUrl": "https://idlepunk.github.io/",
@@ -23551,7 +23587,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/idlegraph",
+        "zhUrl": "https://yx.g8hh.com.cn/idlegraph",
         "enUrl": "https://scorzy.github.io/IdleGraph/",
         "oscUrl": "https://www.oschina.net/p/idle-graph",
         "pic": [
@@ -23577,7 +23613,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/hunteridle",
+        "zhUrl": "https://yx.g8hh.com.cn/hunteridle",
         "enUrl": "http://dwhiffing.github.io/idle-game",
         "pic": [
             1,
@@ -23602,7 +23638,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/goldenminer/",
+        "zhUrl": "https://yx.g8hh.com.cn/goldenminer/",
         "pic": [
             1,
             2
@@ -23683,7 +23719,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/derivativeclicker",
+        "zhUrl": "https://yx.g8hh.com.cn/derivativeclicker",
         "pic": [
             1,
             2
@@ -23707,7 +23743,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/candybox",
+        "zhUrl": "https://yx.g8hh.com.cn/candybox",
         "enUrl": "https://candybox2.github.io/candybox/",
         "pic": [
             1,
@@ -24070,7 +24106,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/minites",
+        "zhUrl": "https://yx.g8hh.com.cn/minites",
         "customUrlTit": "汉化版-g8hh",
         "oscUrl": "https://www.oschina.net/p/minites",
         "kUrl": "https://www.kongregate.com/games/spacecowgoesmoo/minites?sfa=permalink&referrer=SunshineDad",
@@ -24178,7 +24214,7 @@
             "这是一款放置型经营游戏，你可以通过购买各种饵料、钓具，逐步探索各种钓鱼场地。"
         ],
         "zhUrl": "https://gltyx.github.io/fish/fish/fish.html",
-        "customUrl": "https://yx.g8hh.com/fish/fish.html",
+        "customUrl": "https://yx.g8hh.com.cn/fish/fish.html",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://mrsperry.github.io/fishing-enterprises/s",
         "pic": [
@@ -24233,7 +24269,7 @@
         "content": [
             "《循环放置》作者的另一个游戏。"
         ],
-        "customUrl2": "https://yx.g8hh.com/nanospread",
+        "customUrl2": "https://yx.g8hh.com.cn/nanospread",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/nanospread",
         "enUrl": "http://stopsign.github.io/Nanospread/",
@@ -24260,7 +24296,7 @@
         "content": [
             "《循环放置》作者的另一个游戏。"
         ],
-        "customUrl2": "https://yx.g8hh.com/kings-perfect-war",
+        "customUrl2": "https://yx.g8hh.com.cn/kings-perfect-war",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/kings-perfect-war",
         "enUrl": "http://stopsign.github.io/KingsPerfectWar/",
@@ -24288,7 +24324,7 @@
         "content": [
             "很有意思的玩法，欢迎体验。"
         ],
-        "customUrl2": "https://yx.g8hh.com/idle-loops",
+        "customUrl2": "https://yx.g8hh.com.cn/idle-loops",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/idle-loops",
         "enUrl": "http://stopsign.github.io/idleLoops/",
@@ -24316,7 +24352,7 @@
         "content": [
             "提示：飞船飞出去的时候，不要刷新页面，会导致飞船丢失。。"
         ],
-        "customUrl2": "https://yx.g8hh.com/terrafold",
+        "customUrl2": "https://yx.g8hh.com.cn/terrafold",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/terrafold",
         "enUrl": "http://stopsign.github.io/Terrafold/",
@@ -24344,7 +24380,7 @@
             ""
         ],
         "zhUrl": "https://g1tyx.github.io/idle-dice",
-        "customUrl": "https://yx.g8hh.com/idle-dice",
+        "customUrl": "https://yx.g8hh.com.cn/idle-dice",
         "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/Luts91/idle-dice?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -24403,7 +24439,7 @@
         "content": [
             "这是一款放置型经营游戏，刚开始你需要点击三种颜色的条（偷懒做法是长按空格键，然后按ALt+Tab键，切换到别的程序，再回来就会自动点进度条了），后面通过升级可以解放双手。本游戏包含转生系统。。"
         ],
-        "customUrl2": "https://yx.g8hh.com/rgb-idle",
+        "customUrl2": "https://yx.g8hh.com.cn/rgb-idle",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/rgb-idle",
         "enUrl": "https://ikerstreamer.github.io/RGB-Idle/",
@@ -24435,7 +24471,7 @@
         ],
         "zhUrl": "https://g1tyx.github.io/pokemon/",
         "enUrl": "https://pokeidle.net/",
-        "wikiUrl": "https://yx.g8hh.com/piddb/",
+        "wikiUrl": "https://yx.g8hh.com.cn/piddb/",
         "customUrl": "https://pokemon.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
@@ -24458,7 +24494,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/basic2",
+        "zhUrl": "https://yx.g8hh.com.cn/basic2",
         "enUrl": "http://minmaxia.com/b2/",
         "pic": [
             1,
@@ -24480,7 +24516,7 @@
         "content": [
             ""
         ],
-        "customUrl2": "https://yx.g8hh.com/basic",
+        "customUrl2": "https://yx.g8hh.com.cn/basic",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/basic",
         "enUrl": "http://minmaxia.com/basic/",
@@ -24565,7 +24601,7 @@
         "content": [
             "让球跳跃，升级和改变世界!每次弹跳时，抛球产生能量。升级现有的球，购买新的球来产生更多的能量。卖掉你的球帝国来获得元能量来改变世界! "
         ],
-        "zhUrl": "https://yx.g8hh.com/idle-bouncer",
+        "zhUrl": "https://yx.g8hh.com.cn/idle-bouncer",
         "enUrl": "https://almostidle.com/our/idle-bouncer/",
         "steamUrl": "https://store.steampowered.com/app/697610/Idle_Bouncer/",
         "kUrl": "https://www.kongregate.com/games/almostidle/idle-bouncer?sfa=permalink&referrer=SunshineDad",
@@ -24591,7 +24627,7 @@
             ""
         ],
         "zhUrl": "https://gltyx.github.io/canadaclicker",
-        "customUrl": "https://yx.g8hh.com/canadaclicker",
+        "customUrl": "https://yx.g8hh.com.cn/canadaclicker",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "http://www.canadaclicker.com/",
         "oscUrl": "https://www.oschina.net/p/canadaclicker",
@@ -24651,7 +24687,7 @@
         "content": [
             "非常感谢群友@TG303大佬帮忙完成《鲨鱼游戏》汉化！"
         ],
-        "customUrl2": "https://yx.g8hh.com/heart-of-sharkness",
+        "customUrl2": "https://yx.g8hh.com.cn/heart-of-sharkness",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/heart-of-sharkness",
         "enUrl": "http://cirri.al/sharks/#",
@@ -24678,7 +24714,7 @@
         "content": [
             "这是一款放置型经营游戏，你可以学习多种法术，然后升级各项属性，最终解锁所有法术。"
         ],
-        "zhUrl": "https://yx.g8hh.com/spells",
+        "zhUrl": "https://yx.g8hh.com.cn/spells",
         "enUrl": "https://rawgit.com/IvarK/spells/master/index.html",
         "pic": [
             1,
@@ -24703,7 +24739,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/kraft",
+        "zhUrl": "https://yx.g8hh.com.cn/kraft",
         "enUrl": "http://morpheox.github.io/Kraft/",
         "pic": [
             1,
@@ -24730,7 +24766,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/technomancy",
+        "zhUrl": "https://yx.g8hh.com.cn/technomancy",
         "enUrl": "https://fuzzything44.github.io/Incremental/Technomancy/",
         "pic": [
             1,
@@ -24784,7 +24820,7 @@
             "这是一款科教类型的放置游戏，在游戏的同时了解一些物理知识。",
             "由于科学名词太多，知识范围有限，没办法继续翻译，所以停止翻译了。目前已汉化的部分已经可以正常玩下去了，大家见谅。如果你发现有的地方汉化的含义不准确，欢迎反馈给我，进行修改完善。"
         ],
-        "zhUrl": "https://yx.g8hh.com/particle-clicker",
+        "zhUrl": "https://yx.g8hh.com.cn/particle-clicker",
         "enUrl": "http://cern.ch/particle-clicker",
         "pic": [
             1,
@@ -24895,7 +24931,7 @@
         "content": [
             ""
         ],
-        "zhUrl": "https://yx.g8hh.com/coh",
+        "zhUrl": "https://yx.g8hh.com.cn/coh",
         "enUrl": "http://users.telenet.be/coh/",
         "pic": [
             1,
@@ -24916,7 +24952,7 @@
             ""
         ],
         "zhUrl": "https://g1tyx.github.io/resource-planet",
-        "customUrl": "https://yx.g8hh.com/resource-planet",
+        "customUrl": "https://yx.g8hh.com.cn/resource-planet",
         "customUrlTit": "汉化版-g8hh",
         "oscUrl": "https://www.oschina.net/p/resource-planet",
         "pic": [
