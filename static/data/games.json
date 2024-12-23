@@ -539,7 +539,7 @@
         "title": "无尽洪荒，文字MUD修仙游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-12-01",
+        "update": "2024-12-08",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -679,6 +679,123 @@
         "status": 0
     },
     {
+        "title": "怪物工厂放置",
+        "enTitle": "Monster Factory Idle Game",
+        "date": "2024-12-10",
+        "update": "2024-12-10",
+        "version": "",
+        "path": "pixel-hunter-idle",
+        "type": [
+            "放置",
+            "iOS",
+            "安卓",
+            "经营",
+            "离线",
+            "养成",
+            "升级",
+            "冒险",
+            "联网"
+        ],
+        "content": [
+            "注意：iOS版需要外区账号才能下载，国区是没有的。",
+            "这是一款关于召唤兽人并与英雄战斗的游戏。",
+            "召唤",
+            "你的兽人大军在等着你呢！召唤不同的兽人到战场上战斗！战斗你的方式到顶部！",
+            "升级",
+            "兽人也会进化！购买升级，以提高伤害，生命值和更多。升级你的兽人，走得更远！让你的军队更强大！",
+            "策略",
+            "明智地使用你的随从！有了正确的组合，你的随从可以击败英雄！试着找出最好的战斗方式！",
+            "更高的等级",
+            "不要害怕！与英雄战斗并解锁更高级别的战斗。每个英雄也会变得更强！打败他们！",
+            "成就",
+            "收集你的方式通过战斗！在这个领域有很多成就在等着你。战斗，升级，召唤和收集！"
+        ],
+        "customUrl4": "https://play.google.com/store/apps/details?id=com.StardustCreations.MonsterFactory",
+        "customUrlTit4": "安卓市场版",
+        "customUrl3": "https://apkpure.com/monster-factory-idle-game/com.StardustCreations.MonsterFactory",
+        "customUrlTit3": "安卓直链下载",
+        "customUrl2": "https://apps.apple.com/us/app/monster-factory-idle-game/id6478506282?platform=iphone",
+        "customUrlTit2": "iOS美区地址",
+        "customUrl": "https://guihero.itch.io/monster-factory",
+        "customUrlTit": "早期网页版本",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 0
+    },
+    {
+        "title": "觉醒放置",
+        "enTitle": "Idle Awakening",
+        "date": "2024-12-20",
+        "update": "2024-12-23",
+        "version": "0.0.4a",
+        "path": "idle-awakening",
+        "type": [
+            "汉化中",
+            "放置",
+            "经营",
+            "升级"
+        ],
+        "content": [
+            "2024-12-23：更新到0.0.4a版本了，顺便补了汉化~",
+            "这是《激燃太空》《巫术放置》作者的新作品。",
+            "游戏里面你也可以看到《循环放置》的影子。",
+            "目前版本虽然还处于比较早期的阶段，但是游戏内容已经挺多了。",
+            "游戏还在汉化中，发现英文、缺图的情况，可以随时导出存档，发群里@我补充哦~"
+        ],
+        "enUrl": "https://idle-awakening.vercel.app/",
+        "customUrl": "https://idle-awakening.g8hh.com.cn/",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://gityxs.github.io/idle-awakening/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "午夜放置",
+        "enTitle": "Midnight Idle",
+        "date": "2024-12-12",
+        "update": "2024-12-13",
+        "version": "0.2.3",
+        "path": "midnight-idle",
+        "type": [
+            "已汉化",
+            "冒险",
+            "战斗",
+            "升级"
+        ],
+        "content": [
+            "2024-12-13：更新到0.2.3版本~",
+            "这是一款极简的增量游戏，拥有迷人的背景故事，为你提供丰富的冒险体验。作者是出于对这类游戏的热爱而创造了这款游戏，灵感来自于《军械库与机器》、《反物质维度》、《小黑屋》、《宇宙回形针》等游戏。"
+        ],
+        "enUrl": "https://yatseng.com/v2/",
+        "customUrl": "https://midnight-idle.g8hh.com.cn/",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://gityxs.github.io/midnight-idle/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "放置骇客，挂机战斗刷装备网络放置",
         "enTitle": "idle hack",
         "date": "2024-12-09",
@@ -694,6 +811,8 @@
             "联网"
         ],
         "content": [
+            "油猴汉化文件地址：",
+            "https://g8hh.com.cn/zh/tampermonkey/idlehack-chs.user.js",
             "《Idle Hack》是一款多人增量动作角色扮演游戏，类似于《暗黑破坏神》和《地下城攻城》等热门游戏，它混合了现代的放置游戏，允许你在地下城中进行任务，以获得战利品。许多类似的基于浏览器的游戏都是完全基于菜单的，并没有真正的游戏玩法，但《Idle Hack》是实时的，你可以看到你的团队进展，并随着时间的推移通过获得经验和获得不同的装备而变得更强大。从独特的传说到随机魔法和稀有道具，拥有超过35种不同的道具属性，可以增强你的角色；空闲Hack允许不同的建筑创造与传说显著改变你的建筑。无职业的设计让你可以完全控制一个由四个角色组成的团队，拥有超过25种不同的咒语，让你可以建立一个协同的团队来度过越来越困难的地下城。",
             "放置骇客的主要功能：",
             "- 6个不同的地下城，不断扩大，以测试你的金属，包括一个排行榜地下城，让你测试你的团队的可能性。与其他玩家竞争，提高你在排行榜上的排名！",
@@ -702,8 +821,6 @@
             "- 一个商店，在那里你可以用金币为你的账户购买升级，或者为你制造更强大的装备。",
             "- 大量的随机战利品-从传说中完全改变你的构建，宝石插座到项目，通过将宝石以正确的顺序插入齿轮，设置项目和大量有趣的化妆品制作的独特。",
             "Idle Hack（放置骇客）是一个充满激情的项目，已经开发了一年多，并且随着时间的推移不断更新。最新的更新为游戏增加了一个全新的神秘元素，随着你在游戏中的进展而解锁-我不想在这里破坏它，但这是一个巨大的新更新，为Idle Hack增加了一个全新的额外游戏。我真心希望你喜欢玩，如果你喜欢玩《Idle Hack》，我希望你能加入我们的社区。",
-            "油猴汉化文件地址：",
-            "https://g8hh.com.cn/zh/tampermonkey/idlehack-chs.user.js",
             ""
         ],
         "customUrl": "https://idlehack.net/",
@@ -712,6 +829,8 @@
         "customUrlTit3": "油猴汉化教程",
         "customUrl4": "https://www.tampermonkey.net/",
         "customUrlTit4": "油猴官网",
+        "QQ": "867979275",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=g-yVu_Uf_rCUbHOVbLHy-ko0G7nJl1nI&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -3453,8 +3572,8 @@
         "title": "鲨鱼增量",
         "enTitle": "Shark Incremental",
         "date": "2024-07-05",
-        "update": "2024-12-05",
-        "version": "0.3.2.3",
+        "update": "2024-12-12",
+        "version": "0.4",
         "path": "shark-incremental",
         "type": [
             "文字",
@@ -3731,8 +3850,8 @@
         "title": "元素放置",
         "enTitle": "Idle Elemental",
         "date": "2024-06-06",
-        "update": "2024-06-06",
-        "version": "3.6.0",
+        "update": "2024-12-10",
+        "version": "5.2.0",
         "path": "idle-elem",
         "type": [
             "已汉化",
@@ -7944,13 +8063,14 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2024-06-10",
-        "version": "0.2.0",
+        "update": "2024-12-16",
+        "version": "0.2.1",
         "path": "fundamental",
         "type": [
             "已汉化"
         ],
         "content": [
+            "2024-12-16：更新到0.2.1版本了~",
             "这是 awWhy 制作的测试项目。 应受现代浏览器、手机和屏幕阅读器的支持（需要在设置中打开支持）。 灵感来自“协同放置”、“反物质维度”等游戏。"
         ],
         "zhUrl": "https://gityxs.github.io/fundamental/",
@@ -13705,10 +13825,10 @@
         "status": 1
     },
     {
-        "title": "吸血鬼幸存者",
+        "title": "吸血鬼幸存者，Epic限时免费领！",
         "enTitle": "Vampire Survivors",
         "date": "2022-02-11",
-        "update": "2022-02-11",
+        "update": "2024-12-20",
         "version": "",
         "path": "vampire-survivors",
         "type": [
@@ -13719,13 +13839,16 @@
             "冒险"
         ],
         "content": [
+            "2024-12-20：Epic限时免费领取，截止12月21号0点。",
             "收割成千上万的夜间生物并生存到黎明！",
             " 《吸血鬼幸存者》 是一款带有 rogue-lite 元素的哥特式恐怖休闲游戏，您的选择可以让您快速滚雪球，对抗向您蜂拥而来的数百个怪物。"
         ],
         "zhUrl": "https://g8hh.github.io/vampire-survivors",
         "enUrl": "https://poncle.itch.io/vampire-survivors",
-        "customUrl": "https://yx.g8hh.com.cn/vampire-survivors",
+        "customUrl": "https://vampire-survivors.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://store.epicgames.com/zh-CN/p/vampire-survivors-f699a1",
+        "customUrlTit2": "Epic版",
         "steamUrl": "https://store.steampowered.com/app/259680/Tales_of_MajEyal/",
         "pic": [
             1,
@@ -20948,10 +21071,10 @@
         "status": 1
     },
     {
-        "title": "异形工厂，Steam特卖7元，截止11月28号",
+        "title": "异形工厂，Steam史低3.5元，截止1月3号",
         "enTitle": "shapez.io",
         "date": "2020-07-01",
-        "update": "2024-11-14",
+        "update": "2024-12-20",
         "path": "shapez-io",
         "type": [
             "放置",
@@ -20963,6 +21086,7 @@
             "Steam"
         ],
         "content": [
+            "2024-12-20：Steam特卖3.5元，截止1月3号。史低!",
             "2024-11-14：Steam特卖7元，截止11月28号。史低为3.5元。",
             "2023-04-07：Epic上最近可以免费领哦，截止到4月13日23:00。",
             "画风很可爱啊，感觉是《异星工厂》的玩法，Steam售价18元。网页版是体验版。"
@@ -24898,10 +25022,10 @@
         "status": 1
     },
     {
-        "title": "无尽的饼干",
+        "title": "无尽的饼干，Steam当前7.7史低价",
         "enTitle": "Cookie Clicker",
         "date": "2017-12-15",
-        "update": "2023-03-10",
+        "update": "2024-12-20",
         "version": "2.05",
         "path": "cookie-clicker",
         "type": [
@@ -24915,6 +25039,7 @@
             "K站"
         ],
         "content": [
+            "2024-12-20：Steam版打折促销，7.5块钱，史低。",
             "2023-03-10：新增一个英文版测试版链接，更新了新建筑、51 项新升级和 49 项新成就。",
             "2021年9月2号上架了steam版，售价22元。",
             "这是一款放置型经营游戏，你可以建造多种建筑来生产制作饼干。"
