@@ -729,11 +729,88 @@
         "status": 0
     },
     {
+        "title": "钓鱼放置2：水下之谜，上头的钓鱼放置游戏",
+        "enTitle": "Fish Idle 2",
+        "date": "2024-12-31",
+        "update": "2024-12-31",
+        "version": "",
+        "path": "fish-idle-2",
+        "type": [
+            "放置",
+            "苹果",
+            "安卓",
+            "放置",
+            "Steam",
+            "模拟"
+        ],
+        "content": [
+            "2024-12-31：Steam版售价3.08元；Steam版有中文，但是效果不太行；iOS可能需要外区账号才能下载。",
+            "跳入你的雨靴，跳上你的船！我们要去钓鱼了，在Fish Idle 2: Underwater Mystery中，这是一款独特的闲置钓鱼街机游戏，具有流畅的图形和直观的机制。我们没有时间挥动钓鱼竿，所以让我们简化流程！",
+            "简单轻松的钓鱼",
+            "让我们从基础开始。一切都是自动化的：鱼一靠近你就开始咬钩，资源指标会在你专注于有效管理你的鱼类王国时通知你。游戏提供了有利的升级，以增强你的闲置钓鱼能力，帮助你成为真正的鱼类大亨。你仍然需要驾驶你的船追逐鱼群并避开障碍物，所以不要被你的经济成就分心！",
+            "升级你的鱼类王国",
+            "一旦你的船舱满了，是时候升级了！提高钓鱼速度的升级让你能够捕获更多更稀有的鱼种，而增加的储存容量让你能够在船上装载更多的鱼。提升你的船速和防御能力，以防撞击，并改进你的钓鱼竿，一次投放多根鱼线。这一切都是为了以最有效的方式最大化你的收益，所以你需要动脑筋找出通往成功的最佳方法！",
+            "做大做强",
+            "就像现实生活中一样，成为鱼类大亨需要通过多种方式从你的捕获物中获利。闲置鱼场允许你投资并获得被动收入，而黑市则让你可以将你的鱼类王国提升到超出OSHA标准的水平。机器人商店允许你雇佣猎鱼船、渔船和货船为你钓鱼并运送捕获物，从而增加你的收入。如果你喜欢日内交易，有一个货币交易所提供一些特别的好处。逃税不是犯罪，如果你想做大做强，这是你的义务。",
+            "现在就去钓鱼",
+            "准备好潜入鱼类王国，在Fish Idle 2: Underwater Mystery中成为终极鱼类大亨！"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/3037410/Fish_Idle_2_Underwater_Mystery/",
+        "customUrl2": "https://apps.apple.com/us/app/idle-fish-2-fishing-tycoon/id1534396279?l=zh-Hans-CN",
+        "customUrlTit2": "iOS (美区)",
+        "customUrl": "https://apkcombo.net/idle-fish-2-fishing-tycoon/com.greenbuttongames.FishIdle/download/apk",
+        "customUrlTit": "安卓版",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "圣诞礼物放置",
+        "enTitle": "Santa Ception",
+        "date": "2024-12-24",
+        "update": "2024-12-24",
+        "version": "",
+        "path": "santa-ception",
+        "type": [
+            "汉化中",
+            "放置",
+            "经营",
+            "升级"
+        ],
+        "content": [
+            "圣诞老人，快醒醒，还有2小时就要过圣诞了，你的圣诞礼物准备好了吗？",
+            "游戏还在汉化中，可能存在英文、缺图的情况，欢迎发存档给我补汉化~"
+        ],
+        "enUrl": "https://gityxs.github.io/santa-ception/",
+        "customUrl": "https://santa-ception.g8hh.com.cn/",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://www.santaception.com/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "觉醒放置",
         "enTitle": "Idle Awakening",
         "date": "2024-12-20",
-        "update": "2024-12-23",
-        "version": "0.0.4a",
+        "update": "2024-12-31",
+        "version": "0.0.5d",
         "path": "idle-awakening",
         "type": [
             "汉化中",
@@ -742,6 +819,7 @@
             "升级"
         ],
         "content": [
+            "2024-12-31：更新到0.0.5d版本了",
             "2024-12-23：更新到0.0.4a版本了，顺便补了汉化~",
             "这是《激燃太空》《巫术放置》作者的新作品。",
             "游戏里面你也可以看到《循环放置》的影子。",
@@ -752,6 +830,8 @@
         "customUrl": "https://idle-awakening.g8hh.com.cn/",
         "customUrlTit": "备用地址-github",
         "zhUrl": "https://gityxs.github.io/idle-awakening/",
+        "QQ": "881240068",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=d1cy3VkKrf-3OLcd6qj0GPebZcb1Ifkw&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -1108,10 +1188,10 @@
         "needHH": 0
     },
     {
-        "title": "星际帝国，类EVE星战文字放置",
+        "title": "星际帝国，重做新版本，类EVE星战文字放置",
         "enTitle": "",
         "date": "2024-11-28",
-        "update": "2024-11-28",
+        "update": "2024-12-28",
         "version": "",
         "path": "xjdg",
         "type": [
@@ -1122,13 +1202,15 @@
             "升级"
         ],
         "content": [
-            "注意：注册后需要去邮箱里面点激活链接之后，才能登录！",
+            "2024-12-28：重做了游戏、UI，和之前版本独立，需要重新注册。",
             "星际帝国是一款宇宙空间模拟网页游戏，从一颗星球开始发展，攻击其他玩家的星球或与其他玩家结盟，建立你强大的宇宙帝国！",
             "这是《我的文字修仙全靠刷》作者的新游戏。",
             "QQ交流群：920930589"
         ],
-        "customUrl": "https://og.jntm.cool/index.php?ref=649",
+        "customUrl": "https://og.xjqxz.top/?ref=5718",
         "customUrlTit": "开始游戏",
+        "customUrl2": "https://og.jntm.cool/index.php?ref=649",
+        "customUrlTit2": "旧版",
         "QQ": "920930589",
         "qqUrl": "https://qm.qq.com/q/iifNs5qukg",
         "pic": [
@@ -5445,7 +5527,7 @@
         "title": "Gooboo",
         "enTitle": "Gooboo",
         "date": "2023-10-09",
-        "update": "2024-11-24",
+        "update": "2024-12-23",
         "version": "1.5.5",
         "path": "gooboo",
         "type": [
@@ -5455,6 +5537,7 @@
             "放置"
         ],
         "content": [
+            "2024-12-23：有朋友想玩1.5.3版本，所以新增2个1.5.3版本的链接~",
             "2024-11-24：更新到1.5.5版本了~",
             "更新到1.3.5版本了，我把汉化放入了国际化文件，现在可以在设置里面自由切换中英德语了~",
             "​Gooboo 是一款放置/增量游戏，您可以在神秘、未知的世界中管理多个功能。 收集不同的资源来购买各种各样的升级，以增加你的资源收益。 取得主要功能的进展以解锁新内容并了解有关这个世界的更多信息。 当进展开始放缓时，声望个人功能可以将您的收获提升到一个新的等级。",
@@ -5473,6 +5556,10 @@
         "zhUrl": "https://gityxs.github.io/gooboo/",
         "customUrl": "https://gooboo.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://gityxs.github.io/gooboo/1.5.3/",
+        "customUrlTit2": "1.5.3汉化版",
+        "customUrl3": "https://gooboo.g8hh.com.cn/1.5.3/",
+        "customUrlTit3": "1.5.3备用汉化版",
         "enUrl": "https://tendsty.itch.io/gooboo",
         "QQ": "468760729",
         "pic": [
@@ -7490,7 +7577,7 @@
             6
         ],
         "needHH": 0,
-        "status": 1
+        "status": 0
     },
     {
         "title": "文字密室逃脱",
@@ -9756,6 +9843,8 @@
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/idle-mancery",
         "enUrl": "https://strangemattergaming.itch.io/idlemancery",
+        "QQ": "881240068",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=d1cy3VkKrf-3OLcd6qj0GPebZcb1Ifkw&jump_from=webapi",
         "pic": [
             1,
             2,
@@ -22615,7 +22704,7 @@
         "title": "神特么挖矿放置",
         "enTitle": "Lored",
         "date": "2019-08-26",
-        "update": "2023-08-08",
+        "update": "2024-12-27",
         "version": "2.2.27",
         "path": "lored",
         "type": [
@@ -22630,13 +22719,15 @@
             "英文"
         ],
         "content": [
+            "2024-12-27：新增steam版地址，2025年1月27日上线，还是没中文。",
             "游戏挺有趣的，可惜没法汉化。因为k站加载超级慢，所以搬运过来方便大家玩。"
         ],
         "customUrlTit": "搬运英文版",
         "customUrl": "https://gltyx.github.io/lored/",
         "customUrlTit2": "备用-搬运版",
-        "customUrl2": "https://yx.g8hh.com.cn/lored",
+        "customUrl2": "https://lored.g8hh.com.cn/",
         "enUrl": "https://drillur.itch.io/lored",
+        "steamUrl": "https://store.steampowered.com/app/3418150/LORED/",
         "kUrl": "https://www.kongregate.com/games/Drillur/lored?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
