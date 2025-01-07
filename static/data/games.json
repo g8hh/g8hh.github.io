@@ -729,6 +729,77 @@
         "status": 0
     },
     {
+        "title": "开盒抽卡放置",
+        "enTitle": "Idle Packs",
+        "date": "2025-01-07",
+        "update": "2025-01-07",
+        "version": "",
+        "path": "santa-ception",
+        "type": [
+            "汉化中",
+            "放置",
+            "抽卡",
+            "战斗",
+            "升级"
+        ],
+        "content": [
+            "这是一款内容丰富的抽卡放置游戏，抽卡获得物品，装备物品可以战斗，出售物品可以出售，然后购买更多盒子进行抽卡。"
+        ],
+        "enUrl": "https://mezeman1.github.io/idle-packs/",
+        "customUrl": "https://yx.g8hh.com.cn/idle-packs/",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://mezeman1.github.io/idle-packs/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "春节树，群友自制模组树游戏",
+        "enTitle": "The Spring Festival Tree",
+        "date": "2025-01-01",
+        "update": "2025-01-01",
+        "version": "",
+        "path": "the-spring-festival-tree",
+        "type": [
+            "放置",
+            "文字",
+            "群友自制",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是群里之前《怨种树》、《质量增量Ng++》作者的新作，欢迎大家体验~"
+        ],
+        "customUrl": "https://qwqe198.github.io/the-Spring-Festival-tree/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://the-spring-festival-tree.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "钓鱼放置2：水下之谜，上头的钓鱼放置游戏",
         "enTitle": "Fish Idle 2",
         "date": "2024-12-31",
@@ -758,7 +829,7 @@
         "steamUrl": "https://store.steampowered.com/app/3037410/Fish_Idle_2_Underwater_Mystery/",
         "customUrl2": "https://apps.apple.com/us/app/idle-fish-2-fishing-tycoon/id1534396279?l=zh-Hans-CN",
         "customUrlTit2": "iOS (美区)",
-        "customUrl": "https://apkcombo.net/idle-fish-2-fishing-tycoon/com.greenbuttongames.FishIdle/download/apk",
+        "customUrl": "https://apkpremier.com/com-greenbuttongames-FishIdle/idle-fish-2-fishing-tycoon/download/",
         "customUrlTit": "安卓版",
         "QQ": "816462152",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
@@ -809,8 +880,8 @@
         "title": "觉醒放置",
         "enTitle": "Idle Awakening",
         "date": "2024-12-20",
-        "update": "2024-12-31",
-        "version": "0.0.5d",
+        "update": "2025-01-06",
+        "version": "0.0.7a",
         "path": "idle-awakening",
         "type": [
             "汉化中",
@@ -819,6 +890,8 @@
             "升级"
         ],
         "content": [
+            "2024-01-06：更新到0.0.7a版本了，顺便补了列表自动化的汉化~",
+            "2025-01-03：更新到0.0.6a版本了~",
             "2024-12-31：更新到0.0.5d版本了",
             "2024-12-23：更新到0.0.4a版本了，顺便补了汉化~",
             "这是《激燃太空》《巫术放置》作者的新作品。",
@@ -7738,7 +7811,7 @@
             "这是一款玩法很简单的增量游戏，游戏基本上全靠挂机，只有一个操作按钮，就是速率翻倍。"
         ],
         "zhUrl": "https://gityxs.github.io/primordial/",
-        "customUrl": "https://primordial.g8hh.com/",
+        "customUrl": "https://primordial.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://louigiverona.com/primordial/0.2/",
         "pic": [
