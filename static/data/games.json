@@ -437,7 +437,7 @@
         "title": "迷你梦幻，怀旧多人在线游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2024-11-28",
+        "update": "2025-01-08",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -505,7 +505,7 @@
         "title": "三国传奇，耐玩挂机电脑游戏",
         "enTitle": "",
         "date": "2022-08-19",
-        "update": "2024-11-22",
+        "update": "2025-01-05",
         "version": "",
         "path": "sgcq",
         "type": [
@@ -539,7 +539,7 @@
         "title": "无尽洪荒，文字MUD修仙游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2024-12-08",
+        "update": "2025-01-08",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -608,7 +608,7 @@
         "title": "放置传奇，PC挂机摸鱼放置游戏，七夕活动进行中",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2024-12-01",
+        "update": "2025-01-11",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -729,20 +729,706 @@
         "status": 0
     },
     {
+        "title": "NES俄罗斯方块",
+        "enTitle": "NES Pentris",
+        "date": "2025-02-13",
+        "update": "2025-02-13",
+        "version": "0.1.3",
+        "path": "nes-pentris",
+        "type": [
+            "益智",
+            "点击",
+            "休闲",
+            "放置"
+        ],
+        "content": [
+            "NES俄罗斯方块的再现，除了用五边形代替四边形。这相当困难！",
+            "十二龙作者的另一个游戏。"
+        ],
+        "zhUrl": "https://gltyx.github.io/nes-pentris/",
+        "customUrl2": "https://nes-pentris.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/pentris/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 0
+    },
+    {
+        "title": "我的放置仙途，群友自制文字修仙游戏",
+        "enTitle": "",
+        "date": "2025-02-20",
+        "update": "2025-02-20",
+        "version": "1.0.1",
+        "path": "vue-idle-xiuxian",
+        "type": [
+            "点击",
+            "战斗",
+            "群友自制",
+            "文字",
+            "修仙"
+        ],
+        "content": [
+            "2025-02-20：更新到1.0.1，修复bug。",
+            "这是《我的文字修仙全靠刷》《星际帝国》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
+            "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
+            "QQ交流群：920930589"
+        ],
+        "customUrl": "https://idle-xiuxian.jntm.cool/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://vue-idle-xiuxian.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://github.com/setube/vue-idle-xiuxian",
+        "customUrlTit3": "Github项目求点星",
+        "QQ": "920930589",
+        "qqUrl": "https://qm.qq.com/q/iifNs5qukg",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "炼金放置",
+        "enTitle": "Alchidle",
+        "date": "2025-02-19",
+        "update": "2025-02-19",
+        "version": "",
+        "path": "alchidle",
+        "type": [
+            "点击",
+            "战斗",
+            "放置",
+            "升级"
+        ],
+        "content": [
+            "2025-02-20：修复死亡后要刷新才能继续战斗的问题。",
+            "这个游戏的玩法类似脆皮，感觉作者是借鉴了脆皮的游戏模式，后面也有转生、天赋树等内容。",
+            "注意：游戏还在开发中，可能存在数值不合理、功能不完善的情况，请淡定对待~"
+        ],
+        "zhUrl": "https://gityxs.github.io/alchidle/",
+        "customUrl2": "https://alchidle.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "enUrl": "https://alchidle.netlify.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "一万亿免费抽卡，抽卡抽到爽",
+        "enTitle": "One Trillion Free Draws",
+        "date": "2025-02-17",
+        "update": "2025-02-17",
+        "version": "",
+        "path": "one-trillion-free-draws",
+        "type": [
+            "收集",
+            "点击",
+            "抽卡",
+            "休闲",
+            "升级"
+        ],
+        "content": [
+            "注意：游戏弹窗报错的，是因为游戏文件没加载成功，需要Ctrl + F5强制刷新即可。",
+            "顾名思义，你有一万亿次免费抽卡机会，这是一款可以让你抽卡抽到爽的游戏。",
+            "游戏支持多语言，默认是英文，需要在右上角选项里面切换到中文。",
+            "游戏还处于开发阶段，卡片图片后面应该会逐步补充。"
+        ],
+        "zhUrl": "https://gityxs.github.io/one-trillion-free-draws/",
+        "customUrl2": "https://one-trillion-free-draws.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "enUrl": "https://ducdat0507.github.io/gacha/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "元元树",
+        "enTitle": "Prestreestuck Metameta Rewritten​",
+        "date": "2025-02-14",
+        "update": "2025-02-14",
+        "version": "0.12",
+        "path": "prestreestuck-metameta-rewritten",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "群里的 @QwQe308 小伙伴的新作品，又一款模组树游戏，是创世声望树的mod。"
+        ],
+        "customUrl": "https://qwqe308.github.io/prestreestuck-metameta-rewritten/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://prestreestuck-metameta-rewritten.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "oscUrl": "https://www.oschina.net/p/the-upgrading-tree",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "膨胀树",
+        "enTitle": "Expanta Num",
+        "date": "2025-02-13",
+        "update": "2025-02-13",
+        "version": "0.3.2",
+        "path": "expanta-num",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是群里的 @MapleWhite 大佬做的模组树游戏，欢迎大家体验。",
+            "群号: 963150347"
+        ],
+        "customUrl": "https://cjm2006.github.io/ExpantaNum/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://expanta-num.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "十二龙公园",
+        "enTitle": "Dodeca Park",
+        "date": "2025-02-12",
+        "update": "2025-02-12",
+        "version": "0.2.2",
+        "path": "dodeca-park",
+        "type": [
+            "养成",
+            "点击",
+            "收集",
+            "休闲",
+            "放置"
+        ],
+        "content": [
+            "获得龙，让他们居住在你自己的公园！",
+            "十二龙作者的另一个游戏。"
+        ],
+        "zhUrl": "https://gltyx.github.io/dodeca-park/",
+        "customUrl2": "https://dodeca-park.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/dodecaPark/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "常回来看看：无限下降",
+        "enTitle": "Check Back Infinite Descent",
+        "date": "2025-02-11",
+        "update": "2025-02-11",
+        "version": "0.1.3",
+        "path": "check-back-infinite-descent",
+        "type": [
+            "升级",
+            "点击",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "《十二龙》作者的新作，又是一款肝爆的放置增量游戏。",
+            "游戏灵感来自站内游戏：常回来看看",
+            "作者的其他游戏可以在站内搜索、体验：十二龙、数组游戏、稀有宝珠XL、采矿点击器：重新挖掘、超级游戏、十二黄金计算器、乌格利矿工、十二黄金计算器、无尽的楼梯间。"
+        ],
+        "zhUrl": "https://gltyx.github.io/check-back-infinite-descent/",
+        "customUrl2": "https://check-back-infinite-descent.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "enUrl": "https://demonin.com/games/checkBackInfiniteDescent/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "超级乌龟放置2",
+        "enTitle": "Super Turtle Idle Beta",
+        "date": "2025-02-10",
+        "update": "2025-02-10",
+        "version": "1.04",
+        "path": "super-turtle-idle-beta",
+        "type": [
+            "点击",
+            "战斗",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "欢迎来到《超级乌龟放置2》，这是一款增量放置RPG。完成委托，通过放置收集材料，并消灭强敌!",
+            "此版本为群里的 @林雷 大佬汉化。欢迎加入游戏交流群：821355753",
+            "顺便搞个抽奖祝大家开工大吉吧！",
+            "关注 Git游戏 公众号",
+            "回复：开工大吉",
+            "即可参与抽奖，",
+            "元宵节晚上8点准时自动开奖！"
+        ],
+        "zhUrl": "https://linlei0102.github.io/Super-Turtle-Idle-Beta/",
+        "customUrl": "https://super-turtle-idle-beta.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://superturtleidlebeta.github.io/",
+        "QQ": "821355753",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=qA4anZoRboFetsuUF6HwkoEw3qTRK5WD&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "打BOSS，手机自动战斗挂机放置游戏",
+        "enTitle": "",
+        "date": "2025-02-08",
+        "update": "2025-02-08",
+        "version": "",
+        "path": "kill-boss",
+        "type": [
+            "点击",
+            "中文",
+            "iOS",
+            "安卓",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "990亿亿血量的BOSS群来袭！勇士，拿起你的剑，召唤你的伙伴，一起来打败这个超超超超超超超超超超超超超超超超超超超超超超超超超超超超超超超超超超血厚BOSS！",
+            "安卓版：https://pan.baidu.com/s/17-dfiQFzzKr5q_qMfvp0cA?pwd=5cm6"
+        ],
+        "customUrl": "https://apps.apple.com/us/app/future-fortune/id6547832627",
+        "customUrlTit": "iOS版",
+        "customUrl2": "https://pan.baidu.com/s/17-dfiQFzzKr5q_qMfvp0cA?pwd=5cm6",
+        "customUrlTit2": "安卓版网盘下载",
+        "customUrl3": "https://www.taptap.cn/app/70177",
+        "customUrlTit3": "TapTap介绍页",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "质量之塔，群友qwqe198汉化",
+        "enTitle": "Pylon of the Mass",
+        "date": "2025-02-06",
+        "update": "2025-02-06",
+        "version": "1.0.1",
+        "path": "pylon-of-the-mass",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "升级"
+        ],
+        "content": [
+            "这是群友 @qwqe198 汉化的放置游戏，欢迎大家体验~"
+        ],
+        "enUrl": "https://mrredshark77.github.io/Pylon-of-the-Mass/",
+        "customUrl": "https://pylon-of-the-mass.g8hh.com.cn/",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://qwqe198.github.io/Pylon-of-the-Mass/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "物质末世，群友qwqe198汉化",
+        "enTitle": "Matter Apocalypse",
+        "date": "2025-02-04",
+        "update": "2025-02-04",
+        "version": "",
+        "path": "matter-apocalypse",
+        "type": [
+            "已汉化",
+            "放置",
+            "文字",
+            "升级"
+        ],
+        "content": [
+            "这是群友 @qwqe198 汉化的放置游戏，欢迎大家体验~"
+        ],
+        "enUrl": "https://mrredshark77.itch.io/matter-apocalypse",
+        "customUrl": "https://matter-apocalypse.g8hh.com.cn/",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://qwqe198.github.io/-Matter-Apocalypse/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "2025春节树",
+        "enTitle": "The Spring Festival Tree 2025",
+        "date": "2025-01-29",
+        "update": "2025-01-29",
+        "version": "v2025",
+        "path": "the-spring-festival-tree-20252",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《2025春节树》是群里的 @QqQe308 大佬为2025年春节做出来的模组树游戏，祝大家新年快乐~",
+            "群号: 951232913"
+        ],
+        "customUrl": "https://qqqe308.github.io/The-Spring-Festival-Tree-2025/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://the-spring-festival-tree-20252.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "熵树，群友自制",
+        "enTitle": "The Entropy Tree",
+        "date": "2025-01-27",
+        "update": "2025-01-27",
+        "version": "0.4",
+        "path": "the-entropy-tree",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "今天腊月二十八了，继续给大家送上群友自制的游戏。",
+            "群号: 951232913"
+        ],
+        "customUrl": "https://xiaosunmath.github.io/the-entropy-tree/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "http://the-entropy-tree.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "951232913",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "数一亿粒米树",
+        "enTitle": "Varios Metros Tree",
+        "date": "2025-01-26",
+        "update": "2025-01-26",
+        "version": "2.0",
+        "path": "varios-metros-tree",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "2025-01-27：新增NG+版本链接，基于基于1.2版本~",
+            "群友 @loader3229 自制的模组树游戏，内容丰富，欢迎大家体验。",
+            "群号: 951232913"
+        ],
+        "customUrl": "https://linlei0102.github.io/Varios-Metros-Tree/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://varios-metros-tree.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://linlei0102.github.io/Varios-Metros-Tree-NG/",
+        "customUrlTit3": "NG+版本",
+        "customUrl4": "https://yhvr.me/pt/mods.html",
+        "customUrlTit4": "其它树游戏集合",
+        "QQ": "951232913",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "RPG MO，网络战斗冒险RPG",
+        "enTitle": "",
+        "date": "2025-01-25",
+        "update": "2025-01-25",
+        "version": "",
+        "path": "rpg-mo",
+        "type": [
+            "中文",
+            "RPG",
+            "战斗",
+            "养成",
+            "联网"
+        ],
+        "content": [
+            "RPG MO是一款在线多人角色扮演游戏，让玩家有机会探索多种路径。玩家可以提高战斗和魔法技能，获得咒语、武器和盔甲，成为强大的战士，他们也可以提高制作技能，为自己或向他人出售道具。",
+            "这款游戏是一款开放世界沙盒游戏，玩家可以选择自己的道路，游戏玩法的一个关键组成部分是一个充满活力的玩家市场，任何物品都可以卖给其他玩家。这是一款真正的免费游戏；即使是最受欢迎的道具，玩家也可以通过游戏中的货币从其他玩家那里获得。",
+            "RPG MO是针对成年玩家而创造的，他们不会很快进入更高的关卡。年轻玩家也可能喜欢游戏玩法，特别是如果他们愿意耐心并培养技能的话。它是免费的，不需要下载。它甚至可以在你的智能手机和平板电脑上使用。",
+            "探索44个不同的地图，战斗超过800个不同的怪物，超过50个boss。选择成为一个纯法师和战斗法术或成为一个战士和使用近战武器击败你的敌人。增加你的魔法来使用更强的法术，或者增加你的近战属性来使用武器造成更多的伤害，或者成为一个混血儿。使用箭术从安全距离拿下怪物。",
+            "开采17种不同的矿石用于制作珠宝，武器和盔甲。捕捉和烹饪65种不同的鱼来补充健康。在你自己的岛上收集木材来建造房子和家具，包括在游戏中帮助你的角色的物品。",
+            "制作你自己的珠宝，盔甲和武器。从数以千计的物品中选择装备你的角色。通过玩家市场与其他玩家交易超过4250件独特物品。你也可以在游戏市场中使用游戏币（游戏邦注：即通过完成任务、地下城或捐赠游戏而获得的货币）购买特殊道具。",
+            "在随机生成的地图中，与最多4个朋友在派对地下城中战斗怪物。在允许的时间内杀死所有生物以获得经验、金币或MOS，或者寻找隐藏的箱子，最终找到大箱子以获得特殊奖励。完成地下城，看着自己爬上地下城高分榜。",
+            "在任何地图上挑战其他玩家进行友好决斗，或者进入玩家对玩家地图来接受所有挑战者。pvp地图中的特殊怪物掉落呈现包含一些游戏中可用的更好的对象。",
+            "在你自己的岛屿上种植食物或制作材料，如果你选择的话，还可以饲养宠物。挖掘一个地下城并种植22种不同类型的蘑菇炼金术生产的药水可以暂时提高你的属性，宠物繁殖生产的宠物更新、更强，当你装备它们时可以提高你的属性。从超过361种不同的宠物中选择，成为你的旅行伴侣。"
+        ],
+        "customUrl": "https://rpg.mo.ee/?ref=gityx",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://apps.apple.com/app/rpg-mo/id601177570",
+        "customUrlTit2": "iOS",
+        "customUrl3": "https://mo.mo.ee/app.apk",
+        "customUrlTit3": "安卓版",
+        "customUrl4": "https://mo.mo.ee/downloads/windows.zip",
+        "customUrlTit4": "PC版-64位",
+        "customUrl5": "https://mo.mo.ee/downloads/windows32.zip",
+        "customUrlTit5": "PC版-32位",
+        "steamUrl": "https://store.steampowered.com/app/372800",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "春节树",
+        "enTitle": "The Spring Festival Tree 2025",
+        "date": "2025-01-24",
+        "update": "2025-01-24",
+        "version": "",
+        "path": "the-spring-festival-tree-2025",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是 元素周期增量树 作者的新作",
+            "在这个春节树里,有很多乐趣,自己去体验吧!",
+            "同时,据说在这个树之后,还有一个惊天大秘密...",
+            "群号: 951232913"
+        ],
+        "customUrl": "https://liuliu66686.github.io/The-Spring-Festival-Tree/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://the-spring-festival-tree-2025.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "951232913",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "刺激点击器",
+        "enTitle": "Stimulation Clicker",
+        "date": "2025-01-17",
+        "update": "2025-01-17",
+        "version": "",
+        "path": "stimulation-clicker",
+        "type": [
+            "挂机",
+            "英文",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "刺激点击器是一款能够刺激你的感官的点击游戏。",
+            "打开音箱，按下按钮，你知道你想要的。",
+            "感兴趣的小伙伴可以试试该位置的其他游戏~"
+        ],
+        "enUrl": "https://neal.fun/stimulation-clicker/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "史上最佳冲浪手",
+        "enTitle": "GOAT Surfer",
+        "date": "2025-01-13",
+        "update": "2025-02-10",
+        "version": "0.3.0",
+        "path": "goat-surfer",
+        "type": [
+            "已汉化",
+            "放置",
+            "模拟",
+            "升级"
+        ],
+        "content": [
+            "2025-02-10：同步到0.3.0版本了~",
+            "注意：游戏不可直接刷新，需要删除链接里面斜杠/后面的单词再回车即可刷新。游戏还在开发中。",
+            "在这个游戏中，你将从绝对的冲浪新手开始，逐渐进步成为史上最伟大的冲浪者。",
+            "作者想制作一款受《进步骑士》或《魔法研究》等游戏稍微影响的增量游戏，但为了贴近现实，也许会添加一些超自然技能:)",
+            "它的独特之处：",
+            "- 追赶海浪，掌握新技能，成为史上最伟大的冲浪者",
+            "- 解锁新地点、任务和升级",
+            "- 学习新的工作和职业道路，赚取金钱和尊重，",
+            "- 在世界各地越来越困难的地点进行冲浪模拟"
+        ],
+        "enUrl": "https://goat-surfer.netlify.app/",
+        "customUrl": "https://goat-surfer.g8hh.com.cn/",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://gityxs.github.io/goat-surfer/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "开盒抽卡放置",
         "enTitle": "Idle Packs",
         "date": "2025-01-07",
-        "update": "2025-01-07",
+        "update": "2025-02-11",
         "version": "",
-        "path": "santa-ception",
+        "path": "idle-packs",
         "type": [
-            "汉化中",
+            "已汉化",
             "放置",
             "抽卡",
             "战斗",
             "升级"
         ],
         "content": [
+            "2025-02-11：同步更新；好像重做了界面，开卡包拿去单独放一个菜单里面了。",
+            "2025-01-08：同步更新；新增自动拆包器、黑色背景模式。",
             "这是一款内容丰富的抽卡放置游戏，抽卡获得物品，装备物品可以战斗，出售物品可以出售，然后购买更多盒子进行抽卡。"
         ],
         "enUrl": "https://mezeman1.github.io/idle-packs/",
@@ -762,8 +1448,8 @@
         "status": 1
     },
     {
-        "title": "春节树，群友自制模组树游戏",
-        "enTitle": "The Spring Festival Tree",
+        "title": "2024春节树，群友自制模组树游戏",
+        "enTitle": "The Spring Festival Tree 2024",
         "date": "2025-01-01",
         "update": "2025-01-01",
         "version": "",
@@ -880,8 +1566,8 @@
         "title": "觉醒放置",
         "enTitle": "Idle Awakening",
         "date": "2024-12-20",
-        "update": "2025-01-06",
-        "version": "0.0.7a",
+        "update": "2025-01-23",
+        "version": "0.0.7d",
         "path": "idle-awakening",
         "type": [
             "汉化中",
@@ -890,6 +1576,7 @@
             "升级"
         ],
         "content": [
+            "2025-01-23：更新到0.0.7d版本了~",
             "2024-01-06：更新到0.0.7a版本了，顺便补了列表自动化的汉化~",
             "2025-01-03：更新到0.0.6a版本了~",
             "2024-12-31：更新到0.0.5d版本了",
@@ -920,8 +1607,8 @@
         "title": "午夜放置",
         "enTitle": "Midnight Idle",
         "date": "2024-12-12",
-        "update": "2024-12-13",
-        "version": "0.2.3",
+        "update": "2025-02-19",
+        "version": "0.3.8",
         "path": "midnight-idle",
         "type": [
             "已汉化",
@@ -930,6 +1617,9 @@
             "升级"
         ],
         "content": [
+            "2025-02-19：新地图补汉化、补图。",
+            "2025-02-12：更新到0.3.8版本；之前的0.2.9版本可以在链接后拼/v2/进行游戏。",
+            "2025-01-13：更新到0.2.9版本~",
             "2024-12-13：更新到0.2.3版本~",
             "这是一款极简的增量游戏，拥有迷人的背景故事，为你提供丰富的冒险体验。作者是出于对这类游戏的热爱而创造了这款游戏，灵感来自于《军械库与机器》、《反物质维度》、《小黑屋》、《宇宙回形针》等游戏。"
         ],
@@ -950,7 +1640,7 @@
     },
     {
         "title": "放置骇客，挂机战斗刷装备网络放置",
-        "enTitle": "idle hack",
+        "enTitle": "Idle Hack",
         "date": "2024-12-09",
         "update": "2024-12-09",
         "version": "",
@@ -1662,8 +2352,8 @@
         "title": "天体增量树",
         "enTitle": "Celestial Incremental",
         "date": "2024-10-28",
-        "update": "2024-12-04",
-        "version": "1.3",
+        "update": "2025-02-15",
+        "version": "1.4",
         "path": "celestial-incremental",
         "type": [
             "放置",
@@ -1674,6 +2364,7 @@
             "声望树"
         ],
         "content": [
+            "2025-02-15：更新到1.4版本~",
             "2024-12-04：更新到1.3版本~",
             "2024-11-26：更新到1.2.1版本~",
             "这是《增量神树》、《增量神树2》、《增量开发树》作者的新作品。",
@@ -3341,7 +4032,7 @@
         "title": "放置冒险RPG，网络文字放置摸鱼",
         "enTitle": "",
         "date": "2024-08-16",
-        "update": "2024-10-27",
+        "update": "2025-01-17",
         "version": "",
         "path": "idle-quest-rpg",
         "type": [
@@ -3351,6 +4042,7 @@
             "联网"
         ],
         "content": [
+            "2025-01-17：疑似又开放注册了，没玩过的小伙伴可以试试",
             "2024-10-27：测试服更新了新功能，最近会重新开放注册。想畅享自动挂机可以玩测试服。",
             "2024-09-03：新增测试版地址，无限自动，可以纯挂机，体验氪佬的快乐哦~",
             "2024-08-19：群友反馈：苹果手机浏览器玩，是可以弹出验证码的。",
@@ -3624,8 +4316,8 @@
         "title": "我的文字修仙全靠刷，群友自制文字游戏",
         "enTitle": "",
         "date": "2024-07-30",
-        "update": "2024-09-23",
-        "version": "0.8.92",
+        "update": "2025-02-20",
+        "version": "0.9.7",
         "path": "vue-xiuxian",
         "type": [
             "点击",
@@ -3635,6 +4327,7 @@
             "修仙"
         ],
         "content": [
+            "2025-02-20：更新到0.9.7版本~",
             "2024-09-06：更新到0.8版本~",
             "2024-08-05：更新到0.73版本~",
             "2024-08-02：更新到0.7版本，存档不兼容，需要删档重玩~",
@@ -3727,8 +4420,8 @@
         "title": "鲨鱼增量",
         "enTitle": "Shark Incremental",
         "date": "2024-07-05",
-        "update": "2024-12-12",
-        "version": "0.4",
+        "update": "2025-02-16",
+        "version": "0.4.1",
         "path": "shark-incremental",
         "type": [
             "文字",
@@ -3737,6 +4430,7 @@
             "升级"
         ],
         "content": [
+            "2025-02-16：同步到0.4.1版本了~​",
             "2024-12-05：同步到0.3.2.3版本了~​",
             "2024-09-12：同步到0.3.2版本了~​",
             "游戏自带中文，需要去选项里面去选择。​",
@@ -3941,8 +4635,8 @@
         "title": "赛博朋克生活",
         "enTitle": "Cyberpunk Life",
         "date": "2024-06-17",
-        "update": "2024-10-29",
-        "version": "0.72",
+        "update": "2025-02-12",
+        "version": "0.8",
         "path": "cyberpunk-life",
         "type": [
             "已汉化",
@@ -3952,6 +4646,7 @@
             "放置"
         ],
         "content": [
+            "2025-02-12：更新到0.8版本了~​",
             "作者受到《土拨鼠生活》和《骑士进度条》玩法的影响，制作了此游戏。​",
             "还是老样子，我边玩边汉化的，玩的快的小伙伴欢迎发存档给我，我来补汉化~"
         ],
@@ -4609,7 +5304,7 @@
         "title": "无限定义，群友自制战棋放置页游",
         "enTitle": "",
         "date": "2024-02-22",
-        "update": "2024-02-22",
+        "update": "2025-02-10",
         "version": "",
         "path": "wxdy",
         "type": [
@@ -4620,6 +5315,7 @@
             "文字"
         ],
         "content": [
+            "2025-02-10：更新游戏地址为：https://idf.faith.wang/",
             "无限定义是一个缝合手游的抽卡放置游戏。",
             "作为一个世界意志，培养你的英雄队伍，建设你的城镇，掠夺各个位面的资源与灵魂。挑战不可能的难关。",
             "游戏临时网址：",
@@ -4633,7 +5329,7 @@
             "5.游戏模式与摸鱼模式： 可以切换带有贴图的游戏模式，和适合上班上学摸鱼的纯文字模式",
             "6.手机适配： 可以在手机上进行游戏"
         ],
-        "customUrl": "https://www.infinitedefine.top/",
+        "customUrl": "https://idf.faith.wang/",
         "customUrlTit": "开始游戏",
         "QQ": "241870308",
         "pic": [
@@ -5600,8 +6296,8 @@
         "title": "Gooboo",
         "enTitle": "Gooboo",
         "date": "2023-10-09",
-        "update": "2024-12-23",
-        "version": "1.5.5",
+        "update": "2025-02-09",
+        "version": "1.5.8",
         "path": "gooboo",
         "type": [
             "点击",
@@ -5610,6 +6306,7 @@
             "放置"
         ],
         "content": [
+            "2025-02-09：更新到1.5.8版本。有朋友想玩1.5.5版本的话，可以在游戏链接后面拼上/1.5.5/",
             "2024-12-23：有朋友想玩1.5.3版本，所以新增2个1.5.3版本的链接~",
             "2024-11-24：更新到1.5.5版本了~",
             "更新到1.3.5版本了，我把汉化放入了国际化文件，现在可以在设置里面自由切换中英德语了~",
@@ -6335,7 +7032,7 @@
             "放置"
         ],
         "content": [
-            "原版 《绝对按钮模拟器》 的续作，灵感来自 Roblox 按钮模拟器趋势。"
+            "原版 《绝对按钮模拟器》 的续作，灵感来自 Roblox 按钮模拟器趋势。十二龙作者的另一个作品。"
         ],
         "zhUrl": "https://g1tyx.github.io/absolute-button-simulator-2/",
         "customUrl": "https://absolute-button-simulator-2.g8hh.com.cn/",
@@ -7463,7 +8160,7 @@
             "放置"
         ],
         "content": [
-            "游戏玩法是尽可能多地为电池充电，解锁升级，达成成就。​",
+            "游戏玩法是尽可能多地为电池充电，解锁升级，达成成就。十二龙作者的另一个作品。​",
             "注意：游戏不会自动保存，需要自己去设置里面点保存按钮才行。​"
         ],
         "zhUrl": "https://gltyx.github.io/the-battery/",
@@ -7490,7 +8187,7 @@
             "放置"
         ],
         "content": [
-            "点击按钮，获取各种符号，通过转生获得更多加成。",
+            "点击按钮，获取各种符号，通过转生获得更多加成。十二龙作者的另一个作品。",
             "游戏流程的长短，取决于你的手速。​"
         ],
         "zhUrl": "https://gltyx.github.io/unnamed-button-game/",
@@ -7548,7 +8245,7 @@
             "放置"
         ],
         "content": [
-            "目测肝的批爆。。是一款实打实的消磨时间的游戏~后面有日常奖励、有宠物玩法，肝起来吧！"
+            "目测肝的批爆。。是一款实打实的消磨时间的游戏~后面有日常奖励、有宠物玩法，肝起来吧！十二龙作者的另一个作品。"
         ],
         "zhUrl": "https://gltyx.github.io/check-back/",
         "customUrl": "https://check-back.g8hh.com/",
@@ -7576,7 +8273,7 @@
             "放置"
         ],
         "content": [
-            "这是一个有多个地雷的困难扫雷游戏版本。"
+            "这是一个有多个地雷的困难扫雷游戏版本。十二龙作者的另一个作品。"
         ],
         "zhUrl": "https://gltyx.github.io/kilo-sweep/",
         "customUrl": "https://kilo-sweep.g8hh.com/",
@@ -8223,13 +8920,14 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2024-12-16",
-        "version": "0.2.1",
+        "update": "2025-02-15",
+        "version": "0.2.2",
         "path": "fundamental",
         "type": [
             "已汉化"
         ],
         "content": [
+            "2025-02-15：更新到0.2.2版本了~",
             "2024-12-16：更新到0.2.1版本了~",
             "这是 awWhy 制作的测试项目。 应受现代浏览器、手机和屏幕阅读器的支持（需要在设置中打开支持）。 灵感来自“协同放置”、“反物质维度”等游戏。"
         ],
@@ -11050,13 +11748,13 @@
             "增量"
         ],
         "content": [
-            "《耀西之门》是一款以《超级马里奥》里面的一种恐龙为主角的增量游戏。​",
+            "《耀西之门》是一款以《超级马里奥》里面的一种恐龙为主角的增量游戏。十二龙作者的另一个作品。​",
             "后面内容比较多，还在补汉化，没事儿就刷新下哈~​"
         ],
         "customUrl": "https://yx.g8hh.com.cn/the-yoshi-portal",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/the-yoshi-portal",
-        "enUrl": "https://demonins-item-shop.demonin.repl.co/games/theYoshiPortal/",
+        "enUrl": "https://demonin.com/games/theYoshiPortal/",
         "pic": [
             1,
             2,
@@ -11165,17 +11863,18 @@
         "title": "石头增量",
         "enTitle": "Stonemental",
         "date": "2022-08-19",
-        "update": "2022-09-06",
-        "version": "0.2",
+        "update": "2025-02-10",
+        "version": "1.0",
         "path": "stonemental",
         "type": [
             "已汉化",
             "点击"
         ],
         "content": [
+            "2025-02-10：同步到1.0版本~​",
             "一款类似放置矿工：重制版的游戏。​"
         ],
-        "customUrl": "https://yx.g8hh.com.cn/stonemental",
+        "customUrl": "https://stonemental.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/stonemental",
         "enUrl": "https://mrredshark77.github.io/Stonemental/",
@@ -11281,8 +11980,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2024-04-11",
-        "version": "0.5.3",
+        "update": "2025-02-14",
+        "version": "α1.4",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -11290,10 +11989,16 @@
             "升级"
         ],
         "content": [
+            "2025-02-14：补充之前旧版0.5.3版本的链接，在链接后面拼上/old/即可访问。",
+            "2024-11-04：同步到α1.4版本了~​",
             "《真实割草放置》是一款模拟割草的增量放置游戏（凑字数，嘻嘻），是《质量增量重制版》作者的另一个作品。"
         ],
         "customUrl": "https://really-grass-cutting-incremental.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://gltyx.github.io/really-grass-cutting-incremental/old/",
+        "customUrlTit2": "汉化版-0.5.3",
+        "customUrl3": "https://really-grass-cutting-incremental.g8hh.com.cn/old/",
+        "customUrlTit3": "备用地址-0.5.3",
         "zhUrl": "https://gltyx.github.io/really-grass-cutting-incremental",
         "enUrl": "https://mrredshark77.github.io/Really-Grass-Cutting-Incremental/",
         "pic": [
@@ -12054,10 +12759,10 @@
         "status": 1
     },
     {
-        "title": "银河奶牛放置",
+        "title": "银河奶牛放置，多人在线网络放置",
         "enTitle": "Milky Way Idle",
         "date": "2022-07-04",
-        "update": "2024-03-20",
+        "update": "2025-01-13",
         "version": "",
         "path": "milkywayidle",
         "type": [
@@ -12067,14 +12772,18 @@
             "策略"
         ],
         "content": [
-            "最新汉化文件去交流群：701342586 获取。",
-            "​《银河奶牛放置》是一款以太空中的魔法奶牛为主题的多人在线放置奇幻角色扮演游戏。您可以学习多种技能，包括采集、制作或战斗。您还可以通过市场与其他玩家聊天或交易。",
+            "2025-01-13：新增另一个专属QQ交流群：482088950",
+            "大杂烩游戏交流群：701342586 。",
+            "《银河奶牛放置》是一款以太空中的魔法奶牛为主题的多人在线放置奇幻角色扮演游戏。您可以学习多种技能，包括采集、制作或战斗。您还可以通过市场与其他玩家聊天或交易。",
             "玩过《梅尔沃放置》的小伙伴估计一下就看出来了，这个游戏借鉴了很多梅尔沃的特色。",
-            " 游戏还在汉化中，目前计划是初步是先机翻走一遍，然后再慢慢润色。​所以大家玩的时候可以时不时的刷新下游戏，然后重新引入汉化脚本。"
+            "游戏全文汉化，需要安装汉化脚本。游客账号可绑定邮箱，多端登录。"
         ],
-        "customUrl": "https://note.youdao.com/s/EzfCCyh4",
-        "customUrlTit": "汉化脚本/方式",
-        "enUrl": "https://www.milkywayidle.com/?ref=88725",
+        "customUrl3": "https://shorturl.at/ZFXPI",
+        "customUrlTit3": "游戏攻略",
+        "customUrl2": "https://test-ctmd6jnzo6t9.feishu.cn/docx/BqqHdhd3joU3G3xcT2VcR5lenFc?useEs6=0",
+        "customUrlTit2": "汉化脚本/方式",
+        "customUrl": "https://www.milkywayidle.com/?ref=99221",
+        "customUrlTit": "开始游戏",
         "QQ": "701342586",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=uWi2pd8HCNjx3nHncLpm8B4elxc7uHDS&jump_from=webapi&authKey=8ac6knYnTowr9nX6ILV2X0iRolSjoD0KRIYMF3do7TXCx/svoB1VP6n6S11fnDa5",
         "pic": [
@@ -12082,7 +12791,8 @@
             2,
             3,
             4,
-            5
+            5,
+            0
         ],
         "status": 1
     },
@@ -12725,10 +13435,10 @@
             "升级"
         ],
         "content": [
-            "群里小伙伴推荐的，游戏主题就是点按钮、买升级，转生变强！"
+            "群里小伙伴推荐的，游戏主题就是点按钮、买升级，转生变强！十二龙作者的另一个作品。"
         ],
-        "enUrl": "https://demonins-item-shop.demonin.repl.co/games/absoluteButtonSimulator/",
-        "customUrl": "https://absolute-button-simulator.g8hh.com/",
+        "enUrl": "https://demonin.com/games/absoluteButtonSimulator",
+        "customUrl": "https://absolute-button-simulator.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/absolute-button-simulator",
         "oscUrl": "https://www.oschina.net/p/absolute-button-simulator",
@@ -15998,7 +16708,7 @@
             "养成"
         ],
         "content": [
-            "一款冒险探索元素的游戏。"
+            "一款冒险探索元素的游戏。十二龙作者的另一个作品。"
         ],
         "zhUrl": "https://g8hh.github.io/endless-stairwell",
         "enUrl": "https://demonins-item-shop.demonin.repl.co/games/endlessStairwell/",
@@ -19113,8 +19823,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "",
         "date": "2021-04-22",
-        "update": "2024-08-25",
-        "version": "0.6.178",
+        "update": "2025-02-09",
+        "version": "0.6.190",
         "path": "jyf",
         "type": [
             "放置",
@@ -19129,6 +19839,7 @@
             "武侠"
         ],
         "content": [
+            "2025-02-09：更新到0.6.190测试版本，接入了deepseek模型，变身君子模拟器。",
             "2024-08-25：更新到0.6.178版本了，增加剧情模式和MOD功能~",
             "新增AI对话的模式~",
             "点击版本号即可进入对应版本开玩~",
@@ -21233,10 +21944,10 @@
         "status": 1
     },
     {
-        "title": "异形工厂，Steam史低3.5元，截止1月3号",
+        "title": "异形工厂，Steam特卖7元，截止3月3号",
         "enTitle": "shapez.io",
         "date": "2020-07-01",
-        "update": "2024-12-20",
+        "update": "2025-02-17",
         "path": "shapez-io",
         "type": [
             "放置",
@@ -21248,6 +21959,7 @@
             "Steam"
         ],
         "content": [
+            "2025-02-17：Steam特卖7元，截止3月3号。",
             "2024-12-20：Steam特卖3.5元，截止1月3号。史低!",
             "2024-11-14：Steam特卖7元，截止11月28号。史低为3.5元。",
             "2023-04-07：Epic上最近可以免费领哦，截止到4月13日23:00。",
