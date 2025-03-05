@@ -437,7 +437,7 @@
         "title": "迷你梦幻，怀旧多人在线游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2025-01-08",
+        "update": "2025-02-28",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -536,61 +536,10 @@
         "status": 1
     },
     {
-        "title": "巅峰之路，放置冒险RPG（原型RPG姊妹篇）",
-        "enTitle": "The Climb",
-        "date": "2025-02-28",
-        "update": "2025-02-28",
-        "version": "2025.2.21",
-        "path": "the-climb",
-        "type": [
-            "RPG",
-            "养成",
-            "战斗",
-            "放置",
-            "升级"
-        ],
-        "content": [
-            "这是一款受 原型RPG（proto23） 启发的放置类RPG，目前还在开发中。",
-            "这两个游戏都可以来群里讨论，QQ交流群：490292981",
-            "目前游戏的内容范围：",
-            "- 世界：城市、玩家的房屋、森林、矿井、塔楼及其 5 个楼层",
-            "- 属性（基本属性）、技能（提高属性）和额外津贴（技能断点提供更好的奖励）",
-            "- 成就（为统计数据提供奖励）",
-            "- 装备 - 获得经验，可以升级（更多奖励），最高等级的武器可以“喂食”多个副本以“唤醒”它，从而增加（和转化）奖励。每件被唤醒的武器都会与一个有自己小故事的死者的灵魂产生共鸣。拿着这种武器与这个故事互动（尽量不剧透）会触发“隐藏”成就（解锁这种成就解释了确切的要求）",
-            "- 附魔系统 - 装备可能有插槽，玩家可以在这些插槽中放入附魔（较弱）或卡牌（较强），提供额外的奖励",
-            "- 卡牌系统 - 每个怪物（塔楼首领除外）都会以低概率掉落一张卡牌。此卡牌可以插入装备中以获得额外收益。",
-            "- 制作 - 设备、消耗品、材料",
-            "- 魔法 - 以卷轴（一次性消耗品）和符文（可装备的永久魔法源）的形式，在每一层塔上解锁咒语。",
-            "- 任务 - 访问冒险者公会以获取一些金钱合同",
-            "- 塔祝福 - 本游戏的“声望”系统。到达塔的某些楼层（第一层和第五层）后，玩家可以在重置游戏时接受塔祝福（永久、强大的奖励） - 无论祝福如何，某些进度部分都是永久的（成就、卡牌）",
-            "- 旅行者 - 接受塔祝福的登山者，基本上是更有趣的 NPC",
-            "- 动物寓言集 - 每个怪物都有一个条目，可以通过从怪物那里获得卡片或购买和阅读书籍来解锁。提供有关怪物的所有信息（统计数据、法术、掉落和掉落率）",
-            "- 统计数据细分 - 所有统计数据的列表、其值及其来源",
-            "- 头衔 - 玩家名字的装饰性“后缀”，通过成就解锁",
-            "- 战斗 - 战斗是自动的，但玩家可以手动使用消耗品（治疗物品、魔法卷轴）。战斗包括基本攻击（每刻一次）和法术（通过符文，每个符文都有机会触发每刻）。敌人总是先发起攻击。",
-            "- 元素 - 每个实体都有攻击和护甲元素，法术也有元素。使用某些元素对抗其他元素（游戏训练场中有详细说明）会导致伤害修正。"
-        ],
-        "zhUrl": "https://g1tyx.github.io/the-climb/",
-        "customUrl2": "https://the-climb.g8hh.com.cn/",
-        "customUrlTit2": "备用地址-g8hh",
-        "enUrl": "https://tomlipo.github.io/the-climb/",
-        "QQ": "490292981",
-        "qqUrl": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=hItANGMxQLWBooka8lmTKBYZBeRnPj-z&authKey=APpiWcOWsBeXplsmBpc95IlLRi7CmIwy92qInv2CoEF%2FivJz01V9bT0Y6SBwG4g6&noverify=0&group_code=490292981",
-        "pic": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            0
-        ],
-        "status": 1
-    },
-    {
         "title": "无尽洪荒，文字MUD修仙游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2025-02-25",
+        "update": "2025-02-28",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -659,7 +608,7 @@
         "title": "放置传奇，PC挂机摸鱼放置游戏，七夕活动进行中",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2025-01-11",
+        "update": "2025-02-28",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -778,6 +727,179 @@
             0
         ],
         "status": 0
+    },
+    {
+        "title": "战利品宝箱点击器",
+        "enTitle": "Loot Box Clicker",
+        "date": "2025-03-05",
+        "update": "2025-03-05",
+        "version": "",
+        "path": "loot-box-clicker",
+        "type": [
+            "升级",
+            "开箱",
+            "点击",
+            "休闲",
+            "放置"
+        ],
+        "content": [
+            "这是一个简单但是很爽的开箱抽装备游戏，冒险获得各种货币，不同货币可以购买不同的战利品宝箱，宝箱可以开出不同属性的装备。",
+            "注意：刷新会404，需要把链接斜杠/后面的单词删掉，回车就可以了。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/loot-box-clicker/",
+        "customUrl2": "https://loot-box-clicker.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "enUrl": "https://www.rule0.com/LBC/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "迷你王国，网络建造发展放置",
+        "enTitle": "Mini Realms",
+        "date": "2025-03-04",
+        "update": "2025-03-04",
+        "version": "",
+        "path": "minirealms",
+        "type": [
+            "英文",
+            "油猴",
+            "汉化中",
+            "战斗",
+            "建造",
+            "联网"
+        ],
+        "content": [
+            "注册时若无邀请码，可以填我的: 5hl8zi0ty",
+            "油猴汉化文件地址（3选1安装即可）：",
+            "https://greasyfork.org/zh-CN/scripts/528720-mini-realms-简中汉化脚本/",
+            "https://g8hh.com.cn/zh/tampermonkey/minirealms-chs.user.js",
+            "https://github.com/g8hh/tampermonkey/raw/main/minirealms-chs.user.js",
+            "这是一款在线增量式游戏，你可以利用随时间推移获得的体力来建立自己的王国。你可以在土地上建造建筑物以增加额外收益。这可能不是真正的增量式游戏，因为数字不仅会增加，而且进度一开始很慢，但随着你可以解锁新功能，进度会变得更快。",
+            "您可以雇佣/训练军队来对抗您王国之外的生物。这会为您带来永久的资源生成，即使您被其他玩家消灭，您也不会失去这些资源。",
+            "如果您只想建立自己的领域，那么它基本上可以成为一款单人游戏，无需与其他玩家互动。排行榜只会显示每个地区排名前 3（可能会降至 2）的玩家。除此之外，几乎不可能不猜就找到其他玩家。唯一的警告是，如果您攻击玩家，他们会看到您的领域编号，这就是他们进行报复的方式。",
+            "如果你真的想在排行榜上名列前茅，你需要与其他人合作。要推翻第一名和第二名并不容易，但如果人们协调进攻，还是可以做到的。即使士兵死亡，兵营仍留在土地上，所以任何王国的防御能力都是有限的，而代价是他们失去了额外的存储空间或农作物产生的资源。",
+            "新手攻略：",
+            "1、王国首页右边，收集资源、占领地块消耗耐力。",
+            "2、资源可以去商店解锁新功能。",
+            "3、和议员谈谈，领取每日奖励。",
+            "注意：游戏还在开发中​。"
+        ],
+        "customUrl": "https://minirealms.com/",
+        "customUrlTit": "开始游戏",
+        "customUrl3": "https://gityx.com/help/faq/633.html",
+        "customUrlTit3": "油猴汉化教程",
+        "customUrl4": "https://www.tampermonkey.net/",
+        "customUrlTit4": "油猴官网",
+        "QQ": "867979275",
+        "qqUrl": "https://qm.qq.com/q/Vx06jLubmy",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "清华不增量页，群里小姐姐新作",
+        "enTitle": "The Tsinghua Incremental Table",
+        "date": "2025-03-03",
+        "update": "2025-03-03",
+        "version": "",
+        "path": "the-tsinghua-incremental-table",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "群里的小姐姐又发新作品啦，大家快来玩~",
+            "这是一个从出生开始关于安排猫猫日常学习和生活计划，帮助她应对各个阶段考试并考上清华的游戏",
+            "小姐姐的QQ交流群：714647341",
+            "每次版本更新之前如果获得游戏里的高考状元（高考分数全群最高），都可以领取美照加上小礼物。"
+        ],
+        "customUrl2": "https://the-tsinghua-incremental-table.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl": "https://beautyfallencat.github.io/The-Tsinghua-Incremental-Table/",
+        "customUrlTit": "开始游戏",
+        "QQ": "714647341",
+        "qqUrl": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0xGfZS-KOwBlnbyko6W0D4WoG3PHr4jn&authKey=S42arbCEql8tbn1cMGZ4%2Bmnyd3IM7cOeiYxP8PbCCUVIM%2BV5cO7JZNdzK1inRapr&noverify=0&group_code=714647341",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "MC挖矿点击，合并挖矿放置",
+        "enTitle": "Minetap: Merge-Idle RPG",
+        "date": "2025-03-03",
+        "update": "2025-03-03",
+        "version": "",
+        "path": "minetap",
+        "type": [
+            "中文",
+            "安卓",
+            "苹果",
+            "挖矿",
+            "制作",
+            "放置"
+        ],
+        "content": [
+            "注意：游戏会强制弹广告，禁用它的网络权限就可以畅玩了。",
+            "MineTap是一个具有合并机制和工艺的点击器，是所有像素游戏爱好者最好的免费游戏之一！",
+            "现在开始你的史诗般的采矿冒险-点击，点击和摇滚！《MineTap》是最好的像素类RPG游戏之一。创建你的角色，开始采矿和寻宝！制作你的终极武器并杀死史诗般的怪物！你曾经梦想过成为英雄，拯救世界吗？然后点击播放，成为一个传奇的制作！合并资源，在工作台和锻造上建造更复杂的材料，开采矿石并创造珍贵的宝石。成为敲击英雄、合并巨人和制作传奇中的佼佼者！单人冒险是可用的离线，没有互联网连接-闲置你的无聊的时间！深入挖掘，合并资源，工艺和拾取设备，使用特殊的提升来加快进程-很快地球上所有的财富都将是你的！让我们把你的名字写进英雄史册！",
+            "游戏特点:-享受可识别的图形-特别是像素爱好者！",
+            "-挖掘出数十种资源来组合和制作",
+            "-收集宝箱收集更多的资源用于采矿",
+            "-合并相同的块来获得史诗材料",
+            "-使用强大的推动，以加快制作过程",
+            "-制作装备和盔甲-提升你的英雄变得更加强大！",
+            "-完成70多个具有挑战性的任务",
+            "-在宝藏矿试试你的运气-每天获得免费奖励",
+            "在这个史诗般的RPG游戏中成为第一名！深入!捡起所有有价值的资源，同时挖掘&点击&敲击！",
+            "Mine Tap对每个人来说都是一款很棒的游戏，适合短时间的空闲点击器。",
+            "你觉得无聊吗？花几个小时在这个简单，但令人难以置信的有趣像素空闲冒险！如果你想玩最好的点击游戏之一，你现在应该试试！"
+        ],
+        "customUrl": "https://apps.apple.com/us/app/minetap-merge-idle-rpg/id1586010656?l=en-GB",
+        "customUrlTit": "iOS版-美区",
+        "customUrl2": "https://play.google.com/store/apps/details?id=com.mvgamesteam.minetap",
+        "customUrlTit2": "安卓市场下载",
+        "customUrl3": "https://apkpremier.com/com-mvgamesteam-minetap/minetap-merge-rpg-clicker/download/",
+        "customUrlTit3": "安卓XAPK直链下载",
+        "customUrl4": "https://apps.apple.com/us/app/minetap-3d-idle-merge-rpg/id1641535218",
+        "customUrlTit4": "3D版-iOS版-美区",
+        "customUrl5": "https://apkpremier.com/house-geeky-minetap3d/minetap-3d-idle-merge-rpg/download/",
+        "customUrlTit5": "3D版-安卓XAPK直链下载",
+        "QQ": "307378614",
+        "qqUrl": "https://qm.qq.com/q/uzICytzaww",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1
     },
     {
         "title": "NES俄罗斯方块",
@@ -1280,8 +1402,8 @@
         "title": "超级乌龟放置2",
         "enTitle": "Super Turtle Idle Beta",
         "date": "2025-02-10",
-        "update": "2025-02-26",
-        "version": "1.051",
+        "update": "2025-03-03",
+        "version": "1.051 v9",
         "path": "super-turtle-idle-beta",
         "type": [
             "点击",
@@ -1290,6 +1412,7 @@
             "放置"
         ],
         "content": [
+            "2025-03-03：同步最新1.051 v9版本~",
             "2025-02-26：同步最新1.051版本，新增了一个地图~",
             "欢迎来到《超级乌龟放置2》，这是一款增量放置RPG。完成委托，通过放置收集材料，并消灭强敌!",
             "此版本为群里的 @林雷 大佬汉化。欢迎加入游戏交流群：821355753"
@@ -1833,8 +1956,8 @@
         "title": "觉醒放置",
         "enTitle": "Idle Awakening",
         "date": "2024-12-20",
-        "update": "2025-02-26",
-        "version": "0.1.0",
+        "update": "2025-03-05",
+        "version": "0.1.1c",
         "path": "idle-awakening",
         "type": [
             "汉化中",
@@ -1843,6 +1966,8 @@
             "升级"
         ],
         "content": [
+            "2025-03-05：更新到0.1.1c版本了~",
+            "2025-03-03：更新到0.1.1版本了~",
             "2025-02-26：更新到0.1.0版本了~",
             "2025-01-23：更新到0.0.7d版本了~",
             "2024-01-06：更新到0.0.7a版本了，顺便补了列表自动化的汉化~",
@@ -4004,7 +4129,7 @@
         "title": "荣耀之径，群友自制挂机页游",
         "enTitle": "",
         "date": "2024-09-09",
-        "update": "2025-02-24",
+        "update": "2025-03-04",
         "version": "",
         "path": "ryzj",
         "type": [
@@ -4015,6 +4140,26 @@
             "挂机"
         ],
         "content": [
+            "2025-03-04更新：",
+            "添加光环类技能",
+            "- 增加光环 [正义之火][神圣之火][神圣冲击] [神圣冻结]  ",
+            "- 光环技能无消耗, 可以周期性的造成各类效果",
+            "- 同一时间只能有一个光环生效",
+            "- 更新任务特性 老好人 可以不限制的使用光环",
+            "2025-03-03：更新",
+            "增加了怪物强化：",
+            "火焰强化. 火焰 减伤50% 死亡会放熔火怪 自爆",
+            "冰冷强化. 冰 减伤50% 周期释放 霜星",
+            "闪电强化 闪电 减伤50% 受攻击释放充能弹",
+            "混乱强化 混乱 减伤50% 周期释放奥术哨兵 哨兵会释放奥术洪流",
+            "物理强化 物理 减伤50% 增伤 50%",
+            "击退. 将前排击退至后排",
+            "炮轰 周期炮轰后排敌人",
+            "急速 周期对自己释放加速",
+            "筑墙 周期降低敌方速度",
+            "反伤. 周期反弹伤害.",
+            "吸血. 周期按照造成的伤害给自己治疗",
+            "修复了一些bug.",
             "2025-02-24：更新",
             "现在所有的 战斗风格 (职业)都有了不同的机制",
             "重新更新了 引导 类技能",
@@ -5555,11 +5700,11 @@
         "status": 1
     },
     {
-        "title": "法外之王",
+        "title": "不法之治",
         "enTitle": "Unlawful Reign",
         "date": "2024-02-26",
-        "update": "2024-02-27",
-        "version": "0.3.1",
+        "update": "2025-03-05",
+        "version": "0.4.3",
         "path": "unlawful-reign",
         "type": [
             "已汉化",
@@ -5569,6 +5714,7 @@
             "放置"
         ],
         "content": [
+            "2025-03-05：同步到最新版0.4.3了~",
             "2024-02-27：同步到最新版，可能会丢档，做好心理准备！",
             "一开始是个小喽啰，只会扒窃，最终赚到钱、名声大噪等等，解锁升级、新的任务、组建自己的帮派等等。",
             "提示：游戏仅供娱乐，切勿代入生活。"
@@ -5576,7 +5722,7 @@
         "zhUrl": "https://gityxs.github.io/unlawful-reign/",
         "customUrl": "https://unlawful-reign.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
-        "enUrl": "https://dainty-horse-1b0c9c.netlify.app/",
+        "enUrl": "https://unlawful-reign-web.vercel.app/",
         "pic": [
             1,
             2,
@@ -9206,13 +9352,14 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2025-02-15",
-        "version": "0.2.2",
+        "update": "2025-03-03",
+        "version": "0.2.3",
         "path": "fundamental",
         "type": [
             "已汉化"
         ],
         "content": [
+            "2025-03-03：更新到0.2.3版本了~",
             "2025-02-15：更新到0.2.2版本了~",
             "2024-12-16：更新到0.2.1版本了~",
             "这是 awWhy 制作的测试项目。 应受现代浏览器、手机和屏幕阅读器的支持（需要在设置中打开支持）。 灵感来自“协同放置”、“反物质维度”等游戏。"
@@ -13048,7 +13195,7 @@
         "title": "银河奶牛放置，多人在线网络放置",
         "enTitle": "Milky Way Idle",
         "date": "2022-07-04",
-        "update": "2025-01-13",
+        "update": "2025-03-04",
         "version": "",
         "path": "milkywayidle",
         "type": [
@@ -13058,6 +13205,7 @@
             "策略"
         ],
         "content": [
+            "2025-03-04：在大佬们不懈努力下，终于更新了官方中文汉化，不需要插件也可以畅玩了！",
             "2025-01-13：新增另一个专属QQ交流群：482088950",
             "大杂烩游戏交流群：701342586 。",
             "《银河奶牛放置》是一款以太空中的魔法奶牛为主题的多人在线放置奇幻角色扮演游戏。您可以学习多种技能，包括采集、制作或战斗。您还可以通过市场与其他玩家聊天或交易。",
@@ -22485,7 +22633,7 @@
         "enUrl": "http://raw.githack.com/aarextiaokhiao/IvarK.github.io/master/",
         "customUrl": "https://antimatter-dimensions-ng.g8hh.com",
         "customUrlTit": "备用地址-g8hh",
-        "customUrl2": "https://shimo.im/sheets/pyCqXCVvGgr8t9TP/MODOC/",
+        "customUrl2": "https://docs.qq.com/sheet/DRExVUkpPbmtOZ1V3",
         "customUrlTit2": "Mod介绍",
         "wikiUrl": "https://note.youdao.com/ynoteshare1/index.html?id=4d1255cd7120831d582d75739b12a642&type=note",
         "QQ": "1050424901",
