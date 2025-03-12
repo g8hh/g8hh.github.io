@@ -729,6 +729,44 @@
         "status": 0
     },
     {
+        "title": "我的普通放置，群友自制文字放置游戏",
+        "enTitle": "",
+        "date": "2025-03-12",
+        "update": "2025-03-12",
+        "version": "1.0.1",
+        "path": "my-normal-idle",
+        "type": [
+            "点击",
+            "战斗",
+            "群友自制",
+            "文字",
+            "修仙"
+        ],
+        "content": [
+            "这是《我的放置仙途》、《我的文字修仙全靠刷》、《星际帝国》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
+            "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
+            "QQ交流群：920930589"
+        ],
+        "customUrl": "https://idle-xiuxian.jntm.cool/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://vue-idle-xiuxian.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://github.com/setube/vue-idle-xiuxian",
+        "customUrlTit3": "Github项目求点星",
+        "QQ": "920930589",
+        "qqUrl": "https://qm.qq.com/q/iifNs5qukg",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "放置拼好团，Steam挂机战斗放置游戏",
         "enTitle": "Raid Auctus",
         "date": "2025-03-12",

@@ -29,16 +29,22 @@
     "tips": "锅巴推荐小程序，每笔消费都省钱",
     "status": 0
 },{
-    "title": "多人在线PK，来 排行榜放置",
-    "link": "https://mp.weixin.qq.com/s/KYxiaG8EGBCREoSq5xSaOQ",
-    "button": "前往参与",
-    "tips": "锅巴自制小程序",
-    "status": 0
+    "title": "无尽洪荒，文字MUD修仙游戏",
+    "link": "https://mudgj.com/wjhh/login.do/?td_channelid=gityx",
+    "button": "开始游戏",
+    "tips": "文字MUD修仙游戏",
+    "status": 1
 },{
-    "title": "Git游戏论坛，欢迎来写攻略！",
-    "link": "http://bbs.gityx.com",
-    "button": "点击访问",
-    "tips": "论坛内置若干放置游戏哦~",
+    "title": "迷你梦幻，怀旧网络放置",
+    "link": "http://uuuyx.com/112581",
+    "button": "开始游戏",
+    "tips": "经典复刻，怀旧多人在线游戏",
+    "status": 1
+},{
+    "title": "银河奶牛放置",
+    "link": "https://www.milkywayidle.com/?ref=2883",
+    "button": "开始游戏",
+    "tips": "万人在线，一起挤奶！",
     "status": 1
 }, {
     "title": "《无心宠物》火爆游戏中~",

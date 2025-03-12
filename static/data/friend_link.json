@@ -11,16 +11,16 @@
 },{
     "title": "U77游戏",
     "desc": "U77回来了！",
-    "url": "https://www.u77.game",
+    "url": "https://www.u77game.net/",
     "status": 1
 }, {
-    "title": "论坛",
-    "desc": "欢迎大家写游戏攻略",
-    "url": "https://gityx.com/notify/20220112/671.html",
-    "status": 0
+    "title": "赞助支持",
+    "desc": "摸鱼万岁，感谢大家的支持！",
+    "url": "https://gityx.com/donate/intro.html",
+    "status": 1
 }, {
-    "title": "聚享游",
-    "desc": "玩游戏可以赚钱哦",
-    "url": "http://www.ttz.com/floor/recom/3570025",
-    "status": 0
+    "title": "银河奶牛放置",
+    "desc": "万人在线，一起挤奶！",
+    "url": "https://www.milkywayidle.com/?ref=2883",
+    "status": 1
 }]
