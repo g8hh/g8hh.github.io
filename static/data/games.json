@@ -437,7 +437,7 @@
         "title": "迷你梦幻，怀旧多人在线游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2025-02-28",
+        "update": "2025-03-07",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -539,7 +539,7 @@
         "title": "无尽洪荒，文字MUD修仙游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2025-02-28",
+        "update": "2025-03-07",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -608,7 +608,7 @@
         "title": "放置传奇，PC挂机摸鱼放置游戏，七夕活动进行中",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2025-02-28",
+        "update": "2025-03-07",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -729,6 +729,196 @@
         "status": 0
     },
     {
+        "title": "放置拼好团，Steam挂机战斗放置游戏",
+        "enTitle": "Raid Auctus",
+        "date": "2025-03-12",
+        "update": "2025-03-12",
+        "version": "",
+        "path": "steam-fzpht",
+        "type": [
+            "挂机",
+            "Steam",
+            "角色",
+            "战斗",
+            "中文"
+        ],
+        "content": [
+            "在这款令人上瘾的挂机游戏中体验RPG副本的刺激！在Raid Auctus中，您将建立和管理自己的副本队伍，他们会在游戏运行时变得更强。观看您的队伍克服挑战，获得史诗奖励，登上巅峰 - 一切都按照您的节奏进行。",
+            "掌握挂机副本的艺术：",
+            "-从20个经典MMO职业中打造您的梦想队伍",
+            "-将角色升至200级并释放他们的全部潜能",
+            "-通过每次知识传承变得更强，解锁永久升级",
+            "-在铁匠处升级您的角色",
+            "-无限强化您的角色",
+            "-管理独特的队伍动态，征服40多个副本挑战",
+            "-游戏运行时角色持续成长",
+            "保持您的副本队伍活跃！提升角色，优化构建，收集传说奖励。无需协调时间表或等待其他玩家 - 在Raid Auctus中，只要保持游戏运行，完美的副本体验随时触手可及！",
+            "准备成为副本大师了吗？今天就开始您在Raid Auctus的冒险吧！",
+            "目前是Demo体验版本，正式版将于2025 年第二季度正式发售。",
+            "感兴趣的小伙伴可以去Steam添加愿望单。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/3413590/_/?utm_source=guoba&utm_campaign=demotest",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "凯佐增量，群友汉化",
+        "enTitle": "Kaizo Incremental",
+        "date": "2025-03-11",
+        "update": "2025-03-1",
+        "version": "0.1",
+        "path": "kaizo-incremental",
+        "type": [
+            "升级",
+            "点击",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "这是群里小伙伴 @22222 汉化、推荐的放置游戏，比较肝。"
+        ],
+        "zhUrl": "https://qwqe198.github.io/Kaizo-Incremental-ch/",
+        "customUrl2": "https://kaizo-incremental.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "enUrl": "https://mrredshark77.github.io/Kaizo-Incremental/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "猫好货坏，Steam模拟生存游戏",
+        "enTitle": "",
+        "date": "2025-03-10",
+        "update": "2025-03-10",
+        "version": "",
+        "path": "steam-mhhh",
+        "type": [
+            "恐怖",
+            "Steam",
+            "生存",
+            "中文"
+        ],
+        "content": [
+            "海外爆火！全球铲屎官连夜应聘，带猫上岗！恐怖模拟游戏《猫好货坏》将于3月10日登陆Steam，首发两周8折仅需19.6元（原价24.5元）。",
+            "现可前往Steam添加愿望单，3月10日晚上9点（北京时间）准时打卡上班！",
+            " 深夜物流仓库惊现灵异订单！带猫打工的福利背后，是荒郊仓库夜班员的致命陷阱。陪伴爱猫入职物流中心的你，为了有条不紊地完成每日的发货Kpi，不得不根据订单要求，深入货架迷宫探索。同时，你还需要直面诡谲的灵异事件，并最终揭开仓库深处埋藏的黑暗真相。记住，不要离开你的猫主子太久，它是你在这种压抑环境中的唯一慰藉。",
+            "特别警示",
+            "谨记下列生存法则：",
+            "1. 猫永远是好的。",
+            "2. 猫主子不高兴时，请立刻返回。",
+            "3. 不要向猫主子询问仓库历史。",
+            "4. 收到订单时，需熟记货架信息。",
+            "5. 所有的订单和货物都没有出错。",
+            "6. 这是间无人仓库。",
+            "7. 听见货箱自行移动的声音，迅速离开现场。",
+            "8. 独自完成所有订单，不要和其他人接触。",
+            "主要特色",
+            "发货模拟器：取货、打包、发货，在紧迫的配额压力下完成工作。",
+            "心理恐怖：探索仓库，每一步都危机重重。",
+            "独特体验：每次死亡都会让你进入一个新的仓库，各种动态事件会带来意想不到的挑战。",
+            "揭开谜团：解锁并探索新区域，逐步拼凑隐藏其中的黑暗真相。",
+            "生存与陪伴：保护和照顾你的猫咪，它是你唯一的慰藉和情感寄托。",
+            "工具升级：将收入再投资来提高效率和生存机会。"
+        ],
+        "customUrl": "https://www.bilibili.com/video/BV1fg9EY4Epp/",
+        "customUrlTit": "B站介绍视频",
+        "steamUrl": "https://store.steampowered.com/app/2259310/_/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "未选之路",
+        "enTitle": "The Road Not Taken",
+        "date": "2025-03-07",
+        "update": "2025-03-07",
+        "version": "",
+        "path": "the-road-not-taken",
+        "type": [
+            "升级",
+            "点击",
+            "探索",
+            "战斗"
+        ],
+        "content": [
+            "你被众神派去探索世界，面对致命的生物。",
+            "当你最终走到生命的尽头时，众神会饶恕你，并根据你的表现赋予你力量。",
+            "选择地图上的位置来穿越各个区域，寻找强大的物品。",
+            "你能登上顶峰并通关吗？",
+            "这是Bigmode game Jam 2025的一款有趣的roguelike增量游戏。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/the-road-not-taken/",
+        "customUrl2": "https://the-road-not-taken.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "enUrl": "https://123ishatest.github.io/bigmode-2025/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "增量进化，玩家自制",
+        "enTitle": "Incremental Evolution",
+        "date": "2025-03-06",
+        "update": "2025-03-06",
+        "version": "",
+        "path": "incremental-evolution",
+        "type": [
+            "升级",
+            "点击",
+            "休闲",
+            "放置"
+        ],
+        "content": [
+            "一个增量游戏，灵感来自《反物质维度》和《FE000000》。",
+            "按“+1点数”按钮可以获得1个点数，达到一定点数可以购买生成器。生成器可以帮你自动获得点数，每次购买后生成器价格都会上涨……"
+        ],
+        "customUrl": "https://aster131072.github.io/incremental_evolution/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://incremental-evolution.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "战利品宝箱点击器",
         "enTitle": "Loot Box Clicker",
         "date": "2025-03-05",
@@ -813,8 +1003,8 @@
         "title": "清华不增量页，群里小姐姐新作",
         "enTitle": "The Tsinghua Incremental Table",
         "date": "2025-03-03",
-        "update": "2025-03-03",
-        "version": "",
+        "update": "2025-03-09",
+        "version": "vPre-Alpha-60-43",
         "path": "the-tsinghua-incremental-table",
         "type": [
             "放置",
@@ -825,6 +1015,7 @@
             "声望树"
         ],
         "content": [
+            "2025-03-09：更新到vPre-Alpha-60-43版本~",
             "群里的小姐姐又发新作品啦，大家快来玩~",
             "这是一个从出生开始关于安排猫猫日常学习和生活计划，帮助她应对各个阶段考试并考上清华的游戏",
             "小姐姐的QQ交流群：714647341",
@@ -1473,7 +1664,7 @@
         "enTitle": "Pylon of the Mass",
         "date": "2025-02-06",
         "update": "2025-02-06",
-        "version": "1.0.1",
+        "version": "0.1",
         "path": "pylon-of-the-mass",
         "type": [
             "已汉化",
@@ -1482,7 +1673,8 @@
             "升级"
         ],
         "content": [
-            "这是群友 @qwqe198 汉化的放置游戏，欢迎大家体验~"
+            "这是群友 @qwqe198 汉化的放置游戏，欢迎大家体验~",
+            "作者的其他游戏还有：《鲨鱼增量》、《物质末世》、《质量增量》、《合并增量》、《质量之塔》、《电气增量》、《质量增量重制版》、《真实割草放置》、《无尽的字母》、《颜色树》等等，都很不错，没玩过的小伙伴可以站内搜索游戏名称玩下试试。"
         ],
         "enUrl": "https://mrredshark77.github.io/Pylon-of-the-Mass/",
         "customUrl": "https://pylon-of-the-mass.g8hh.com.cn/",
@@ -1956,8 +2148,8 @@
         "title": "觉醒放置",
         "enTitle": "Idle Awakening",
         "date": "2024-12-20",
-        "update": "2025-03-05",
-        "version": "0.1.1c",
+        "update": "2025-03-09",
+        "version": "0.1.2d",
         "path": "idle-awakening",
         "type": [
             "汉化中",
@@ -1966,6 +2158,7 @@
             "升级"
         ],
         "content": [
+            "2025-03-09：更新到0.1.2d版本了~",
             "2025-03-05：更新到0.1.1c版本了~",
             "2025-03-03：更新到0.1.1版本了~",
             "2025-02-26：更新到0.1.0版本了~",
@@ -4129,7 +4322,7 @@
         "title": "荣耀之径，群友自制挂机页游",
         "enTitle": "",
         "date": "2024-09-09",
-        "update": "2025-03-04",
+        "update": "2025-03-12",
         "version": "",
         "path": "ryzj",
         "type": [
@@ -4140,6 +4333,25 @@
             "挂机"
         ],
         "content": [
+            "2025-03-12更新：",
+            "新增",
+            "-大秘境.",
+            "-大秘境的怪物被固定为70级, 即使是1级小号去打也是70的怪.",
+            "-大小秘境会随机出各类怪物. 怪物的组合与地图的怪物类似.",
+            "-小秘境的怪物数量与种类与普通地图的一致. 比如随机到第一张海滩,则就只有一只螃蟹",
+            "-大秘境的怪物种类与普通地图一直, 但是如果怪物数量小于6只,则会随机补充该地图会出现的怪物.",
+            "修改",
+            "-难度等级与大秘境等级挂钩. 公式与d3类似",
+            "-下调了怪物伤害增幅",
+            "-更新副本名为 小秘境/大秘境",
+            "2025-03-10更新：",
+            "现在在战斗统计页面会显示最新的战斗演出 雷达模式 速度是普通演出的2倍",
+            "现在熔火怪的自爆会随着距离的增加而极速衰减",
+            "2025-03-06更新：",
+            "主要是更新了一下战斗方式. 尝试加入雷达模式",
+            "现在不在是纯站桩是100x100的地图. 敌我随机刷新在地图上.",
+            "根据策略会向目标缓缓移动. 不同的攻击方式 近,中,远也可以区分. 在战斗演出里面选择雷达模式",
+            "可以看到小地图. 目前只有 瓦解射线 可以显示攻击弹道",
             "2025-03-04更新：",
             "添加光环类技能",
             "- 增加光环 [正义之火][神圣之火][神圣冲击] [神圣冻结]  ",
@@ -4331,7 +4543,7 @@
         "title": "文明末日",
         "enTitle": "Society Fail",
         "date": "2024-09-03",
-        "update": "2024-09-03",
+        "update": "2025-03-05",
         "version": "",
         "path": "society-fail",
         "type": [
@@ -4342,6 +4554,7 @@
             "经营"
         ],
         "content": [
+            "2025-03-05：同步最新版本~​",
             "这是一款模拟末日生存的文字游戏，有高中低三种难度。你需要平衡资源，解锁升级，尽可能的活下去。​",
             "注意：暂停功能还没做，所以要盯着状态条，某一个条变成0可能就挂了。​",
             "发现英文，大家可以帮忙提取英文文本发我补汉化~​"
@@ -6084,7 +6297,7 @@
         "title": "修真大陆，国人自制修仙游戏，不删档内测",
         "enTitle": "",
         "date": "2023-12-27",
-        "update": "2024-07-09",
+        "update": "2025-03-08",
         "version": "",
         "path": "xiu-zhen-da-lu",
         "type": [
@@ -6098,10 +6311,6 @@
             "修仙"
         ],
         "content": [
-            "国人自制的修仙游戏，欢迎大家体验。目前处于不删档内测阶段，后期会登陆Steam平台。",
-            "欢迎加入QQ交流群: 792736191",
-            "【接引码】SGIZ-G0HU-MYN9-O40Y",
-            "进游戏-每日福利-获得仙缘-填入接引码获得初始福利",
             "此游戏是作者上班闲暇时独自一人开发，服务需费用以及steam注册费用都是自掏,不喜勿喷,非商业游戏，",
             "（注：这是一个多人在线的文字网游，非单机游戏!）",
             "这是一款文字挂机类修仙小游戏，主打的就是上班摸鱼挂机修仙。",
@@ -6298,7 +6507,7 @@
             "放置MMO《Idle MMO》是一个放置玩法的大型多人在线角色扮演游戏。它是之前咱们发的《Simple MMO》的兄弟篇，是同一个作者。由于之前简单MMO的玩法过于费鼠标，然后作者就开发了这个放置版的MMO，玩法类似于《梅尔沃放置》。 ",
             "注意：起名字不能用中文哦，包括个人简介。"
         ],
-        "customUrl": "https://web.idle-mmo.com?ref=IMMO2266",
+        "customUrl": "https://web.idle-mmo.com?source=referral&code=IMMO6331",
         "customUrlTit": "开始游戏",
         "customUrl2": "https://gityx.com/help/faq/633.html",
         "customUrlTit2": "汉化教程",
@@ -9352,13 +9561,14 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2025-03-03",
-        "version": "0.2.3",
+        "update": "2025-03-1",
+        "version": "0.2.4",
         "path": "fundamental",
         "type": [
             "已汉化"
         ],
         "content": [
+            "2025-03-11：更新到0.2.4版本了~",
             "2025-03-03：更新到0.2.3版本了~",
             "2025-02-15：更新到0.2.2版本了~",
             "2024-12-16：更新到0.2.1版本了~",
@@ -12413,8 +12623,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2025-02-14",
-        "version": "α1.4",
+        "update": "2025-03-11",
+        "version": "α2.0",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -12422,6 +12632,7 @@
             "升级"
         ],
         "content": [
+            "2025-03-11：更新到α2.0版本了~",
             "2025-02-14：补充之前旧版0.5.3版本的链接，在链接后面拼上/old/即可访问。",
             "2024-11-04：同步到α1.4版本了~​",
             "《真实割草放置》是一款模拟割草的增量放置游戏（凑字数，嘻嘻），是《质量增量重制版》作者的另一个作品。"
@@ -13195,7 +13406,7 @@
         "title": "银河奶牛放置，多人在线网络放置",
         "enTitle": "Milky Way Idle",
         "date": "2022-07-04",
-        "update": "2025-03-04",
+        "update": "2025-03-09",
         "version": "",
         "path": "milkywayidle",
         "type": [
@@ -13205,19 +13416,19 @@
             "策略"
         ],
         "content": [
+            "2025-03-06：新增Steam版链接！可以先用网页版注册，再登录Steam版。",
             "2025-03-04：在大佬们不懈努力下，终于更新了官方中文汉化，不需要插件也可以畅玩了！",
             "2025-01-13：新增另一个专属QQ交流群：482088950",
             "大杂烩游戏交流群：701342586 。",
-            "《银河奶牛放置》是一款以太空中的魔法奶牛为主题的多人在线放置奇幻角色扮演游戏。您可以学习多种技能，包括采集、制作或战斗。您还可以通过市场与其他玩家聊天或交易。",
+            "《银河奶牛放置》是一款以太空中的魔法奶牛为主题的中文多人在线放置奇幻角色扮演游戏。您可以学习多种技能，包括采集、制作或战斗。您还可以通过市场与其他玩家聊天或交易。",
             "玩过《梅尔沃放置》的小伙伴估计一下就看出来了，这个游戏借鉴了很多梅尔沃的特色。",
             "游戏全文汉化，需要安装汉化脚本。游客账号可绑定邮箱，多端登录。"
         ],
         "customUrl3": "https://shorturl.at/ZFXPI",
         "customUrlTit3": "游戏攻略",
-        "customUrl2": "https://test-ctmd6jnzo6t9.feishu.cn/docx/BqqHdhd3joU3G3xcT2VcR5lenFc?useEs6=0",
-        "customUrlTit2": "汉化脚本/方式",
-        "customUrl": "https://www.milkywayidle.com/?ref=99221",
+        "customUrl": "https://www.milkywayidle.com/?ref=2883",
         "customUrlTit": "开始游戏",
+        "steamUrl": "https://store.steampowered.com/app/3224420/Milky_Way_Idle/",
         "QQ": "701342586",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=uWi2pd8HCNjx3nHncLpm8B4elxc7uHDS&jump_from=webapi&authKey=8ac6knYnTowr9nX6ILV2X0iRolSjoD0KRIYMF3do7TXCx/svoB1VP6n6S11fnDa5",
         "pic": [
@@ -13234,8 +13445,8 @@
         "title": "渐进式扫雷",
         "enTitle": "Progressive Mine Sweep",
         "date": "2022-07-01",
-        "update": "2022-07-03",
-        "version": "0.5.1",
+        "update": "2025-03-05",
+        "version": "0.6",
         "path": "progressive-mine-sweep",
         "type": [
             "已汉化",
@@ -13244,10 +13455,11 @@
             "策略"
         ],
         "content": [
+            "2025-03-05：同步最新0.6版本~",
             "《渐进式扫雷》是一款放置玩法的扫雷游戏，真是万物皆可放置啊！",
             "《扫雷》游戏是一款大众类的益智小游戏，于1992年发行。游戏目标是在最短的时间内根据点击格子出现的数字找出所有非雷格子，同时避免踩雷，踩到一个雷即全盘皆输。"
         ],
-        "customUrl": "https://yx.g8hh.com.cn/progressive-mine-sweep",
+        "customUrl": "https://progressive-mine-sweep.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://gltyx.github.io/progressive-mine-sweep",
         "enUrl": "https://lepouya.github.io/progressive-mine-sweep",
