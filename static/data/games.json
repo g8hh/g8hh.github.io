@@ -349,7 +349,7 @@
         "title": "梦幻阁 - 梦幻题材文字放置类上班摸鱼游戏",
         "enTitle": "",
         "date": "2023-03-09",
-        "update": "2024-10-01",
+        "update": "2025-04-28",
         "version": "",
         "path": "mhg",
         "type": [
@@ -437,7 +437,7 @@
         "title": "迷你梦幻，怀旧多人在线游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2025-03-07",
+        "update": "2025-05-01",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -445,6 +445,7 @@
             "文字"
         ],
         "content": [
+            "2025-05-01：五一新区活动进行中~",
             "2024-10-01：国庆新区活动进行中~",
             "今天给大家推荐一个文字版的梦幻游戏，三端互通。群里小伙伴推荐的，适合挂机、摸鱼。",
             "欧皇可以试试，出极品装备了可以挂市场卖，或者攒金币卖，现在11区行情大概在180-200金币=1元，还可以搞点零花，不怕卖不出去。",
@@ -505,7 +506,7 @@
         "title": "三国传奇，耐玩挂机电脑游戏",
         "enTitle": "",
         "date": "2022-08-19",
-        "update": "2025-01-05",
+        "update": "2025-04-28",
         "version": "",
         "path": "sgcq",
         "type": [
@@ -539,7 +540,7 @@
         "title": "无尽洪荒，文字MUD修仙游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2025-03-07",
+        "update": "2025-04-28",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -608,7 +609,7 @@
         "title": "放置传奇，PC挂机摸鱼放置游戏，七夕活动进行中",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2025-03-07",
+        "update": "2025-04-28",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -729,11 +730,1278 @@
         "status": 0
     },
     {
+        "title": "小游戏模板",
+        "enTitle": "",
+        "date": "2025-03-20",
+        "update": "2025-03-20",
+        "version": "",
+        "path": "xyx_ttagd",
+        "type": [
+            "休闲",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 0,
+        "needHH": 0
+    },
+    {
+        "title": "末世统治",
+        "enTitle": "World's End Domination",
+        "date": "2025-05-12",
+        "update": "2025-05-12",
+        "version": "",
+        "path": "worlds-end-domination",
+        "type": [
+            "点击",
+            "经营",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是一款类《反物质维度》的末世生存经营放置游戏。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/worlds-end-domination/",
+        "customUrl": "https://worlds-end-domination.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://buck4437.github.io/worlds-end-domination/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "卡牌大师，群友自制畅爽抽空放置",
+        "enTitle": "",
+        "date": "2025-04-29",
+        "update": "2025-05-12",
+        "version": "1.0.5",
+        "path": "kapaidashi",
+        "type": [
+            "群友自制",
+            "点击",
+            "战斗",
+            "抽卡",
+            "策略",
+            "放置"
+        ],
+        "content": [
+            "2025-05-12：更新到1.0.5版本~",
+            "2025-04-30：更新到1.0.4版本~",
+            "2025-04-29：更新到1.0.3，紧急修复bug。",
+            "这是群里的小伙伴 @maplemei 投稿了自己写的抽卡放置游戏。包含抽卡、战斗、装备系统。",
+            "游戏包含抽卡、战斗系统，每张卡牌都有不同的技能，重复卡自动累计卡片等级，可玩性很高。",
+            "游戏还在开发中，有问题可以随时在QQ群：858512634 里反馈~",
+            "创作不易，喜欢本游戏的小伙伴可以考虑赞赏作者吃个鸡腿（游戏设置里有赞赏码），哈哈。",
+            "期待作者更新更多好玩的内容、​或者新游戏。"
+        ],
+        "customUrl": "https://g1tyx.github.io/kapaidashi/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://kapaidashi.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "QQ": "858512634",
+        "qqUrl": "https://qm.qq.com/q/XhNqreU1Ow",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "升级放置",
+        "enTitle": "Level Up",
+        "date": "2025-04-25",
+        "update": "2025-05-13",
+        "version": "0.3",
+        "path": "level-up",
+        "type": [
+            "点击",
+            "战斗",
+            "升级",
+            "策略",
+            "放置"
+        ],
+        "content": [
+            "2025-05-13：更新到0.3版本了，继续补汉化~",
+            "2025-05-12：更新到0.2版本了，开始补汉化~",
+            "这是一款挂机打怪升级的放置游戏。游戏有转生系统。",
+            "游戏还在开发中~"
+        ],
+        "zhUrl": "https://g1tyx.github.io/level-up/",
+        "customUrl": "https://level-up.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://mrenderml.github.io/LevelUp/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "纳米放置",
+        "enTitle": "Nanometers",
+        "date": "2025-04-23",
+        "update": "2025-04-23",
+        "version": "",
+        "path": "nanometers",
+        "type": [
+            "点击",
+            "益智",
+            "升级",
+            "策略",
+            "放置"
+        ],
+        "content": [
+            "这是之前咱们发过的《纳米扩散》的姊妹篇。《循环放置》作者的另一个游戏。",
+            "你的目标是解锁所有方块，按上下左右键可以调整方向，让数值流动到下一个方块。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/nanometers/",
+        "customUrl": "https://nanometers.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://asteriskman7.github.io/nanometers/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "掷骰迷局，群友自制",
+        "enTitle": "",
+        "date": "2025-04-21",
+        "update": "2025-04-23",
+        "version": "1.0.3",
+        "path": "vue-dice-puzzle",
+        "type": [
+            "点击",
+            "策略",
+            "群友自制",
+            "文字",
+            "益智"
+        ],
+        "content": [
+            "2025-04-23：1.0.3版本更新说明",
+            "修复偶数奖励buff问题",
+            "修复1和5组合buff问题",
+            "修复偶数组合buff问题",
+            "如果你解锁了所有骰子可以在新版本内开启测试模式",
+            "这是一款基于Vue 3的策略骰子游戏，融合了谜题解法和随机元素，考验玩家的决策能力。",
+            "这是《我的荒野放置求生记》、《我的放置仙途》、《我的文字修仙全靠刷》、《星际帝国》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
+            "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
+            "QQ交流群：920930589"
+        ],
+        "customUrl": "https://vue-dice-puzzle.wenzi.games/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://vue-dice-puzzle.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://github.com/setube/vue-dice-puzzle",
+        "customUrlTit3": "Github项目求点星",
+        "QQ": "920930589",
+        "qqUrl": "https://qm.qq.com/q/iifNs5qukg",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "偷偷钓个鱼，国人自制网页/安卓钓鱼游戏",
+        "enTitle": "",
+        "date": "2025-04-21",
+        "update": "2025-04-21",
+        "version": "",
+        "path": "mo-fishing",
+        "type": [
+            "点击",
+            "中文",
+            "网页",
+            "安卓",
+            "升级",
+            "收集"
+        ],
+        "content": [
+            "这是一款可爱复古像素风的免费游戏，可以在里面钓鱼、做饭、赚钱、完成图鉴、收集手办等。",
+            "安卓用户可以在TapTap上下载安装即可。",
+            "iOS用户可以把网页版链接保存在桌面作为快速入口​：​使用 Safari 浏览器打开网页，点击屏幕最下方一排按钮里面最中间的【更多】按钮，再点击【添加到主屏幕】即可。"
+        ],
+        "customUrl": "https://fishing.florastudio.app/",
+        "customUrlTit": "开始游戏",
+        "customUrl3": "https://www.taptap.cn/app/461749",
+        "customUrlTit3": "TapTap介绍页",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "次神：光之觉醒，魔性王子直播抢王位",
+        "enTitle": "",
+        "date": "2025-04-18",
+        "update": "2025-04-18",
+        "version": "",
+        "path": "xyx_csgzjx",
+        "type": [
+            "角色",
+            "战斗",
+            "养成",
+            "冒险",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《次神：光之觉醒》是一款微信角色扮演游戏，在这里你将扮演小王子，与各种角色一起开启冒险之旅，放置挂机轻松养成，超多玩法精彩绝伦，阵容组合策略玩法，更多精彩等你加入！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/O5RwuUdcVwtLTxQRSauD_A",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "小鸡舰队出击，超休闲Roguelike割草游戏",
+        "enTitle": "",
+        "date": "2025-04-18",
+        "update": "2025-04-18",
+        "version": "",
+        "path": "xyx_xjjdcj",
+        "type": [
+            "角色",
+            "养成",
+            "生存",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《小鸡舰队出击》是一款微信Roguelike休闲游戏，游戏内的角色可以自动进行攻击，玩家只需要简单的在屏幕上瞄准怪物即可获得爽快的割草游戏快感。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/O4r1edNSL5HDF-pGnZkhMg",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "肥鹅健身房，来打造属于你的肥鹅健身房！",
+        "enTitle": "",
+        "date": "2025-04-18",
+        "update": "2025-04-18",
+        "version": "",
+        "path": "xyx_fejsf",
+        "type": [
+            "建造",
+            "合并",
+            "养成",
+            "益智",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《肥鹅健身房》是一款画风可爱的微信休闲游戏。玩家扮演健身房店长，通过合成玩法获得材料，打造独一无二的健身房，吸引可爱的肥鹅来健身！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/Afw3zowJ2bBcsXHMUuWUWg",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "超级求生，无限合成",
+        "enTitle": "",
+        "date": "2025-04-18",
+        "update": "2025-04-18",
+        "version": "",
+        "path": "xyx_cjqs",
+        "type": [
+            "角色",
+            "生存",
+            "养成",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《超级求生》是一款轻松休闲的微信放置挂机小游戏。游戏中，你可以招募酷炫的鸭鸭，组建强力的战队，获取各种资源，发展升级科技，更好的守护你所想要守护的人事物，快来组建你的弓箭手小队保卫家园吧！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/xVha7NwX29fMCtmj_RPv5g",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "几何王国，碰撞卡牌新策略，快来加入我的部落吧",
+        "enTitle": "",
+        "date": "2025-04-18",
+        "update": "2025-04-18",
+        "version": "",
+        "path": "xyx_jhwg",
+        "type": [
+            "角色",
+            "战斗",
+            "养成",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《几何王国》是一款微信休闲类养成游戏，游戏采用卡通风格。游戏内玩家可以自由培养自己的角色，搭配各种阵容，打败敌人，解开谜团，闯过各种关卡。游戏中有着大量的关卡，对此款游戏感兴趣的玩家不要错过，赶紧点击下载开始游玩吧。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/YAkEotZ45d3ZKjeuKe2tYw",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "国男大冒险，男孩纸要保护好自己",
+        "enTitle": "",
+        "date": "2025-04-17",
+        "update": "2025-04-17",
+        "version": "",
+        "path": "kaizo-incremental",
+        "type": [
+            "益智",
+            "点击",
+            "自制",
+            "策略"
+        ],
+        "content": [
+            "作者做这个的目的只是为了让一部分有意或无意忽视这个问题的人正视这个问题，至于解决办法，我也在找，但是当下诬告非但没有成本反而有利可图，所以很难说有什么切实可行的解决办法，只能建议大家提高警惕。",
+            "作者语：性别对立是个被建构的话题，其目的是分化群众，坚决反对此风向的同时要认清真正的矛盾。"
+        ],
+        "customUrl": "https://fengzi2333.github.io/GuoNanSimulator/index.html",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://guonan-simulator.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 0
+    },
+    {
+        "title": "剑与地下城，网络挂机放置",
+        "enTitle": "Degen Dungeon",
+        "date": "2025-04-16",
+        "update": "2025-04-16",
+        "version": "",
+        "path": "degen-dungeon",
+        "type": [
+            "油猴汉化",
+            "英文",
+            "战斗",
+            "采集",
+            "建造",
+            "升级",
+            "联网"
+        ],
+        "content": [
+            "QQ交流群：758090195",
+            "油猴汉化文件地址（2选1安装即可）：",
+            "https://greasyfork.org/zh-CN/scripts/532979-degen-dungeon-简中汉化脚本",
+            "https://g8hh.com.cn/zh/tampermonkey/degen-dungeon-chs.user.js",
+            "注意事项：",
+            "1、只能用苹果账号或者谷歌账号登录。推荐注册个苹果账号，谷歌国内打不开，要么上科学。",
+            "2、游戏有3个职业：战士、游侠、法师；第一个角色等级达到10级时，可以建第2个角色，可以同时玩，在右上角自由切换。",
+            "3、游戏默认挂机时长是6小时，到时间需要点一下重新开始挂机。",
+            "4、游戏设定是水桶玩法，就是各个技能都要练级才能往后面发展。",
+            "",
+            "准备好迎接你的下一个放置的冒险吧！",
+            "在这款沉浸式的MMO游戏中，你可以悠闲地进行探险，提升技能，收集稀有战利品，称霸排行榜。",
+            "探索功能丰富的世界",
+            "进入一个充满无限可能性和冒险的世界",
+            "战斗&地下城",
+            "与其他玩家组队对抗凶猛的怪物，探索危险的地下城，并通过具有挑战性的遭遇收集史诗般的战利品。",
+            "市场交换",
+            "在玩家驱动的市场中交易资源、装备和稀有道具。通过聪明的交易积累财富。",
+            "全球排行",
+            "在所有技能和活动中与世界各地的玩家竞争。不断晋升，证明自己的价值。",
+            "15项独特技能",
+            "掌握从战斗到制作的各种技能。每个技能都提供独特的进程路径和奖励。",
+            "多达6小时放置时间",
+            "即使离线也能进步。返回收集在你离开期间获得的资源和经验。",
+            "交互式世界地图",
+            "探索广阔的领土，发现隐藏的地下城，并在我们广阔的世界地图上发现稀有资源。",
+            "3个独特的角色职业",
+            "选择你的道路和掌握独特的能力与三个不同的角色职业。",
+            "随时随地玩游戏",
+            "设备之间无缝切换，完全跨平台支持。",
+            ""
+        ],
+        "customUrl": "https://degendungeon.com/",
+        "customUrlTit": "开始游戏",
+        "customUrl3": "https://gityx.com/help/faq/633.html",
+        "customUrlTit3": "油猴汉化教程",
+        "customUrl4": "https://www.tampermonkey.net/",
+        "customUrlTit4": "油猴官网",
+        "QQ": "758090195",
+        "qqUrl": "https://qm.qq.com/q/10MI2x4Nb6",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "奥秘放置，像素艺术网络放置",
+        "enTitle": "Idle Arcana",
+        "date": "2025-04-14",
+        "update": "2025-04-14",
+        "version": "",
+        "path": "idle-arcana",
+        "type": [
+            "油猴汉化",
+            "英文",
+            "战斗",
+            "采集",
+            "建造",
+            "升级",
+            "联网"
+        ],
+        "content": [
+            "《Idle Arcana》是一款像素艺术幻想游戏，在这里你可以建立自己的帝国，同时坐下来，让魔法展开。你可以成为一名矿工、铁匠、战士，甚至是商人——选择权在你。",
+            "永远不要停止前进！Boss突袭，探险，房屋，农场。这一切都在后台运行，即使你不在。",
+            "锻造传奇物品和工具来释放你真正的力量。每一件装备都让你更接近成为一个不可阻挡的英雄！",
+            "·在竞技场中崛起",
+            "·精通你的技能",
+            "·发现可爱的同伴",
+            "·锻造你的命运",
+            "·在市场中茁壮成长",
+            "·建造你的城镇",
+            "·前往探险",
+            "QQ交流群：758090195",
+            "油猴汉化文件地址（2选1安装即可）：",
+            "https://greasyfork.org/zh-CN/scripts/532795-idle-arcana-简中汉化脚本",
+            "https://g8hh.com.cn/zh/tampermonkey/idlearcana-chs.user.js",
+            "简单介绍下游戏玩法：",
+            "1、砍树、挖矿、卖给系统获得第一桶金。",
+            "2、然后去供应商那里买一套工具或者装备。",
+            "3、走战斗路线的可以买一身基础装备，然后炼金制作战斗药水，去战斗。",
+            "4、用金币升级房屋，每级+1%的效率加成。",
+            "5、战力起来后，可以打排行榜、地下城、探险。",
+            "6、探险可以得到宠物蛋；地下城可以获得宝石、符文。",
+            "注意事项：",
+            "1、注册一定要用真实邮箱，因为后面每次登录都需要收验证码来登录。（能绑谷歌账号的可以无视此条）。",
+            "2、游戏行动略死板，必须停止当前在做的事情，才能去开始做别的事情。",
+            "3、游戏数据好像不是实时刷新的，必须切换到正在做的事情的菜单，才能看到收益。",
+            "4、每日左上角签到领取30宝石，攒够了可以买商店的加成。",
+            ""
+        ],
+        "customUrl": "https://idlearcana.com/",
+        "customUrlTit": "开始游戏",
+        "customUrl3": "https://gityx.com/help/faq/633.html",
+        "customUrlTit3": "油猴汉化教程",
+        "customUrl4": "https://www.tampermonkey.net/",
+        "customUrlTit4": "油猴官网",
+        "QQ": "758090195",
+        "qqUrl": "https://qm.qq.com/q/10MI2x4Nb6",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "朋克放置2025，开局捡垃圾",
+        "enTitle": "Idle Punk",
+        "date": "2025-04-11",
+        "update": "2025-04-11",
+        "version": "0.0.7.2",
+        "path": "idle-punk-2025",
+        "type": [
+            "点击",
+            "艺术",
+            "模拟",
+            "沙盒",
+            "放置"
+        ],
+        "content": [
+            "开局在末世，你靠捡垃圾为生，然后逐步发展壮大。",
+            "游戏还在开发中，发现问题不要慌，等作者更新即可。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/idle-punk-2025/",
+        "customUrl": "https://idle-punk-2025.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://idlepunk-02-ddietachmair.replit.app/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "鱼缸农场，沙盒艺术放置",
+        "enTitle": "Orb Farm",
+        "date": "2025-04-11",
+        "update": "2025-04-11",
+        "version": "",
+        "path": "orb-farm",
+        "type": [
+            "点击",
+            "艺术",
+            "模拟",
+            "沙盒",
+            "放置"
+        ],
+        "content": [
+            "这是一个虚拟的生态系统，不同种类的生物可以作为一个自给自足的食物链的一部分生存、生长和死亡。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/orb-farm/",
+        "customUrl": "https://orb-farm.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://orb.farm/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "我的荒野放置求生记，群友自制文字放置游戏",
+        "enTitle": "",
+        "date": "2025-04-09",
+        "update": "2025-04-12",
+        "version": "1.0.8.7",
+        "path": "idle-wild-my-survival-saga",
+        "type": [
+            "点击",
+            "任务",
+            "群友自制",
+            "文字",
+            "放置"
+        ],
+        "content": [
+            "2025-04-12：更新到1.0.8.5版本~",
+            "修复暂停相关问题",
+            "2025-04-11：更新到1.0.8.5版本~",
+            "增加技能经验产出",
+            "明细经验相关文案",
+            "修复技能相关问题",
+            "修复队列出错问题",
+            "修复药品恢复健康问题",
+            "删除数据按钮增加询问弹窗",
+            "2025-04-11：更新到1.0.8版本~",
+            "-优化新手生存环境",
+            "-优化日常事件效果",
+            "-优化部分建筑收益",
+            "-优化食物&水采集收益",
+            "-优化探索资源产出收益",
+            "-优化天气产生的事件效果",
+            "-添加新建筑: 伐木场&采矿场",
+            "-修复某些建筑效果不生效问题",
+            "-修复活动队列刷新后丢失问题",
+            "-修复技能无法学习或升级问题",
+            "-修复任务完成后不扣除资源问题",
+            "-优化技能部分采用固定经验曲线",
+            "-修复刷新页面后天气数据丢失问题",
+            "-修复刷新页面后重复产生事件问题",
+            "-修复某些建筑升级后效果无限生效问题",
+            "2025-04-10：更新到1.0.7.2版本~",
+            "修复任务完成后不扣除资源问题",
+            "修复某些建筑升级后效果无限生效问题",
+            "基于Vue3 + Pinia构建的生存模拟游戏，玩家需要在荒野中收集资源、建造设施、研究科技并应对天气变化。游戏包含完整的资源管理系统、技能成长系统和动态天气系统。",
+            "功能特性：",
+            "- 建筑系统：建造/升级庇护所、仓库、工作坊等设施",
+            "- 技能成长：采集/制作/战斗/生存/研究五大技能体系",
+            "- 科技树：解锁科技，开启高级制作配方",
+            "- 动态天气：昼夜交替、季节变化影响游戏机制",
+            "- 状态管理：使用Pinia管理复杂游戏状态",
+            "- 游戏存档：支持本地存储和加密存档",
+            "这是《我的放置仙途》、《我的文字修仙全靠刷》、《星际帝国》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
+            "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
+            "欢迎大家给作者的项目点个星☆，喜欢作者作品的小伙伴，也可以选择赞助支持作者创作出更多好玩的游戏。",
+            "QQ交流群：920930589"
+        ],
+        "customUrl": "https://idle-wild-my-survival-saga.wenzi.games/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://idle-wild-my-survival-saga.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://github.com/setube/idle-wild-my-survival-saga",
+        "customUrlTit3": "Github项目求点星",
+        "QQ": "920930589",
+        "qqUrl": "https://qm.qq.com/q/iifNs5qukg",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "疯狂的卷王，群友AI自制放置",
+        "enTitle": "",
+        "date": "2025-04-03",
+        "update": "2025-04-03",
+        "version": "",
+        "path": "crazy-guoba",
+        "type": [
+            "升级",
+            "群友自制",
+            "点击",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "这是群友看到咱们上次发布的那个AI制作的游戏，心血来潮，利用闲暇时间，用AI辅助制作的一个战斗挂机游戏，欢迎小伙伴们体验。",
+            "注意事项：",
+            "1、穿戴、脱下装备均需先暂停战斗。",
+            "2、暂停战斗=停止战斗，需要去地图里面重新进入。",
+            "3、战斗开始前，将自动售卖等级改为0级普通，不然默认为自动售卖1级普通装备。",
+            "4、游戏数据本地存储，清理缓存就没了。"
+        ],
+        "customUrl": "https://g1tyx.github.io/crazy-guoba/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://crazy-guoba.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "恒星奥德赛，太空建造冒险放置",
+        "enTitle": "Stellar Odyssey",
+        "date": "2025-04-02",
+        "update": "2025-04-02",
+        "version": "",
+        "path": "stellar-odyssey",
+        "type": [
+            "油猴汉化",
+            "英文",
+            "战斗",
+            "采集",
+            "建造",
+            "太空",
+            "联网"
+        ],
+        "content": [
+            "准备好您的旅程，通过未探索的星系，推动空间的极限……",
+            "…开始你的太空冒险，探索宇宙的奇迹。",
+            "目前是删档内测阶段，注册时需要填写作者的内测邀请码：sodybetafinal",
+            "汉化是其他大佬搞的，QQ群：867731210。",
+            "油猴汉化文件地址（2选1安装即可）：",
+            "https://greasyfork.org/en/scripts/531046-stellar-odyssey汉化插件",
+            "https://g8hh.com.cn/zh/tampermonkey/stellarodyssey.chs.user.js",
+            ""
+        ],
+        "customUrl": "https://game.stellarodyssey.app/",
+        "customUrlTit": "开始游戏",
+        "customUrl3": "https://gityx.com/help/faq/633.html",
+        "customUrlTit3": "油猴汉化教程",
+        "customUrl4": "https://www.tampermonkey.net/",
+        "customUrlTit4": "油猴官网",
+        "QQ": "867731210",
+        "qqUrl": "https://qm.qq.com/q/4H3ynegvtm",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "红鲨树，群友自制模组树游戏",
+        "enTitle": "The Mrshark77 Tree",
+        "date": "2025-04-01",
+        "update": "2025-04-01",
+        "version": "",
+        "path": "the-mrshark77-tree",
+        "type": [
+            "放置",
+            "文字",
+            "群友自制",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是一个用了非常守旧的手法写的树，虽然只有900秒的流程，但是真的十分平凡。",
+            "这是群友 @22222 为愚人节制作的游戏。",
+            "作者QQ：2960729702"
+        ],
+        "customUrl": "https://qwqe198.github.io/The-Mrshark77-Tree/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://the-mrshark77-tree.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "放置蚂蚁农场2，快来发展你的蚂蚁军团",
+        "enTitle": "Idle Ant Farm 2",
+        "date": "2025-03-27",
+        "update": "2025-04-24",
+        "version": "0.43.",
+        "path": "idle-ant-farm",
+        "type": [
+            "升级",
+            "点击",
+            "战斗",
+            "模拟",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "2025-04-24：因为新版本作者做了改动，会导致白屏，所以回滚到0.43.1版本~",
+            "2025-04-24：同步最新0.46.0版本~",
+            "2025-04-22：同步最新0.45.3版本~",
+            "2025-04-18：同步最新0.43.1版本~",
+            "2025-04-16：同步最新0.42.0版本~",
+            "2025-04-15：同步最新0.37.0版本~",
+            "2025-04-11：同步最新0.26.0版本~",
+            "2025-04-09：同步最新0.22.2版本~",
+            "2025-04-07：同步最新0.16.0版本~",
+            "2025-04-04：同步最新0.14.0版本~",
+            "2025-04-03：同步最新0.13.1版本~",
+            "2025-04-01：同步最新0.12.0版本~",
+            "2025-03-31：同步最新0.11.4版本~",
+            "2025-03-29：同步最新0.10.1版本~",
+            "这是一款模拟蚂蚁王国的文字放置游戏。包含：建造、升级、转生、战斗、冒险、 装备、任务等元素。",
+            "游戏还在开发中，可能存在数值不合理、功能不完善等情况，不过目前我没发现。",
+            "感兴趣的小伙伴，也可以去网站上搜索试试​咱们之前发过的蚂蚁类型游戏《蚂蚁放置》《蚂蚁放置2》​。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/idle-ant-farm/",
+        "customUrl": "https://idle-ant-farm.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "customUrl2": "https://mezeman1.github.io/idle-ant-farm/",
+        "customUrlTit2": "1代英文版（联网版）",
+        "enUrl": "https://idle-ant-farm.com/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "邪神大道，Steam肉鸽策略游戏",
+        "enTitle": "The Deadly Path",
+        "date": "2025-03-25",
+        "update": "2025-03-25",
+        "version": "",
+        "path": "steam-xsdd",
+        "type": [
+            "策略",
+            "卡牌",
+            "战斗",
+            "建造",
+            "Steam",
+            "生存",
+            "中文"
+        ],
+        "content": [
+            "《邪神大道》是款设定猎奇的资源管理+基地建设+Roguelike策略游戏。",
+            "作为被困在惊惧神庭的你必须在诸神的凝视下经营地牢。通过资源收集、建筑扩张与仆从管理，在易上手难精通的策略循环中，为重返地表世界而战。",
+            "《邪神大道》即将于3月25日晚上10点在Steam上发售，首两周特惠8折，感兴趣的小伙伴可以入手试试。",
+            "厂商老哥又给了几个兑换码，欢迎小伙伴们去QQ群里参与一下抽奖。",
+            "◆ 核心玩法系统",
+            "八柱邪神：八位拥有独立神格与权柄的上古存在将深度介入文明复兴",
+            "守护化身：从十数位守护者中选取化身，助力玩家效忠神室",
+            "地城基建：挖掘墓穴地砖，建造【停尸房/化生池/监工栖木】等独特建筑",
+            "资源循环：调配【骨头/肉/黄金/知识/血液】五大核心资源，充盈库存，扩张疆域",
+            "时代跃进：引领众人跨越时代，解锁新科技/新建筑的同时面对全新挑战",
+            "神像锻造：打造强大神像取悦诸神，推进邪神升阶进程",
+            "危机防御：构建防御工事抵御入侵者与无形威胁，守护王座",
+            "◆ 特色内容",
+            "经典“和面”体验",
+            "污秽材料收集与黑暗献祭机制",
+            "动态生成的地牢扩展系统",
+            "仆从微观管理系统",
+            "多重胜利条件策略选择",
+            "丰富的局外成长和构筑系统"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/2455350/_/",
+        "QQ": "816462152",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=9AoII1BBrl6FuSn4sAJQV-WKTQWY0r9t&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "我叫MT2，挑战巨型BOSS，勇闯外域开荒，策略开战",
+        "enTitle": "",
+        "date": "2025-03-20",
+        "update": "2025-03-20",
+        "version": "",
+        "path": "xyx_wjmt2",
+        "type": [
+            "养成",
+            "战斗",
+            "策略",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "这是《我叫MT2》微信小程序版本，延续了传统《我叫MT》的经典特色。超华丽3D特效，360°动态视角，MT带你刷巨型BOSS不怕OT，进阶换装萌萌哒~！此外，扭曲虚空，外域探险玩法都将为您呈现独一无二的掌中魔幻世界！快来加入力量与荣耀的世界，一起踏上新的征程！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/nXN3SHJ-JHEPDa2weHj5pA",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "神器传说，有手就行的修仙开宝箱游戏",
+        "enTitle": "",
+        "date": "2025-03-20",
+        "update": "2025-03-20",
+        "version": "",
+        "path": "xyx_sqcs",
+        "type": [
+            "休闲",
+            "养成",
+            "战斗",
+            "升级",
+            "挂机",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《神器传说》《是一款深受玩家喜爱的角色扮演游戏，玩家将扮演一位勇敢的冒险者，在神秘的世界中探索未知的领域，与邪恶势力展开一场惊心动魄的冒险。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/VOTmnVrkZpAPBZm2MQyWuQ",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "最强祖师，别卷了！来修仙吧！从零开始耕耘仙门盛景！",
+        "enTitle": "",
+        "date": "2025-03-20",
+        "update": "2025-03-20",
+        "version": "",
+        "path": "xyx_zqzs",
+        "type": [
+            "修仙",
+            "建造",
+            "战斗",
+            "养成",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《最强祖师》是一款能随机生成各种有趣弟子，并组建弟子团生产、战斗的修仙模拟经营手游。你将作为“祖师”，开宗立派、招募弟子，并率领众弟子像修仙小说中一样，修炼、渡劫，探遗迹寻秘宝，壮大宗门最终升仙！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/678_EwUchSWDWCiQcSiYMg",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "消灭星星传奇，手机休闲必备，超好玩的经典消除小游戏！",
+        "enTitle": "",
+        "date": "2025-03-20",
+        "update": "2025-03-20",
+        "version": "",
+        "path": "xyx_xmxxjdb",
+        "type": [
+            "休闲",
+            "益智",
+            "消除",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《消灭星星传奇》《是一款趣味十足的休闲消除游戏，在游戏中玩家主要消除各种颜色的小星星，游戏中有众多的关卡，还有各种好玩的游戏道具帮助玩家消除星星，精美的游戏画面，灵动的消除音效可以给玩家更舒适的消除游戏体验，快来玩吧。",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/jYTNc6fg53IgMflxj2OA7w",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "鱼吃鱼，大鱼吃小鱼，开启海底世界冒险！",
+        "enTitle": "",
+        "date": "2025-03-20",
+        "update": "2025-03-20",
+        "version": "",
+        "path": "xyx_ycy",
+        "type": [
+            "角色",
+            "动作",
+            "养成",
+            "益智",
+            "微信",
+            "小程序"
+        ],
+        "content": [
+            "《鱼吃鱼》是一款全新的休闲冒险游戏，在这里玩家将化身为一只小鱼，你需要在茫茫大海中生存，不断进食长大，渐渐地你会拥有非凡的能力，可吞噬掉不同种类的海洋生物，最后成长为这片海域顶尖的捕食者！",
+            "微信打开扫一扫，扫码开始游戏。"
+        ],
+        "customUrl": "https://mp.weixin.qq.com/s/YtoykWehFnGwDgAiUC6F1w",
+        "customUrlTit": "前往微信打开",
+        "customUrl2": "https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MzQ2OTM1Mg==&hid=4&sn=d4a672b526f3dc66323e05980be73210&scene=25#wechat_redirect",
+        "customUrlTit2": "其他微信小游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1,
+        "needHH": 0
+    },
+    {
+        "title": "泰拳格斗放置",
+        "enTitle": "Muay Thai Idle Fight",
+        "date": "2025-03-19",
+        "update": "2025-03-19",
+        "version": "0.0.43",
+        "path": "muay-thai-idle-fight",
+        "type": [
+            "战斗",
+            "点击",
+            "角色",
+            "养成",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "泰拳格斗放置是一款角色养成类战斗游戏，你需要​训练角色的3个属性：力量、敏捷、耐力，获取训练点数，学习技能，与各种对手战斗。",
+            "注意：游戏是有排行榜（需要科学）的，如果你想参与排名，可以自己想办法。"
+        ],
+        "zhUrl": "https://g1tyx.github.io/muay-thai-idle-fight/",
+        "customUrl2": "https://muay-thai-idle-fight.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "enUrl": "https://idlemuaythai.com/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "巫师（与仆从）放置，群友汉化Steam放置",
+        "enTitle": "Wizard And Minion Idle",
+        "date": "2025-03-17",
+        "update": "2025-03-17",
+        "version": "",
+        "path": "steam-wami",
+        "type": [
+            "英文",
+            "汉化中",
+            "战斗",
+            "Steam"
+        ],
+        "content": [
+            "《Wizard And Minion Idle》是一款最新的免费游戏。随着不断扩大的限制，根据你的游戏风格，游戏允许你决定自己独特的游戏风格。随着挑战在难度和奖励方面呈指数级增长，用户的游戏风格将影响游戏的展开。没有两个人会做出相同的决定，也没有两个用户会有相同的进程速度。刷任务是有好处的，但有时候更容易放松，在闲暇时看着奖励慢慢到来。在真正的游戏中添加额外的游戏，我们便有足够的理由去引用古老的咒语：“……再往前走一点。”",
+            "训练你的属性，施放法术，喂养你的仆从，打败怪物和boss，提升恶魔，制作宝石，钓鱼等等。这款免费、单人开发、放置/活跃的混合游戏具有灵活的节奏，适合长期游戏。",
+            "-将获得的经验值作为永久奖励",
+            "-灵魂几乎可以从游戏中的任何东西中获得",
+            "-战斗训练",
+            "-施放强大的法术",
+            "-让恶魔听从你的命令",
+            "-提升你的仆从",
+            "-实验和喂养你的随从，使他强大",
+            "-探索荒野",
+            "-五层不同的战利品！",
+            "-创新库存确保没有道具是毫无价值的",
+            "—收集外来材料",
+            "—制作魔法宝石",
+            "—抓奇怪的鱼",
+            "-人为地激励自己",
+            "-掌握无数的地牢",
+            "-解锁不断扩展的新内容",
+            "-解锁更多内容",
+            "-完成无数挑战",
+            "-打败强大的boss",
+            "-在全球战争中指挥你的军团",
+            "-享受定期和季节性更新的活动",
+            "-死亡，转世，再来一次",
+            "-通过灵魂和经验商店退出，花你应得的奖励，变得更强大。通过这个循环，你会成长，一个冠军将会崛起！",
+            "你以一个新手的身份开始游戏，开始意识到自己真正的潜力。你是一个巫师Steam玩家。在WAMI中，你将建立你的物理和魔法力量，编织改变游戏的咒语，并击败可怕的敌人。好好滋养你的仆从，因为你的道路是交织在一起的。你在神秘世界的作品会吸引恶魔的注意。根据你当前的游戏需求分配这些恶魔；权力、黄金、魔法等等。直观的收集和制作系统允许您进一步定制您的向导，以应对未来的挑战；有五种不同的质量水平的项目可用和一个真正创新的库存设计，可能性几乎是无止境的！租用建筑，建造金色广场，喝下强大的长生不老药来帮助你在看不到目标的时候坚持下去。收集经验值和灵魂碎片来升级你的巫师，让你成为传说中的东西。您将一次又一次地回到WAMI的世界，完成定期更新的挑战和事件，在未来的几天和几周！",
+            "在爱情和战争中一切都是公平的，所以把你的恶魔军团分配到所有的战争中，或者让他们，嗯....尝试....为了繁殖，为了收集动能以产生更多的能量！这款免费的空闲/活跃混合游戏具有灵活的节奏和深度，将让你在智慧结束时推动你的极限，使其达到下一个水平。然而，游戏玩法和复杂性是在你的游戏风格水平上展开的，所以你永远不会感到不知所措。",
+            "--狂热的玩家的注意----向导和小黄人空闲将网罗你，并在你的第一次挑战后，你不会想要离开。我们在这里没有时间，也不敢深入探讨这位开发者在从事数字事业时所陷入的最黑暗的深渊。今天就开始你的冒险，为你自己预言这里所描述的所有行为。然后，一定要决定这种被友好地称为WAMI的乐趣是否真的值得一个敢于下载分心、转移注意力的不怕死的人的奉献；不，这是一款数十年来一直被称为《精灵与仆从》的恶魔游戏",
+            "QQ交流群：1040232114，有不懂的可以加群问，或者看游戏内的攻略。"
+        ],
+        "steamUrl": "https://store.steampowered.com/app/1011510/Wizard_And_Minion_Idle/",
+        "customUrl": "https://pan.baidu.com/s/1n65jmmeP_q9ikDanoNUxwg",
+        "customUrlTit": "汉化包-提取码 56n1",
+        "customUrl2": "https://docs.qq.com/doc/DWEJqQ2FhY3NEdUpX?scene=90630f3676036cca92cada2eIDdwt1",
+        "customUrlTit2": "WAMI全流程攻略",
+        "customUrl3": "https://docs.qq.com/sheet/DSXhUS0dTV3Z1WnBH",
+        "customUrlTit3": "游戏翻译错误提交",
+        "QQ": "1040232114",
+        "qqUrl": "https://qm.qq.com/q/o7oRMGtsIM",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "挂机游戏，群友AI自制",
+        "enTitle": "",
+        "date": "2025-03-14",
+        "update": "2025-03-14",
+        "version": "1.0",
+        "path": "guaji-game",
+        "type": [
+            "升级",
+            "点击",
+            "挂机",
+            "放置"
+        ],
+        "content": [
+            "这个游戏是群友 @maplemei 用AI加上自己修改做出来的。属于挂机战斗游戏，可以转生，没设置上限。装备可以强化，合成，有不同技能。",
+            "可以算是站内第一个用AI辅助开发的游戏，撒花！",
+            "心里有想法的小伙伴，也可以试试用AI写一个自己的游戏哈。"
+        ],
+        "customUrl": "https://g1tyx.github.io/guaji-game/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://guaji-game.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "我的普通放置，群友自制文字放置游戏",
         "enTitle": "",
         "date": "2025-03-12",
-        "update": "2025-03-12",
-        "version": "1.0.1",
+        "update": "2025-03-16",
+        "version": "1.0.33",
         "path": "my-normal-idle",
         "type": [
             "点击",
@@ -743,7 +2011,23 @@
             "修仙"
         ],
         "content": [
-            "这是《我的放置仙途》、《我的文字修仙全靠刷》、《星际帝国》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
+            "2025-03-16：1.0.33更新说明",
+            "修复回档问题",
+            "2025-03-15：1.0.31更新说明",
+            "修复探索无法解锁问题",
+            "2025-03-14：1.0.3更新说明",
+            "新增加探索功能",
+            "新增加装备功能",
+            "优化数据同步问题",
+            "如果遇到探索和装备功能不能用的情况请重置存档",
+            "2025-03-13：1.0.2更新说明",
+            "增加大量新的副本",
+            "增加宠物放生功能",
+            "宠物喂食改为升级",
+            "增加大量成就",
+            "增加大量商品",
+            "可能修复了回档问题,需要测试",
+            "这是《我的荒野放置求生记》、《我的放置仙途》、《我的文字修仙全靠刷》、《星际帝国》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
             "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
             "QQ交流群：920930589"
         ],
@@ -764,13 +2048,13 @@
             6,
             0
         ],
-        "status": 1
+        "status": 0
     },
     {
         "title": "放置拼好团，Steam挂机战斗放置游戏",
         "enTitle": "Raid Auctus",
         "date": "2025-03-12",
-        "update": "2025-03-12",
+        "update": "2025-04-01",
         "version": "",
         "path": "steam-fzpht",
         "type": [
@@ -781,6 +2065,7 @@
             "中文"
         ],
         "content": [
+            "2025-04-01：《放置拼好团》正式版将于今晚10点在Steam发售。",
             "在这款令人上瘾的挂机游戏中体验RPG副本的刺激！在Raid Auctus中，您将建立和管理自己的副本队伍，他们会在游戏运行时变得更强。观看您的队伍克服挑战，获得史诗奖励，登上巅峰 - 一切都按照您的节奏进行。",
             "掌握挂机副本的艺术：",
             "-从20个经典MMO职业中打造您的梦想队伍",
@@ -1133,7 +2418,7 @@
         "title": "巅峰之路，放置冒险RPG（原型RPG姊妹篇）",
         "enTitle": "The Climb",
         "date": "2025-02-28",
-        "update": "2025-02-28",
+        "update": "2025-03-19",
         "version": "2025.2.21",
         "path": "the-climb",
         "type": [
@@ -1144,6 +2429,7 @@
             "升级"
         ],
         "content": [
+            "2025-03-19：游戏群490292981升级人数了，没通过的小伙伴可以重新申请了。",
             "2025-03-12：群满了，先加这个群：867979275，过几天把群转给大佬就能升级500人了。",
             "这是一款受 原型RPG（proto23） 启发的放置类RPG，目前还在开发中。",
             "这两个游戏都可以来群里讨论，QQ交流群：490292981",
@@ -1448,7 +2734,7 @@
             "增加了负面事件的惩罚力度",
             "走火入魔的伤害从30提升至50",
             "心魔侵扰的伤害从40提升至60",
-            "这是《我的文字修仙全靠刷》《星际帝国》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
+            "这是《我的荒野放置求生记》、《我的普通放置》、《我的文字修仙全靠刷》、《星际帝国》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
             "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
             "QQ交流群：920930589"
         ],
@@ -1507,7 +2793,7 @@
         "title": "一万亿免费抽卡，抽卡抽到爽",
         "enTitle": "One Trillion Free Draws",
         "date": "2025-02-17",
-        "update": "2025-02-17",
+        "update": "2025-04-03",
         "version": "",
         "path": "one-trillion-free-draws",
         "type": [
@@ -1518,6 +2804,7 @@
             "升级"
         ],
         "content": [
+            "2025-04-03：游戏新增官方简体中文！",
             "注意：游戏弹窗报错的，是因为游戏文件没加载成功，需要Ctrl + F5强制刷新即可。",
             "顾名思义，你有一万亿次免费抽卡机会，这是一款可以让你抽卡抽到爽的游戏。",
             "游戏支持多语言，默认是英文，需要在右上角选项里面切换到中文。",
@@ -1682,8 +2969,8 @@
         "title": "超级乌龟放置2",
         "enTitle": "Super Turtle Idle Beta",
         "date": "2025-02-10",
-        "update": "2025-03-03",
-        "version": "1.051 v9",
+        "update": "2025-03-21",
+        "version": "1.053",
         "path": "super-turtle-idle-beta",
         "type": [
             "点击",
@@ -1692,6 +2979,8 @@
             "放置"
         ],
         "content": [
+            "2025-03-21：同步最新1.053版本~",
+            "2025-03-13：同步最新1.052版本~",
             "2025-03-03：同步最新1.051 v9版本~",
             "2025-02-26：同步最新1.051版本，新增了一个地图~",
             "欢迎来到《超级乌龟放置2》，这是一款增量放置RPG。完成委托，通过放置收集材料，并消灭强敌!",
@@ -2049,8 +3338,8 @@
         "title": "史上最佳冲浪手",
         "enTitle": "GOAT Surfer",
         "date": "2025-01-13",
-        "update": "2025-02-10",
-        "version": "0.3.0",
+        "update": "2025-05-13",
+        "version": "1.0.0-rc.2",
         "path": "goat-surfer",
         "type": [
             "已汉化",
@@ -2059,6 +3348,7 @@
             "升级"
         ],
         "content": [
+            "2025-05-13：同步到1.0.0-rc.2版本了~",
             "2025-02-10：同步到0.3.0版本了~",
             "注意：游戏不可直接刷新，需要删除链接里面斜杠/后面的单词再回车即可刷新。游戏还在开发中。",
             "在这个游戏中，你将从绝对的冲浪新手开始，逐渐进步成为史上最伟大的冲浪者。",
@@ -2237,8 +3527,8 @@
         "title": "觉醒放置",
         "enTitle": "Idle Awakening",
         "date": "2024-12-20",
-        "update": "2025-03-09",
-        "version": "0.1.2d",
+        "update": "2025-04-08",
+        "version": "0.1.3d",
         "path": "idle-awakening",
         "type": [
             "汉化中",
@@ -2247,6 +3537,8 @@
             "升级"
         ],
         "content": [
+            "2025-04-08：更新到0.1.3d版本了~",
+            "2025-03-31：更新到0.1.3b版本了~",
             "2025-03-09：更新到0.1.2d版本了~",
             "2025-03-05：更新到0.1.1c版本了~",
             "2025-03-03：更新到0.1.1版本了~",
@@ -2629,7 +3921,7 @@
         "title": "星际帝国，重做新版本，类EVE星战文字放置",
         "enTitle": "",
         "date": "2024-11-28",
-        "update": "2024-12-28",
+        "update": "2025-04-02",
         "version": "",
         "path": "xjdg",
         "type": [
@@ -2640,12 +3932,14 @@
             "升级"
         ],
         "content": [
+            "2025-04-02：游戏地址已变更，可能需要重新注册。",
+            "2025-03-20：游戏地址暂时失效，域名备案中，恢复时间等待通知。",
             "2024-12-28：重做了游戏、UI，和之前版本独立，需要重新注册。",
             "星际帝国是一款宇宙空间模拟网页游戏，从一颗星球开始发展，攻击其他玩家的星球或与其他玩家结盟，建立你强大的宇宙帝国！",
-            "这是《我的文字修仙全靠刷》作者的新游戏。",
+            "这是《我的荒野放置求生记》、《我的普通放置》、《我的文字修仙全靠刷》、《我的放置仙途》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
             "QQ交流群：920930589"
         ],
-        "customUrl": "https://og.xjqxz.top/?ref=5718",
+        "customUrl": "https://og.wenzi.games/?ref=8811",
         "customUrlTit": "开始游戏",
         "customUrl2": "https://og.jntm.cool/index.php?ref=649",
         "customUrlTit2": "旧版",
@@ -4411,7 +5705,7 @@
         "title": "荣耀之径，群友自制挂机页游",
         "enTitle": "",
         "date": "2024-09-09",
-        "update": "2025-03-12",
+        "update": "2025-05-13",
         "version": "",
         "path": "ryzj",
         "type": [
@@ -4422,6 +5716,130 @@
             "挂机"
         ],
         "content": [
+            "2025-05-13更新：",
+            "系统重构",
+            "- 重构了[属性]逻辑",
+            "- 重新写了[先攻] 属性. ",
+            "- [先攻] 每个周期开始时, 先攻高的角色优先计算",
+            "- 连续锻造按钮重构. 在线模式只有完全获得锻造返回的结果后才会继续锻",
+            "2025-05-12更新：",
+            "系统重构:",
+            "- 重新梳理了一下引导. 现在章节不在阻塞功能.引导只是单纯的教学.",
+            "- 角色选择列表增加了职业和头像",
+            "- 密码强度降低. 只要一位密码",
+            "bug修复:",
+            "- 修复了连锁攻击只有一个目标的时候不渲染攻击线路",
+            "2025-04-22更新：",
+            "新增",
+            "-技能选择的简要模式.",
+            "-简要模式下只能选择主动技能, 且限定了技能的选择范围.",
+            "-设定增加了技能页面的选择模式",
+            "2025-04-21更新：",
+            "新增",
+            "-角色头像上传. 现在可以上传角色的头像了",
+            "修改",
+            "-重新梳理了章节和引导. 希望可以逐步解锁功能",
+            "2025-04-17更新：",
+            "新增",
+            "-辅助技能 刀光剑影",
+            "-辅助近战技能, 为进展技能添加投射物标签.",
+            "重构",
+            "-充能弹变为投射物. 想前方发射投射物. 缓慢的随机移动,并堆第一个接触的敌人造成伤害",
+            "修复bug",
+            "-修复了被动技能点数计算的错误",
+            "2025-04-14更新：",
+            "新增",
+            "-投射物辅助.",
+            "-多重投射辅助可以增加投射物的数量. 分为 次级 2,普通 4,高级 5.",
+            "-投射物分布 齐射与散射. 齐射为水平发射,散射为以目标中线为起点弧形发射",
+            "-投射物密度. 缺省为16个, 不同等级的密度一次发射的投射物数量均不同",
+            "-不同投射物密度与散步情况会有不同效果.",
+            "-投射物的散布情况也会根据投射物数量是奇数还是偶数有分别.",
+            "重构",
+            "-格斗家的连招不在增加攻速. 毕竟不是弹幕射击游戏.",
+            "-格斗家的连招将额外增加绝技的伤害",
+            "-怪物的回复技能的回复量大砍",
+            "-复兴将无法反复的复活. 也无法复活boss",
+            "2025-04-09更新：",
+            "修复bug",
+            "-修复了选择技能后技能槽重置的错误",
+            "-修正了策略选择技能为空的错误",
+            "-修正了战斗演出最后一帧无法渲染的错误",
+            "重构",
+            "-战斗日志现在进行了重构. 现在显示时间, 发动技能的角色与目标, 造成的伤害包括附加伤害(溅射)",
+            "2025-04-08更新：",
+            "系统重构",
+            "-重构了大约 1/3 的代码.",
+            "-离线结算现在可以再后台运行. 虽然速度很慢且占用资源, 但是不与正常挂机冲突. 双倍挂机, 双倍快乐.",
+            "-重新梳理了首页.",
+            "-重新梳理了 左侧菜单. 加入了权限控制",
+            "-首页加入了战斗预览",
+            "-加入了导出战斗回放功能",
+            "-可以将战斗导出为字符串或者文件",
+            "-可以在 战斗回放 页面重新播放战斗回放",
+            "2025-03-31更新：",
+            "新增",
+            "-训练场. 可以随时进入检测BD. 也可以点击地图让角色移动. 从而更好的配置策略. ",
+            "-训练场没有收益",
+            "-战斗演出更改为左侧雷达图, 右侧单位详情的模式.",
+            "-删除了其余的演出模式",
+            "bug修复",
+            "-修复了在线模式装有些情况下装备错误的问",
+            "2025-03-27更新：",
+            "新增技能",
+            "- 冲锋. 快速接近敌人. 如果冲锋距离够远(10)则会眩晕敌人",
+            "- 野蛮冲撞. 化身泥头车冲向目标. 并且如果冲撞路线上有敌人则会带着一起向目标移动.",
+            "- 七星闪. 绝技. 飞身攻击目标, 并且在敌人之间快速移动并造成伤害. 空中飞行的时候无敌.",
+            "bug修复",
+            "- 修复了有武器限制的技能coc无法触发的问题",
+            "- 修复了大秘境层数选择总是在最下面的问题",
+            "- 修复了副手(箭袋/盾牌) 前缀组只有2个的问题",
+            "2025-03-24更新：",
+            "职业调整",
+            "格斗家新增了[连招]",
+            "格斗家再命中对手并造成伤害后会获得[连招] 每层连招会使攻击速度增加.能量获取速度增加,最多叠层999.",
+            "成功使用非[绝技]技能会获得能量. 造成伤害后获得1能量",
+            "[绝技]会根据消耗的[斗气]数量以及最大[能量]增伤. 每消耗一个[斗气] 每点最大[能量] 造成[绝技] 1% 的增伤",
+            "勇士 ",
+            "-在造成伤害后会获得1层[痛苦抵抗].",
+            "新增物品",
+            "-链刃, 奎爷同款. 单手剑类型, 但是范围巨大.",
+            "-使用链刃后 另一只手只能使用链刃.",
+            "新增绝技",
+            "-魔贯光杀炮, 比克同款.3.5 秒读条, 造成3000%武器伤害.",
+            "修改",
+            "-创建新人物时会附带一个普攻技能. 这样至少可以有最基础的战斗",
+            "2025-03-20更新：",
+            "修改",
+            "-重新调整了尸爆的逻辑. 默认尸爆会引爆目标最近的尸体.",
+            "-如果没有合适的尸体, 技能依然会发动.同时进入cd.",
+            "-尸爆的cd延长至5秒",
+            "-侠客的内伤buff持续时间延长至30秒. 可以更加有效的降低伤害",
+            "修正bug",
+            "-修复了因为改变地图以后的一些逻辑. 比如击退, 炮轰等. 现在可以正确的工作",
+            "-修复了溅射可以再次对自身造成2次伤害的错误",
+            "-修复了 狂战士 受伤可以多次回复怒气的错误",
+            "2025-03-17更新：",
+            "1. 把战斗风格改成了职业. 之前的的确太抽象了.",
+            "2. 战斗距离又增加了2个档位, 现在是 肉搏,近身,近,中,远,极远",
+            "3. 攻击动作分为 近战,远程,法术. 法术和远程的技能需要站桩读条, 近战技能可以粘着怪打.",
+            "4. 重做了施法与引导. 现在法术和远程技能同时只能施展一个[施法]或者[引导]技能. 近战技能不受限制",
+            "5. 重做了天赋. ",
+            "彪形大汉 体积增加(地图上的圈半径增加2) 伤害增加",
+            "小巧玲珑 可以移动施法",
+            "弃子争先 可以多重施法.",
+            "6. 新加了技能旋风斩. 近战引导技能可以攻击周围一圈的敌人. ",
+            "旋风斩coc触发其他技能的构筑是成立的",
+            "2025-03-13更新：",
+            "新增：投射物",
+            "投射物是一个技能标签. 有次标签的技能再释放的时候会创造一个投射物",
+            "-投射物根据不同的类型会有不同的飞行轨迹",
+            "-新增默认投射物.",
+            "新增技能 ",
+            "-奥术球. 释放一个[奥术球]飞向敌人. 和第一个敌人接触后会爆炸. 对范围内的敌人造成伤害同时投射物消失",
+            "bug修复：",
+            "-修复了离线模式有时候无法正确结算的bug",
+            "-修复了一些影响稳定性的bug",
             "2025-03-12更新：",
             "新增",
             "-大秘境.",
@@ -5064,7 +6482,8 @@
             "2024-09-06：更新到0.8版本~",
             "2024-08-05：更新到0.73版本~",
             "2024-08-02：更新到0.7版本，存档不兼容，需要删档重玩~",
-            "这是作者Vue练手写的游戏，欢迎大家给作者点个星星。",
+            "这是《我的荒野放置求生记》、《我的普通放置》、《我的放置仙途》、《星际帝国》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
+            "欢迎大家给作者的项目点个星☆，喜欢作者作品的小伙伴，也可以选择赞助支持作者创作出更多好玩的游戏。",
             "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
             "QQ交流群：920930589"
         ],
@@ -6386,7 +7805,7 @@
         "title": "修真大陆，国人自制修仙游戏，不删档内测",
         "enTitle": "",
         "date": "2023-12-27",
-        "update": "2025-03-08",
+        "update": "2025-04-05",
         "version": "",
         "path": "xiu-zhen-da-lu",
         "type": [
@@ -8390,7 +9809,7 @@
             "游戏还在开发中，咱们会同步更新~​"
         ],
         "zhUrl": "https://g1tyx.github.io/the-ignited-space/",
-        "customUrl": "https://the-ignited-space.g8hh.com/",
+        "customUrl": "https://the-ignited-space.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://the-ignited-space.vercel.app/",
         "QQ": "881240068",
@@ -8420,7 +9839,7 @@
             "​这又是一款以字母为主题的增量放置游戏，目标是购买耗费所有资源的最终升级， 游戏体验与 《字母公司》 类似。"
         ],
         "zhUrl": "https://g1tyx.github.io/have-it/",
-        "customUrl": "https://have-it.g8hh.com/",
+        "customUrl": "https://have-it.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://test.seihoukei.games/have-it/",
         "pic": [
@@ -9650,13 +11069,14 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2025-03-1",
+        "update": "2025-05-12",
         "version": "0.2.4",
         "path": "fundamental",
         "type": [
             "已汉化"
         ],
         "content": [
+            "2025-05-12：更新到0.2.4版本的后半部分了~",
             "2025-03-11：更新到0.2.4版本了~",
             "2025-03-03：更新到0.2.3版本了~",
             "2025-02-15：更新到0.2.2版本了~",
@@ -12354,14 +13774,16 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2024-04-05",
-        "version": "1.7.5",
+        "update": "2025-03-26",
+        "version": "1.8.4",
         "path": "spice-idle",
         "type": [
             "已汉化",
             "放置"
         ],
         "content": [
+            "2025-03-26：更新到1.8.4版本了~​",
+            "2025-03-13：更新到1.8.0版本了~​",
             "《香料放置》是《经验模拟器》作者的另一个作品，目前来看，游戏比较肝，你的肝准备好了吗？​",
             "后面发现没汉化的地方可以先保存、刷新下看看汉化有木有更新；如果没有，请发存档给我~​"
         ],
@@ -12712,8 +14134,8 @@
         "title": "真实割草放置",
         "enTitle": "Really Grass Cutting Incremental",
         "date": "2022-08-15",
-        "update": "2025-03-11",
-        "version": "α2.0",
+        "update": "2025-03-16",
+        "version": "α2.1",
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -12721,6 +14143,7 @@
             "升级"
         ],
         "content": [
+            "2025-03-16：更新到α2.1版本了~",
             "2025-03-11：更新到α2.0版本了~",
             "2025-02-14：补充之前旧版0.5.3版本的链接，在链接后面拼上/old/即可访问。",
             "2024-11-04：同步到α1.4版本了~​",
@@ -13495,7 +14918,7 @@
         "title": "银河奶牛放置，多人在线网络放置",
         "enTitle": "Milky Way Idle",
         "date": "2022-07-04",
-        "update": "2025-03-09",
+        "update": "2025-04-01",
         "version": "",
         "path": "milkywayidle",
         "type": [
@@ -13505,6 +14928,7 @@
             "策略"
         ],
         "content": [
+            "2025-04-02：在线人数达到30000+了，没玩过的小伙伴可以试试~",
             "2025-03-06：新增Steam版链接！可以先用网页版注册，再登录Steam版。",
             "2025-03-04：在大佬们不懈努力下，终于更新了官方中文汉化，不需要插件也可以畅玩了！",
             "2025-01-13：新增另一个专属QQ交流群：482088950",
@@ -13515,7 +14939,7 @@
         ],
         "customUrl3": "https://shorturl.at/ZFXPI",
         "customUrlTit3": "游戏攻略",
-        "customUrl": "https://www.milkywayidle.com/?ref=2883",
+        "customUrl": "https://www.milkywayidle.com/?ref=177326",
         "customUrlTit": "开始游戏",
         "steamUrl": "https://store.steampowered.com/app/3224420/Milky_Way_Idle/",
         "QQ": "701342586",
@@ -13983,7 +15407,7 @@
         "enUrl": "https://123ishatest.github.io/stable-jewels/",
         "customUrl": "https://g1tyx.github.io/stable-jewels",
         "customUrlTit": "备用地址-g8hh",
-        "zhUrl": "https://stable-jewels.g8hh.com.cn",
+        "zhUrl": "https://yx.g8hh.com.cn/stable-jewels/",
         "pic": [
             1,
             2,
@@ -14402,8 +15826,8 @@
         "title": "经验模拟器",
         "enTitle": "EXP Simulator",
         "date": "2022-05-09",
-        "update": "2023-06-28",
-        "version": "2.3.203",
+        "update": "2025-03-28",
+        "version": "2.15.4",
         "path": "exp-simulator",
         "type": [
             "已汉化",
@@ -14412,10 +15836,11 @@
             "升级"
         ],
         "content": [
+            "2025-03-28：同步到最新2.15.4版本~",
             "《经验模拟器》是一款模拟不断升级和声望的放置游戏。！"
         ],
         "enUrl": "https://zakuro98.github.io/EXP-Simulator/",
-        "customUrl": "https://exp-simulator.g8hh.com/",
+        "customUrl": "https://exp-simulator.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/exp-simulator",
         "pic": [
@@ -14949,8 +16374,8 @@
         "title": "代数递进重制版",
         "enTitle": "Algebraic Progression",
         "date": "2022-03-23",
-        "update": "2023-04-11",
-        "version": "2.3",
+        "update": "2025-04-07",
+        "version": "3.0",
         "path": "algebraic-progression",
         "type": [
             "已汉化",
@@ -14959,11 +16384,13 @@
             "升级"
         ],
         "content": [
+            "2025-04-07：更新到3.0版本~",
+            "2023-03-30：更新到2.2版本了。",
             "《代数递进重制版》是一款数学元素的游戏，在这个游戏中，你从几座建筑开始，必须获得 X 和 Y 才能解锁新内容！该游戏拥有一系列成就、许多机制、自动化和声望层。 "
         ],
         "zhUrl": "https://g8hh.github.io/algebraic-progression",
         "enUrl": "https://randomtuba.github.io/Algebraic-Progression/",
-        "customUrl": "https://yx.g8hh.com.cn/algebraic-progression",
+        "customUrl": "https://algebraic-progression.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -19296,8 +20723,8 @@
         "title": "酸橙经营者",
         "enTitle": "Sublime",
         "date": "2021-07-02",
-        "update": "2023-08-30",
-        "version": "0.5.5",
+        "update": "2025-04-17",
+        "version": "1.1.14",
         "path": "sublime",
         "type": [
             "已汉化",
@@ -19311,6 +20738,8 @@
             "模拟"
         ],
         "content": [
+            "2025-03-17：更新到1.1.14版本了~",
+            "2025-03-13：更新到1.1.3版本。时隔两年，再次更新。",
             "一款关于酸橙的游戏，起初看英文名我还以为是那个Sublime编辑器呢..."
         ],
         "zhUrl": "https://g8hh.github.io/sublime/",
@@ -19366,8 +20795,8 @@
         "title": "社区树",
         "enTitle": "Communitree",
         "date": "2021-06-28",
-        "update": "2021-09-09",
-        "version": "0.4.2",
+        "update": "2025-03-14",
+        "version": "0.5",
         "path": "communitree",
         "type": [
             "已汉化",
@@ -19379,10 +20808,11 @@
             "声望树"
         ],
         "content": [
+            "2025-03-14：同步到0.5版本~",
             "声望树的另一个Mod，这次的玩法有点骚，每个节点都是其它声望树作者。"
         ],
         "enUrl": "https://ducdat0507.github.io/communitree/",
-        "customUrl": "https://communitree.g8hh.com",
+        "customUrl": "https://communitree.g8hh.com.cn",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/communitree/",
         "customUrlTit2": "备用地址-GitHub",
@@ -20558,8 +21988,8 @@
         "title": "金庸群侠•大乱斗",
         "enTitle": "",
         "date": "2021-04-22",
-        "update": "2025-02-24",
-        "version": "0.6.196",
+        "update": "2025-05-04",
+        "version": "0.6.200",
         "path": "jyf",
         "type": [
             "放置",
@@ -20574,6 +22004,7 @@
             "武侠"
         ],
         "content": [
+            "2025-05-04：更新到0.6.200版本了~",
             "2025-02-24：更新到0.6.196测试版本，LLM模式下，AI进化了很多，可以自定义剧情了。",
             "2025-02-09：更新到0.6.190测试版本，接入了deepseek模型，变身君子模拟器。",
             "2024-08-25：更新到0.6.178版本了，增加剧情模式和MOD功能~",
@@ -21111,8 +22542,10 @@
             "因为最近补充了一些汉化，所以再发一次~"
         ],
         "zhUrl": "https://g1tyx.github.io/cividlization2",
-        "customUrl": "https://cividlization2.g8hh.com",
+        "customUrl": "https://cividlization2.g8hh.com.cn",
         "customUrlTit": "汉化版-g8hh",
+        "customUrl2": "https://festive-perlman-5fad70.netlify.app/game/city",
+        "customUrlTit2": "英文版地址2",
         "kUrl": "https://www.kongregate.com/games/to_change_later/cividlization-2?sfa=permalink&referrer=SunshineDad",
         "pic": [
             1,
@@ -22680,10 +24113,10 @@
         "status": 1
     },
     {
-        "title": "异形工厂，Steam特卖7元，截止3月3号",
+        "title": "异形工厂，Steam特卖7元，截止4月25号",
         "enTitle": "shapez.io",
         "date": "2020-07-01",
-        "update": "2025-02-17",
+        "update": "2025-04-11",
         "path": "shapez-io",
         "type": [
             "放置",
@@ -22695,6 +24128,7 @@
             "Steam"
         ],
         "content": [
+            "2025-04-11：Steam特卖7元，截止4月25号。",
             "2025-02-17：Steam特卖7元，截止3月3号。",
             "2024-12-20：Steam特卖3.5元，截止1月3号。史低!",
             "2024-11-14：Steam特卖7元，截止11月28号。史低为3.5元。",
@@ -26050,10 +27484,10 @@
         "content": [
             "《循环放置》作者的另一个游戏。"
         ],
-        "customUrl2": "https://yx.g8hh.com.cn/nanospread",
+        "customUrl2": "https://nanospread.g8hh.com.cn",
         "customUrlTit2": "汉化版-g8hh",
         "zhUrl": "https://g1tyx.github.io/nanospread",
-        "enUrl": "http://stopsign.github.io/Nanospread/",
+        "enUrl": "https://stopsign.github.io/Nanospread/",
         "pic": [
             1,
             2
@@ -26339,6 +27773,7 @@
         "title": "蚂蚁放置2",
         "enTitle": "Idle Ant 2",
         "date": "2018-09-10",
+        "update": "2025-03-27",
         "path": "idle-ant2",
         "type": [
             "已汉化",
@@ -26352,10 +27787,11 @@
             "K站"
         ],
         "content": [
+            "2025-03-27：游戏没更新，翻新一下让新朋友可以玩到。",
             "这是一款关于蚂蚁的放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步完善你的蚂蚁王国。这是蚂蚁放置的续作，作者用了另一种方式开发的游戏，增加了一些玩法。 "
         ],
         "zhUrl": "https://g1tyx.github.io/idleant2",
-        "customUrl": "https://idleant2.g8hh.com/",
+        "customUrl": "https://idleant2.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "oscUrl": "https://www.oschina.net/p/idleant2",
         "enUrl": "https://scorzy.github.io/IdleAnt2/",
@@ -26776,6 +28212,7 @@
         "title": "蚂蚁放置",
         "enTitle": "Idle Ant",
         "date": "2017-10-27",
+        "update": "2025-03-27",
         "path": "idle-ant",
         "type": [
             "已汉化",
@@ -26786,10 +28223,11 @@
             "K站"
         ],
         "content": [
+            "2025-03-27：游戏没更新，翻新一下让新朋友可以玩到。",
             "这是一款关于蚂蚁的放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步完善你的蚂蚁王国。 "
         ],
         "zhUrl": "https://g1tyx.github.io/idleant",
-        "customUrl": "https://idleant.g8hh.com/",
+        "customUrl": "https://idleant2.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://scorzy.github.io/IdleAnt",
         "kUrl": "https://www.kongregate.com/games/scorzy88/idle-ants?sfa=permalink&referrer=SunshineDad",
