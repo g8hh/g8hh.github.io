@@ -540,7 +540,7 @@
         "title": "无尽洪荒，文字MUD修仙游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2025-04-28",
+        "update": "2025-05-14",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -762,6 +762,228 @@
         "needHH": 0
     },
     {
+        "title": "点数递进",
+        "enTitle": "Points Progression",
+        "date": "2025-05-23",
+        "update": "2025-05-23",
+        "version": "",
+        "path": "points-progression",
+        "type": [
+            "点击",
+            "策略",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是一个具有独特机制和玩法的具有挑战性的增量游戏。​",
+            "游戏有很多时间墙，甚至一开始就有一个时间墙——所以要做好准备。一开始，游戏可能会让人觉得缓慢而无趣，但一旦你获得1万点数，游戏体验就会变得更加吸引人。此外，所有没有等级限制的升级都可以同时购买多个等级，但你只需要为最后一个等级付费。例如，如果等级1、2和3的成本分别为10、20和30点，那么直接升级到等级3只需要支付30点。有了这些知识，你可以大大加快你的进步。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/points-progression/",
+        "customUrl": "https://points-progression.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://troxi54.github.io/Points-Progression/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "重生树重制版",
+        "enTitle": "The Rebirth Tree Rewritten​",
+        "date": "2025-05-23",
+        "update": "2025-05-23",
+        "version": "1.10d",
+        "path": "rebirth-tree-rewritten",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是一款以重生为中心的增量游戏。",
+            "由于某些原因，游戏在某些浏览器上会崩溃。你可能需要点击“打开原始版本”才能打开游戏。"
+        ],
+        "zhUrl": "https://gltyx.github.io/rebirth-tree-rewritten/",
+        "customUrl": "https://rebirth-tree-rewritten.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://brandly123.github.io/Rebirth-Tree-Rewritten/",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "NGA挂机放置，国人自制刷子放置",
+        "enTitle": "",
+        "date": "2025-05-22",
+        "update": "2025-05-22",
+        "version": "1.0",
+        "path": "nga-guaji",
+        "type": [
+            "自制",
+            "战斗",
+            "挂机",
+            "策略",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "注意：地图需要点左上角第6个图标才会显示出来，然后从低级地图开始刷。",
+            "这是NGA论坛一位老哥写的单机挂机放置游戏，支持导出存档。",
+            "游戏玩法以挂机刷装备为主，属性加点为辅，还有游戏商店可以刷装备，也有游戏图鉴，各种五颜六色、闪闪发光的装备，看着就很爽。",
+            "这个游戏乍一看浓浓的氪金页游风，其实它就是个单机放置游戏，大家可以放心食用。"
+        ],
+        "customUrl": "http://couy.xumy.vip/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://bbs.nga.cn/read.php?tid=44114082",
+        "customUrlTit2": "NGA原帖地址",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "稀有玩具放置",
+        "enTitle": "Rarity Toy",
+        "date": "2025-05-20",
+        "update": "2025-05-20",
+        "version": "",
+        "path": "rarity-toy",
+        "type": [
+            "点击",
+            "抽卡",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是一款关于抽取随机稀有度玩具的点击放置游戏。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/rarity-toy/",
+        "customUrl": "https://rarity-toy.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://clawrez.gay/games/raritytoy/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "金币点击放置，群友自制",
+        "enTitle": "",
+        "date": "2025-05-16",
+        "update": "2025-05-18",
+        "version": "1.0.6",
+        "path": "vue-clickergame",
+        "type": [
+            "点击",
+            "升级",
+            "群友自制",
+            "文字",
+            "益智"
+        ],
+        "content": [
+            "2025-05-18版本更新说明",
+            "1.0.6版本",
+            "修复转生条件计算错误问题",
+            "修复升级藏品不算进成就问题",
+            "修复离线收益计算不正确问题",
+            "2025-05-16版本更新说明",
+            "1.0.5版本",
+            "-优化藏品相关",
+            "-修复藏品按钮文案出错问题",
+            "1.0.4版本",
+            "-优化转生提示",
+            "-修复藏品价格出现Nan问题",
+            "1.0.3版本",
+            "-修复刷新页面后藏品升级价格问题",
+            "1.0.2版本",
+            "-修复藏品相关增益问题",
+            "1.0.1版本",
+            "-增加转生功能",
+            "-优化成就相关收益",
+            "-优化自动点击相关收益",
+            "-修复刷新后藏品升级花费重置问题",
+            "这是一款基于Vue 3开发的点击放置游戏。",
+            "这是《我的荒野放置求生记》、《我的放置仙途》、《我的文字修仙全靠刷》、《星际帝国》、《掷骰迷局》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
+            "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
+            "QQ交流群：920930589"
+        ],
+        "customUrl": "https://vue-clickergame.wenzi.games/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://vue-clickergame.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://github.com/setube/vue-clickergame",
+        "customUrlTit3": "Github项目求点星",
+        "QQ": "920930589",
+        "qqUrl": "https://qm.qq.com/q/iifNs5qukg",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "盒子放置",
+        "enTitle": "Boxes",
+        "date": "2025-05-15",
+        "update": "2025-05-15",
+        "version": "",
+        "path": "boxes",
+        "type": [
+            "点击",
+            "经营",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是一款关于盒子的点击放置游戏。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/boxes/",
+        "customUrl": "https://boxes.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://clawrez.gay/games/boxes/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "末世统治",
         "enTitle": "World's End Domination",
         "date": "2025-05-12",
@@ -818,8 +1040,10 @@
         ],
         "customUrl": "https://g1tyx.github.io/kapaidashi/",
         "customUrlTit": "开始游戏",
-        "customUrl2": "https://kapaidashi.g8hh.com.cn/",
+        "customUrl2": "https://faysunshine.com/kapaidashi/",
         "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://kapaidashi.g8hh.com.cn/",
+        "customUrlTit3": "备用地址-g8hh",
         "QQ": "858512634",
         "qqUrl": "https://qm.qq.com/q/XhNqreU1Ow",
         "pic": [
@@ -4321,8 +4545,8 @@
         "title": "天体增量树",
         "enTitle": "Celestial Incremental",
         "date": "2024-10-28",
-        "update": "2025-02-15",
-        "version": "1.4",
+        "update": "2025-05-23",
+        "version": "1.6.1",
         "path": "celestial-incremental",
         "type": [
             "放置",
@@ -4333,6 +4557,7 @@
             "声望树"
         ],
         "content": [
+            "2025-05-23：更新到1.6.1版本~",
             "2025-02-15：更新到1.4版本~",
             "2024-12-04：更新到1.3版本~",
             "2024-11-26：更新到1.2.1版本~",
@@ -5702,10 +5927,10 @@
         "status": 1
     },
     {
-        "title": "荣耀之径，群友自制挂机页游",
+        "title": "荣耀之径，版本更新了，群友自制挂机页游",
         "enTitle": "",
         "date": "2024-09-09",
-        "update": "2025-05-13",
+        "update": "2025-05-19",
         "version": "",
         "path": "ryzj",
         "type": [
@@ -5716,6 +5941,33 @@
             "挂机"
         ],
         "content": [
+            "2025-05-22版本更新说明：",
+            "系统改进",
+            "-增加了导入导出存档文件的功能",
+            "-幸运一击. 玩家施展技能时有20% (暂定) 的概率造成[幸运一击]",
+            "-由幸运增加的暴击率现在可以正常的显示在面板上. 每1点幸运增加1%的暴击率",
+            "人物特征修改",
+            "-霉运当头",
+            "-开始战斗后,每秒对战场上存活的随机目标(包括自身) 施加[厄运]. 目标数量由 [幸运]属性决定.",
+            "-受到 [厄运] 影响, 暴击率,命中率 大幅下降. 且无法施加幸运一击",
+            "-神雕小侠",
+            "-使用单手武器并造成幸运一击时,对目标施加随机负面效果.",
+            "2025-05-19版本更新说明：",
+            "技能重构",
+            "- 人物特性 重拳出击",
+            "- 重拳出击将降低受到的伤害30%, 非[近战]技能造成的伤害下降30%.",
+            "- 移动速度提升 5. ",
+            "- 受到伤害时, 如果攻击方与自己的距离超过20, 则会获得 [复仇] 1秒后将伤害返还给所地图上所有的敌人 无视距离.",
+            "新增",
+            "- 技能标签 升龙",
+            "- 所有升龙技能发动时会迅速接近对手. 并且无敌0.5秒, 同时获得2秒的脆弱(升龙). ",
+            "- 升龙技能击中敌人并造成伤害后移除[升龙]造成的脆弱",
+            "- 战术大师即使升龙不中也不会产生脆弱",
+            "2025-05-14更新：",
+            "系统重构",
+            "- 重构了特征 战略大师",
+            "- 战略大师将无法移动,但是投射物将增强. ",
+            "- 除了法波不推前,你跳我就蹲重拳.",
             "2025-05-13更新：",
             "系统重构",
             "- 重构了[属性]逻辑",
@@ -6467,8 +6719,8 @@
         "title": "我的文字修仙全靠刷，群友自制文字游戏",
         "enTitle": "",
         "date": "2024-07-30",
-        "update": "2025-02-20",
-        "version": "0.9.7",
+        "update": "2025-05-14",
+        "version": "1.0.1",
         "path": "vue-xiuxian",
         "type": [
             "点击",
@@ -6478,6 +6730,18 @@
             "修仙"
         ],
         "content": [
+            "2025-05-18版本更新说明",
+            "1.0.1版本",
+            "-修复炼器无效问题",
+            "-修复世界BOSS对战问题",
+            "-修复无尽塔自动对战失效问题",
+            "-修复鸿蒙商店购买装备之后跳转问题",
+            "-更新Docker镜像架构为amd64和arm64",
+            "2025-05-14：更新到1.0.0版本~",
+            "优化issue模板",
+            "精简docker镜像",
+            "修复部分已知bug",
+            "项目代码重构选项式改为组合式",
             "2025-02-20：更新到0.9.7版本~",
             "2024-09-06：更新到0.8版本~",
             "2024-08-05：更新到0.73版本~",
@@ -6487,7 +6751,7 @@
             "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
             "QQ交流群：920930589"
         ],
-        "customUrl": "https://setube.github.io/vue-XiuXianGame/",
+        "customUrl": "https://xiuxian.wenzi.games/",
         "customUrlTit": "开始游戏",
         "customUrl2": "https://vue-xiuxian.g8hh.com.cn/",
         "customUrlTit2": "备用地址-g8hh",
@@ -8067,7 +8331,7 @@
         "title": "永无止境，多人修仙挂机放置",
         "enTitle": "",
         "date": "2023-12-01",
-        "update": "2023-12-01",
+        "update": "2025-05-22",
         "path": "ywzj",
         "type": [
             "放置",
@@ -8078,6 +8342,7 @@
             "联网"
         ],
         "content": [
+            "2025-05-22：更换游戏地址为：http://1.15.75.55/",
             "注意：注册入口在地址2里面。",
             "乍一看这是《挂机无止境》的换皮游戏，其实是另一个游戏。",
             "游戏是联网多人在线的，无氪金，目前还是内测阶段，欢迎加群给作者提建议。",
@@ -8090,12 +8355,12 @@
             "2001250000CA4G211AW2 洗髓丹兑换码",
             "2010230000CWC300T91P 金币袋"
         ],
-        "customUrl": "http://119.29.19.59:9000/",
-        "customUrlTit": "挂机版地址（适配手机）",
-        "customUrl2": "http://82.156.203.116/",
-        "customUrlTit2": "实时战斗地址",
-        "customUrl3": "http://proxy.idleinfinity.cn:8899/",
-        "customUrlTit3": "地址3（暂不可用）",
+        "customUrl2": "http://119.29.19.59:9000/",
+        "customUrlTit2": "挂机版地址（适配手机）",
+        "customUrl3": "http://82.156.203.116/",
+        "customUrlTit3": "实时战斗地址",
+        "customUrl": "http://1.15.75.55/index",
+        "customUrlTit": "开始游戏",
         "QQ": "808647555",
         "pic": [
             1,
@@ -12141,14 +12406,16 @@
         "title": "继续解锁",
         "enTitle": "Theres More",
         "date": "2022-11-09",
-        "update": "2024-02-19",
-        "version": "0.62",
+        "update": "2025-05-22",
+        "version": "1.0.1",
         "path": "theresmoregame",
         "type": [
             "已汉化",
             "放置"
         ],
         "content": [
+            "2024-05-22：更新到1.0.1版本了~",
+            "2024-05-20：更新到1.0.0版本了，1.0.1版本汉化中~",
             "2024-04-01：更新到0.71版本了",
             "2024-04-01：汉化版打不开的，在.com后面加个.cn",
             "11-18：更新到0.42.3版本了",
@@ -12160,7 +12427,7 @@
             "支持在移动和PC端游戏。",
             "游戏交流群：607245788"
         ],
-        "zhUrl": "https://theresmoregame.g8hh.com/",
+        "zhUrl": "https://theresmoregame.g8hh.com.cn/",
         "enUrl": "https://www.theresmoregame.com/play/",
         "QQ": "607245788",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=KYTyAt1Auz9rKhFwlO20ASQpACfJVRRq&jump_from=webapi&authKey=paBmx6y0+j7TO0N+txioAH/QaEFTrsEkb6dejLDwIGw+/D6jrI+48+BA51krvwOJ",
@@ -14918,7 +15185,7 @@
         "title": "银河奶牛放置，多人在线网络放置",
         "enTitle": "Milky Way Idle",
         "date": "2022-07-04",
-        "update": "2025-04-01",
+        "update": "2025-05-14",
         "version": "",
         "path": "milkywayidle",
         "type": [
@@ -14928,6 +15195,7 @@
             "策略"
         ],
         "content": [
+            "2025-05-16：在线人数达到54000+了，没玩过的小伙伴可以试试~",
             "2025-04-02：在线人数达到30000+了，没玩过的小伙伴可以试试~",
             "2025-03-06：新增Steam版链接！可以先用网页版注册，再登录Steam版。",
             "2025-03-04：在大佬们不懈努力下，终于更新了官方中文汉化，不需要插件也可以畅玩了！",
@@ -14939,7 +15207,7 @@
         ],
         "customUrl3": "https://shorturl.at/ZFXPI",
         "customUrlTit3": "游戏攻略",
-        "customUrl": "https://www.milkywayidle.com/?ref=177326",
+        "customUrl": "https://www.milkywayidle.com/?ref=3922",
         "customUrlTit": "开始游戏",
         "steamUrl": "https://store.steampowered.com/app/3224420/Milky_Way_Idle/",
         "QQ": "701342586",
@@ -16374,8 +16642,8 @@
         "title": "代数递进重制版",
         "enTitle": "Algebraic Progression",
         "date": "2022-03-23",
-        "update": "2025-04-07",
-        "version": "3.0",
+        "update": "2025-05-14",
+        "version": "3.0.1",
         "path": "algebraic-progression",
         "type": [
             "已汉化",
@@ -16384,6 +16652,7 @@
             "升级"
         ],
         "content": [
+            "2025-05-14：更新到3.0.1版本~",
             "2025-04-07：更新到3.0版本~",
             "2023-03-30：更新到2.2版本了。",
             "《代数递进重制版》是一款数学元素的游戏，在这个游戏中，你从几座建筑开始，必须获得 X 和 Y 才能解锁新内容！该游戏拥有一系列成就、许多机制、自动化和声望层。 "
@@ -23512,7 +23781,7 @@
             "主角默认每秒回血2%；默认暴击伤害150%"
         ],
         "zhUrl": "https://g1tyx.github.io/vue-idle-game",
-        "customUrl": "https://vue-idle-game.g8hh.com/",
+        "customUrl": "https://vue-idle-game.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "customUrl2": "http://couy.xyz",
         "customUrlTit2": "原版",
@@ -27858,8 +28127,8 @@
         "title": "13层",
         "enTitle": "Level 13",
         "date": "2018-05-09",
-        "update": "2023-07-19",
-        "version": "0.5.2",
+        "update": "2025-05-14",
+        "version": "0.5.3",
         "path": "level-13",
         "type": [
             "汉化中",
@@ -27873,6 +28142,8 @@
             "策略"
         ],
         "content": [
+            "2025-05-14：更新到0.5.3版本了，只是修bug~",
+            "2023-07-19：更新到0.5.2版本了~",
             "感谢小伙伴：@TG303 帮忙汉化。",
             "这是一款类似于小黑屋的放置型经营游戏，你可以建造多种建筑和收集多种资源，来一步步探索13个层面。"
         ],
