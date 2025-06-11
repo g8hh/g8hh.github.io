@@ -606,10 +606,10 @@
         "status": 1
     },
     {
-        "title": "放置传奇，PC挂机摸鱼放置游戏，七夕活动进行中",
+        "title": "放置传奇，6.1开新区，PC挂机摸鱼放置游戏",
         "enTitle": "",
         "date": "2023-11-16",
-        "update": "2025-04-28",
+        "update": "2025-05-31",
         "version": "",
         "path": "fzcq",
         "type": [
@@ -620,6 +620,7 @@
             "文字"
         ],
         "content": [
+            "2025-05-31：明天六一开新区，快快抢先下载注册！",
             "2024-11-09：双11活动进行中~",
             "今天中午12点整开服，喜欢的小伙伴可以提前下载注册！",
             "游戏名字：放置传奇（pc放置）",
@@ -760,6 +761,430 @@
         ],
         "status": 0,
         "needHH": 0
+    },
+    {
+        "title": "Manarion，网络文字放置摸鱼",
+        "enTitle": "",
+        "date": "2025-05-30",
+        "update": "2025-05-30",
+        "version": "",
+        "path": "manarion",
+        "type": [
+            "英文",
+            "油猴",
+            "汉化中",
+            "联网"
+        ],
+        "content": [
+            "油猴汉化文件地址：",
+            "https://g8hh.com.cn/zh/tampermonkey/manarion-chs.user.js",
+            "建筑:使用你的资源来建造建筑，为你的部落和所有成员提供利益……",
+            "QQ交流群：390667378，有不懂的可以加群问。"
+        ],
+        "customUrl": "https://manarion.com?ref=2603",
+        "customUrl3": "https://gityx.com/help/faq/633.html",
+        "customUrlTit3": "油猴汉化教程",
+        "customUrl4": "https://www.tampermonkey.net/",
+        "customUrlTit4": "油猴官网",
+        "QQ": "390667378",
+        "qqUrl": "https://qm.qq.com/q/SbSxNGaiWY",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "status": 0
+    },
+    {
+        "title": "劝退树，群友自制模组树游戏",
+        "enTitle": "The Wrong Tree NG",
+        "date": "2025-06-11",
+        "update": "2025-06-11",
+        "version": "1.1",
+        "path": "the-wrong-tree-ng",
+        "type": [
+            "放置",
+            "文字",
+            "群友自制",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "这是群友 @22222 制作的新游戏，作者的其他游戏还有《红鲨树》等。",
+            "作者QQ：2960729702",
+            "模组树QQ交流群：963150347。"
+        ],
+        "customUrl": "https://qwqe198.github.io/The-Wrong-Tree-ng/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://the-wrong-tree-ng.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "公平游戏，多人网络竞争排行榜挂机放置",
+        "enTitle": "Fair Game",
+        "date": "2025-05-08",
+        "update": "2025-06-08",
+        "version": "",
+        "path": "fair-game",
+        "type": [
+            "英文",
+            "油猴",
+            "多人",
+            "汉化中",
+            "联网"
+        ],
+        "content": [
+            "2025-06-10：游戏完善了很多，重新汉化一下发出来给大家玩。",
+            "2022-07-15：更新初版。",
+            "这是一个多人在线排行榜竞争类放置游戏，操作比较少，大部分时间都是在挂机。",
+            "游戏里面有若干个天梯，只有4个操作按钮，当你在一个天梯榜上达到第一名后，就会自动前往下一个天梯。",
+            "油猴汉化文件地址：",
+            "https://g8hh.com.cn/zh/tampermonkey/fair-chs.user.js",
+            "QQ交流群：867979275，有不懂的可以加群问。"
+        ],
+        "customUrl": "https://fair.kaliburg.de/",
+        "customUrl3": "https://gityx.com/help/faq/633.html",
+        "customUrlTit3": "油猴汉化教程",
+        "customUrl4": "https://www.tampermonkey.net/",
+        "customUrlTit4": "油猴官网",
+        "QQ": "867979275",
+        "qqUrl": "https://qm.qq.com/q/oGXhHCKWZ2",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "坍缩器放置",
+        "enTitle": "Collapser",
+        "date": "2025-06-08",
+        "update": "2025-06-08",
+        "version": "",
+        "path": "collapser",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是一款点击放置游戏，通过购买各种升级、加成，实现坍缩，以此往复。"
+        ],
+        "zhUrl": "https://gltyx.github.io/collapser/",
+        "customUrl": "https://collapser.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://spotky1004.com/Collapser-Prototype/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "生物进化放置",
+        "enTitle": "Biotomata",
+        "date": "2025-06-06",
+        "update": "2025-06-06",
+        "version": "",
+        "path": "biotomata",
+        "type": [
+            "战斗",
+            "养成",
+            "策略",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是一款放置养成类游戏，游戏讲述了从一个简单的细胞成长为一个可怕恐怖的东西的过程。",
+            "游戏还在汉化中，玩的快的小伙伴可以发存档给我补汉化~"
+        ],
+        "zhUrl": "https://gltyx.github.io/biotomata/",
+        "customUrl": "https://biotomata.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://talos0248.github.io/Biotomata-Game/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "暗夜抉择，国人自制文字Mud游戏",
+        "enTitle": "",
+        "date": "2025-06-06",
+        "update": "2025-06-06",
+        "version": "1.5",
+        "path": "ayjz",
+        "type": [
+            "自制",
+            "战斗",
+            "挂机",
+            "策略",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是国人自制的一个Mud文字冒险游戏，游戏内容目前到青石镇就结束了。",
+            "部分道具，技能没有实装。手机端不友好。"
+        ],
+        "customUrl": "https://voluble-tartufo-2c5fcc.netlify.app/",
+        "customUrlTit": "开始游戏",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "宇宙收集放置",
+        "enTitle": "Cosmic Collection",
+        "date": "2025-06-05",
+        "update": "2025-06-11",
+        "version": "0.181",
+        "path": "cosmic-collection",
+        "type": [
+            "点击",
+            "卡牌",
+            "抽卡",
+            "收集",
+            "战斗",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "2025-06-11：同步最新版本0.181版本~",
+            "2025-06-10：同步最新版本0.173版本~",
+            "​这是一款增量式集换式卡牌游戏，专注于抽取新卡牌的简单乐趣。如果你喜欢那种“再来一包”的感觉，不妨试试。",
+            "​作者的目标：",
+            "​-找到稀有牌的那种快感。稀有牌的几率低，而且强度高，所以抽到一张应该会感觉很重要。",
+            "​-新卡牌的体验应该很棒。每次揭晓时，都有精致的动画和令人满意的反馈——恰到好处的技巧让游戏充满乐趣。",
+            "​-触感十足，构思巧妙，引人入胜。虽然有放置/自动/离线进程，但核心循环是动手操作的。重点在于你如何揭开卡牌。",
+            "​-轻松扩展，避免混乱。之后，“戳”会一次性为你提供数千张（甚至更多）卡牌——这样的设计让你不会感到不知所措。",
+            "​-默认放松。有优化方法，但毫无压力。没有错误选择（除了取消选择所有领域——但视觉提示有助于避免这种情况）。",
+            "​-有趣的卡牌描述。没有随意的填充内容——只有关于每张卡牌主题的精彩事实或奇特传说。",
+            "​-怀旧开包氛围。想象一下打开宝可梦、游戏王或魔法补充包的感受。无需付费墙，无需任何技巧——纯粹的收藏乐趣。",
+            "​如何玩（如果您需要一些帮助来开始）：",
+            "​-戳一下黑洞，看看它会吐出什么。",
+            "​-刷卡即可翻转卡片。",
+            "​-单击卡片可查看详细信息。",
+            "​-浏览顶部的标签来查看您的收藏、技能等。",
+            "​-祝您玩得开心，解决剩下的问题！"
+        ],
+        "zhUrl": "https://gltyx.github.io/cosmic-collection/",
+        "customUrl": "https://cosmic-collection.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://kuzzigames.com/cosmic_collection/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "僵尸网络点击器",
+        "enTitle": "Botnet Clicker",
+        "date": "2025-05-30",
+        "update": "2025-05-30",
+        "version": "",
+        "path": "botnet-clicker",
+        "type": [
+            "点击",
+            "策略",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "僵尸网络点击器是一个以黑客为主题的增量游戏，您可以通过破解密码、妥协设备和在受控机器网络上安装加密货币矿工来构建和管理自己的僵尸网络。",
+            "概述",
+            "在僵尸网络点击器中，你从一个简单的笔记本电脑开始，必须以你的方式控制整个被入侵的机器网络。黑进设备，赚取加密货币，购买升级，最终达到一个状态，你可以重置永久奖励。",
+            "特点",
+            "-逼真的黑客模拟：破解密码，妥协设备，并建立你的僵尸网络",
+            "-加密货币挖矿：在入侵的机器上运行矿工以产生收入",
+            "-桌面风格的UI：管理多个窗口，包括黑客控制台，僵尸网络控制面板和加密钱包",
+            "-暗网界面：通过模拟的TorX浏览器购买新的目标和升级",
+            "-声望系统：重置你的进度获得永久奖励与主密钥令牌",
+            "-保存和加载：导出和导入保存代码，以继续您的进度",
+            "-渐进式难度：从简单的学生笔记本电脑到政府大型机和量子计算机",
+            "玩法说明",
+            "-开始挖矿：打开个人加密矿工并输入 start 开始赚取加密货币",
+            "-购买你的第一个目标：一旦你有25 CC（加密货币），从升级商店按钮打开TorX浏览器，导航到黑暗论坛购买访问你的第一个目标",
+            "-黑客设备：通过“黑客控制台”选择目标并执行密码破解操作",
+            "-安装矿工：在入侵设备后，从僵尸网络控制面板安装加密矿工",
+            "-升级你的系统：从TorX浏览器的黑市购买升级来提高你的黑客效率",
+            "-扩展僵尸网络：继续入侵高级设备并扩展网络",
+            "-声望：一旦您累积了1,000,000次密码尝试，激活全局主密钥重置与永久奖金",
+            "游戏窗口",
+            "-个人加密矿工：终端界面挖掘加密货币在自己的机器上",
+            "-黑客控制台：选择并攻击目标机器",
+            "-僵尸网络控制面板：管理受入侵的机器和安装矿工",
+            "-加密钱包：跟踪您的加密货币余额和交易历史",
+            "-TorX浏览器：访问暗网购买目标和升级",
+            "-系统性能：监控资源生成速率和声望进度",
+            "-设置：保存和加载游戏进度",
+            "进展",
+            "游戏在6个关卡中设置了30种设备：",
+            "-个人设备：学生笔记本电脑，台式机和游戏电脑",
+            "-家庭网络：路由器、NAS服务器和采矿设备",
+            "-小型企业：办公设备和网络托管服务器",
+            "-企业：防火墙、数据库服务器和数据中心",
+            "-政府/研究：大学服务器、金融机构和政府数据库",
+            "-高级/专业：人工智能集群、量子计算实验室和全球网络基础设施"
+        ],
+        "zhUrl": "https://gltyx.github.io/botnet-clicker/",
+        "customUrl": "https://botnet-clicker.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://lawlessguy.github.io/botnet_clicker/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "地牢逃离增量",
+        "enTitle": "Jail Evasion Incremental",
+        "date": "2025-05-29",
+        "update": "2025-05-29",
+        "version": "",
+        "path": "jail-evasion-incremental",
+        "type": [
+            "点击",
+            "策略",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "这是一款关于逃离地牢和逃避捕快的游戏。你能逃出去吗？​"
+        ],
+        "zhUrl": "https://gltyx.github.io/jail-evasion-incremental/",
+        "customUrl": "https://jail-evasion-incremental.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://circle-gon.itch.io/jail-evasion-incremental",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "Css点击器",
+        "enTitle": "Css Clicker",
+        "date": "2025-05-28",
+        "update": "2025-05-28",
+        "version": "",
+        "path": "css-clicker",
+        "type": [
+            "点击",
+            "升级",
+            "放置"
+        ],
+        "content": [
+            "CSS点击器 是一款以制作网站为主题的放置游戏。​",
+            "你的目标是建立一个网站，并通过购买各种升级来升级你的网站。​",
+            "整个游戏是用HTML和CSS编写的。没有使用JavaScript或服务器端代码:)。​"
+        ],
+        "zhUrl": "https://gltyx.github.io/css-clicker/",
+        "customUrl": "https://css-clicker.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://lyra.horse/css-clicker/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "数据增量重制版，群友自制文字放置",
+        "enTitle": "",
+        "date": "2025-05-26",
+        "update": "2025-05-26",
+        "version": "2.1.1",
+        "path": "incremental-data-rewritten",
+        "type": [
+            "群友自制",
+            "点击",
+            "升级",
+            "文字",
+            "放置"
+        ],
+        "content": [
+            "这是群里的 @Seanxlx 小伙伴自己制作的放置游戏，欢迎大家体验。"
+        ],
+        "customUrl": "http://seanxlx2011.github.io/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://incremental-data-rewritten.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "QQ": "1050424901",
+        "qqUrl": "https://qm.qq.com/q/hzzR6SeTlY",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
     },
     {
         "title": "点数递进",
@@ -1062,7 +1487,7 @@
         "title": "升级放置",
         "enTitle": "Level Up",
         "date": "2025-04-25",
-        "update": "2025-05-13",
+        "update": "2025-06-10",
         "version": "0.3",
         "path": "level-up",
         "type": [
@@ -1073,6 +1498,8 @@
             "放置"
         ],
         "content": [
+            "2025-06-10：更新到最新版本了，继续补汉化~",
+            "2025-06-02：更新到最新版本了，继续补汉化~",
             "2025-05-13：更新到0.3版本了，继续补汉化~",
             "2025-05-12：更新到0.2版本了，开始补汉化~",
             "这是一款挂机打怪升级的放置游戏。游戏有转生系统。",
@@ -3751,16 +4178,18 @@
         "title": "觉醒放置",
         "enTitle": "Idle Awakening",
         "date": "2024-12-20",
-        "update": "2025-04-08",
+        "update": "2025-05-27",
         "version": "0.1.3d",
         "path": "idle-awakening",
         "type": [
             "汉化中",
             "放置",
+            "Steam",
             "经营",
             "升级"
         ],
         "content": [
+            "2025-05-27：新增Steam版链接，汉化文件可以共用，可以参考脆皮steam版汉化教程去做汉化~",
             "2025-04-08：更新到0.1.3d版本了~",
             "2025-03-31：更新到0.1.3b版本了~",
             "2025-03-09：更新到0.1.2d版本了~",
@@ -3781,6 +4210,7 @@
         "customUrl": "https://idle-awakening.g8hh.com.cn/",
         "customUrlTit": "备用地址-github",
         "zhUrl": "https://gityxs.github.io/idle-awakening/",
+        "steamUrl": "https://store.steampowered.com/app/3678950/Idle_Awakening_Mages_Path/",
         "QQ": "881240068",
         "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=d1cy3VkKrf-3OLcd6qj0GPebZcb1Ifkw&jump_from=webapi",
         "pic": [
@@ -5930,7 +6360,7 @@
         "title": "荣耀之径，版本更新了，群友自制挂机页游",
         "enTitle": "",
         "date": "2024-09-09",
-        "update": "2025-05-19",
+        "update": "2025-06-04",
         "version": "",
         "path": "ryzj",
         "type": [
@@ -5941,6 +6371,40 @@
             "挂机"
         ],
         "content": [
+            "2025-06-04版本更新说明：",
+            "系统重构",
+            "- 重新开放了 训练场模式 下的主动移动",
+            "- 再训练场, 人物会向鼠标点击的地方主动移动.",
+            "2025-06-02版本更新说明：",
+            "系统更改",
+            "-后台运算统一使用异步 以避免阻塞ui",
+            "-离线结算的完全结算再次回归",
+            "-游戏时间目前统一使用 UTC 时间",
+            "-增加了背包/战利品 功能按钮的大小. 以及列表的最大高度",
+            "-合并了战斗演出时的数字. 现在每帧的dot 以及同技能造成的伤害只会显示一次.每隔1秒显示一次技能施展的文字信息.",
+            "-武器(dps)与盾牌(格挡率)的基础属性 不在浮动",
+            "bug修复",
+            "-修复了连锁攻击只有一个目标的时候不渲染攻击线路",
+            "2025-05-28版本更新说明：",
+            "系统更改",
+            "- 锻造",
+            "- 锻造期待加入了槽位. 可以最多保存5个期待, 用于快速切换",
+            "bug 修复",
+            "- 根据战斗replay重新渲染战斗有可能出现不同结果的错误",
+            "2025-05-27版本更新说明：",
+            "系统更改",
+            "- 关闭离线模式的实时计算. 暂时只使用快速结算.",
+            "- 关闭小屏幕下的战斗预览.",
+            "- 更新安卓下载服务. 尝试修复安卓系统下无法导出文件的问题.",
+            "- 增加了大秘境自动爬塔功能. 在地图页面可以找到选项. 开启后, 当选择地图为大秘境, 且层数为最高层时, 战斗胜利后会继续下一层的挑战. 如果失败则退回上一层大秘境且关闭自动爬塔.",
+            "- 战斗回放时显示的战斗日志更详细了.",
+            "- 增加了显示/关闭战斗日志的功能 ",
+            "技能调整",
+            "- 光环技能造成的效果会以持续效果的形式显示",
+            "- 光环技能造成的伤害不会造成击中.",
+            "bug 修复",
+            "- 野蛮冲撞. 之前野蛮冲撞 buff 只要周围有敌人,就会不断刷新层数和自动攻击. 这个是错误的. 已经修复了.",
+            "- 秘术师的强制资源消耗也会应用在光环开启上. 这个是错误 修复了.",
             "2025-05-22版本更新说明：",
             "系统改进",
             "-增加了导入导出存档文件的功能",
@@ -8874,8 +9338,8 @@
         "title": "植物树",
         "enTitle": "The Plant Tree",
         "date": "2023-09-08",
-        "update": "2023-09-08",
-        "version": "v8",
+        "update": "2025-05-23",
+        "version": "v14",
         "path": "the-plant-tree",
         "type": [
             "汉化中",
@@ -8887,6 +9351,7 @@
             "声望树"
         ],
         "content": [
+            "2025-05-23：更新到v14版本~",
             "这是一款关于植物、园艺和环境的 Prestige Tree Mod。​"
         ],
         "zhUrl": "https://g1tyx.github.io/the-plant-tree/",
@@ -14041,14 +14506,15 @@
         "title": "香料放置",
         "enTitle": "Spice Idle",
         "date": "2022-09-05",
-        "update": "2025-03-26",
-        "version": "1.8.4",
+        "update": "2025-06-11",
+        "version": "1.8.6",
         "path": "spice-idle",
         "type": [
             "已汉化",
             "放置"
         ],
         "content": [
+            "2025-06-11：更新到1.8.6版本了~​",
             "2025-03-26：更新到1.8.4版本了~​",
             "2025-03-13：更新到1.8.0版本了~​",
             "《香料放置》是《经验模拟器》作者的另一个作品，目前来看，游戏比较肝，你的肝准备好了吗？​",
@@ -15182,10 +15648,10 @@
         "status": 1
     },
     {
-        "title": "银河奶牛放置，多人在线网络放置",
+        "title": "银河奶牛放置，60000人在线网络放置",
         "enTitle": "Milky Way Idle",
         "date": "2022-07-04",
-        "update": "2025-05-14",
+        "update": "2025-05-30",
         "version": "",
         "path": "milkywayidle",
         "type": [
@@ -15195,6 +15661,7 @@
             "策略"
         ],
         "content": [
+            "2025-05-27：在线人数达到60000+了，没玩过的小伙伴可以试试~",
             "2025-05-16：在线人数达到54000+了，没玩过的小伙伴可以试试~",
             "2025-04-02：在线人数达到30000+了，没玩过的小伙伴可以试试~",
             "2025-03-06：新增Steam版链接！可以先用网页版注册，再登录Steam版。",
@@ -15207,7 +15674,7 @@
         ],
         "customUrl3": "https://shorturl.at/ZFXPI",
         "customUrlTit3": "游戏攻略",
-        "customUrl": "https://www.milkywayidle.com/?ref=3922",
+        "customUrl": "https://www.milkywayidle.com/?ref=174801",
         "customUrlTit": "开始游戏",
         "steamUrl": "https://store.steampowered.com/app/3224420/Milky_Way_Idle/",
         "QQ": "701342586",
@@ -20424,7 +20891,7 @@
             "《魔盒》是一款相对来说比较早期的放置游戏，有一部分朋友以前应该玩过。",
             "警告：千万不要打开控制台，后果自负！"
         ],
-        "zhUrl": "https://succubox.g8hh.com",
+        "zhUrl": "https://succubox.g8hh.com.cn",
         "enUrl": "http://www.glaielgames.com/succubox/",
         "customUrl": "https://g8hh.github.io/succubox",
         "customUrlTit": "备用地址-GitHub",
@@ -23729,7 +24196,7 @@
         "title": "餐馆放置",
         "enTitle": "Idle Restaurant",
         "date": "2020-11-13",
-        "update": "2021-04-26",
+        "update": "2025-06-03",
         "version": "",
         "path": "idle-restaurant",
         "type": [
@@ -23740,12 +24207,13 @@
             "经营"
         ],
         "content": [
+            "2025-06-03：修复汉化，调整链接。",
             "有群友说想玩？好，满足大家！从17yy搬运过来的~",
             "一款策略挂机放置类小游戏。",
             "游戏开始你需要在厨师乔治的指导下进行工作和获取经营餐馆的知识，初期你需要通过刷碗来赚取一些初始资金，之后逐步实现你的餐馆梦。"
         ],
         "zhUrl": "https://g8hh.github.io/idle-restaurant/t",
-        "customUrl": "https://idle-restaurant.g8hh.com/",
+        "customUrl": "https://idle-restaurant.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://restaurantidle.com/game.html",
         "kUrl": "https://www.kongregate.com/games/86com/testhtml1231?sfa=permalink&referrer=SunshineDad",
@@ -25020,8 +25488,8 @@
         "title": "反物质维度",
         "enTitle": "Antimatter Dimensions",
         "date": "2018-08-28",
-        "update": "2024-11-11",
-        "version": "",
+        "update": "2025-05-29",
+        "version": "11.5",
         "path": "antimatter-dimensions",
         "type": [
             "推荐",
@@ -25033,6 +25501,7 @@
             "挂机"
         ],
         "content": [
+            "2025-05-29：新版地址同步最新版本11.5~",
             "2024-11-11：新开②群：1037470315，①群满了：1050424901",
             "通过维度获得反物质!获得无限反物质来瓦解宇宙!"
         ],
@@ -27154,7 +27623,7 @@
         "status": 1
     },
     {
-        "title": "环球回形针",
+        "title": "宇宙回形针",
         "enTitle": "Universal Paperclips",
         "date": "2019-04-26",
         "update": "2024-10-25",
