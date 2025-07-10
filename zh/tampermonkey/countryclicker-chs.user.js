@@ -1,22 +1,21 @@
 // ==UserScript==
-// @name         xxxx 简中汉化脚本
+// @name         Country Clicker 简中汉化脚本
 // @namespace    https://www.g8hh.com.cn/
 // @version      0.0.1
-// @description  网页游戏 xxxxx (https://www.xxxxx.com/) 的简体中文汉化脚本。Simplified Chinese i18n script for web game xxxxx.
+// @description  网页游戏 Country Clicker (https://countryclicker.com/) 的简体中文汉化脚本。Simplified Chinese i18n script for web game Country Clicker.
 // @author       好阳光的小锅巴 & 麦子
 // @copyright    锅巴汉化
 // @contributionUR    https://gityx.com/donate/intro.html
-// @icon         https://www.zed.city/icons/favicon.svg
 // @license      MIT
-// @include      *https://www.xxxxx.com/*
+// @include      *https://countryclicker.com/*
 // @grant        none
 // @website      https://www.gityx.com/
-// @updateURL    https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js
-// @downloadURL    https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js
+// @updateURL    https://g8hh.com.cn/zh/tampermonkey/countryclicker-chs.user.js
+// @downloadURL    https://g8hh.com.cn/zh/tampermonkey/countryclicker-chs.user.js
 // ==/UserScript==
 /**
  * ---------------------------
- * Time: 2025/06/15 21:19
+ * Time: 2025/06/03 09:57
  * Author: guoba
  * View: https://www.gityx.com/
  * ---------------------------
@@ -77,6 +76,70 @@ var cnItems = {
     "Duplicate": "复制",
     "Mute": "静音",
     "Unmute": "播放",
+    "Auto Clicker": "自动点击器",
+    "Auto Clicks/sec": "自动点击/秒",
+    "Base Click Power": "基础点击威力",
+    "Buy": "购买",
+    "Click Multiplier": "点击乘数",
+    "CLICK!": "点击!",
+    "Click Power": "点击威力",
+    "clicks": "点击",
+    "Compete for your nation's glory!": "为国家的荣耀而战！",
+    "Competition Leaderboard": "竞争排行榜",
+    "Cost:": "成本:",
+    "clicks for": "点击给",
+    "Country Clicker": "国家点击器",
+    "Leading by": "领先",
+    "Country Total": "国家总计",
+    "behind": "落后",
+    "Daily": "日常",
+    "Daily Champion Crown 👑": "每日冠军王冠👑",
+    "Prize:": "奖励:",
+    "Representing:": "代表:",
+    "Updated in real-time": "实时更新",
+    "Weekly": "周常",
+    "Weekly Champion Trophy 🏆 + Country Boost": "每周冠军奖杯🏆+国家提升",
+    "Your Contribution": "你的贡献",
+    "your country": "你的国家",
+    "gained": "总计",
+    "Give your country a boost!": "为你的国家加油！",
+    "No active competitions": "暂无活跃的比赛",
+    "participants": "参与者",
+    "Purchase powerful multipliers that benefit ALL players from": "购买所有玩家都能从中受益的强大乘数",
+    "No participants yet. Start clicking to join!": "还没有参与者。开始点击加入吧！",
+    "Select Your Country": "选择你的国家",
+    "Total Global Clicks": "全球总点击量",
+    "Monday": "周一",
+    "Tuesday": "周二",
+    "Wednesday": "周三",
+    "Thursday": "周四",
+    "Friday": "周五",
+    "Saturday": "周六",
+    "Sunday": "周日",
+    "🏅 Active Competitions": "🏅 活跃的比赛",
+    "🏆 Global Leaderboard": "🏆 全球排行榜",
+    "🛒 Upgrades": "🛒 升级",
+    "🎉 Click registered!": "🎉 点击已累计!",
+    "🚀 Buy Country Boost": "🚀 购买国家提升",
+    "🚀 Country Boost": "🚀 国家提升",
+    "Notification": "通知",
+    "Starting at $2.49 - Benefits everyone from your country!": "起步价 $2.49 - 使您所在国家的所有人受益！",
+    "2x multiplier for 1 hour": "2倍乘数，持续1小时",
+    "3x multiplier for 2 hours": "3倍乘数，持续2小时",
+    "5x multiplier for 4 hours": "5倍乘数，持续4小时",
+    "Basic Boost": "基本提升",
+    "Benefits all": "全体受益",
+    "Boost Stacking:": "提升叠加:",
+    "Close": "关闭",
+    "Duration:": "持续时间:",
+    "Give your entire country a powerful multiplier boost that benefits all players!": "给你的整个国家一个强大的乘数提升，使所有玩家受益！",
+    "Multiple boosts extend the duration! If your country already has active boosts, new purchases will add to the total time.": "多次提升延长持续时间！如果你所在的国家已经有积极的提升，那么新的购买将会增加总时间。",
+    "Multiplier:": "乘数:",
+    "players": "玩家",
+    "POPULAR": "热门",
+    "Premium Boost": "高级提升",
+    "Purchase Country Boost": "购买国家加成",
+    "Ultimate Boost": "终极提升",
     "": "",
     "": "",
     "": "",
@@ -109,15 +172,26 @@ var cnItems = {
     "": "",
     "": "",
     "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
+    "Singapore": "新加坡",
+    "Norway": "挪威",
+    "Netherlands": "荷兰",
+    "Mexico": "墨西哥",
+    "Italy": "意大利",
+    "Japan": "日本",
+    "France": "法国",
+    "Australia": "澳大利亚",
+    "United States": "美国",
+    "United Kingdom": "英国",
+    "South Korea": "韩国",
+    "Switzerland": "瑞士",
+    "Sweden": "瑞典",
+    "Spain": "西班牙",
+    "Russia": "俄罗斯",
+    "Brazil": "巴西",
+    "Germany": "德国",
+    "India": "印度",
+    "Canada": "加拿大",
+    "China": "中国",
 
     // 图标代码，不能汉化
     "Jacorb's Games": "Jacorb's Games",
@@ -304,7 +378,7 @@ var cnPrefix = {
     "Shift-Click to Toggle Tooltips: ": "Shift-单击以切换工具提示：",
     "Notation: ": "符号: ",
     "Toggle Music: ": "切换声音: ",
-    "": "",
+    "Weekly Championship - ": "每周冠军 - ",
     "": "",
     "": "",
     "": "",
@@ -372,7 +446,7 @@ var cnPostfix = {
     "/sec)": "/秒)",
     "% bonus": "% 奖励",
     " day(s)": " 天",
-    "": "",
+    " Daily Challenge": "每日挑战",
     "": "",
     "": "",
     "": "",
@@ -437,6 +511,7 @@ var cnExcludeWhole = [
     /^\-([\d\.,]+)$/,
     /^([\d\.,]+)x$/,
     /^x([\d\.,]+)$/,
+    /^\#([\d\.,]+)$/,
     /^([\d\.,]+) \/ ([\d\.,]+)$/,
     /^([\d\.]+)e([\d\.,]+)$/,
     /^([\d\.]+)e([\d\.,]+) \/ ([\d\.]+)e([\d\.,]+)$/,
@@ -447,7 +522,7 @@ var cnExcludeWhole = [
     /^e([\d\.]+)e([\d\.,]+)$/,
     /^x([\d\.]+)e([\d\.,]+)$/,
     /^([\d\.]+)e([\d\.,]+)x$/,
-    /^([\uD800-\uDBFF][\uDC00-\uDFFF])|([\u2600-\u27BF])|([\u2300-\u23FF])|([\u2B50-\u2B55])|([\u203C-\u3299])|[\u21A9\u21AA\u25B6\u25C0\u2B06\u2B07\u2B05\u2B95\u2B99\u2B9A]+$/,
+    // /^([\uD800-\uDBFF][\uDC00-\uDFFF])|([\u2600-\u27BF])|([\u2300-\u23FF])|([\u2B50-\u2B55])|([\u203C-\u3299])|[\u21A9\u21AA\u25B6\u25C0\u2B06\u2B07\u2B05\u2B95\u2B99\u2B9A]+$/,
     // /^([\uD800-\uDBFF][\uDC00-\uDFFF])|([\u2600-\u27BF])|([\u2300-\u23FF])|([\u2B50-\u2B55])|([\u203C-\u3299])+$/,
     // /^[\uD800-\uFFFF]+$/,
     /^[\u4E00-\u9FA5]+$/
@@ -484,10 +559,18 @@ var cnRegReplace = new Map([
     [/^requires ([\d\.]+) more research points$/, '需要$1个研究点'],
     [/^([\d\.]+)e([\d\.,]+) points$/, '$1e$2 点数'],
     [/^([\d\.]+) elves$/, '$1 精灵'],
-    [/^([\d\.]+)d ([\d\.]+)h ([\d\.]+)m$/, '$1天 $2小时 $3分'],
+    [/^([\d\.]+)d ([\d\.]+)h ([\d\.]+)m$/, '$1 天 $2 小时 $3 分'],
+    [/^([\d\.]+)d ([\d\.]+)h$/, '$1 天 $2 小时'],
+    [/^([\d\.]+)h ([\d\.]+)m$/, '$1 小时 $2 分'],
     [/^([\d\.]+)e([\d\.,]+) elves$/, '$1e$2 精灵'],
     [/^([\d\.,]+) elves$/, '$1 精灵'],
+    [/^\+([\d\.,]+) click per second$/, '\+$1 点击每秒'],
+    [/^\+([\d\.,]+) click power$/, '\+$1 点击威力'],
+    [/^\+([\d\.,]+) for your country$/, '\+$1 给你的国家'],
+    [/^\+([\d\.,]+) for your country!$/, '\+$1 给你的国家!'],
+    [/^\+([\d\.,]+) for China!$/, '\+$1 给 中国！'],
     [/^Day ([\d\.,]+)$/, '天数 $1'],
+    [/^Week ([\d\.,]+)$/, '第 $1 周'],
     [/^\*(.+) to electricity gain$/, '\*$1 到电力增益'],
     [/^Cost: (.+) points$/, '成本：$1 点数'],
     [/^Req: (.+) elves$/, '要求：$1 精灵'],

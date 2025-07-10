@@ -489,7 +489,7 @@ var cnItems = {
     "Deepwrought Reinforcement": "深锻援军",
     "Drop of Aether": "以太滴",
     "Earring": "耳环",
-    "Fame Token": "声望令牌",
+    "Fame Token": "声誉令牌",
     "Fire Scale": "火灾规模",
     "Fireproof Tongue": "防火的舌头",
     "Fractured Rocket": "断裂的火箭",

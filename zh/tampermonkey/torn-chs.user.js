@@ -1,9 +1,13 @@
 // ==UserScript==
-// @name         torn-chs
-// @namespace    https://www.g8hh.com/
-// @version      0.0.46
-// @description  Torn（https://www.torn.com/）游戏汉化脚本 - 锅巴汉化出品
-// @author       麦子、JAR、小蓝、好阳光的小锅巴
+// @name         Torn 简中汉化脚本
+// @namespace    https://www.g8hh.com.cn/
+// @version      0.0.49
+// @description  Torn (https://www.torn.com/) 的简体中文汉化脚本。Simplified Chinese i18n script for web game xxxxx.
+// @author       好阳光的小锅巴 & 麦子
+// @copyright    锅巴汉化
+// @contributionUR    https://gityx.com/donate/intro.html
+// @icon         https://www.torn.com/favicon/torn/32x32.png
+// @license      MIT
 // @include      *https://www.torn.com/*
 // @grant        none
 // @website      https://www.gityx.com
@@ -32,39 +36,6 @@ var cnItems = {
     "Battle": "战斗",
     "Close": "关闭",
     "Dismiss": "解雇",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
     "        \n        \n        \n        Pay loan fees\n        ": "\n \n \n 支付贷款费用\n",
     "            \n            \n            \n            Before you can adjust your current loan of": "在您可以调整您当前的贷款之前",
     "you must pay the": "你必须支付",

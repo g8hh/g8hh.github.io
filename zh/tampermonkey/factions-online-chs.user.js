@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         xxxx 简中汉化脚本
+// @name         Factions 简中汉化脚本
 // @namespace    https://www.g8hh.com.cn/
 // @version      0.0.1
-// @description  网页游戏 xxxxx (https://www.xxxxx.com/) 的简体中文汉化脚本。Simplified Chinese i18n script for web game xxxxx.
+// @description  网页游戏 xxxxx (https://www.factions-online.com/) 的简体中文汉化脚本。Simplified Chinese i18n script for web game Factions.
 // @author       好阳光的小锅巴 & 麦子
 // @copyright    锅巴汉化
 // @contributionUR    https://gityx.com/donate/intro.html
-// @icon         https://www.zed.city/icons/favicon.svg
+// @icon         https://www.factions-online.com/icons/favicon.ico
 // @license      MIT
-// @include      *https://www.xxxxx.com/*
+// @include      *https://www.factions-online.com/*
 // @grant        none
 // @website      https://www.gityx.com/
 // @updateURL    https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js
@@ -16,7 +16,7 @@
 // ==/UserScript==
 /**
  * ---------------------------
- * Time: 2025/06/15 21:19
+ * Time: 2025/06/15 15:17
  * Author: guoba
  * View: https://www.gityx.com/
  * ---------------------------
@@ -77,9 +77,87 @@ var cnItems = {
     "Duplicate": "复制",
     "Mute": "静音",
     "Unmute": "播放",
-    "": "",
-    "": "",
-    "": "",
+    "- Buy Empire's Order on": "- 购买帝国的订单",
+    "Account": "账号",
+    "Android": "安卓",
+    "Become premium": "成为会员",
+    "Factions -": "派系 -",
+    "Games": "游戏",
+    "Games played :": "已玩游戏d :",
+    "Games won :": "游戏获胜 :",
+    "Group": "团队",
+    "Guidelines": "指南",
+    "IOS": "IOS",
+    "Join the discord !": "加入 Discord !",
+    "News": "新闻",
+    "Patreon": "Patreon",
+    "Register": "注册",
+    "Second :": "第二 :",
+    "Third :": "第三 :",
+    "Profile": "个人资料",
+    "Register your account": "注册你的账号",
+    "Please log to keep track of your progress. You will not lose your current progress.": "请登录以记录进度。你不会失去当前的进度。",
+    "Sign in with Discord": "通过 Discord 登录",
+    "Sign in with Google": "通过 谷歌 登录",
+    "Sign in with Steam": "通过 Steam 登录",
+    "Actions": "行动",
+    "BERALICH": "贝拉里克",
+    "COMPLETED": "已完成",
+    "Game": "游戏",
+    "Games list": "游戏列表",
+    "Map": "地图",
+    "Mode": "模式",
+    "NECROPOLIS": "墓地",
+    "Players": "玩家",
+    "PLAYING": "正在玩",
+    "RIVERS": "河流",
+    "Short": "短",
+    "SMALLWORLD": "小世界",
+    "Status": "状态",
+    "VOLBADIHR": "伏尔巴迪尔",
+    "WETLANDS": "湿地",
+    "WINDMILL": "风车",
+    "You need to be premium or have a verified account to join this game (you can ask on Discord for a verification). This is to prevent griefing and cheating.": "你需要付费或有一个验证帐户才能加入这个游戏（你可以在Discord上要求验证）。这是为了防止恶意破坏和欺骗。",
+    "... and more to come": "... 未来还会有更多",
+    "Accessibility": "无障碍",
+    "Become Premium": "成为会员",
+    "Best player awards :": "最佳玩家奖励：",
+    "Blue": "蓝色",
+    "Cancel": "取消",
+    "Click on the button below": "点击下面的按钮",
+    "Create a group to play with your friends": "创建一个小组和你的朋友一起玩",
+    "Enjoy your premium features": "享受您的高级功能",
+    "Faction's colors": "派系的颜色",
+    "General Settings": "常规设置",
+    "Green": "绿色",
+    "How ?": "怎么做？",
+    "I accept to receive notifications. I understand that my device's push subscription token will be stored on the server to enable notifications delivery.": "我接受接收通知。我明白我的设备的推送订阅令牌将存储在服务器上以启用通知传递。",
+    "Logout": "登出",
+    "Notifications": "通知",
+    "Performance Mode": "性能模式",
+    "Player": "玩家",
+    "premium account": "溢价帐户",
+    "Preview :": "预览:",
+    "Push Notifications": "推送通知",
+    "Receive notifications about your game activities and when a new game starts.": "接收关于你的游戏活动和新游戏开始的通知。",
+    "Red": "红色的",
+    "Sleep well : 12 offline hours instead of 8": "睡个好觉：离线12小时而不是8小时",
+    "Special color in chat and all characters allowed in username": "特殊的颜色在聊天和所有字符允许在用户名",
+    "steam": "蒸汽",
+    "Test": "测试",
+    "Tick this to enable accessibility features. (Experimental)": "勾选此项以启用可访问性特性。(实验)",
+    "Tick this to enable performance mode. This will disable some visual effects to improve performance.": "勾选此项以启用性能模式。这将禁用一些视觉效果，以提高性能。",
+    "to invite players to your group.": "邀请玩家加入你的团队。",
+    "Username": "用户名",
+    "Why ?": "为什么?",
+    "Yellow": "黄色",
+    "You can change the colors of the factions to better suit your eyes. You should pick high contrast colors.": "你可以改变派系的颜色，以更适合你的眼睛。你应该选择高对比度的颜色。",
+    "You can change your username once every 7 days.": "您可以每7天更改一次用户名。",
+    "You can link additional third party accounts.": "您可以链接其他第三方帐户。",
+    "You do not belong to a group.": "你不属于任何团体。",
+    "You need a": "你需要一个",
+    "Your account is already linked with": "您的帐户已与",
+    "Your votes counts twice": "您的投票计数两次",
     "": "",
     "": "",
     "": "",
@@ -417,6 +495,8 @@ var cnExcludeWhole = [
     /^([\d\.,]+)\/([\d\.,]+)$/,
     /^\(([\d\.]+)\/([\d\.]+)\)$/,
     /^成本(.+)$/,
+    /^Fix(.+)$/,
+    /^fixed(.+)$/,
     /^\(([\d\.]+)\%\)$/,
     /^([\d\.]+):([\d\.]+):([\d\.]+)$/,
     /^([\d\.]+)K$/,

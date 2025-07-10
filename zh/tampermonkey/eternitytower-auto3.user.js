@@ -1,16 +1,17 @@
 // ==UserScript==
-// @name         《永恒之塔》自动化脚本-三合一版（一个标签页同时：战斗、采矿、种地）
+// @name         《永恒之塔》自动化脚本-多标签页版（一个标签页只做一件事）
 // @namespace    https://www.gityx.com/
-// @version      0.0.33.16
-// @description  Eternity Tower (http://tower.bluesky.site/) 游戏汉化脚本 - 锅巴汉化出品
+// @version       0.0.33.15
+// @description  Eternity Tower (http://tower.bluesky.site) 游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
-// @include      *http://tower.bluesky.site/*
+// @icon         http://tower.bluesky.site/favicon.png
+// @license      MIT
+// @include      *http://tower.bluesky.site*
 // @grant        none
 // @website      https://www.gityx.com
-// @updateURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto.user.js
-// @downloadURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto.user.js
+// @updateURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto3.user.js
+// @downloadURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto3.user.js
 // ==/UserScript==
-
 /**
  * ---------------------------
  * Time: 2023/09/24 00:05
@@ -21,8 +22,10 @@
 
 /**
  * 更新日志
+ * 0.0.x
+ * ·种地：自定义种子没了的情况下，应该要自动种其它种子；
  * 0.0.33
- * ·战斗技能：1技能放治疗技能的话，就会给自己加血。
+ * ·战斗技能：1技能放治疗技能的话，当生命值低于80%就会给自己加血。
  * 0.0.32
  * ·战斗：默认关闭“死亡通知”，不然组队的时候会一直弹框，很恶心。
  * 0.0.31
@@ -92,7 +95,7 @@
     //无人值守-结束
     //吃食物-开始
     content += '<div class="JB-form">';
-    content += '<div class="tit">吃食物（必须在战斗界面启用；包里没有的食物不要选） - 《<a href="https://docs.qq.com/sheet/DRFF4Z1FQUk5HbmJa" target="_blank">攻略</a>》</div>';
+    content += '<div class="tit">吃食物（必须在战斗界面启用；包里没有的食物不要选） - 《<a href="https://shimo.im/sheets/ypTrXqgyP6Cg3vDg/forrm/" target="_blank">攻略</a>》</div>';
     content += '想回血/回能量必填<input id="username" type="text" value="" placeholder="输入你的用户名"  autocomplete="on"/>';
     content += '<br/>';
     content += '生命值低于<select id="minHP">';
@@ -152,7 +155,7 @@
     //吃食物-结束
     //选择技能-开始
     content += '<div class="JB-form">';
-    content += '<div class="tit">自动放技能（T技能是选目标的，不需要点；1技能放治疗，会自动给自己加血。</div>';
+    content += '<div class="tit">自动放技能（T技能是选目标的，不需要点）</div>';
     content += '<input type="checkbox" id="check1" checked><label for="check1">1技能</label>';
     content += '<input type="checkbox" id="check2" checked><label for="check2">2技能</label>';
     content += '<input type="checkbox" id="check3" checked><label for="check3">3技能</label>';
@@ -457,32 +460,32 @@
     // 初始化时自动启用上次的脚本配置
     setTimeout(function () {
         // 自动攻击右边敌人
-        if (localStorage.getItem('autoFill') == 'true') {
+        if (localStorage.getItem('autoFill2') == 'true') {
             $('#nobodyStart').trigger('click');
         }
         // 禁用死亡通知
         $('.disable-combat-deaths').trigger('click');
     }, 5000);
     // 1分钟检测一次页面是否刷新过
-    var autoFill;
+    var autoFill2;
     //启动无人值守模式
     var autoSoloUpFight;
     $("#nobodyStart").click(function () {
-        autoFill = setInterval(autoLoad, 10000)
-        localStorage.setItem('autoFill', true);
+        autoFill2 = setInterval(autoLoad2, 5000)
+        localStorage.setItem('autoFill2', true);
         $(this).attr("disabled", true);
         $("#nobodyStop").attr("disabled", false);
     });
 
     //停止无人值守模式
     $("#nobodyStop").click(function () {
-        clearInterval(autoFill);
-        localStorage.setItem('autoFill', false);
+        clearInterval(autoFill2);
+        localStorage.setItem('autoFill2', false);
         $("#nobodyStart").attr("disabled", false);
         $("#nobodyStop").attr("disabled", true);
     });
-
-    function autoLoad() {
+    var url = window.location.href;
+    function autoLoad2() {
         var username = $('#username').val();
         if (username == '') {
             // 如果用户名为空，先尝试从本地读取
@@ -536,7 +539,10 @@
             }
             // 如果用户在AFK战斗，则继续战斗
             if (localStorage.getItem('afkBattle') == 'true') {
-                $('#startAFK').trigger('click');
+
+                if (url == 'http://tower.bluesky.site/battle') {
+                    $('#startAFK').trigger('click');
+                }
             }
             // 如果用户在solo固定战斗，则继续战斗
             if (localStorage.getItem('soloBattle') == 'true') {
@@ -548,7 +554,9 @@
                 // 单人战斗时间间隔
                 var soloFightTime = parseInt(localStorage.getItem('soloFightTime'));
                 $('#soloFightTime').val(soloFightTime);
-                $('#startSolo').trigger('click');
+                if (url == 'http://tower.bluesky.site/battle') {
+                    $('#startSolo').trigger('click');
+                }
             }
             // 如果用户在solo爬楼战斗，则继续战斗
             if (localStorage.getItem('soloUpBattle') == 'true') {
@@ -559,7 +567,9 @@
                 // 单人战斗时间间隔
                 var soloFightTime = parseInt(localStorage.getItem('soloFightTime'));
                 $('#soloFightTime').val(soloFightTime);
-                $('#startSoloUp').trigger('click');
+                if (url == 'http://tower.bluesky.site/battle') {
+                    $('#startSoloUp').trigger('click');
+                }
             }
             // 自动采矿
             if (localStorage.getItem('autoMing') == 'true') {
@@ -570,8 +580,9 @@
                 $('#MingType').val(MingType)
                 var MingEnergy = parseInt(localStorage.getItem('MingEnergy'));
                 $('#MingEnergy').val(MingEnergy)
-                $('.navbar-nav .nav-item:nth-child(3) a').trigger('click');
-                $('#startMing').trigger('click');
+                if (url == 'http://tower.bluesky.site/mining') {
+                    $('#startMing').trigger('click');
+                }
             }
             // 自动种地
             if (localStorage.getItem('autoFarm') == 'true') {
@@ -582,11 +593,9 @@
                 $('#myFamingTime').val(myFamingTime)
                 var famingTime = parseInt(localStorage.getItem('famingTime'));
                 $('#famingTime').val(famingTime)
-                $('.navbar-nav .nav-item:nth-child(5) a').trigger('click');
-                $('#startFarming').trigger('click');
-                setTimeout(function () {
+                if (url == 'http://tower.bluesky.site/farming') {
                     $('#startFarming').trigger('click');
-                }, 3000);
+                }
             }
         }
     }
@@ -842,16 +851,6 @@
         c3 = $('#check3').is(':checked');
         c4 = $('#check4').is(':checked');
         c5 = $('#check5').is(':checked');
-        //        c6 = $('#check6').is(':checked');
-        //        bb = $('.ability-icon-container:nth-child(7)').length;
-        //        if (bb <= 0) {
-        //            if (c6) {
-        //                $('#noSkill').addClass('show');
-        //                return;
-        //            } else {
-        //                $('#noSkill').removeClass('show');
-        //            }
-        //        }
         var skillTime = 500;
         autoSkill = setInterval(skills, skillTime);
         $(this).attr("disabled", true);
@@ -889,7 +888,6 @@
         if ($('.ability-icon-container:nth-child(' + e + ') .cooldown-text').length > 0) {
             //            console.log(e + '技能冷却中~');
         } else {
-            // 1技能放加血技能，给自己加血
             $('.ability-icon-container:nth-child(' + e + ')').trigger("click");
             //            console.log('施放' + e + '技能~');
         }
@@ -925,31 +923,27 @@
                 $('.battle-units-container+.col .flex-row .flex-column:last-child img').trigger("click");
             }
             if (c1) {
-                doSkill(2)
+                doSkill(2);
                 // 1技能放加血技能，给自己加血
                 var minWid2 = ($('.me').parent().parent().find('.health-bar .progress-bar').width() / $('.me').parent().parent().find('.progress.health-bar').width()) * 100;
                 if (isAutoHeal && minWid2 < 80) {
-                    setTimeout(function () {
-                        $('.me').parent().find('.battle-unit').trigger('click');
-                    }, 50)
+                    setTimeout(function() {
+                        $('.me').parent().find('.battle-unit').trigger('click'); 
+                     },50)
                 }
             }
             if (c2) {
-                doSkill(3)
+                    doSkill(3)
             }
             if (c3) {
-                doSkill(4)
+                    doSkill(4)
             }
             if (c4) {
-                doSkill(5)
+                    doSkill(5)
             }
             if (c5) {
-                doSkill(6)
+                    doSkill(6)
             }
-            //            if (c6) {
-            //                $('.ability-icon-container:nth-child(7)').trigger("click");
-            //                console.log('施放6技能，召唤同伴~');
-            //            }
             return
         } else {
             //            console.log('您已离开战斗界面~不执行操作');
@@ -1047,12 +1041,6 @@
             }, 1500);
 
         }, 2000);
-        //切换回战斗界面
-        if (localStorage.getItem('afkBattle') == 'true' || localStorage.getItem('soloBattle') == 'true' || localStorage.getItem('soloUpBattle') == 'true' || localStorage.getItem('groupBattle') == 'true') {
-            setTimeout(function () {
-                $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
-            }, 10000);
-        }
     }
 
     var autoMing;
@@ -1219,12 +1207,6 @@
                 return
             }
         }, 3000);
-        //切换回战斗界面
-        if (localStorage.getItem('afkBattle') == 'true' || localStorage.getItem('soloBattle') == 'true' || localStorage.getItem('soloUpBattle') == 'true' || localStorage.getItem('groupBattle') == 'true') {
-            setTimeout(function () {
-                $('.navbar-nav .nav-item:nth-child(2) a').trigger('click');
-            }, 12000);
-        }
     }
 
     //单人Solo-开始战斗

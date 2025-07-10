@@ -1,10 +1,16 @@
 // ==UserScript==
-// @name         iqrpg-chs
+// @name         Idle Quest RPG 简中汉化脚本
 // @namespace    https://www.g8hh.com/
-// @version      0.1.60
-// @description  Idle Quest RPG (https://www.iqrpg.com/?r=21364) 游戏汉化脚本 - 锅巴汉化出品
-// @author       麦子、JAR、小蓝、好阳光的小锅巴
-// @include      *iqrpg.com/*
+// @version      0.1.66
+// @description  网页游戏 Idle Quest RPG (https://www.iqrpg.com/?r=21364) 的简体中文汉化脚本。Simplified Chinese i18n script for web game Idle Quest RPG.
+// @author       好阳光的小锅巴 & 麦子
+// @copyright    锅巴汉化
+// @contributionUR    https://gityx.com/donate/intro.html
+// @icon         https://www.iqrpg.com/favicon.ico
+// @license      MIT
+// @include      https://iqrpg.com*
+// @include      https://www.iqrpg.com*
+// @include      https://test.iqrpg.com*
 // @grant        none
 // @website      https://www.gityx.com
 // @updateURL    https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js
@@ -1301,6 +1307,38 @@ var cnItems = {
     "Keep Current Trinket": "保留当前饰品",
     "You crafted a": "你制作了一件",
     "You crafted a Trinket.": "你制作了一件饰品。",
+    "Are you sure you want to leave your clan? Click again to leave.": "你确定要离开你的家族吗？再次点击以离开。",
+    "Click here to register": "点击这里注册",
+    "A valid e-mail address is required which you will have to verify before logging in.": "需要一个有效的电子邮件地址，您必须在登录之前进行验证。",
+    "Exchange Items": "转换物品",
+    "gold per resource.": "黄金每资源",
+    "You have converted": "你转换了",
+    "Confirm conversion of": "确认转换",
+    "Gold to": "黄金为",
+    "Metal.": "金属。",
+    "gold. The conversion rate is currently": "黄金。当前的转换率为",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
     "": "",
     "": "",
     "": "",

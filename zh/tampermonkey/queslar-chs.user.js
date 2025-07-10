@@ -1,10 +1,14 @@
 // ==UserScript==
-// @name         queslar-chs
+// @name         Queslar 简中汉化脚本
 // @namespace    https://www.g8hh.com/
-// @version      0.0.62
-// @description  Queslar (https://www.queslar.com/#/ref/13134) 游戏汉化脚本 - 锅巴汉化出品
-// @author       麦子、JAR、小蓝、好阳光的小锅巴
-// @include      *queslar.com*
+// @version      0.0.67
+// @description  Queslar (https://www.queslar.com/#/ref/13134) 的简体中文汉化脚本。Simplified Chinese i18n script for web game Queslar.
+// @author       好阳光的小锅巴 & 麦子
+// @copyright    锅巴汉化
+// @contributionUR    https://gityx.com/donate/intro.html
+// @icon         https://queslar.com/favicon.ico
+// @license      MIT
+// @include      *https://queslar.com/*
 // @grant        none
 // @website      https://www.gityx.com
 // @updateURL    https://g8hh.com.cn/zh/tampermonkey/queslar-chs.user.js
@@ -636,7 +640,7 @@ var cnItems = {
     "Action Enchant": "行动附魔",
     "Equipment": "装备",
     "Fighters": "佣兵",
-    "lock": "锁定",
+    "lock": "lock",
     "item shop": "物品商店",
     "No action enchant equipped in this slot": "该槽位未装备行动附魔",
     "You have no gems": "你没有宝石",
@@ -649,7 +653,7 @@ var cnItems = {
     "Shattered": "破碎的",
     "Set": "套装",
     "Here you can reroll your stat tiers for 1 relic wootz per roll.": "在这里，你可以重洗你的属性层级，每次重洗消耗 1 乌兹钢。",
-    "gem": "宝石",
+    "gem": "gem",
     "Upon destroying select items, they first go into the trash bin, and will stay for 7 days where they will be removed permanently": "在销毁选定的物品后，它们首先进入垃圾箱，并将停留7天，然后它们将被永久移除",
     "Titles": "称号",
     "Squire": "乡绅",
@@ -658,7 +662,6 @@ var cnItems = {
     "Fighter Equipment": "佣兵装备",
     "Decorations": "装饰",
     "Depending on your level there is a limit to how many enchants you can have equipped of the same type. For example if the limit is 4, you can only have 4 of the same type of enchant equipped.": "根据你的等级，你可以装备多少相同类型的魔法是有限制的。例如，如果限制是4，你只能装备4个相同类型的附魔。",
-    "": "",
     "Homestead buildings find materials every 2 hours, that you can use to craft decorations to gain various long term boosts": "家园建筑每2小时就会找到一些材料，你可以用这些材料来制作装饰品，从而获得各种长期增益",
     "Your Characters": "你的角色",
     "Wires:": "发送:",
@@ -1433,6 +1436,8 @@ var cnItems = {
     "Healer": "治疗师",
     "Tank": "坦克",
     "Hunter": "猎人",
+    "Insufficient  relics": "遗物不足",
+    "Insufficient  wood": "木头不足",
     "Insufficient  gold": "金币不足",
     "Increases the fighter damage": "增加佣兵的伤害",
     "Increases the fighter defense. 1 defense means 1 damage less": "增加佣兵防御。1点防御意味着减少1点伤害",
@@ -2473,12 +2478,12 @@ var cnItems = {
     "and gained an additional": "并获得了额外",
     "from tax efficiency": "来自税收效率",
     "If 2 groups stand on the same tile, player movement will cause no fatigue. If they are not on the same tile 75% fatigue will happen. First 48 hours of the patch any move does not cause fatigue": "如果两组人站在同一地块上，玩家的移动不会造成疲劳。如果他们不在同一个地块上，就会产生75%的疲劳。在补丁的前48小时内，任何行动都不会引起疲劳",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
+    "Member has been kicked": "成员已踢出",
+    "Waiting for partner action..": "等待伙伴行动…",
+    "You are already building something": "你已经在建造了",
+    "Insufficient wood (The client currency is potentially out of sync from the server currency)": "木材不足（客户端货币可能与服务器货币不同步）",
+    "The gem has successfully been created": "宝石已成功创造",
+    "Multistrike": "多重攻击",
     "": "",
     "": "",
     "": "",
@@ -3050,6 +3055,7 @@ var cnExcludeWhole = [
     /^([\d\.]+)s$/,
     /^([\d\.]+)h$/,
     /^([\d\.]+)m ([\d\.]+)s$/,
+    /^([\d\.]+)h ([\d\.]+)m $/,
     /^([\d\.]+)h ([\d\.]+)m ([\d\.]+)s$/,
     /^([\d\.]+)d ([\d\.]+)h ([\d\.]+)m ([\d\.]+)s$/,
     /^([\d\.]+)y ([\d\.]+)d ([\d\.]+)h ([\d\.]+)m ([\d\.]+)s$/,
@@ -3091,12 +3097,17 @@ var cnExcludeWhole = [
     // /^(.+) ([\d\.,]+) ([\d\.,]+), ([\d\.,]+):([\d\.,]+)$/,
     /^\@(.+)$/,
     /^\(([\d\.]+)\%\)$/,
+    /^\(([\d\.]+)$/,
+    /^\(([\d\.,]+)$/,
     /^([\d\.]+):([\d\.]+):([\d\.]+)$/,
     /^([\d\.]+)K$/,
     /^ ([\d\.]+)k$/,
     /^([\d\.]+)k\/([\d\.]+)k$/,
     /^ ([\d\.]+)k \- ([\d\.]+)k$/,
     /^ ([\d\.]+)k \- ([\d\.]+)m$/,
+    /^([\d\.]+)k \/ ([\d\.]+)m$/,
+    /^([\d\.,]+)k \/ ([\d\.]+)m$/,
+    /^([\d\.,]+) ([\d\.]+)k \/ ([\d\.]+)m$/,
     /^ ([\d\.]+)m \- ([\d\.]+)m$/,
     /^ ([\d\.]+)\% \- ([\d\.]+)\%$/,
     /^([\d\.]+)\% \(([\d\.]+)(.+)\)$/,
@@ -3683,6 +3694,7 @@ var cnRegReplace = new Map([
     [/^knife has been upgraded ([\d\.,]+) times$/, '小刀 升级了 $1 次'],
     [/^sieve has been upgraded ([\d\.,]+) times$/, '筛子 升级了 $1 次'],
     [/^backpack has been upgraded ([\d\.,]+) times$/, '背包 升级了 $1 次'],
+    [/^compass has been upgraded ([\d\.,]+) times$/, '指南针 升级了 $1 次'],
     [/^archeology has been upgraded ([\d\.,]+) times$/, '考古学 升级了 $1 次'],
     [/^trowel  has been upgraded ([\d\.,]+) times$/, '泥刀 升级了 $1 次'],
     [/^backpack  has been upgraded ([\d\.,]+) times$/, '背包 升级了 $1 次'],
@@ -3792,6 +3804,11 @@ var cnRegReplace = new Map([
     [/^Current: ([\d\.,]+)$/, '当前: $1'],
     [/^lvl ([\d\.,]+)$/, '等级 $1'],
     [/^Depth ([\d\.,]+)$/, '深度 $1'],
+    [/^lvl (.+) Crit Chance$/, '等级 $1 暴击率'],
+    [/^lvl (.+) Crit Damage$/, '等级 $1 暴击伤害'],
+    [/^lvl (.+) Multistrike$/, '等级 $1 多重攻击'],
+    [/^lvl (.+) Healing$/, '等级 $1 治疗'],
+    [/^lvl (.+) Defense$/, '等级 $1 防御'],
     [/^Depth (.+) rooms scrap description$/, '深度 $1 房间垃圾描述'],
     [/^Depth (.+) rooms normal description$/, '深度 $1 房间普通描述'],
     [/^Depth (.+) rooms Legendary description$/, '深度 $1 房间传说描述'],
