@@ -2,7 +2,7 @@
 // @name         idle-mmo-chs
 // @namespace    https://www.g8hh.com/
 // @version      0.0.98
-// @description  Idle MMO（https://web.idle-mmo.com/）游戏汉化脚本 - 锅巴汉化出品
+// @description  Idle MMO（https://web.idle-mmo.com?source=referral&code=IMMO2266）游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
 // @include      *https://web.idle-mmo.com/*
 // @resource customCSS https://g8hh.com.cn/zh/tampermonkey/idle-mmo.css?time=183118

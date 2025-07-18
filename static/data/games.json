@@ -800,6 +800,120 @@
         "status": 0
     },
     {
+        "title": "Fg异星工厂4",
+        "enTitle": "FG Factory 4",
+        "date": "2025-07-15",
+        "update": "2025-07-17",
+        "version": "0.12",
+        "path": "fgfactory4",
+        "type": [
+            "汉化中",
+            "工厂",
+            "建造",
+            "点击",
+            "升级"
+        ],
+        "content": [
+            "《异星工厂网页版》是一款爱好者自制的网页放置版的《异星工厂》游戏。《异星工厂》在Steam目前售价已经涨到130元了。"
+        ],
+        "enUrl": "https://freddecgames.github.io/fgfactory/",
+        "customUrl": "https://gityxs.github.io/fgfactory4",
+        "customUrlTit": "备用地址-github",
+        "zhUrl": "https://yx.g8hh.com.cn/fgfactory4/",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "status": 1
+    },
+    {
+        "title": "挖矿增量页",
+        "enTitle": "The Mining Incremental Table​",
+        "date": "2025-07-14",
+        "update": "2025-07-17",
+        "version": "0.7",
+        "path": "the-mining-incremental-table",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "2025-07-17：同步到0.7版本了~",
+            "这是群里小伙伴制作投稿的又一款好玩的模组树游戏，玩法有点MC我的世界的影子。"
+        ],
+        "customUrl": "https://angrystar6k.github.io/The-Mining-Incremental-Table/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://the-mining-incremental-table.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/cgi-bin/qm/qr?k=MQLkuWZ0oMh77CJzNsIOHzlAYoF78vhx&jump_from=webapi",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "熵减战争，群友自制文字放置",
+        "enTitle": "",
+        "date": "2025-07-11",
+        "update": "2025-07-17",
+        "version": "1.0.8",
+        "path": "idle-negentropy-war",
+        "type": [
+            "点击",
+            "升级",
+            "群友自制",
+            "文字",
+            "益智"
+        ],
+        "content": [
+            "熵减战争 1.0.8 版本更新说明",
+            "-优化游戏UI布局",
+            "-增加成就系统功能",
+            "-调整降维打击触发条件",
+            "-修复建筑升级消耗错误问题",
+            "对抗宇宙熵增的科幻放置/增量游戏。手动推进熵减进程，体验从原子排序到宇宙单一化的文明进化之路。 ",
+            "这是《我的荒野放置求生记》、《我的放置仙途》、《我的文字修仙全靠刷》、《星际帝国》、《掷骰迷局》、《金币点击放置》作者用Vue写的另一个游戏，欢迎大家支持作者创作出更多好玩的游戏。",
+            "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
+            "QQ交流群：920930589"
+        ],
+        "customUrl": "https://idle-negentropy-war.wenzi.games/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://idle-negentropy-war.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://github.com/setube/idle-negentropy-war",
+        "customUrlTit3": "Github项目求点星",
+        "QQ": "920930589",
+        "qqUrl": "https://qm.qq.com/q/iifNs5qukg",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "暗黑森林，类小黑屋玩法网页/Steam放置",
         "enTitle": "A Dark Forest",
         "date": "2025-07-08",
@@ -955,8 +1069,8 @@
         "title": "挂机与勇士，国人自制电脑挂机游戏",
         "enTitle": "",
         "date": "2025-06-26",
-        "update": "2025-07-07",
-        "version": "1.6",
+        "update": "2025-07-14",
+        "version": "1.7",
         "path": "gjyys",
         "type": [
             "PC",
@@ -964,6 +1078,7 @@
             "联网"
         ],
         "content": [
+            "2025-07-14：更新到1.7版本了，需要下载最新安装包。",
             "2025-07-07：更新到1.6版本了，需要下载最新安装包。",
             "2025-06-30：更新到1.4版本了，需要下载最新安装包。",
             "1.开启冰龙、暗影迷宫的深渊；",
@@ -1113,7 +1228,7 @@
         "enTitle": "Endless",
         "date": "2025-06-16",
         "update": "2025-07-04",
-        "version": "0.1.3",
+        "version": "0.5.0",
         "path": "endless",
         "type": [
             "英文",
@@ -1122,6 +1237,7 @@
             "联网"
         ],
         "content": [
+            "2025-07-17：更新到0.5.0版本，新增正式版地址，汉化脚本需要同步一下最新版才能生效，云存档登录好像要开科学了。",
             "2025-07-04：更新到0.2.1版本，又删档了，新增了水和雷两种元素，新增自动使用材料的升级。需同步最新汉化文件。",
             "2025-06-26：更新到0.1.3版本，又删档了，新增离线资源建筑、若干新统计。需同步最新汉化文件。",
             "2025-06-17：更新到0.1.2版本，增加爆率。",
@@ -1133,14 +1249,16 @@
             "https://g8hh.com.cn/zh/tampermonkey/endless-chs.user.js",
             "QQ交流群：867979275，有不懂的可以加群问。"
         ],
-        "customUrl": "https://dev.ghost-team.top/endless/",
+        "customUrl": "https://www.ghost-team.top/endless",
         "customUrlTit": "开始游戏",
+        "customUrl2": "https://dev.ghost-team.top/endless/",
+        "customUrlTit2": "测试版",
         "customUrl3": "https://gityx.com/help/faq/633.html",
         "customUrlTit3": "油猴汉化教程",
         "customUrl4": "https://www.tampermonkey.net/",
         "customUrlTit4": "油猴官网",
-        "QQ": "867979275",
-        "qqUrl": "https://qm.qq.com/q/oGXhHCKWZ2",
+        "QQ": "839413161",
+        "qqUrl": "https://qm.qq.com/q/WxBO6gq2W0",
         "pic": [
             1,
             2,
@@ -1241,8 +1359,8 @@
         "title": "劝退树，群友自制模组树游戏",
         "enTitle": "The Wrong Tree NG",
         "date": "2025-06-11",
-        "update": "2025-07-08",
-        "version": "1.21",
+        "update": "2025-07-11",
+        "version": "1.4",
         "path": "the-wrong-tree-ng",
         "type": [
             "放置",
@@ -1254,6 +1372,7 @@
             "声望树"
         ],
         "content": [
+            "2025-07-11：同步到1.4版本了~",
             "2025-07-08：同步到1.21版本了~",
             "2025-07-07：同步到1.2版本了~",
             "这是群友 @22222 制作的新游戏，作者的其他游戏还有《红鲨树》等。",
@@ -1356,7 +1475,7 @@
         "title": "生物进化放置",
         "enTitle": "Biotomata",
         "date": "2025-06-06",
-        "update": "2025-06-06",
+        "update": "2025-07-18",
         "version": "",
         "path": "biotomata",
         "type": [
@@ -1367,6 +1486,7 @@
             "放置"
         ],
         "content": [
+            "2025-07-18：同步更新到最新版~",
             "这是一款放置养成类游戏，游戏讲述了从一个简单的细胞成长为一个可怕恐怖的东西的过程。",
             "游戏还在汉化中，玩的快的小伙伴可以发存档给我补汉化~"
         ],
@@ -1420,8 +1540,8 @@
         "title": "宇宙收集放置",
         "enTitle": "Cosmic Collection",
         "date": "2025-06-05",
-        "update": "2025-07-03",
-        "version": "0.997",
+        "update": "2025-07-10",
+        "version": "1.0",
         "path": "cosmic-collection",
         "type": [
             "点击",
@@ -1433,7 +1553,8 @@
             "放置"
         ],
         "content": [
-            "2025-07-03：同步最新版本0.997版本，QQ群：946803164~",
+            "2025-07-10：同步最新版本1.0版本，QQ群：946803164~",
+            "2025-07-03：同步最新版本0.997版本~",
             "2025-07-02：同步最新版本0.995版本~",
             "2025-06-29：同步最新版本0.991版本",
             "2025-06-28：同步最新版本0.95版本~",
@@ -5433,8 +5554,8 @@
         "title": "天体增量树",
         "enTitle": "Celestial Incremental",
         "date": "2024-10-28",
-        "update": "2025-05-23",
-        "version": "1.6.1",
+        "update": "2025-07-10",
+        "version": "1.7",
         "path": "celestial-incremental",
         "type": [
             "放置",
@@ -5445,6 +5566,7 @@
             "声望树"
         ],
         "content": [
+            "2025-07-10：更新到1.7版本~",
             "2025-05-23：更新到1.6.1版本~",
             "2025-02-15：更新到1.4版本~",
             "2024-12-04：更新到1.3版本~",
@@ -7817,7 +7939,7 @@
         "title": "鲨鱼增量",
         "enTitle": "Shark Incremental",
         "date": "2024-07-05",
-        "update": "2025-02-16",
+        "update": "2025-07-18",
         "version": "0.4.1",
         "path": "shark-incremental",
         "type": [
@@ -7827,6 +7949,7 @@
             "升级"
         ],
         "content": [
+            "2025-07-18：感谢@22222大佬补了备用地址剩下的汉化~​",
             "2025-02-16：同步到0.4.1版本了~​",
             "2024-12-05：同步到0.3.2.3版本了~​",
             "2024-09-12：同步到0.3.2版本了~​",
@@ -12321,13 +12444,14 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2025-05-12",
+        "update": "2025-07-11",
         "version": "0.2.4",
         "path": "fundamental",
         "type": [
             "已汉化"
         ],
         "content": [
+            "2025-07-11：更新到0.2.4版本的后半部分了~",
             "2025-05-12：更新到0.2.4版本的后半部分了~",
             "2025-03-11：更新到0.2.4版本了~",
             "2025-03-03：更新到0.2.3版本了~",
@@ -15969,7 +16093,7 @@
         "title": "不朽放置",
         "enTitle": "Immortality Idle",
         "date": "2022-07-13",
-        "update": "2024-07-15",
+        "update": "2025-07-19",
         "version": "1.2.5",
         "path": "immortality-idle",
         "type": [
@@ -15978,6 +16102,7 @@
             "升级"
         ],
         "content": [
+            "2025-07-17：同步最新版本~",
             "《不朽放置》是一款受修炼故事启发的时间管理增量游戏。 你可以选择你的日常活动来生存、成长和茁壮成长，以实现不朽的目标。 你可能不会在你的第一个生命中实现你的目标。 不要担心，如果你在成功之前就死了！ 每一世所养成的属性，都会在你转世时提升你的资质，让你未来的努力更加有效。 如果你坚持自己的成长，找到平衡，寻求洞察力，你最终会发展出神奇的能力，完成不可能的任务，成为不朽者。"
         ],
         "customUrl": "https://immortality-idle.g8hh.com.cn/",
@@ -22038,7 +22163,7 @@
             "比原版多了用户排行榜功能，不过汉化版有跨域问题，我就把它拿掉了，等我汉化完就把汉化文件提交给作者，这样大家就能愉快的玩耍了~"
         ],
         "zhUrl": "https://g8hh.github.io/NGSpaceCompany/",
-        "customUrl": "https://ng-space-company.g8hh.com",
+        "customUrl": "https://ng-space-company.g8hh.com.cn",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -24242,8 +24367,8 @@
         "title": "空灵农场",
         "enTitle": "Ethereal Farm",
         "date": "2021-02-11",
-        "update": "2024-10-30",
-        "version": "0.14.2b",
+        "update": "2025-07-17",
+        "version": "0.15.4c",
         "path": "ethereal-farm",
         "type": [
             "汉化中",
@@ -24257,10 +24382,8 @@
             "策略"
         ],
         "content": [
-            "这次彻底根治了英文版存档不能导入汉化版的问题。。",
-            "因为作者部署的版本，跟咱们之前部署的版本，完全是老婆跟老婆饼的关系。。。",
-            "游戏链接用【汉化版】（带2链接的存档建议人道毁灭，因为没法导入最新版）。",
-            "【汉化版】这个链接就是最新版~"
+            "2025-07-15：同步到最新0.15.4c版本~",
+            "喜欢种地的小伙伴可以玩玩看。欢迎加入游戏交流QQ群：946050761"
         ],
         "enUrl": "https://lodev.org/etherealfarm/",
         "customUrl": "https://ethereal-farm.g8hh.com.cn",
@@ -24268,6 +24391,7 @@
         "customUrl2": "https://g8hh.github.io/ethereal-farm",
         "customUrlTit2": "备用地址-GitHub",
         "QQ": "946050761",
+        "qqUrl": "https://qm.qq.com/q/IHle1tFpiq",
         "pic": [
             1,
             2
@@ -25373,10 +25497,10 @@
         "status": 1
     },
     {
-        "title": "异形工厂，Steam特卖7元，截止4月25号",
+        "title": "异形工厂，Steam特卖7元，截止7月25号",
         "enTitle": "shapez.io",
         "date": "2020-07-01",
-        "update": "2025-04-11",
+        "update": "2025-07-12",
         "path": "shapez-io",
         "type": [
             "放置",
@@ -25388,6 +25512,7 @@
             "Steam"
         ],
         "content": [
+            "2025-07-12：Steam特卖7元，截止7月25号。",
             "2025-04-11：Steam特卖7元，截止4月25号。",
             "2025-02-17：Steam特卖7元，截止3月3号。",
             "2024-12-20：Steam特卖3.5元，截止1月3号。史低!",
@@ -27018,7 +27143,7 @@
         "title": "永恒之塔，国人版本！多人在线刷塔放置",
         "enTitle": "Eternity Tower",
         "date": "2019-08-08",
-        "update": "2025-07-04",
+        "update": "2025-07-16",
         "path": "eternity-tower",
         "type": [
             "汉化中",
@@ -27031,6 +27156,7 @@
             "英文"
         ],
         "content": [
+            "​2025-07-16：服务器扩了，不卡了，欢迎来玩：867979275",
             "​2025-07-07：游戏地址http改成https方式了。",
             "2025-07-06：组队不要超过2人，否则服务器会卡死，大家都没法玩了。",
             "​2025-06-30：老外关服了，咱们自己搭一个玩，内置了汉化和自动挂机脚本。欢迎小伙伴们体验，交流群：867979275。",

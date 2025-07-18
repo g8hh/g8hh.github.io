@@ -1,16 +1,15 @@
 // ==UserScript==
-// @name         xxxx 简中汉化脚本
+// @name         To Be A 简中汉化脚本
 // @namespace    https://www.g8hh.com.cn/
 // @version      0.0.1
-// @description  网页游戏 xxxxx (https://www.xxxxx.com/) 的简体中文汉化脚本。Simplified Chinese i18n script for web game xxxxx.
+// @description  网页游戏 To Be A (https://tobea.online/) 的简体中文汉化脚本。Simplified Chinese i18n script for web game To Be A.
 // @author       好阳光的小锅巴 & 麦子
 // @copyright    锅巴汉化
 // @contributionUR    https://gityx.com/donate/intro.html
-// @icon         https://www.zed.city/icons/favicon.svg
+// @icon         https://tobea.online/favicon/favicon.ico
 // @license      MIT
-// @include      *https://www.xxxxx.com/*
+// @include      *https://tobea.online/*
 // @grant        none
-// @require      https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.6.0/jquery.min.js
 // @website      https://www.gityx.com/
 // @updateURL    https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js
 // @downloadURL    https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js
@@ -78,10 +77,32 @@ var cnItems = {
     "Duplicate": "复制",
     "Mute": "静音",
     "Unmute": "播放",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
+    "An idle clicker MMORPG, playable directly in your browser with no download required. Forge your legend through adventure, farming, hunting, and trading.": "一个放置点击MMORPG，可以直接在你的浏览器中玩，不需要下载。通过冒险、耕种、狩猎和贸易打造你的传奇。",
+    "Be Part of the Legend!": "成为传奇的一部分！",
+    "Boost your attack and defense through training to dominate in battles.": "通过训练提高你的攻击和防御，在战斗中占主导地位。",
+    "Collect and equip a variety of items to become stronger and face greater challenges.": "收集和装备各种物品，变得更强大，面对更大的挑战。",
+    "Complete dozens of quests to earn exclusive items and rewards.": "完成数十个任务以获得独家物品和奖励。",
+    "Complete the Bestiary": "完成兽谱",
+    "Craft Unique Items": "制作独特物品",
+    "Dominate a city, collect taxes, and govern its citizens.": "统治一个城市，收税，管理市民。",
+    "Download App": "下载App",
+    "Embark on Quests": "开始执行任务",
+    "Enchant Your Spells": "施展你的咒语",
+    "Enhance your spells to increase their activation chances during hunts.": "增强你的法术，增加他们在狩猎时的激活几率。",
+    "Equip Powerful Gear": "装备强力齿轮",
+    "Hunt alone or team up with friends in idle mode, combining skills to defeat powerful foes.": "在放置模式下独自狩猎或与朋友组队，结合技能击败强大的敌人。",
+    "Hunt creatures to complete missions and unlock powerful new abilities.": "猎杀生物来完成任务并解锁强大的新能力。",
+    "Hunt Epic Creatures": "猎杀史诗生物",
+    "Join our community and stay updated on the upcoming launch of To Be A.": "加入我们的社区，随时了解即将推出的To Be A。",
+    "Mine, forge, and craft items on your farm to create powerful gear.": "在你的农场上采矿、锻造和制作物品来制造强大的装备。",
+    "Play Now": "立即开始",
+    "Rule Your City": "统治你的城市",
+    "Train Your Skills": "训练你的技能",
+    "WhatsApp Group": "WhatsApp群",
+    "Create Account": "创建账号",
+    "Log In": "登录",
+    "Login": "登录",
+    "Use a valid email; verification is required.": "请使用有效的电子邮件；需要进行验证。",
     "": "",
     "": "",
     "": "",
@@ -680,87 +701,6 @@ function TransSubTextNode(node) {
 }
 
 ! function() {
-    // 引入右侧引导
-    var content = '';
-    content += '<!-- 脚本动态内容 开始 -->';
-    content += '<style>.main-im div{display:block;}.main-im{position:fixed;right:10px;top:calc(50vh + 35px);line-height:normal;z-index:9999;}.main-im .qq-a{display:block;width:106px;height:116px;font-size:14px;color:#0484cd !important;text-align:center;position:relative;}.main-im .qq-a span{bottom:5px;position:absolute;width:90px;left:10px;}.main-im .qq-hover-c{width:70px;height:70px;border-raius:35px;position:absolute;left:18px;top:10px;overflow:hidden;z-index:9;}.main-im .qq-container{z-index:99;position:absolute;width:109px;height:118px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom:1px solid #dddddd;background-image:url("https://g8hh.cn/static/images/kf/qq-icon-bg.png");background-position:center 8px;background-repeat:no-repeat;}.main-im .img-qq{max-width:60px;display:block;position:absolute;left:6px;top:3px;-webkit-transition:all 0.5s;-o-transition:all 0.5s;transition:all 0.5s;}.main-im .im-qq:hover .img-qq{max-width:70px;left:1px;top:8px;position:absolute;color:#ff0000 !important;}.main-im .im_main{background-color:#F9FAFB !important;border:1px solid #dddddd;border-radius:10px;background-color:#F9FAFB !important;display:block;z-index:999;}.main-im .im_main .im-tel{color:#000000 !important;text-align:center;width:109px;height:125px;border-bottom:1px solid #dddddd;}.main-im .im_main .im-tel div{font-weight:bold;font-size:12px;margin-top:6px;color:#000 !important;}.main-im .im_main .im-tel .tel-num{font-family:Arial;font-weight:bold;}.main-im .im_main .im-tel .tel-num a{color:#e66d15 !important;font-size:12px !important;}.main-im .im_main .im-tel:hover{background-color:#fafafa !important;}.main-im .im_main .weixing-container{width:55px;height:47px;border-right:1px solid #dddddd;background-color:#f5f5f5 !important;border-bottom-left-radius:10px;background-image:url("https://g8hh.cn/static/images/kf/weixing-icon.png");background-position:center;background-repeat:no-repeat;float:left;}.main-im .im_main .weixing-show{width:112px;height:200px;background-color:#ffffff;border-radius:10px;border:1px solid #dddddd;position:absolute;left:-125px;top:-126px;}.main-im .im_main .weixing-show .weixing-sanjiao{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #ffffff;border-width:6px;left:112px;top:134px;position:absolute;z-index:2;}.main-im .im_main .weixing-show .weixing-sanjiao-big{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #dddddd;border-width:8px;left:112px;top:132px;position:absolute;}.main-im .im_main .weixing-show .weixing-ma{width:104px;height:103px;padding-left:5px;padding-top:5px;}.main-im .im_main .weixing-show .weixing-txt{position:absolute;top:110px;left:7px;width:100px;margin:0 auto;text-align:center;color:#000 !important;}.main-im .im_main .weixing-show .weixing-txt a,.main-im .im_main .weixing-show .weixing-txt a:hover,.main-im .im_main .im-tel .tel-num a:hover{color:#ff0000 !important;}.main-im .im_main .go-top{width:50px;height:47px;background-color:#f5f5f5;border-bottom-right-radius:10px;background-image:url("https://g8hh.cn/static/images/kf/totop-icon.png");float:right;background-position:center center;background-repeat:no-repeat;}.main-im .im_main .go-top a{display:block;width:52px;height:47px;}.main-im .close-im{position:absolute;right:10px;top:-12px;z-index:100;width:24px;height:24px;}.main-im .close-im a{display:block;width:24px;height:24px;background-image:url("https://g8hh.cn/static/images/kf/close_im.png") !important;text-decoration:none;background-position:left top;background-repeat:no-repeat;}.main-im .close-im a:hover{text-decoration:none;}.main-im .close-ball,.main-im .open-im{cursor:pointer;margin-left:68px;width:30px;height:30px;background-image:url("https://g8hh.cn/static/images/kf/open_im.png");background-repeat:no-repeat;background-position:left top;cursor:pointer;background-size:100%;z-index:100;position:fixed;right:10px;top:50vh;}.main-im .close-ball{right:-15px;top:48vh;z-index:9999999;background:none;}</style>';
-    
-    content +='<!-- 客服动态内容 开始 -->';
-     content +='<div class="main-im">';
-    content +='<div id="open_im" class="open-im">&nbsp;</div><div class="close-ball">x</div>';
-    content +='<div class="im_main" id="im_main">';
-    content +='<div id="close_im" class="close-im"><a href="javascript:void(0);" title="点击关闭">&nbsp;</a></div>';
-    // content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=B1c6jzfLBTtNdim1peh9fSWdaOvvzo_S&jump_from=webapi" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏交流①群:627141737">';
-    // content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=jlS3OQPfjBXuTV6kuLtThF5rICWNZynR&jump_from=webapi&authKey=qiagMjqscueWg8c8xvVh/SFDlYM4qdj/gFXjP/unmipGWDNoGRrCn4yO/+Z2Narl" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏交流②群:627141737">';
-    content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=sCNqtJEi7Qjk-YtwHSs6S4vvVaEBxOO7&jump_from=webapi" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏交流③群:730783833">';
-    content +='<div class="qq-container"></div>';
-    content +='<div class="qq-hover-c"><img class="img-qq" src="//g8hh.cn/static/images/kf/qq.png"></div>';
-    content +='<span>点击加群</span>';
-    content +='</a>';
-    content +='<div class="im-tel">';
-    content +='<div>QQ群号:</div>';
-    content +='<div class="tel-num">730783833</div>';
-    content +='<div>更多同类游戏:</div>';
-    content +='<div class="tel-num"><a href="https://www.gityx.com" target="_blank" title="Git游戏：gityx.com~">Git游戏</a><a href="https://g8hh.com.cn" target="_blank" style="margin-left:5px;" title="锅巴汉化：g8hh.cn">锅巴汉化</a><br /><a href="https://gityx.com/hanhua/hanhuazhong/733.html" target="_blank" style="margin-left:5px;" title="点击查看游戏攻略" >游戏攻略交流论坛</a><br /><a href="javascript:void(0)" id="keepAlive" title="开启标签页后台运行，让游戏可以在后台继续运行，点击一次即可。" style="color:green !important;">* 启用后台游戏</a></div>';
-    content +='</div>';
-    content +='<div class="im-footer" style="position:relative">';
-    content +='<div class="weixing-container">';
-    content +='<div class="weixing-show">';
-    //content +='<div class="weixing-txt" style="font-size:13px;">支付宝扫一扫<br>每天领红包<br>0.1 - 99元<br><a href="http://g8hh.com/static/article/fuli.html" target="_blank" title="凡是扫这个二维码领的红包，都可以找我拿返现，点击查看详情">查看详情</a></div>';
-    //content +='<img class="weixing-ma" src="//g8hh.com/static/images/kf/zfb-ma.jpg">';
-//    content +='<div class="weixing-txt" style="font-size:13px;">打开手机QQ<br>扫码加群<br>一起讨论吧<br><a href="http://shang.qq.com/wpa/qunwpa?idkey=d10d784492d5e73cca25ff48f4763bdc14f698ffdbf42adbb0e9304495cb0387" target="_blank" title="点击加入 - GitHub游戏交流群:627141737">点击加群</a></div>';
-    content +='<div class="weixing-txt" style="font-size:13px;">打开微信扫一扫<br>关注公众号<br><br><a href="https://mp.weixin.qq.com/s/ezp5x6hOC8QPLnZ2bPFyEw" target="_blank" title="欢迎关注Git游戏关注，每周都有新游戏！">Git游戏</a></div>';
-    content +='<img class="weixing-ma" src="//g8hh.cn/static/images/kf/weixing-ma.jpg">';
-    content +='<div class="weixing-sanjiao"></div>';
-    content +='<div class="weixing-sanjiao-big"></div>';
-    content +='</div>';
-    content +='</div>';
-    content +='<div class="go-top"><a href="javascript:;" title="返回顶部"></a> </div>';
-    content +='<div style="clear:both"></div>';
-    content +='</div>';
-    content +='</div>';
-    content +='</div>';
-    content +='<!-- 客服动态内容 结束 -->';
-    $("body").append(content);
-	$('#close_im').bind('click',function(){
-		$('#main-im').css("height","0");
-		$('#im_main').hide();
-		$('#open_im').show();
-	});
-	$('#open_im').bind('click',function(e){
-		$('#main-im').css("height","272");
-		$('#im_main').show();
-		$(this).hide();
-	});
-	$('.go-top').bind('click',function(){
-		$(window).scrollTop(0);
-	});
-	$(".weixing-container").bind('mouseenter',function(){
-		$('.weixing-show').show();
-	})
-	$(".weixing-container").bind('mouseleave',function(){        
-		$('.weixing-show').hide();
-	});
-    // 启用标签页后台运行
-    $('#keepAlive').bind('click',function(e){
-		var d=document,s=d.createElement('script');s.src='//g8hh.cn/static/js/keepalive.js';d.body.appendChild(s);
-	});
-
-//	定时关闭
-  setTimeout(function () {
-    $('#im_main').hide();
-  },5000);
-      //    关闭小球，防止遮挡
-  $('.close-ball').bind('click', function() {
-    if ($('.close-ball').hasClass('show')) {
-      $('#open_im').show()
-      $('.close-ball').removeClass('show')
-    } else {
-      $('.close-ball').addClass('show')
-      $('.im_main').hide()
-      $('#open_im').hide()
-    }
-  })
     console.log("加载汉化模块");
 
     let observer_config = {
