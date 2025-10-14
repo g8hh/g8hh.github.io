@@ -10,7 +10,6 @@
 // @license      MIT
 // @include      *https://www.xxxxx.com/*
 // @grant        none
-// @require      https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.6.0/jquery.min.js
 // @website      https://www.gityx.com/
 // @updateURL    https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js
 // @downloadURL    https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js
@@ -119,7 +118,6 @@ var cnItems = {
     "": "",
     "": "",
     "": "",
-
     // 图标代码，不能汉化
     "Jacorb's Games": "Jacorb's Games",
     "": "",
@@ -129,8 +127,14 @@ var cnItems = {
     "": "",
     "": "",
     "": "",
+    "+": "+",
+    ".": ".",
+    "…": "…",
     ":": ":",
-    "/": "/",
+    "-": "-",
+    "|": "|",
+    "(": "(",
+    ")": ")",
     "Scientific": "科学计数法",
     "Standard": "标准",
     "Blind": "盲文",
@@ -197,7 +201,7 @@ var cnItems = {
     '更多同类游戏:': '更多同类游戏:',
     'i': 'i',
     'I': 'I',
-    'II': 'I',
+    'II': 'II',
     'III': 'III',
     'IV': 'IV',
     'V': 'V',
@@ -237,13 +241,36 @@ var cnItems = {
     'X': 'X',
     'Y': 'Y',
     'Z': 'Z',
+    'a': 'a',
+    'b': 'b',
+    'c': 'c',
+    'd': 'd',
+    'e': 'e',
+    'f': 'f',
+    'g': 'g',
+    'h': 'h',
+    'i': 'i',
+    'j': 'j',
+    'k': 'k',
+    'l': 'l',
+    'm': 'm',
+    'n': 'n',
+    'o': 'o',
+    'p': 'p',
+    'q': 'q',
+    'r': 'r',
+    's': 's',
+    't': 't',
+    'u': 'u',
+    'v': 'v',
+    'w': 'w',
+    'x': 'x',
+    'y': 'y',
+    'z': 'z',
     '<': '<',
     '<<': '<<',
     '>': '>',
     '>>': '>>',
-    "Gityx": "Gityx",
-    "Gz": "Gz",
-    "O": "O",
     'Jan': '1月',
     'Feb': '2月',
     'Mar': '3月',
@@ -267,24 +294,24 @@ var cnItems = {
 //需处理的前缀
 var cnPrefix = {
     "\n": "\n",
-    "                   ": "",
-    "                  ": "",
-    "                 ": "",
-    "                ": "",
-    "               ": "",
-    "              ": "",
-    "             ": "",
-    "            ": "",
-    "           ": "",
-    "          ": "",
-    "         ": "",
-    "        ": "",
-    "       ": "",
-    "      ": "",
-    "     ": "",
-    "    ": "",
-    "   ": "",
-    "  ": " ",
+    "                   ": "                   ",
+    "                  ": "                  ",
+    "                 ": "                 ",
+    "                ": "                ",
+    "               ": "               ",
+    "              ": "              ",
+    "             ": "             ",
+    "            ": "            ",
+    "           ": "           ",
+    "          ": "          ",
+    "         ": "         ",
+    "        ": "        ",
+    "       ": "       ",
+    "      ": "      ",
+    "     ": "     ",
+    "    ": "    ",
+    "   ": "   ",
+    "  ": "  ",
     " ": " ",
     //树游戏
     "\t\t\t": "\t\t\t",
@@ -305,6 +332,9 @@ var cnPrefix = {
     "Shift-Click to Toggle Tooltips: ": "Shift-单击以切换工具提示：",
     "Notation: ": "符号: ",
     "Toggle Music: ": "切换声音: ",
+    "Animations: ": "动画: ",
+    "Current Endgame: ": "当前终局: ",
+    "Space Background: ": "太空背景: ",
     "": "",
     "": "",
     "": "",
@@ -408,8 +438,11 @@ var cnExcludeWhole = [
     /^([\d\.]+)y ([\d\.]+)d ([\d\.]+)h ([\d\.]+)m ([\d\.]+)s$/,
     /^([\d\.]+)y ([\d\.]+)d ([\d\.]+)h$/,
     /^([\d\.]+)\-([\d\.]+)\-([\d\.]+)$/,
-    /^([\d\.]+)e(\d+)$/,
+    /^([\d\.]+)e([\d\.,]+)$/,
     /^([\d\.]+)$/,
+    /^×([\d\.]+)$/,
+    /^x([\d\.]+)$/,
+    /^v([\d\.]+)$/,
     /^\$([\d\.]+)$/,
     /^\(([\d\.]+)\)$/,
     /^([\d\.]+)\%$/,
@@ -429,6 +462,13 @@ var cnExcludeWhole = [
     /^([\d\.]+) T$/,
     /^([\d\.]+) Qi$/,
     /^([\d\.]+) Qa$/,
+    /^([\d\.]+) Sp$/,
+    /^([\d\.]+) Oc$/,
+    /^([\d\.]+) Dc$/,
+    /^([\d\.]+) UDc$/,
+    /^([\d\.]+) No$/,
+    /^([\d\.]+) Sx$/,
+    /^([\d\.]+) QaDc$/,
     /^([\d\.]+)s$/,
     /^([\d\.]+)x$/,
     /^x([\d\.]+)$/,
@@ -438,6 +478,7 @@ var cnExcludeWhole = [
     /^\-([\d\.,]+)$/,
     /^([\d\.,]+)x$/,
     /^x([\d\.,]+)$/,
+    /^×([\d\.,]+)$/,
     /^([\d\.,]+) \/ ([\d\.,]+)$/,
     /^([\d\.]+)e([\d\.,]+)$/,
     /^([\d\.]+)e([\d\.,]+) \/ ([\d\.]+)e([\d\.,]+)$/,
@@ -448,7 +489,7 @@ var cnExcludeWhole = [
     /^e([\d\.]+)e([\d\.,]+)$/,
     /^x([\d\.]+)e([\d\.,]+)$/,
     /^([\d\.]+)e([\d\.,]+)x$/,
-    /^([\uD800-\uDBFF][\uDC00-\uDFFF])|([\u2600-\u27BF])|([\u2300-\u23FF])|([\u2B50-\u2B55])|([\u203C-\u3299])|[\u21A9\u21AA\u25B6\u25C0\u2B06\u2B07\u2B05\u2B95\u2B99\u2B9A]+$/,
+    // /^([\uD800-\uDBFF][\uDC00-\uDFFF])|([\u2600-\u27BF])|([\u2300-\u23FF])|([\u2B50-\u2B55])|([\u203C-\u3299])|[\u21A9\u21AA\u25B6\u25C0\u2B06\u2B07\u2B05\u2B95\u2B99\u2B9A]+$/,
     // /^([\uD800-\uDBFF][\uDC00-\uDFFF])|([\u2600-\u27BF])|([\u2300-\u23FF])|([\u2B50-\u2B55])|([\u203C-\u3299])+$/,
     // /^[\uD800-\uFFFF]+$/,
     /^[\u4E00-\u9FA5]+$/
@@ -465,6 +506,30 @@ var cnRegReplace = new Map([
     [/^You are gaining (.+) elves per second$/, '你每秒获得 $1 精灵'],
     [/^You have (.+) points$/, '你有 $1 点数'],
     [/^Next at (.+) points$/, '下一个在 $1 点数'],
+    [/^Jan ([\d\.,]+)$/, '1 月 $1'],
+    [/^Feb ([\d\.,]+)$/, '2 月 $1'],
+    [/^Mar ([\d\.,]+)$/, '3 月 $1'],
+    [/^Apr ([\d\.,]+)$/, '4 月 $1'],
+    [/^May ([\d\.,]+)$/, '5 月 $1'],
+    [/^Jun ([\d\.,]+)$/, '6 月 $1'],
+    [/^Jul ([\d\.,]+)$/, '7 月 $1'],
+    [/^Aug ([\d\.,]+)$/, '8 月 $1'],
+    [/^Sep ([\d\.,]+)$/, '9 月 $1'],
+    [/^Oct ([\d\.,]+)$/, '10 月 $1'],
+    [/^Nov ([\d\.,]+)$/, '11 月 $1'],
+    [/^Dec ([\d\.,]+)$/, '12 月 $1'],
+    [/^January, ([\d\.,]+)$/, '$1 年 1 月'],
+    [/^February, ([\d\.,]+)$/, '$1 年 2 月'],
+    [/^March, ([\d\.,]+)$/, '$1 年 3 月'],
+    [/^April, ([\d\.,]+)$/, '$1 年 4 月'],
+    [/^May, ([\d\.,]+)$/, '$1 年 5 月'],
+    [/^June, ([\d\.,]+)$/, '$1 年 6 月'],
+    [/^July, ([\d\.,]+)$/, '$1 年 7 月'],
+    [/^August, ([\d\.,]+)$/, '$1 年 8 月'],
+    [/^September, ([\d\.,]+)$/, '$1 年 9 月'],
+    [/^October, ([\d\.,]+)$/, ' $1 年 10 月'],
+    [/^November, ([\d\.,]+)$/, ' $1 年 11 月'],
+    [/^December, ([\d\.,]+)$/, ' $1 年 12 月'],
     [/^Jan ([\d\.,]+) ([\d\.,]+), ([\d\.,]+):([\d\.,]+)$/, '$2 年 1 月 $1, $3:$4'],
     [/^Feb ([\d\.,]+) ([\d\.,]+), ([\d\.,]+):([\d\.,]+)$/, '$2 年 2 月 $1, $3:$4'],
     [/^Mar ([\d\.,]+) ([\d\.,]+), ([\d\.,]+):([\d\.,]+)$/, '$2 年 3 月 $1, $3:$4'],
@@ -477,6 +542,91 @@ var cnRegReplace = new Map([
     [/^Oct ([\d\.,]+) ([\d\.,]+), ([\d\.,]+):([\d\.,]+)$/, '$2 年 10 月 $1, $3:$4'],
     [/^Nov ([\d\.,]+) ([\d\.,]+), ([\d\.,]+):([\d\.,]+)$/, '$2 年 11 月 $1, $3:$4'],
     [/^Dec ([\d\.,]+) ([\d\.,]+), ([\d\.,]+):([\d\.,]+)$/, '$2 年 12 月 $1, $3:$4'],
+	[/^Jan ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '1月 $1 上午 $2:$3:$4'],
+	[/^Feb ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '2月 $1 上午 $2:$3:$4'],
+	[/^Mar ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '3月 $1 上午 $2:$3:$4'],
+	[/^Apr ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '4月 $1 上午 $2:$3:$4'],
+	[/^May ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '5月 $1 上午 $2:$3:$4'],
+	[/^Jun ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '6月 $1 上午 $2:$3:$4'],
+	[/^Jul ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '7月 $1 上午 $2:$3:$4'],
+	[/^Aug ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '8月 $1 上午 $2:$3:$4'],
+	[/^Sep ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '9月 $1 上午 $2:$3:$4'],
+	[/^Oct ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '10月 $1 上午 $2:$3:$4'],
+	[/^Nov ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '11月 $1 上午 $2:$3:$4'],
+	[/^Dec ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) AM$/, '12月 $1 上午 $2:$3:$4'],
+	[/^Jan ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '1月 $1 下午 $2:$3:$4'],
+	[/^Feb ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '2月 $1 下午 $2:$3:$4'],
+	[/^Mar ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '3月 $1 下午 $2:$3:$4'],
+	[/^Apr ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '4月 $1 下午 $2:$3:$4'],
+	[/^May ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '5月 $1 下午 $2:$3:$4'],
+	[/^Jun ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '6月 $1 下午 $2:$3:$4'],
+	[/^Jul ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '7月 $1 下午 $2:$3:$4'],
+	[/^Aug ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '8月 $1 下午 $2:$3:$4'],
+	[/^Sep ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '9月 $1 下午 $2:$3:$4'],
+	[/^Oct ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '10月 $1 下午 $2:$3:$4'],
+	[/^Nov ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '11月 $1 下午 $2:$3:$4'],
+	[/^Dec ([\d\.]+), ([\d\.]+):([\d\.]+):([\d\.]+) PM$/, '12月 $1 下午 $2:$3:$4'],
+	[/^Jan ([\d\.]+), ([\d\.]+) AM$/, '1月 $1 上午 $2'],
+	[/^Feb ([\d\.]+), ([\d\.]+) AM$/, '2月 $1 上午 $2'],
+	[/^Mar ([\d\.]+), ([\d\.]+) AM$/, '3月 $1 上午 $2'],
+	[/^Apr ([\d\.]+), ([\d\.]+) AM$/, '4月 $1 上午 $2'],
+	[/^May ([\d\.]+), ([\d\.]+) AM$/, '5月 $1 上午 $2'],
+	[/^Jun ([\d\.]+), ([\d\.]+) AM$/, '6月 $1 上午 $2'],
+	[/^Jul ([\d\.]+), ([\d\.]+) AM$/, '7月 $1 上午 $2'],
+	[/^Aug ([\d\.]+), ([\d\.]+) AM$/, '8月 $1 上午 $2'],
+	[/^Sep ([\d\.]+), ([\d\.]+) AM$/, '9月 $1 上午 $2'],
+	[/^Oct ([\d\.]+), ([\d\.]+) AM$/, '10月 $1 上午 $2'],
+	[/^Nov ([\d\.]+), ([\d\.]+) AM$/, '11月 $1 上午 $2'],
+	[/^Dec ([\d\.]+), ([\d\.]+) AM$/, '12月 $1 上午 $2'],
+	[/^Jan ([\d\.]+), ([\d\.]+) PM$/, '1月 $1 下午 $2'],
+	[/^Feb ([\d\.]+), ([\d\.]+) PM$/, '2月 $1 下午 $2'],
+	[/^Mar ([\d\.]+), ([\d\.]+) PM$/, '3月 $1 下午 $2'],
+	[/^Apr ([\d\.]+), ([\d\.]+) PM$/, '4月 $1 下午 $2'],
+	[/^May ([\d\.]+), ([\d\.]+) PM$/, '5月 $1 下午 $2'],
+	[/^Jun ([\d\.]+), ([\d\.]+) PM$/, '6月 $1 下午 $2'],
+	[/^Jul ([\d\.]+), ([\d\.]+) PM$/, '7月 $1 下午 $2'],
+	[/^Aug ([\d\.]+), ([\d\.]+) PM$/, '8月 $1 下午 $2'],
+	[/^Sep ([\d\.]+), ([\d\.]+) PM$/, '9月 $1 下午 $2'],
+	[/^Oct ([\d\.]+), ([\d\.]+) PM$/, '10月 $1 下午 $2'],
+	[/^Nov ([\d\.]+), ([\d\.]+) PM$/, '11月 $1 下午 $2'],
+	[/^Dec ([\d\.]+), ([\d\.]+) PM$/, '12月 $1 下午 $2'],
+	[/^Jan (.+), ([\d\.]+)$/, '$2 年 1 月 $1'],
+	[/^Feb (.+), ([\d\.]+)$/, '$2 年 2 月 $1'],
+	[/^Mar (.+), ([\d\.]+)$/, '$2 年 3 月 $1'],
+	[/^Apr (.+), ([\d\.]+)$/, '$2 年 4 月 $1'],
+	[/^May (.+), ([\d\.]+)$/, '$2 年 5 月 $1'],
+	[/^Jun (.+), ([\d\.]+)$/, '$2 年 6 月 $1'],
+	[/^Jul (.+), ([\d\.]+)$/, '$2 年 7 月 $1'],
+	[/^Aug (.+), ([\d\.]+)$/, '$2 年 8 月 $1'],
+	[/^Sep (.+), ([\d\.]+)$/, '$2 年 9 月 $1'],
+	[/^Oct (.+), ([\d\.]+)$/, '$2 年 10 月 $1'],
+	[/^Nov (.+), ([\d\.]+)$/, '$2 年 11 月 $1'],
+	[/^Dec (.+), ([\d\.]+)$/, '$2 年 12 月 $1'],
+	[/^January ([\d\.]+) Theme$/, '$1 年 1 月 主题'],
+	[/^February ([\d\.]+) Theme$/, '$1 年 2 月 主题'],
+	[/^March ([\d\.]+) Theme$/, '$1 年 3 月 主题'],
+	[/^April ([\d\.]+) Theme$/, '$1 年 4 月 主题'],
+	[/^May ([\d\.]+) Theme$/, '$1 年 5 月 主题'],
+	[/^June ([\d\.]+) Theme$/, '$1 年 6 月 主题'],
+	[/^July ([\d\.]+) Theme$/, '$1 年 7 月 主题'],
+	[/^August ([\d\.]+) Theme$/, '$1 年 8 月 主题'],
+	[/^September ([\d\.]+) Theme$/, '$1 年 9 月 主题'],
+	[/^October ([\d\.]+) Theme$/, '$1 年 10 月 主题'],
+	[/^November ([\d\.]+) Theme$/, '$1 年 11 月 主题'],
+	[/^December ([\d\.]+) Theme$/, '$1 年 12 月 主题'],
+	[/^Jan ([\d\.]+) \- Jan ([\d\.]+)$/, '1 月 $1 \- 1 月 $2'],
+	[/^Feb ([\d\.]+) \- Feb ([\d\.]+)$/, '2 月 $1 \- 2 月 $2'],
+	[/^Mar ([\d\.]+) \- Mar ([\d\.]+)$/, '3 月 $1 \- 3 月 $2'],
+	[/^Apr ([\d\.]+) \- Apr ([\d\.]+)$/, '4 月 $1 \- 4 月 $2'],
+	[/^May ([\d\.]+) \- May ([\d\.]+)$/, '5 月 $1 \- 5 月 $2'],
+	[/^Jun ([\d\.]+) \- Jun ([\d\.]+)$/, '6 月 $1 \- 6 月 $2'],
+	[/^Jul ([\d\.]+) \- Jul ([\d\.]+)$/, '7 月 $1 \- 7 月 $2'],
+	[/^Jun ([\d\.]+) \- Jul ([\d\.]+)$/, '6 月 $1 \- 7 月 $2'],
+	[/^Aug ([\d\.]+) \- Aug ([\d\.]+)$/, '8 月 $1 \- 8 月 $2'],
+	[/^Sep ([\d\.]+) \- Sep ([\d\.]+)$/, '9 月 $1 \- 9 月 $2'],
+	[/^Oct ([\d\.]+) \- Oct ([\d\.]+)$/, '10 月 $1 \- 10 $2'],
+	[/^Nov ([\d\.]+) \- Nov ([\d\.]+)$/, '11 月 $1 \- 11 $2'],
+	[/^Dec ([\d\.]+) \- Dec ([\d\.]+)$/, '12 月 $1 \- 12 $2'],
 	[/^([\d\.]+)\/sec$/, '$1\/秒'],
 	[/^([\d\.,]+)\/sec$/, '$1\/秒'],
 	[/^([\d\.,]+) OOMs\/sec$/, '$1 OOMs\/秒'],
@@ -680,87 +830,6 @@ function TransSubTextNode(node) {
 }
 
 ! function() {
-    // 引入右侧引导
-    var content = '';
-    content += '<!-- 脚本动态内容 开始 -->';
-    content += '<style>.main-im div{display:block;}.main-im{position:fixed;right:10px;top:calc(50vh + 35px);line-height:normal;z-index:9999;}.main-im .qq-a{display:block;width:106px;height:116px;font-size:14px;color:#0484cd !important;text-align:center;position:relative;}.main-im .qq-a span{bottom:5px;position:absolute;width:90px;left:10px;}.main-im .qq-hover-c{width:70px;height:70px;border-raius:35px;position:absolute;left:18px;top:10px;overflow:hidden;z-index:9;}.main-im .qq-container{z-index:99;position:absolute;width:109px;height:118px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom:1px solid #dddddd;background-image:url("https://g8hh.cn/static/images/kf/qq-icon-bg.png");background-position:center 8px;background-repeat:no-repeat;}.main-im .img-qq{max-width:60px;display:block;position:absolute;left:6px;top:3px;-webkit-transition:all 0.5s;-o-transition:all 0.5s;transition:all 0.5s;}.main-im .im-qq:hover .img-qq{max-width:70px;left:1px;top:8px;position:absolute;color:#ff0000 !important;}.main-im .im_main{background-color:#F9FAFB !important;border:1px solid #dddddd;border-radius:10px;background-color:#F9FAFB !important;display:block;z-index:999;}.main-im .im_main .im-tel{color:#000000 !important;text-align:center;width:109px;height:125px;border-bottom:1px solid #dddddd;}.main-im .im_main .im-tel div{font-weight:bold;font-size:12px;margin-top:6px;color:#000 !important;}.main-im .im_main .im-tel .tel-num{font-family:Arial;font-weight:bold;}.main-im .im_main .im-tel .tel-num a{color:#e66d15 !important;font-size:12px !important;}.main-im .im_main .im-tel:hover{background-color:#fafafa !important;}.main-im .im_main .weixing-container{width:55px;height:47px;border-right:1px solid #dddddd;background-color:#f5f5f5 !important;border-bottom-left-radius:10px;background-image:url("https://g8hh.cn/static/images/kf/weixing-icon.png");background-position:center;background-repeat:no-repeat;float:left;}.main-im .im_main .weixing-show{width:112px;height:200px;background-color:#ffffff;border-radius:10px;border:1px solid #dddddd;position:absolute;left:-125px;top:-126px;}.main-im .im_main .weixing-show .weixing-sanjiao{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #ffffff;border-width:6px;left:112px;top:134px;position:absolute;z-index:2;}.main-im .im_main .weixing-show .weixing-sanjiao-big{width:0;height:0;border-style:solid;border-color:transparent transparent transparent #dddddd;border-width:8px;left:112px;top:132px;position:absolute;}.main-im .im_main .weixing-show .weixing-ma{width:104px;height:103px;padding-left:5px;padding-top:5px;}.main-im .im_main .weixing-show .weixing-txt{position:absolute;top:110px;left:7px;width:100px;margin:0 auto;text-align:center;color:#000 !important;}.main-im .im_main .weixing-show .weixing-txt a,.main-im .im_main .weixing-show .weixing-txt a:hover,.main-im .im_main .im-tel .tel-num a:hover{color:#ff0000 !important;}.main-im .im_main .go-top{width:50px;height:47px;background-color:#f5f5f5;border-bottom-right-radius:10px;background-image:url("https://g8hh.cn/static/images/kf/totop-icon.png");float:right;background-position:center center;background-repeat:no-repeat;}.main-im .im_main .go-top a{display:block;width:52px;height:47px;}.main-im .close-im{position:absolute;right:10px;top:-12px;z-index:100;width:24px;height:24px;}.main-im .close-im a{display:block;width:24px;height:24px;background-image:url("https://g8hh.cn/static/images/kf/close_im.png") !important;text-decoration:none;background-position:left top;background-repeat:no-repeat;}.main-im .close-im a:hover{text-decoration:none;}.main-im .close-ball,.main-im .open-im{cursor:pointer;margin-left:68px;width:30px;height:30px;background-image:url("https://g8hh.cn/static/images/kf/open_im.png");background-repeat:no-repeat;background-position:left top;cursor:pointer;background-size:100%;z-index:100;position:fixed;right:10px;top:50vh;}.main-im .close-ball{right:-15px;top:48vh;z-index:9999999;background:none;}</style>';
-    
-    content +='<!-- 客服动态内容 开始 -->';
-     content +='<div class="main-im">';
-    content +='<div id="open_im" class="open-im">&nbsp;</div><div class="close-ball">x</div>';
-    content +='<div class="im_main" id="im_main">';
-    content +='<div id="close_im" class="close-im"><a href="javascript:void(0);" title="点击关闭">&nbsp;</a></div>';
-    // content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=B1c6jzfLBTtNdim1peh9fSWdaOvvzo_S&jump_from=webapi" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏交流①群:627141737">';
-    // content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=jlS3OQPfjBXuTV6kuLtThF5rICWNZynR&jump_from=webapi&authKey=qiagMjqscueWg8c8xvVh/SFDlYM4qdj/gFXjP/unmipGWDNoGRrCn4yO/+Z2Narl" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏交流②群:627141737">';
-    content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=sCNqtJEi7Qjk-YtwHSs6S4vvVaEBxOO7&jump_from=webapi" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏交流③群:730783833">';
-    content +='<div class="qq-container"></div>';
-    content +='<div class="qq-hover-c"><img class="img-qq" src="//g8hh.cn/static/images/kf/qq.png"></div>';
-    content +='<span>点击加群</span>';
-    content +='</a>';
-    content +='<div class="im-tel">';
-    content +='<div>QQ群号:</div>';
-    content +='<div class="tel-num">730783833</div>';
-    content +='<div>更多同类游戏:</div>';
-    content +='<div class="tel-num"><a href="https://www.gityx.com" target="_blank" title="Git游戏：gityx.com~">Git游戏</a><a href="https://g8hh.com.cn" target="_blank" style="margin-left:5px;" title="锅巴汉化：g8hh.cn">锅巴汉化</a><br /><a href="https://gityx.com/hanhua/hanhuazhong/733.html" target="_blank" style="margin-left:5px;" title="点击查看游戏攻略" >游戏攻略交流论坛</a><br /><a href="javascript:void(0)" id="keepAlive" title="开启标签页后台运行，让游戏可以在后台继续运行，点击一次即可。" style="color:green !important;">* 启用后台游戏</a></div>';
-    content +='</div>';
-    content +='<div class="im-footer" style="position:relative">';
-    content +='<div class="weixing-container">';
-    content +='<div class="weixing-show">';
-    //content +='<div class="weixing-txt" style="font-size:13px;">支付宝扫一扫<br>每天领红包<br>0.1 - 99元<br><a href="http://g8hh.com/static/article/fuli.html" target="_blank" title="凡是扫这个二维码领的红包，都可以找我拿返现，点击查看详情">查看详情</a></div>';
-    //content +='<img class="weixing-ma" src="//g8hh.com/static/images/kf/zfb-ma.jpg">';
-//    content +='<div class="weixing-txt" style="font-size:13px;">打开手机QQ<br>扫码加群<br>一起讨论吧<br><a href="http://shang.qq.com/wpa/qunwpa?idkey=d10d784492d5e73cca25ff48f4763bdc14f698ffdbf42adbb0e9304495cb0387" target="_blank" title="点击加入 - GitHub游戏交流群:627141737">点击加群</a></div>';
-    content +='<div class="weixing-txt" style="font-size:13px;">打开微信扫一扫<br>关注公众号<br><br><a href="https://mp.weixin.qq.com/s/ezp5x6hOC8QPLnZ2bPFyEw" target="_blank" title="欢迎关注Git游戏关注，每周都有新游戏！">Git游戏</a></div>';
-    content +='<img class="weixing-ma" src="//g8hh.cn/static/images/kf/weixing-ma.jpg">';
-    content +='<div class="weixing-sanjiao"></div>';
-    content +='<div class="weixing-sanjiao-big"></div>';
-    content +='</div>';
-    content +='</div>';
-    content +='<div class="go-top"><a href="javascript:;" title="返回顶部"></a> </div>';
-    content +='<div style="clear:both"></div>';
-    content +='</div>';
-    content +='</div>';
-    content +='</div>';
-    content +='<!-- 客服动态内容 结束 -->';
-    $("body").append(content);
-	$('#close_im').bind('click',function(){
-		$('#main-im').css("height","0");
-		$('#im_main').hide();
-		$('#open_im').show();
-	});
-	$('#open_im').bind('click',function(e){
-		$('#main-im').css("height","272");
-		$('#im_main').show();
-		$(this).hide();
-	});
-	$('.go-top').bind('click',function(){
-		$(window).scrollTop(0);
-	});
-	$(".weixing-container").bind('mouseenter',function(){
-		$('.weixing-show').show();
-	})
-	$(".weixing-container").bind('mouseleave',function(){        
-		$('.weixing-show').hide();
-	});
-    // 启用标签页后台运行
-    $('#keepAlive').bind('click',function(e){
-		var d=document,s=d.createElement('script');s.src='//g8hh.cn/static/js/keepalive.js';d.body.appendChild(s);
-	});
-
-//	定时关闭
-  setTimeout(function () {
-    $('#im_main').hide();
-  },5000);
-      //    关闭小球，防止遮挡
-  $('.close-ball').bind('click', function() {
-    if ($('.close-ball').hasClass('show')) {
-      $('#open_im').show()
-      $('.close-ball').removeClass('show')
-    } else {
-      $('.close-ball').addClass('show')
-      $('.im_main').hide()
-      $('#open_im').hide()
-    }
-  })
     console.log("加载汉化模块");
 
     let observer_config = {

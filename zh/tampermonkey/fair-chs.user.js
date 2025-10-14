@@ -11,8 +11,8 @@
 // @include      *https://fair.kaliburg.de*
 // @grant        none
 // @website      https://www.gityx.com/
-// @updateURL    https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js
-// @downloadURL    https://g8hh.com.cn/zh/tampermonkey/iqrpg-chs.user.js
+// @updateURL    https://g8hh.com.cn/zh/tampermonkey/fair-chs.user.js
+// @downloadURL    https://g8hh.com.cn/zh/tampermonkey/fair-chs.user.js
 // ==/UserScript==
 /**
  * ---------------------------

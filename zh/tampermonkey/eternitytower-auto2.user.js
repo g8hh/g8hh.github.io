@@ -100,6 +100,18 @@
     content += '<div class="im-footer" style="position:relative">';
     content += '<div class="weixing-container">';
     content += '<div class="weixing-show">';
+    //介绍-开始
+    content += '<div class="JB-form">';
+    content += '<div class="tit">永恒之塔自动化脚本介绍</div>';
+    content += '1、可以根据需要打开1-4个浏览器标签页，分别打开挖矿、种地、战斗、制作页面；';
+    content += '<br/>';
+    content += '2、各个标签页里面，都只做一件事，然后启动对应的脚本，避免各个页面来回跳。';
+    content += '<br/>';
+    content += '3、脚本的时间间隔不要设太低，以免频繁请求导致服务器卡顿。';
+    content += '<br/>';
+    content += '4、玩家尽量加一下QQ群：867979275，方便组队、问问题。';
+    content += '</div>';
+    //介绍-结束
     //重置脚本-开始
     content += '<div class="JB-form">';
     content += '<div class="tit">重置脚本配置（当出现脚本乱点等不正常情况时使用）</div>';
@@ -254,6 +266,7 @@
     content += '<option value="fairy_steel_bar">仙女钢锭-单个36秒-共3600秒</option>';
     content += '<option value="elven_steel_bar">精灵钢锭-单个40秒-共4000秒</option>';
     content += '<option value="cursed_bar">诅咒锭-单个56秒-共5600秒</option>';
+    content += '<option value="purestone_bar">纯石锭-单个56秒-共5600秒</option>';
     content += '</select> ';
     content += '<br/>';
     content += '制作间隔(秒) <input id="craftTime" type="text" value="100" placeholder="输入整数数字" autocomplete="on"/> 秒；';
@@ -352,6 +365,16 @@
     content += '<button id="attRight" type="danger" disabled>关闭</button>';
     content += '</div>';
     //选择技能-结束
+
+    //法师技能-开始
+    content += '<div class="JB-form">';
+    content += '<div class="tit">标签页后台运行（刷新页面后点击一次即可）</div>';
+    content += '* 此功能是为了解决：游戏标签页切到后台时，游戏可能进入停滞，再次切换过来时爆发大量请求的问题。';
+    content += '<br/>';
+    content += '* 一般只需要在 挖矿、种地、战斗 这三个标签页下启用即可。';
+    content += '<button id="keepAlive" type="primary" >启动</button>';
+    content += '</div>';
+    //法师技能-结束
 
     //单人战斗-开始
     content += '<div class="JB-form">';
