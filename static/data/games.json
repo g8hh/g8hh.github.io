@@ -930,6 +930,44 @@
         "status": 0
     },
     {
+        "title": "2026春节树",
+        "enTitle": "The Spring Festival Tree 2026",
+        "date": "2026-03-06",
+        "update": "2025-03-06",
+        "version": "v2026",
+        "path": "the-spring-festival-tree-2026",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "声望树"
+        ],
+        "content": [
+            "《2026春节树》是群里的 @QqQe308 大佬为2026年春节做出来的模组树游戏，祝大家新年快乐~",
+            "群号: 951232913"
+        ],
+        "customUrl": "https://qqqe308.github.io/The-Spring-Festival-Tree-2026/",
+        "customUrlTit": "开始游戏",
+        "customUrl2": "https://the-spring-festival-tree-2026.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "951232913",
+        "qqUrl": "https://qm.qq.com/q/eGY3a3mwrm",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+        ],
+        "needHH": 0,
+        "status": 0
+    },
+    {
         "title": "银河QB放置，国人自制类奶牛摸鱼网络放置",
         "enTitle": "",
         "date": "2026-03-02",
@@ -1613,7 +1651,7 @@
         "status": 1
     },
     {
-        "title": "【推荐】轮回小镇，正式服10:00震撼开启！国产类奶牛网络放置",
+        "title": "【推荐】轮回小镇，正式服18:00震撼开启！国产类奶牛网络放置",
         "enTitle": "",
         "date": "2026-03-05",
         "update": "2026-03-05",

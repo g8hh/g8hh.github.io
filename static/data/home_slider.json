@@ -1,13 +1,13 @@
 [{
     "list": [{
+        "title": "轮回小镇",
+        "path": "lhxz"
+    }, {
         "title": "无尽洪荒",
         "path": "wjhh"
     }, {
         "title": "迷你梦幻",
         "path": "mini-mh"
-    }, {
-        "title": "轮回小镇",
-        "path": "lhxz"
     }, {
         "title": "五绝传说",
         "path": "wjcs"
