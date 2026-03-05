@@ -13,6 +13,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 _filter:none;
 }*/
+
 body{
 	background:#fff;
 	font-family: 'nobile';
@@ -361,6 +362,7 @@ ul.round-top {
 	display: inline-block;
 	width: 18%;
     margin-right: 2%;
+    margin-bottom: 20px;
 	vertical-align: top;
 }
 .top-footer ul li i{

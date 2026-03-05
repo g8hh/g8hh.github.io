@@ -7,7 +7,7 @@
 },{
     "title": "千款好玩的微信小游戏合集",
     "link": "https://game.weixin.qq.com/cgi-bin/comm/openlink?auth_appid=wx62d9035fd4fd2059&url=https%3A%2F%2Fgame.weixin.qq.com%2Fcgi-bin%2Fminigame%2Fstatic%2Fcps-transfer%2Findex.html%3Ft%3DAARwtQwFAAABAAAAAAArHWolGK5b4ywHl5MIZxAAAADA8RG5WEKQmoqKviNESI_tHoKzc54tLZmnZcdRmYRjOnYEYtDPoMFkl9M5dqJwd4iEEUp1LChaNu75%26wechat_pkgid%3Dminigame__cps_transfer_index",
-    "button": "点击开玩",
+    "button": "复制链接在微信中打开",
     "tips": "千款好玩的微信小游戏合集",
     "status": 1
 },{
@@ -21,7 +21,7 @@
     "link": "https://www.g8hh.com.cn",
     "button": "点击访问",
     "tips": "锅巴汉化，简单好记，就是当前页面地址",
-    "status": 1
+    "status": 0
 },{
     "title": "领外卖红包，来 锅巴好货",
     "link": "https://gityx.com/fuli/20211103/614.html",
@@ -36,11 +36,17 @@
     "status": 1
 },{
     "title": "迷你梦幻，怀旧网络放置",
-    "link": "http://uuuyx.com/112581",
+    "link": "http://uuuyx.com/141919",
     "button": "开始游戏",
     "tips": "经典复刻，怀旧多人在线游戏",
     "status": 1
 },{
+    "title": "轮回小镇，国产奶牛放置",
+    "link": "https://lh9.online?key=JsEBxe",
+    "button": "开始游戏",
+    "tips": "多人在线，竞争排名",
+    "status": 1
+}, {
     "title": "银河奶牛放置",
     "link": "https://www.milkywayidle.com/?ref=2883",
     "button": "开始游戏",
