@@ -2,7 +2,7 @@
 
  @name    : 锅巴汉化 - 游戏自动化插件
  @author  : 好阳光的小锅巴
- @version : V0.1.1 - 2019-07-25
+ @version : V0.1.2 - 2019-07-25
  @website : http://www.g8hh.com
 
 */
@@ -91,16 +91,19 @@
     //吃食物-结束
     //选择技能-开始
     content += '<div class="JB-form">';
-    content += '<div class="tit">自动放技能（T技能是选目标的，不需要点）</div>';
+    content += '<div class="tit">自动放技能（T技能是选目标的，不需要点；1技能放治疗，会自动给自己加血。）</div>';
     content += '<input type="checkbox" id="check1" checked><label for="check1">1技能</label>';
     content += '<input type="checkbox" id="check2" checked><label for="check2">2技能</label>';
     content += '<input type="checkbox" id="check3" checked><label for="check3">3技能</label>';
     content += '<input type="checkbox" id="check4" checked><label for="check4">4技能</label>';
     content += '<input type="checkbox" id="check5" checked><label for="check5">5技能</label>';
-    //    content += '<input type="checkbox" id="check6"><label for="check6">6召唤同伴</label>';
     content += '<button id="startSkill" type="primary" >启动</button>';
     content += '<button id="stopSkill" type="danger" disabled>停止</button>';
-    //    content += '<div id="noSkill">你没有装备该技能，请不要勾选6技能~</div>';
+    content += '<br/>';
+    content += '自动回血，1技能放治疗技能，低于80%血就会自动回血。1技能不是治疗技能时不要启动';
+    content += '<br/>';
+    content += '<button id="autoHeal" type="primary">开启</button>';
+    content += '<button id="stopHeal" type="danger" disabled>关闭</button>';
     content += '<br/>';
     content += '优先攻击最右位置的怪物（部分怪物会召唤小弟）需先启动自动技能';
     content += '<button id="attLeft" type="primary">开启</button>';
@@ -272,6 +275,8 @@
     content += '<option value="rockmelonSeed" selected>哈密瓜-秒回900生命；回5能量和360生命-持续120秒-需要种植50级-生长需17分钟</option>';
     content += '<option value="snowberrySeed">雪莓-秒回3500生命；额外回复100生命-持续60秒-需要种植50级-生长需8分钟</option>';
     content += '<option value="dragonfruitSeed">火龙果-秒回450生命；回2能量和300生命-持续120秒-需要种植25级</option>';
+    content += '<option value="grapesSeed">葡萄-秒回1500生命；额外回复500生命-持续20秒-需要种植65级-生长需15分钟</option>';
+    content += '<option value="strawberrySeed">草莓-秒回300生命；额外回复1200生命-持续15秒-需要种植70级-生长需10分钟</option>';
 
     content += '<option value="marigoldSeed" >万寿菊-可以卖钱-需要种植9级-生长需15分钟</option>';
     content += '<option value="blueRoseSeed" >蓝玫瑰-可以卖钱-需要种植19级-生长需15分钟</option>';
@@ -282,6 +287,12 @@
     content += '<option value="redHydrangeaSeed" >红色绣球花-可以卖钱-需要种植49级</option>';
     content += '<option value="sunburstHydrangeaSeed" >阳光绣球花-可以卖钱-需要种植59级-生长需15分钟</option>';
     content += '<option value="zinniaSeed" >百日菊-可以卖钱-需要种植59级-生长需8小时</option>';
+    content += '<option value="crimsonHydrangeaSeed" >深红色绣球花-可以卖钱-需要种植69级-生长需8小时</option>';
+    content += '<option value="tulipSeed" >郁金香-可以卖钱-需要种植69级-生长需8小时</option>';
+    content += '<option value="lilySeed" >百合-可以卖钱-需要种植79级-生长需15分钟</option>';
+    content += '<option value="orchidSeed" >兰花-可以卖钱-需要种植79级-生长需8小时</option>';
+    content += '<option value="gardeniaSeed" >栀子花-可以卖钱-需要种植89级-生长需4小时</option>';
+    content += '<option value="poenySeed" >牡丹-可以卖钱-需要种植89级-生长需15分钟</option>';
 
     content += '<option value="rubiaFlowerSeed" >茜草花-可以用来铭刻-需要种植2级-生长需2分钟</option>';
     content += '<option value="basilSeed" >蓬蒿-可以用来铭刻-需要种植4级</option>';
@@ -311,6 +322,15 @@
     content += '<option value="cedarSeed" >雪松-可以获得种植技能经验-需要种植55级-生长需8小时</option>';
     content += '<option value="kenafSeed" >红麻-可以获得种植技能经验-需要种植56级-生长需30分钟</option>';
     content += '<option value="denyaSeed" >加蓬盘豆木-可以获得种植技能经验-需要种植60级-生长需8小时</option>';
+    content += '<option value="juteSeed" >黄麻-可以获得种植技能经验-需要种植66级-生长需30分钟</option>';
+    content += '<option value="larchSeed" >落叶松-可以获得种植技能经验-需要种植75级-生长需8小时</option>';
+    content += '<option value="flaxSeed" >亚麻-可以获得种植技能经验-需要种植76级-生长需30分钟</option>';
+    content += '<option value="poplarSeed" >非洲菠萝格树-可以获得种植技能经验-需要种植80级-生长需8小时</option>';
+    content += '<option value="taliSeed" >非洲菠萝格树-可以获得种植技能经验-需要种植85级-生长需8小时</option>';
+    content += '<option value="sisalSeed" >剑麻-可以获得种植技能经验-需要种植86级-生长需30分钟</option>';
+    content += '<option value="willowSeed" >柳树-可以获得种植技能经验-需要种植90级-生长需8小时</option>';
+    content += '<option value="teakSeed" >柚木-可以获得种植技能经验-需要种植95级-生长需8小时</option>';
+    content += '<option value="raffiaSeed" >拉菲草-可以获得种植技能经验-需要种植96级-生长需2小时</option>';
 
     content += '<option value="cactusSeed" >仙人掌-看起来很有用-需要种植6级-生长需1小时</option>';
     content += '<option value="reedSeed" >芦苇-看起来很有用-需要种植16级</option>';
@@ -433,6 +453,12 @@
             case 'snowberrySeed':
                 growTime = 8;
                 break;
+            case 'grapesSeed':
+                growTime = 15;
+                break;
+            case 'strawberrySeed':
+                growTime = 10;
+                break;
                 //卖钱
             case 'marigoldSeed':
                 growTime = 15;
@@ -460,6 +486,24 @@
                 break;
             case 'zinniaSeed':
                 growTime = 480;
+                break;
+            case 'tulipSeed':
+                growTime = 480;
+                break;
+            case 'crimsonHydrangeaSeed':
+                growTime = 480;
+                break;
+            case 'lilySeed':
+                growTime = 15;
+                break;
+            case 'orchidSeed':
+                growTime = 480;
+                break;
+            case 'poenySeed':
+                growTime = 15;
+                break;
+            case 'gardeniaSeed':
+                growTime = 240;
                 break;
                 //铭刻
             case 'rubiaFlowerSeed':
@@ -530,8 +574,29 @@
             case 'cedarSeed':
                 growTime = 480;
                 break;
+            case 'poplarSeed':
+                growTime = 480;
+                break;
+            case 'taliSeed':
+                growTime = 480;
+                break;
             case 'kenafSeed':
                 growTime = 30;
+                break;
+            case 'larchSeed':
+                growTime = 480;
+                break;
+            case 'sisalSeed':
+                growTime = 30;
+                break;
+            case 'willowSeed':
+                growTime = 480;
+                break;
+            case 'raffiaSeed':
+                growTime = 120;
+                break;
+            case 'teakSeed':
+                growTime = 480;
                 break;
                 //杂项
             case 'cactusSeed':
@@ -551,6 +616,12 @@
                 break;
             case 'denyaSeed':
                 growTime = 480;
+                break;
+            case 'juteSeed':
+                growTime = 30;
+                break;
+            case 'flaxSeed':
+                growTime = 30;
                 break;
         }
         $('#famingTime').val(growTime)
@@ -577,7 +648,7 @@
         //                $('#noSkill').removeClass('show');
         //            }
         //        }
-        var skillTime = 2000;
+        var skillTime = 500;
         autoSkill = setInterval(skills, skillTime);
         $(this).attr("disabled", true);
         $("#stopSkill").attr("disabled", false);
@@ -588,6 +659,38 @@
         clearInterval(autoSkill);
         $(this).attr("disabled", true);
         $("#startSkill").attr("disabled", false);
+    });
+    //启用放回血技能 1
+    var isAutoHeal = false
+    $('#autoHeal').click(function () {
+        // 标识开始自动放技能
+        isAutoHeal = true;
+        $(this).attr("disabled", true);
+        $("#stopHeal").attr("disabled", false);
+    });
+
+    //停止放回血技能 1
+    $('#stopHeal').click(function () {
+        // 标识停止自动放技能
+        isAutoHeal = false
+        $(this).attr("disabled", true);
+        $("#autoHeal").attr("disabled", false);
+    });
+    //启用放回血技能 2
+    var isAutoHeal2 = false
+    $('#autoHeal2').click(function () {
+        // 标识开始自动放技能
+        isAutoHeal2 = true;
+        $(this).attr("disabled", true);
+        $("#stopHeal2").attr("disabled", false);
+    });
+
+    //停止放回血技能 2
+    $('#stopHeal2').click(function () {
+        // 标识停止自动放技能
+        isAutoHeal2 = false
+        $(this).attr("disabled", true);
+        $("#autoHeal2").attr("disabled", false);
     });
     //执行事件
     function doSkill(e) {
@@ -626,6 +729,13 @@
             }
             if (c1) {
                 doSkill(2)
+                // 1技能放加血技能，给自己加血
+                var minWid2 = ($('.me').parent().parent().find('.health-bar .progress-bar').width() / $('.me').parent().parent().find('.progress.health-bar').width()) * 100;
+                if (isAutoHeal && minWid2 < 80) {
+                    setTimeout(function() {
+                        $('.me').parent().find('.battle-unit').trigger('click'); 
+                     },50)
+                }
             }
             if (c2) {
                 doSkill(3)
@@ -1268,7 +1378,7 @@
             //判断自己是否是队长，因为图片会影响判断
             if ($('.me').parent().parent().find('.mr-1').length > 0) {
                 //判断是否正在吃柠檬，
-                if ($('.me').parent().parent().find('.justify-content-center img:nth-child(2)').length <= 0) {
+                if ($('.me').parent().parent().find('.justify-content-center img:nth-child(2)').length <= 0 && $('.battle-btn').length > 0) {
                     //没吃柠檬，则点击柠檬
                     for (var i = 0; i <= lemon.length; i++) {
                         lemon[i].click();
@@ -1282,7 +1392,7 @@
             } else {
                 //不是队长
                 //判断是否正在吃柠檬，
-                if ($('.me').parent().parent().find('.justify-content-center img').length == 0) {
+                if ($('.me').parent().parent().find('.justify-content-center img').length == 0 && $('.battle-btn').length > 0) {
                     //没吃柠檬，则点击柠檬
                     for (var i = 0; i <= lemon.length; i++) {
                         lemon[i].click();

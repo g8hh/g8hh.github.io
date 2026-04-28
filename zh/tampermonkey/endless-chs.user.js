@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Endless 简中汉化脚本
 // @namespace    https://www.g8hh.com.cn/
-// @version      0.0.57
+// @version      0.0.58
 // @description  网页游戏 Endless (https://dev.ghost-team.top/endless/) 的简体中文汉化脚本。Simplified Chinese i18n script for web game Endless.
 // @author       好阳光的小锅巴 & 麦子
 // @copyright    锅巴汉化
@@ -9,7 +9,7 @@
 // @icon         https://dev.ghost-team.top/favicon.ico
 // @license      MIT
 // @include      https://www.ghost-team.top/endless
-// @include     *ghost-team.top/endless*
+// @include     *https://ghost-team.top/endless*
 // @grant        none
 // @website      https://www.gityx.com/
 // @updateURL    https://g8hh.com.cn/zh/tampermonkey/endless-chs.user.js

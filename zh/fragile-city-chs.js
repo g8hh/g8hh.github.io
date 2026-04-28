@@ -143,7 +143,7 @@ var cnItems = {
     "Global pollution": "全球污染",
     "      needs\n\nenergy\n\n                            to operate\n                         ": "      需要\n\n能源\n\n                            去操作\n                         ",
     "      needs\n\n\nenergy,\n\nworkers,\n\n\n                            to operate\n                         ": "      需要\n\n\n能源,\n\n工人,\n\n\n                            去操作\n                         ",
-    "": "",
+    "energy_priority": "能源优先",
     "": "",
     "": "",
     "": "",

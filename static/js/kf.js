@@ -9,14 +9,14 @@ $(function(){
     // content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=jlS3OQPfjBXuTV6kuLtThF5rICWNZynR&jump_from=webapi&authKey=qiagMjqscueWg8c8xvVh/SFDlYM4qdj/gFXjP/unmipGWDNoGRrCn4yO/+Z2Narl" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏交流②群:627141737">';
     content +='<a href="https://qm.qq.com/cgi-bin/qm/qr?k=sCNqtJEi7Qjk-YtwHSs6S4vvVaEBxOO7&jump_from=webapi" target="_blank" class="im-qq qq-a" title="点击加入 - Git游戏交流③群:730783833">';
     content +='<div class="qq-container"></div>';
-    content +='<div class="qq-hover-c"><img class="img-qq" src="//g8hh.github.io/static/images/kf/qq.png"></div>';
+    content +='<div class="qq-hover-c"><img class="img-qq" src="//g8hh.cn/static/images/kf/qq.png"></div>';
     content +='<span>点击加群</span>';
     content +='</a>';
     content +='<div class="im-tel">';
     content +='<div>QQ群号:</div>';
     content +='<div class="tel-num">730783833</div>';
     content +='<div>更多同类游戏:</div>';
-    content +='<div class="tel-num"><a href="https://www.gityx.com" target="_blank" title="Git游戏：gityx.com~">Git游戏</a><a href="https://g8hh.com.cn" target="_blank" style="margin-left:5px;" title="锅巴汉化：g8hh.github.io">锅巴汉化</a><br /><a href="https://gityx.com/hanhua/hanhuazhong/733.html" target="_blank" style="margin-left:5px;" title="点击查看游戏攻略" >游戏攻略交流论坛</a><br /><a href="javascript:void(0)" id="keepAlive" title="开启标签页后台运行，让游戏可以在后台继续运行，点击一次即可。" style="color:green !important;">* 启用后台游戏</a></div>';
+    content +='<div class="tel-num"><a href="https://www.gityx.com" target="_blank" title="Git游戏：gityx.com~">Git游戏</a><a href="https://g8hh.com.cn" target="_blank" style="margin-left:5px;" title="锅巴汉化：g8hh.cn">锅巴汉化</a><br /><a href="https://gityx.com/hanhua/hanhuazhong/733.html" target="_blank" style="margin-left:5px;" title="点击查看游戏攻略" >游戏攻略交流论坛</a><br /><a href="javascript:void(0)" id="keepAlive" title="开启标签页后台运行，让游戏可以在后台继续运行，点击一次即可。" style="color:green !important;">* 启用后台游戏</a></div>';
     content +='</div>';
     content +='<div class="im-footer" style="position:relative">';
     content +='<div class="weixing-container">';
@@ -24,8 +24,8 @@ $(function(){
     //content +='<div class="weixing-txt" style="font-size:13px;">支付宝扫一扫<br>每天领红包<br>0.1 - 99元<br><a href="http://g8hh.com/static/article/fuli.html" target="_blank" title="凡是扫这个二维码领的红包，都可以找我拿返现，点击查看详情">查看详情</a></div>';
     //content +='<img class="weixing-ma" src="//g8hh.com/static/images/kf/zfb-ma.jpg">';
 //    content +='<div class="weixing-txt" style="font-size:13px;">打开手机QQ<br>扫码加群<br>一起讨论吧<br><a href="http://shang.qq.com/wpa/qunwpa?idkey=d10d784492d5e73cca25ff48f4763bdc14f698ffdbf42adbb0e9304495cb0387" target="_blank" title="点击加入 - GitHub游戏交流群:627141737">点击加群</a></div>';
-    content +='<div class="weixing-txt" style="font-size:13px;">打开微信扫一扫<br>关注公众号<br><br><a href="https://mp.weixin.qq.com/s/HVgJZpS3nXPgKsHHhkS77w" target="_blank" title="欢迎关注Git游戏关注，每周都有新游戏！">Gityx游戏</a></div>';
-    content +='<img class="weixing-ma" src="//g8hh.github.io/static/images/kf/weixing-ma.jpg">';
+    content +='<div class="weixing-txt" style="font-size:13px;">打开微信扫一扫<br>关注新公众号<br><br><a href="https://gityx.com/notify/30.html" target="_blank" title="欢迎关注：Gityx游戏，每周都有新游戏！">Gityx游戏</a></div>';
+    content +='<img class="weixing-ma" src="//g8hh.cn/static/images/kf/weixing-ma.jpg">';
     content +='<div class="weixing-sanjiao"></div>';
     content +='<div class="weixing-sanjiao-big"></div>';
     content +='</div>';
@@ -58,7 +58,7 @@ $(function(){
 	});
     // 启用标签页后台运行
     $('#keepAlive').bind('click',function(e){
-		var d=document,s=d.createElement('script');s.src='//g8hh.github.io/static/js/keepalive.js';d.body.appendChild(s);
+		var d=document,s=d.createElement('script');s.src='//g8hh.cn/static/js/keepalive.js';d.body.appendChild(s);
 	});
 
 //	定时关闭

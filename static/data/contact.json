@@ -1,0 +1,43 @@
+[{
+    "title": "微信公众号",
+    "icon": "glyphicon-thumbs-up",
+    "link": "https://gityx.com/notify/30.html",
+    "button": "Gityx游戏",
+    "tip": "欢迎关注咱微信公众号：Gityx游戏，可以及时获取最新游戏发布动态哦~",
+    "status": 1
+},{
+    "title": "抖音",
+    "icon": "glyphicon-music",
+    "link": "https://v.douyin.com/VJO59iGo1yU/",
+    "button": "Git游戏",
+    "tip": "欢迎关注、点赞、评论、分享~",
+    "status": 1
+},{
+    "title": "视频号",
+    "icon": "glyphicon-facetime-video",
+    "link": "",
+    "button": "Git游戏",
+    "tip": "欢迎关注、点赞、评论、分享~",
+    "status": 1
+},{
+    "title": "QQ群",
+    "icon": "glyphicon-comment",
+    "link": "https://qm.qq.com/q/A30RTdilq0",
+    "button": "730783833",
+    "tip": "点击加入 - Git游戏放置交流群: 730783833",
+    "status": 1
+},{
+    "title": "电子邮箱",
+    "icon": "glyphicon-envelope",
+    "link": "mailto:gityx@qq.com",
+    "button": "gityx@qq.com",
+    "tip": "欢迎投稿~",
+    "status": 1
+},{
+    "title": "微博",
+    "icon": "glyphicon-globe",
+    "link": "https://weibo.com/idlegame",
+    "button": "@Web放置游戏",
+    "tip": "欢迎关注我们~",
+    "status": 0
+}]

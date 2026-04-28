@@ -17,11 +17,26 @@
     "title": "赞助支持",
     "desc": "摸鱼万岁，感谢大家的支持！",
     "url": "https://gityx.com/donate/intro.html",
-    "status": 1
+    "status": 0
 }, {
     "title": "无尽洪荒",
     "desc": "文字MUD修仙游戏",
     "url": "https://mudgj.com/wjhh/login.do/?td_channelid=gityx",
+    "status": 1
+}, {
+    "title": "迷你梦幻",
+    "desc": "经典怀旧多人在线游戏",
+    "url": "http://uuuyx.com/141919",
+    "status": 1
+}, {
+    "title": "梦幻阁",
+    "desc": "梦幻题材文字放置游戏",
+    "url": "http://mhg.dahuiyuan.vip/index.html?12584",
+    "status": 1
+}, {
+    "title": "离线挂机系统",
+    "desc": "暗黑修仙挂机",
+    "url": "http://common.199yt.com/danji/xiuzhen2_1/?tg=gityx",
     "status": 1
 }, {
     "title": "轮回小镇",
