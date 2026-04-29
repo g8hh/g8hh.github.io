@@ -435,6 +435,8 @@
             7
         ],
         "needHH": 0,
+        "hot": 0,
+        "tuijian": 1,
         "status": 1
     },
     {
@@ -480,6 +482,8 @@
             4,
             5
         ],
+        "hot": 0,
+        "tuijian": 1,
         "needHH": 0,
         "status": 1
     },
@@ -552,6 +556,8 @@
             5
         ],
         "needHH": 0,
+        "hot": 0,
+        "tuijian": 1,
         "status": 1
     },
     {
@@ -623,6 +629,8 @@
             8
         ],
         "needHH": 0,
+        "hot": 0,
+        "tuijian": 1,
         "status": 1
     },
     {
@@ -674,10 +682,11 @@
             1,
             2,
             3,
-            4,
-            5
+            4
         ],
         "needHH": 0,
+        "hot": 0,
+        "tuijian": 1,
         "status": 1
     },
     {
@@ -1057,11 +1066,52 @@
         "status": 0
     },
     {
+        "title": "AI人生重开手帐，国人自制模拟剧情向游戏",
+        "enTitle": "",
+        "date": "2026-04-29",
+        "update": "2026-04-29",
+        "version": "",
+        "author": "MistEO",
+        "author_type": "作者",
+        "path": "re-maa-ai",
+        "type": [
+            "自制",
+            "投稿",
+            "点击",
+            "策略",
+            "文字",
+            "剧情",
+            "模拟"
+        ],
+        "content": [
+            "不同的选择，不同的路线，不同的结局。",
+            "群友推荐，网友 @MistEO 开发了这个游戏，欢迎大家体验。",
+            "玩家交流QQ群：1101052713"
+        ],
+        "customUrl": "https://tlxgs.github.io/CivilizationRebuilder/",
+        "customUrlTit": "开始游戏",
+        "QQ": "1101052713",
+        "qqUrl": "https://qm.qq.com/q/bY7axPObfO",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "needHH": 0,
+        "status": 0
+    },
+    {
         "title": "文明重建者，国人自制投稿文明放置游戏",
         "enTitle": "Civilization Rebuilder",
         "date": "2026-04-28",
         "update": "2026-04-28",
         "version": "0.5.0",
+        "author": "Tlxgs",
+        "author_type": "作者",
         "path": "civilization-rebuilder",
         "type": [
             "自制",
@@ -1085,12 +1135,10 @@
             4,
             5,
             6,
-            7,
-            8,
             0
         ],
         "needHH": 0,
-        "status": 0
+        "status": 1
     },
     {
         "title": "冒险树，群友汉化投稿模组树游戏",
@@ -1243,6 +1291,8 @@
         "date": "2026-04-21",
         "update": "2026-04-21",
         "version": "",
+        "author": "yt",
+        "author_type": "作者",
         "path": "tg-lxgjxt",
         "type": [
             "推荐",
@@ -1294,6 +1344,8 @@
             0
         ],
         "needHH": 0,
+        "hot": 0,
+        "tuijian": 1,
         "status": 1
     },
     {
@@ -1425,7 +1477,7 @@
         "date": "2026-04-18",
         "update": "2026-04-18",
         "version": "",
-        "path": "steam-byzs",
+        "path": "steam-sbdxc",
         "type": [
             "Steam",
             "战斗",
@@ -1674,6 +1726,8 @@
         "date": "2026-04-03",
         "update": "2026-04-26",
         "version": "2.1",
+        "author": "叶鱼",
+        "author_type": "作者",
         "path": "dongtianjie",
         "type": [
             "点击",
@@ -1912,6 +1966,8 @@
         "date": "2026-03-26",
         "update": "2025-03-26",
         "version": "",
+        "author": "球球编程师~喵",
+        "author_type": "作者",
         "path": "the-diluter-modding-table",
         "type": [
             "放置",
@@ -3013,6 +3069,8 @@
         "date": "2026-02-11",
         "update": "2026-03-27",
         "version": "2.4.0",
+        "author": "1962257451",
+        "author_type": "作者",
         "path": "taoyuanxiang",
         "type": [
             "群友自制",
@@ -3449,6 +3507,8 @@
             0
         ],
         "needHH": 0,
+        "hot": 0,
+        "tuijian": 1,
         "status": 1
     },
     {
@@ -4206,6 +4266,8 @@
         "date": "2025-12-12",
         "update": "2025-12-25",
         "version": "1.5.5",
+        "author": "1962257451",
+        "author_type": "作者",
         "path": "ogame",
         "type": [
             "群友自制",
@@ -7239,6 +7301,8 @@
         "date": "2025-08-26",
         "update": "2025-11-05",
         "version": "重制删档内测阶段",
+        "author": "1962257451",
+        "author_type": "作者",
         "path": "wu-deng-jie",
         "type": [
             "网络",
@@ -7520,6 +7584,8 @@
         "date": "2025-08-11",
         "update": "2026-04-27",
         "version": "1.9995",
+        "author": "叶鱼",
+        "author_type": "作者",
         "path": "gold-adventurers",
         "type": [
             "自制",
@@ -7533,7 +7599,7 @@
         "content": [
             "2026-04-27：更新到1.9995版本了~",
             "查看完整更新日志：https://gityx.com/help/help/script/1282.html",
-            "这是国人小伙伴投稿的游戏，作者说会日更，看起来功能按钮好多，玩着有点意思。",
+            "这是国人小伙伴投稿的游戏，作者说会日更，看起来功能按钮好多，玩着有点意思。作者的其他游戏还有《洞天劫》。",
             "兑换码：",
             "VIP666777   获得称号公测玩家    ",
             "VIP666666  领取10个VIP数值 ",
@@ -8051,6 +8117,8 @@
         "date": "2025-07-11",
         "update": "2025-07-23",
         "version": "1.1.3",
+        "author": "1962257451",
+        "author_type": "作者",
         "path": "idle-negentropy-war",
         "type": [
             "点击",
@@ -9069,6 +9137,8 @@
         "date": "2025-05-16",
         "update": "2025-05-18",
         "version": "1.0.6",
+        "author": "1962257451",
+        "author_type": "作者",
         "path": "vue-clickergame",
         "type": [
             "点击",
@@ -9309,6 +9379,8 @@
         "date": "2025-04-21",
         "update": "2025-04-23",
         "version": "1.0.3",
+        "author": "1962257451",
+        "author_type": "作者",
         "path": "vue-dice-puzzle",
         "type": [
             "点击",
@@ -9802,6 +9874,8 @@
         "date": "2025-04-09",
         "update": "2025-04-12",
         "version": "1.0.8.7",
+        "author": "1962257451",
+        "author_type": "作者",
         "path": "idle-wild-my-survival-saga",
         "type": [
             "点击",
@@ -10375,6 +10449,8 @@
         "date": "2025-03-12",
         "update": "2025-03-16",
         "version": "1.0.33",
+        "author": "1962257451",
+        "author_type": "作者",
         "path": "my-normal-idle",
         "type": [
             "点击",
@@ -11040,6 +11116,8 @@
         "date": "2025-02-20",
         "update": "2025-02-26",
         "version": "1.0.5",
+        "author": "1962257451",
+        "author_type": "作者",
         "path": "vue-idle-xiuxian",
         "type": [
             "点击",
@@ -12330,6 +12408,8 @@
         "date": "2024-11-28",
         "update": "2025-04-02",
         "version": "",
+        "author": "1962257451",
+        "author_type": "作者",
         "path": "xjdg",
         "type": [
             "点击",
@@ -13638,6 +13718,8 @@
         "date": "2024-09-26",
         "update": "2024-10-14",
         "version": "0.95a",
+        "author": "Mr.Pldada",
+        "author_type": "作者",
         "path": "primitive-legend",
         "type": [
             "投稿",
@@ -16498,6 +16580,7 @@
             6,
             7
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -18156,6 +18239,7 @@
             6
         ],
         "needHH": 0,
+        "biwan": 1,
         "status": 1
     },
     {
@@ -19098,6 +19182,7 @@
             4,
             5
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -20859,6 +20944,7 @@
             4,
             5
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -23467,7 +23553,6 @@
         "version": "",
         "path": "fgpk",
         "type": [
-            "必玩",
             "已汉化",
             "点击",
             "升级"
@@ -23579,6 +23664,7 @@
             4,
             5
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -24126,6 +24212,7 @@
             1,
             2
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -24454,6 +24541,7 @@
             4,
             5
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -25133,6 +25221,8 @@
         "date": "2022-01-21",
         "update": "2024-01-23",
         "version": "0.0.3.9",
+        "author": "Mr.Pldada",
+        "author_type": "作者",
         "path": "zhu-ji",
         "type": [
             "必玩",
@@ -25166,6 +25256,7 @@
             4,
             5
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -26060,6 +26151,7 @@
             6,
             7
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -29338,6 +29430,7 @@
             4,
             5
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -31120,6 +31213,7 @@
             2,
             3
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -31353,6 +31447,7 @@
             1,
             2
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -32451,6 +32546,7 @@
             1,
             2
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -33027,6 +33123,7 @@
             4,
             5
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -35243,8 +35340,7 @@
             "点击",
             "离线",
             "挂机",
-            "K站",
-            "Flash"
+            "K站"
         ],
         "content": [
             "建造终极破砖机，摧毁数十亿块砖块。 放置突破结合了经典的打砖块和令人疯狂上瘾的放置循环。",
@@ -35684,6 +35780,7 @@
             1,
             2
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -36401,6 +36498,7 @@
             1,
             2
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -36620,6 +36718,7 @@
             1,
             2
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -36682,6 +36781,7 @@
             1,
             2
         ],
+        "biwan": 1,
         "status": 1
     },
     {
@@ -36721,6 +36821,7 @@
             4,
             5
         ],
+        "biwan": 1,
         "status": 1
     }
 ]
