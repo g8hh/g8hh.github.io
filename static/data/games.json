@@ -1088,7 +1088,7 @@
             "群友推荐，网友 @MistEO 开发了这个游戏，欢迎大家体验。",
             "玩家交流QQ群：1101052713"
         ],
-        "customUrl": "https://tlxgs.github.io/CivilizationRebuilder/",
+        "customUrl": "https://re.maa-ai.com/",
         "customUrlTit": "开始游戏",
         "QQ": "1101052713",
         "qqUrl": "https://qm.qq.com/q/bY7axPObfO",
@@ -1102,14 +1102,14 @@
             0
         ],
         "needHH": 0,
-        "status": 0
+        "status": 1
     },
     {
         "title": "文明重建者，国人自制投稿文明放置游戏",
         "enTitle": "Civilization Rebuilder",
         "date": "2026-04-28",
         "update": "2026-04-28",
-        "version": "0.5.0",
+        "version": "0.5.1",
         "author": "Tlxgs",
         "author_type": "作者",
         "path": "civilization-rebuilder",
@@ -1123,6 +1123,7 @@
             "放置"
         ],
         "content": [
+            "2026-04-28：更新到0.5.1版本~",
             "网友 @Tlxgs 开发并投稿了这个游戏，欢迎大家体验。",
             ""
         ],
