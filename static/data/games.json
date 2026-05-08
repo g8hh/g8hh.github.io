@@ -440,10 +440,10 @@
         "status": 1
     },
     {
-        "title": "迷你梦幻，活动进行中，怀旧多人在线游戏",
+        "title": "迷你梦幻，新区开放，怀旧多人在线游戏",
         "enTitle": "",
         "date": "2022-06-10",
-        "update": "2026-04-27",
+        "update": "2026-05-01",
         "version": "",
         "path": "mini-mh",
         "type": [
@@ -458,6 +458,7 @@
             "文字"
         ],
         "content": [
+            "2026-05-01：新区开放~",
             "2026-04-27：活动进行中~",
             "2026-02-11：新区开放~",
             "2025-12-23：双旦活动进行中~",
@@ -1066,6 +1067,235 @@
         "status": 0
     },
     {
+        "title": "幻想战纪，大数值挂机游戏",
+        "enTitle": "",
+        "date": "2026-05-08",
+        "update": "2026-05-08",
+        "version": "",
+        "path": "tg-hxzj",
+        "author": "大爷猫鮭魚之夢(己黑化)",
+        "author_type": "作者",
+        "author_qq": "837488421",
+        "type": [
+            "网络",
+            "多人",
+            "战斗",
+            "挂机",
+            "投稿",
+            "自制",
+            "网络"
+        ],
+        "content": [
+            "《幻想战纪》是一款大数值的网页文字游戏，20年深耕网页文字老技术精心匠造，玩法多样，更新速度快，还有独创的多世界飞升降临玩法。",
+            "注意：需要先注册登录，才能开始游戏。",
+            "QQ交流群：590536524，有不懂的可以加群问。"
+        ],
+        "customUrl": "http://43.138.77.26:3001/?area=4",
+        "customUrlTit": "开始游戏",
+        "QQ": "590536524",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            0
+        ],
+        "needHH": 0,
+        "status": 0
+    },
+    {
+        "title": "传灯，经典文字冒险养成RPG",
+        "enTitle": "",
+        "date": "2026-05-08",
+        "update": "2026-05-08",
+        "version": "",
+        "path": "tg-chuandeng",
+        "author": "大爷猫鮭魚之夢(己黑化)",
+        "author_type": "作者",
+        "author_qq": "837488421",
+        "type": [
+            "网络",
+            "多人",
+            "战斗",
+            "挂机",
+            "投稿",
+            "自制",
+            "网络"
+        ],
+        "content": [
+            "传灯是一款H5的经典文字冒险游戏，手机电脑都能玩，我们有装备养成与长期数值成长的放置类 RPG。",
+            "玩家可挑战副本、世界 Boss、通天塔等内容，收集装备、宝石、神兵、珍宝与守护石，构筑角色流派。游戏强调持续积累、多系统联动和全服活动竞争，既有轻松挂机收益，也有深度养成与策略选择。",
+            "QQ交流群：590536524，有不懂的可以加群问。"
+        ],
+        "customUrl": "http://43.138.77.26:99/xinqu.php",
+        "customUrlTit": "开始游戏",
+        "QQ": "590536524",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "1001树，群友自制投稿模组树游戏",
+        "enTitle": "",
+        "date": "2026-05-07",
+        "update": "2026-05-07",
+        "version": "0.76",
+        "author": "ƎWOԀ",
+        "author_type": "作者",
+        "author_qq": "1550187725",
+        "path": "1001tree",
+        "type": [
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "模组树",
+            "自制",
+            "投稿"
+        ],
+        "content": [
+            "群友 @ƎWOԀ 制作投稿的模组树，欢迎大家体验。",
+            "你说的对，但是《1001树》是由1001树开发组自主研发的一款可能开放也可能不开放世界模组树游戏。游戏发生在一个被称作「梦界」的幻想大世界，在这里，被乾狐离光选中的人将被授予「梦力」，导引世界选择器之力。你将扮演一位名为「player」的神秘角色，在自由的旅行中邂逅性格各异、能力独特的小世界游戏们，和他们一起击败时间墙、操作墙、活跃墙(还有解谜)，拿回应得的梦力——同时，逐步发掘「1001夜」的真相。——qhlg",
+            "这是一款妙趣横生的休闲游戏臻品，荟萃万千奇思妙想，将无数匠心独运的迷你玩法融于一炉。或考验指尖灵动的敏捷试炼，或激发运筹帷幄的智慧博弈，或带来令人莞尔的意外之喜。缤纷关卡如璀璨星河般次第绽放，每一帧皆藏惊喜，每一刻俱是欢愉。轻触开始游戏，即刻踏入这场妙趣纷呈的梦幻盛宴，让闲暇时光绽放出绚丽夺目的光彩。——Banana3864",
+            "1001树是一棵长了很多小游戏的树，这些小游戏夺走了人们做梦的能力，人类于是失去了创造力，为了夺回这些＂梦力＂，小拜谢将游历25个风格迥异的小游戏世界，完成它们并将梦力收回!/拜谢——User incremental",
+            "Bug反馈QQ群：720480173",
+            "目前仍在开发，开发速度被10p1sc软上限"
+        ],
+        "customUrl": "https://1001tree.flime.top/",
+        "customUrlTit": "作者地址",
+        "customUrl2": "https://1001tree.g8hh.com.cn/",
+        "customUrlTit2": "备用地址-g8hh",
+        "customUrl3": "https://yhvr.me/pt/mods.html",
+        "customUrlTit3": "其它树游戏集合",
+        "QQ": "720480173",
+        "qqUrl": "https://qm.qq.com/q/NgnvR03nCC",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "轮回纪元，群友自制文字挂机放置",
+        "enTitle": "Lexe Idle",
+        "date": "2026-05-06",
+        "update": "2026-05-06",
+        "version": "",
+        "path": "lexe-idle",
+        "author": "Alex",
+        "author_type": "作者",
+        "author_qq": "402000095",
+        "type": [
+            "战斗",
+            "挂机",
+            "投稿",
+            "自制",
+            "网络"
+        ],
+        "content": [
+            "群友 @Alex 自制投稿的游戏，欢迎大家体验。",
+            "注意: ",
+            "1、初次加载比较慢，请耐心等待游戏资源加载。",
+            "2、PC鼠标滚轮调整字体大小；Mac按Control + 触摸板滚动调整字体大小。",
+            "3、切忌不要手机电脑同时登陆，容易数据丢失。",
+            "QQ交流群：390667378，有不懂的可以加群问。"
+        ],
+        "customUrl": "https://game.ielts777.cn/",
+        "customUrlTit": "开始游戏",
+        "QQ": "390667378",
+        "qqUrl": "https://qm.qq.com/q/SbSxNGaiWY",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
+        "title": "技能挂机，更新到1.0.0版本，网友自制投稿战斗挂机游戏",
+        "enTitle": "",
+        "date": "2026-04-30",
+        "update": "2026-05-07",
+        "version": "1.0.0",
+        "author": "AneHek",
+        "author_type": "作者",
+        "author_qq": "1156988400",
+        "path": "idle-skill-heroes",
+        "type": [
+            "自制",
+            "投稿",
+            "点击",
+            "抽卡",
+            "策略",
+            "文字",
+            "战斗",
+            "爬塔"
+        ],
+        "content": [
+            "2026-05-07：更新到1.0.0版本。新增了：羁绊、成就系统、兑换商店和工具页（支持存档导入导出）。",
+            "游戏目标：通关9999层。游戏包含了抽卡、布阵、战斗、爬塔等元素。",
+            "你需要在有限回合内击败关卡的敌人，如果打不过请考虑调整英雄阵型站位以及天赋加点。",
+            "网友 @AneHek 开发了这个游戏，欢迎大家体验。",
+            "玩家交流QQ群：936955691"
+        ],
+        "customUrl": "https://anehek.cc.cd/",
+        "customUrlTit": "开始游戏",
+        "QQ": "936955691",
+        "qqUrl": "https://qm.qq.com/q/W1LQjgZiIm",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "AI人生重开手帐，国人自制模拟剧情向游戏",
         "enTitle": "",
         "date": "2026-04-29",
@@ -1073,6 +1303,7 @@
         "version": "",
         "author": "MistEO",
         "author_type": "作者",
+        "author_qq": "1020535998",
         "path": "re-maa-ai",
         "type": [
             "自制",
@@ -1105,11 +1336,11 @@
         "status": 1
     },
     {
-        "title": "文明重建者，国人自制投稿文明放置游戏",
+        "title": "文明重建者，更新到0.6.0版本，国人自制投稿文明放置游戏",
         "enTitle": "Civilization Rebuilder",
         "date": "2026-04-28",
-        "update": "2026-04-28",
-        "version": "0.5.1",
+        "update": "2026-05-06",
+        "version": "0.6.0",
         "author": "Tlxgs",
         "author_type": "作者",
         "path": "civilization-rebuilder",
@@ -1123,6 +1354,8 @@
             "放置"
         ],
         "content": [
+            "2026-05-06：更新到0.6.0版本~",
+            "2026-04-29：更新到0.5.3版本~",
             "2026-04-28：更新到0.5.1版本~",
             "网友 @Tlxgs 开发并投稿了这个游戏，欢迎大家体验。",
             ""
@@ -1145,10 +1378,11 @@
         "title": "冒险树，群友汉化投稿模组树游戏",
         "enTitle": "",
         "date": "2026-04-27",
-        "update": "2026-04-27",
-        "version": "8.2",
+        "update": "2026-05-04",
+        "version": "9.0",
         "author": "22222",
         "author_type": "汉化者",
+        "author_qq": "2960729702",
         "path": "the-adventure-chain-ch",
         "type": [
             "已汉化",
@@ -1158,9 +1392,11 @@
             "挂机",
             "升级",
             "模组树",
+            "投稿",
             "声望树"
         ],
         "content": [
+            "2026-05-04：更新到9.0版本了~",
             "群友@22222汉化投稿的模组树，欢迎大家体验。",
             "欢迎大家加群交流: 963150347"
         ],
@@ -1189,6 +1425,7 @@
         "version": "",
         "author": "顶级萌新",
         "author_type": "作者",
+        "author_qq": "739456526",
         "path": "zizaixiantu",
         "type": [
             "安卓",
@@ -1287,13 +1524,14 @@
         "status": 1
     },
     {
-        "title": "离线挂机系统，国人自制暗黑修仙挂机游戏",
+        "title": "离线挂机系统，更新了，国人自制暗黑修仙挂机游戏",
         "enTitle": "",
         "date": "2026-04-21",
-        "update": "2026-04-21",
+        "update": "2026-05-01",
         "version": "",
         "author": "yt",
         "author_type": "作者",
+        "author_qq": "745231492",
         "path": "tg-lxgjxt",
         "type": [
             "推荐",
@@ -1308,6 +1546,17 @@
             "放置"
         ],
         "content": [
+            "2026-04-30更新：礼包码: VMT8T2Q4",
+            "1. 新加玩法-时装系统",
+            "2. 锻造室合成失败加成功率",
+            "3. 优化广告体验，增加道具数量，减少播放次数",
+            "4. 优化世界等级经验加成",
+            "5. 优化坐骑重置和合成以及羽翼加成",
+            "6. 周卡经验调整为离线和在线都翻倍",
+            "7. 各地图掉落收集【节日快乐】,合成兑换钻石8888",
+            "8. 品质属性优化为最高只需要7件激活",
+            "9. 优化关卡专属属性",
+            "10. 其他优化",
             "《离线挂机系统》 是一款暗黑修仙风格的放置挂机手游。在这里，你将踏入浩瀚的修仙世界，从人界到仙界再到神界一步步修炼成仙，最终破界飞升，问道苍穹。",
             "安卓版下载：https://pan.baidu.com/s/1q02OWs2RXhNHdjFuj8C7Pg?pwd=g8hh",
             "【离线挂机，睡觉也在变强】 独创离线收益系统，24 小时自动战斗、自动拾取，睡觉、工作、学习都能持续成长，上线即领丰厚收益，轻松享受修仙乐趣。",
@@ -1560,6 +1809,9 @@
         "date": "2026-04-13",
         "update": "2026-04-13",
         "version": "0.4.11",
+        "author": "林雷",
+        "author_type": "汉化者",
+        "author_qq": "876990765",
         "path": "ensis-idle",
         "type": [
             "已汉化",
@@ -1635,10 +1887,11 @@
         "title": "文字冒险，群友自制挂机战斗放置",
         "enTitle": "",
         "date": "2026-04-08",
-        "update": "2026-04-08",
+        "update": "2026-05-05",
         "version": "1.0.0",
         "author": "嘉",
         "author_type": "作者",
+        "author_qq": "285001378",
         "path": "wenzimaoxian",
         "type": [
             "点击",
@@ -1729,6 +1982,7 @@
         "version": "2.1",
         "author": "叶鱼",
         "author_type": "作者",
+        "author_qq": "938425767",
         "path": "dongtianjie",
         "type": [
             "点击",
@@ -1841,6 +2095,7 @@
         "version": "",
         "author": "22222",
         "author_type": "作者",
+        "author_qq": "2960729702",
         "path": "yu-ren-jie-tree",
         "type": [
             "放置",
@@ -1969,6 +2224,7 @@
         "version": "",
         "author": "球球编程师~喵",
         "author_type": "作者",
+        "author_qq": "3863155201",
         "path": "the-diluter-modding-table",
         "type": [
             "放置",
@@ -2008,6 +2264,8 @@
         "update": "2026-03-25",
         "version": "",
         "path": "tg-gywzllqwwzyxzjs",
+        "author": "孤衾陌路",
+        "author_type": "作者",
         "type": [
             "点击",
             "暗黑",
@@ -2141,11 +2399,11 @@
         "status": 1
     },
     {
-        "title": "挂机修个仙，更新到1.0.39版本了，网友投稿自制挂机修仙放置",
+        "title": "挂机修个仙，更新到1.0.43版本了，网友投稿自制挂机修仙放置",
         "enTitle": "",
         "date": "2026-03-19",
-        "update": "2026-04-24",
-        "version": "1.0.39",
+        "update": "2026-05-08",
+        "version": "1.0.43",
         "path": "guajixiugexian",
         "type": [
             "点击",
@@ -2156,6 +2414,8 @@
             "战斗"
         ],
         "content": [
+            "2026-05-08：更新到1.0.43版本了~",
+            "2026-05-03：更新到1.0.42版本了~",
             "2026-04-24：更新到1.0.39版本了~",
             "2026-04-10：更新到1.0.33版本了~",
             "2026-04-02：更新到1.0.29版本了~",
@@ -2258,6 +2518,7 @@
         "version": "1.36",
         "author": "嘉",
         "author_type": "作者",
+        "author_qq": "285001378",
         "path": "anheimoshouwenziguaji",
         "type": [
             "点击",
@@ -2333,6 +2594,9 @@
         "date": "2025-11-17",
         "update": "2026-03-16",
         "version": "",
+        "author": "阿然",
+        "author_type": "作者",
+        "author_qq": "3335181392",
         "path": "pc-wjfscs-new",
         "type": [
             "点击",
@@ -2572,6 +2836,9 @@
         "date": "2026-03-09",
         "update": "2026-03-14",
         "version": "",
+        "author": "从百草味吃到三只松鼠",
+        "author_type": "作者",
+        "author_qq": "1040511102",
         "path": "idlexiuxianzhuan",
         "type": [
             "放置",
@@ -2722,6 +2989,9 @@
         "update": "2026-03-02",
         "version": "测试版",
         "path": "yhqbfz",
+        "author": "浅白",
+        "author_type": "作者",
+        "author_qq": "3356076575",
         "type": [
             "网络",
             "冒险",
@@ -2768,6 +3038,8 @@
         "update": "2026-02-28",
         "version": "",
         "path": "jzxxl",
+        "author": "FAITH",
+        "author_type": "作者",
         "type": [
             "网络",
             "冒险",
@@ -2805,6 +3077,9 @@
         "update": "2026-02-27",
         "version": "",
         "path": "tldhwmb",
+        "author": "番茄",
+        "author_type": "作者",
+        "author_qq": "178854663",
         "type": [
             "点击",
             "AI",
@@ -2904,6 +3179,7 @@
         "version": "2.0",
         "author": "顶级萌新",
         "author_type": "作者",
+        "author_qq": "739456526",
         "path": "tldhwmb",
         "type": [
             "点击",
@@ -2969,6 +3245,8 @@
         "update": "2026-02-19",
         "version": "",
         "path": "mlgzsx",
+        "author": "Aiden",
+        "author_type": "作者",
         "type": [
             "放置",
             "生存",
@@ -3022,6 +3300,9 @@
         "update": "2026-03-02",
         "version": "",
         "path": "wjcs",
+        "author": "玩笑壹壹",
+        "author_type": "作者",
+        "author_qq": "136630881",
         "type": [
             "推荐",
             "放置",
@@ -3071,6 +3352,7 @@
         "update": "2026-03-27",
         "version": "2.4.0",
         "author": "1962257451",
+        "author_qq": "1962257451",
         "author_type": "作者",
         "path": "taoyuanxiang",
         "type": [
@@ -3990,6 +4272,8 @@
         "update": "2025-12-29",
         "version": "2.5",
         "path": "yysmnq",
+        "author": "一只悠灵",
+        "author_type": "作者",
         "type": [
             "点击",
             "升级",
@@ -4269,6 +4553,7 @@
         "version": "1.5.5",
         "author": "1962257451",
         "author_type": "作者",
+        "author_qq": "1962257451",
         "path": "ogame",
         "type": [
             "群友自制",
@@ -4764,6 +5049,9 @@
         "update": "2026-03-02",
         "version": "",
         "path": "steam-terraformental-zh",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "Steam",
             "网页",
@@ -5845,6 +6133,8 @@
         "update": "2025-11-03",
         "version": "0.5.8",
         "path": "universe",
+        "author": "Eric",
+        "author_type": "作者",
         "type": [
             "自制",
             "投稿",
@@ -5940,6 +6230,9 @@
         "date": "2025-10-29",
         "update": "2026-03-15",
         "version": "",
+        "author": "匿_名",
+        "author_type": "作者",
+        "author_qq": "2571653022",
         "path": "sgcq-nm",
         "type": [
             "投稿",
@@ -6675,6 +6968,9 @@
         "date": "2025-09-28",
         "update": "2025-10-30",
         "version": "",
+        "author": "笑看人生百态",
+        "author_type": "作者",
+        "author_qq": "38649994",
         "path": "myxx",
         "type": [
             "网络",
@@ -6983,6 +7279,7 @@
         "version": "",
         "author": "22222",
         "author_type": "汉化者",
+        "author_qq": "2960729702",
         "path": "1-row-1-layer",
         "type": [
             "群友自制",
@@ -7214,6 +7511,7 @@
         "version": "v29",
         "author": "22222",
         "author_type": "汉化者",
+        "author_qq": "2960729702",
         "path": "one-point-one-layer",
         "type": [
             "群友自制",
@@ -7304,6 +7602,7 @@
         "version": "重制删档内测阶段",
         "author": "1962257451",
         "author_type": "作者",
+        "author_qq": "1962257451",
         "path": "wu-deng-jie",
         "type": [
             "网络",
@@ -7372,6 +7671,7 @@
         "version": "1.0",
         "author": "22222",
         "author_type": "作者",
+        "author_qq": "2960729702",
         "path": "zhang-li-tree",
         "type": [
             "群友自制",
@@ -7409,6 +7709,7 @@
         "version": "1.0",
         "author": "22222",
         "author_type": "汉化者",
+        "author_qq": "2960729702",
         "path": "the-millennium-tree",
         "type": [
             "群友自制",
@@ -7498,6 +7799,9 @@
         "update": "2025-08-21",
         "version": "1.07",
         "path": "creation-idle",
+        "author": "青石",
+        "author_type": "作者",
+        "author_qq": "3466009593",
         "type": [
             "放置",
             "文字",
@@ -7580,13 +7884,14 @@
         "status": 1
     },
     {
-        "title": "金币冒险者，更新到1.9995版本，国人自制投稿挂机放置",
+        "title": "金币冒险者，更新到1.99971版本，国人自制投稿挂机放置",
         "enTitle": "Gold adventurers​",
         "date": "2025-08-11",
-        "update": "2026-04-27",
-        "version": "1.9995",
+        "update": "2026-05-06",
+        "version": "1.99971",
         "author": "叶鱼",
         "author_type": "作者",
+        "author_qq": "938425767",
         "path": "gold-adventurers",
         "type": [
             "自制",
@@ -7598,7 +7903,7 @@
             "升级"
         ],
         "content": [
-            "2026-04-27：更新到1.9995版本了~",
+            "2026-05-06：更新到1.99971版本了~",
             "查看完整更新日志：https://gityx.com/help/help/script/1282.html",
             "这是国人小伙伴投稿的游戏，作者说会日更，看起来功能按钮好多，玩着有点意思。作者的其他游戏还有《洞天劫》。",
             "兑换码：",
@@ -7680,6 +7985,7 @@
         "version": "0.16",
         "author": "22222",
         "author_type": "汉化者",
+        "author_qq": "2960729702",
         "path": "extend-the-universeng",
         "type": [
             "放置",
@@ -7718,6 +8024,9 @@
         "date": "2025-08-05",
         "update": "2025-08-05",
         "version": "1.0",
+        "author": "匿_名",
+        "author_type": "作者",
+        "author_qq": "2571653022",
         "path": "nmdl",
         "type": [
             "投稿",
@@ -7812,6 +8121,7 @@
         "version": "",
         "author": "QwQe308",
         "author_type": "作者",
+        "author_qq": "3174905334",
         "path": "reverse-them-all",
         "type": [
             "放置",
@@ -7906,6 +8216,7 @@
         "version": "1.0",
         "author": "22222",
         "author_type": "汉化者",
+        "author_qq": "2960729702",
         "path": "dimensional-incremental",
         "type": [
             "群友汉化",
@@ -7973,6 +8284,9 @@
         "date": "2025-07-19",
         "update": "2025-08-28",
         "version": "",
+        "author": "笑看人生百态",
+        "author_type": "作者",
+        "author_qq": "38649994",
         "path": "mjcq",
         "type": [
             "网络",
@@ -8120,6 +8434,7 @@
         "version": "1.1.3",
         "author": "1962257451",
         "author_type": "作者",
+        "author_qq": "1962257451",
         "path": "idle-negentropy-war",
         "type": [
             "点击",
@@ -8593,6 +8908,7 @@
         "version": "1.8",
         "author": "22222",
         "author_type": "作者",
+        "author_qq": "2960729702",
         "path": "the-wrong-tree-ng",
         "type": [
             "放置",
@@ -9140,6 +9456,7 @@
         "version": "1.0.6",
         "author": "1962257451",
         "author_type": "作者",
+        "author_qq": "1962257451",
         "path": "vue-clickergame",
         "type": [
             "点击",
@@ -9382,6 +9699,7 @@
         "version": "1.0.3",
         "author": "1962257451",
         "author_type": "作者",
+        "author_qq": "1962257451",
         "path": "vue-dice-puzzle",
         "type": [
             "点击",
@@ -9877,6 +10195,7 @@
         "version": "1.0.8.7",
         "author": "1962257451",
         "author_type": "作者",
+        "author_qq": "1962257451",
         "path": "idle-wild-my-survival-saga",
         "type": [
             "点击",
@@ -10036,6 +10355,7 @@
         "version": "",
         "author": "22222",
         "author_type": "作者",
+        "author_qq": "2960729702",
         "path": "the-mrshark77-tree",
         "type": [
             "放置",
@@ -10452,6 +10772,7 @@
         "version": "1.0.33",
         "author": "1962257451",
         "author_type": "作者",
+        "author_qq": "1962257451",
         "path": "my-normal-idle",
         "type": [
             "点击",
@@ -10552,6 +10873,7 @@
         "version": "0.1",
         "author": "22222",
         "author_type": "汉化者",
+        "author_qq": "2960729702",
         "path": "kaizo-incremental",
         "type": [
             "升级",
@@ -10782,6 +11104,7 @@
         "version": "vPre-Alpha-60-43",
         "author": "Fallen_Cat",
         "author_type": "作者",
+        "author_qq": "1213232974",
         "path": "the-tsinghua-incremental-table",
         "type": [
             "放置",
@@ -11119,6 +11442,7 @@
         "version": "1.0.5",
         "author": "1962257451",
         "author_type": "作者",
+        "author_qq": "1962257451",
         "path": "vue-idle-xiuxian",
         "type": [
             "点击",
@@ -11297,6 +11621,7 @@
         "version": "0.12",
         "author": "QwQe308",
         "author_type": "作者",
+        "author_qq": "3174905334",
         "path": "prestreestuck-metameta-rewritten",
         "type": [
             "放置",
@@ -11513,6 +11838,7 @@
         "version": "0.1",
         "author": "22222",
         "author_type": "汉化者",
+        "author_qq": "2960729702",
         "path": "pylon-of-the-mass",
         "type": [
             "已汉化",
@@ -11547,6 +11873,7 @@
         "version": "",
         "author": "22222",
         "author_type": "汉化者",
+        "author_qq": "2960729702",
         "path": "matter-apocalypse",
         "type": [
             "已汉化",
@@ -11890,6 +12217,7 @@
         "version": "",
         "author": "22222",
         "author_type": "作者",
+        "author_qq": "2960729702",
         "path": "the-spring-festival-tree",
         "type": [
             "放置",
@@ -12411,6 +12739,7 @@
         "version": "",
         "author": "1962257451",
         "author_type": "作者",
+        "author_qq": "1962257451",
         "path": "xjdg",
         "type": [
             "点击",
@@ -12929,6 +13258,7 @@
         "version": "",
         "author": "22222",
         "author_type": "作者",
+        "author_qq": "2960729702",
         "path": "incremental-mass-rewritten-ng--ch",
         "type": [
             "放置",
@@ -13385,6 +13715,9 @@
         "update": "2024-09-28",
         "version": "0.1",
         "path": "chuanqi-v5",
+        "author": "匿_名",
+        "author_type": "作者",
+        "author_qq": "2571653022",
         "type": [
             "投稿",
             "自制",
@@ -13721,6 +14054,7 @@
         "version": "0.95a",
         "author": "Mr.Pldada",
         "author_type": "作者",
+        "author_qq": "2096358571",
         "path": "primitive-legend",
         "type": [
             "投稿",
@@ -14008,6 +14342,9 @@
         "update": "2026-01-20",
         "version": "",
         "path": "ryzj",
+        "author": "rehee",
+        "author_type": "作者",
+        "author_qq": "3884720551",
         "type": [
             "自制",
             "投稿",
@@ -14447,6 +14784,7 @@
         "version": "1.2",
         "author": "QwQe308",
         "author_type": "汉化者",
+        "author_qq": "3174905334",
         "path": "centi-click",
         "type": [
             "文字",
@@ -14476,6 +14814,9 @@
         "date": "2024-07-31",
         "update": "2024-08-17",
         "version": "0.11",
+        "author": "匿_名",
+        "author_type": "作者",
+        "author_qq": "2571653022",
         "path": "rpg-tree",
         "type": [
             "投稿",
@@ -15027,6 +15368,7 @@
         "version": "",
         "author": "22222",
         "author_type": "作者",
+        "author_qq": "2960729702",
         "path": "a-yuanzhong-tree",
         "type": [
             "放置",
@@ -15362,6 +15704,9 @@
         "update": "2024-04-01",
         "version": "0.4.2.1",
         "path": "chaos-time-and-space",
+        "author": "辉影神秘",
+        "author_type": "作者",
+        "author_qq": "67265011",
         "type": [
             "放置",
             "文字",
@@ -15814,6 +16159,7 @@
         "version": "vHkm.Hbc.11",
         "author": "Fallen_Cat",
         "author_type": "作者",
+        "author_qq": "1213232974",
         "path": "kabalah-incremental-tree",
         "type": [
             "放置",
@@ -15980,6 +16326,9 @@
         "update": "2023-12-24",
         "version": "1.0",
         "path": "the-formula-extended",
+        "author": "辉影神秘",
+        "author_type": "作者",
+        "author_qq": "67265011",
         "type": [
             "放置",
             "文字",
@@ -16422,6 +16771,9 @@
         "update": "2024-04-22",
         "version": "",
         "path": "xiuxianxiaowu",
+        "author": "火龙果",
+        "author_type": "投稿者",
+        "author_qq": "6091752",
         "type": [
             "Steam",
             "投稿",
@@ -17009,6 +17361,7 @@
         "version": "",
         "author": "Fallen_Cat",
         "author_type": "作者",
+        "author_qq": "1213232974",
         "path": "hebei-zhongkao-tree",
         "type": [
             "模组树",
@@ -17955,6 +18308,7 @@
         "version": "",
         "author": "Fallen_Cat",
         "author_type": "作者",
+        "author_qq": "1213232974",
         "path": "the-chemistry-tree",
         "type": [
             "已汉化",
@@ -18321,6 +18675,7 @@
         "version": "",
         "author": "Fallen_Cat",
         "author_type": "作者",
+        "author_qq": "1213232974",
         "path": "homework-editor",
         "type": [
             "自制",
@@ -18807,6 +19162,7 @@
         "version": "1.1",
         "author": "Fallen_Cat",
         "author_type": "作者",
+        "author_qq": "1213232974",
         "path": "fallen-cat-lose-weight-story",
         "type": [
             "英文",
@@ -18892,6 +19248,7 @@
         "version": "",
         "author": "Fallen_Cat",
         "author_type": "作者",
+        "author_qq": "1213232974",
         "path": "heat-energy-incremental",
         "type": [
             "已汉化",
@@ -18947,6 +19304,9 @@
         "update": "2023-04-17",
         "version": "0.2.5",
         "path": "the-formula-ng--",
+        "author": "辉影神秘",
+        "author_type": "作者",
+        "author_qq": "67265011",
         "type": [
             "放置",
             "文字",
@@ -19023,6 +19383,9 @@
         "update": "2023-03-24",
         "version": "0.1.6.80b",
         "path": "mysterious-minaret",
+        "author": "辉影神秘",
+        "author_type": "作者",
+        "author_qq": "67265011",
         "type": [
             "文字",
             "点击",
@@ -19058,6 +19421,7 @@
         "version": "",
         "author": "QwQe308",
         "author_type": "作者",
+        "author_qq": "3174905334",
         "path": "the-glyph-tree",
         "type": [
             "放置",
@@ -19217,13 +19581,14 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2026-04-01",
+        "update": "2026-05-02",
         "version": "0.2.8",
         "path": "fundamental",
         "type": [
             "已汉化"
         ],
         "content": [
+            "2026-05-02：更新到最新版本，感谢小伙伴@电梯蛇帮忙补汉化~",
             "2026-04-01：更新到0.2.8版本了~",
             "2025-11-21：感谢群里的 @电梯蛇 小伙伴帮忙补了汉化~",
             "2025-10-20：更新到0.2.7版本了~",
@@ -20303,6 +20668,9 @@
         "update": "2025-05-22",
         "version": "1.0.1",
         "path": "theresmoregame",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "已汉化",
             "放置"
@@ -22379,6 +22747,7 @@
         "version": "",
         "author": "QwQe308",
         "author_type": "汉化者",
+        "author_qq": "3174905334",
         "path": "5-hours",
         "type": [
             "已汉化",
@@ -22498,6 +22867,9 @@
         "date": "2022-08-10",
         "update": "2022-08-10",
         "version": "0.2.1",
+        "author": "匿_名",
+        "author_type": "作者",
+        "author_qq": "2571653022",
         "path": "chuan-qi-tree",
         "type": [
             "自制",
@@ -23327,6 +23699,7 @@
         "version": "1.0",
         "author": "QwQe308",
         "author_type": "作者",
+        "author_qq": "3174905334",
         "path": "the-upgrading-tree",
         "type": [
             "已汉化",
@@ -25185,6 +25558,7 @@
         "version": "2022.2.1",
         "author": "QwQe308",
         "author_type": "作者",
+        "author_qq": "3174905334",
         "path": "happy-lunar-new-year-tree",
         "type": [
             "汉化中",
@@ -25224,6 +25598,7 @@
         "version": "0.0.3.9",
         "author": "Mr.Pldada",
         "author_type": "作者",
+        "author_qq": "2096358571",
         "path": "zhu-ji",
         "type": [
             "必玩",
@@ -25616,6 +25991,9 @@
         "update": "2022-01-04",
         "version": "0.141",
         "path": "the-quark-tree",
+        "author": "辉影神秘",
+        "author_type": "作者",
+        "author_qq": "67265011",
         "type": [
             "自制",
             "投稿",
@@ -25813,6 +26191,9 @@
         "update": "2021-12-22",
         "version": "0.9",
         "path": "the-sacrifice-tree",
+        "author": "辉影神秘",
+        "author_type": "作者",
+        "author_qq": "67265011",
         "type": [
             "自制",
             "投稿",
@@ -26333,6 +26714,9 @@
         "update": "2021-11-24",
         "version": "2.16",
         "path": "dog5",
+        "author": "-",
+        "author_type": "作者",
+        "author_qq": "429889459",
         "type": [
             "点击",
             "升级",
@@ -27000,6 +27384,7 @@
         "version": "0.411",
         "author": "QwQe308",
         "author_type": "作者",
+        "author_qq": "3174905334",
         "path": "blackhole-dimensions--new-era",
         "type": [
             "放置",
@@ -27590,6 +27975,9 @@
         "update": "2024-11-12",
         "version": "0.155",
         "path": "feng-xue-jian-wen-lu",
+        "author": "奈非天",
+        "author_type": "作者",
+        "author_qq": "369779778",
         "type": [
             "点击",
             "升级",
@@ -27622,6 +28010,9 @@
         "update": "2023-06-06",
         "version": "0.7.0",
         "path": "incremental-mass-rewritten",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "已汉化",
             "放置",
@@ -28324,6 +28715,7 @@
         "version": "",
         "author": "QwQe308",
         "author_type": "汉化者",
+        "author_qq": "3174905334",
         "path": "rapture-100",
         "type": [
             "已汉化",
@@ -28389,6 +28781,7 @@
         "version": "0.1.2",
         "author": "QwQe308",
         "author_type": "汉化者",
+        "author_qq": "3174905334",
         "path": "the-formula",
         "type": [
             "已汉化",
@@ -28681,6 +29074,7 @@
         "version": "1.3",
         "author": "QwQe308",
         "author_type": "作者",
+        "author_qq": "3174905334",
         "path": "true-math-tree",
         "type": [
             "汉化中",
@@ -28783,6 +29177,9 @@
         "update": "2021-07-14",
         "version": "",
         "path": "maougame",
+        "author": "maou",
+        "author_type": "作者",
+        "author_qq": "496863906",
         "type": [
             "放置",
             "文字",
@@ -28823,6 +29220,9 @@
         "update": "2021-07-10",
         "version": "",
         "path": "army-of-number",
+        "author": "maou",
+        "author_type": "作者",
+        "author_qq": "496863906",
         "type": [
             "放置",
             "投稿",
@@ -30295,6 +30695,9 @@
         "update": "2025-12-06",
         "version": "0.6.210",
         "path": "jyf",
+        "author": "雾影药师",
+        "author_type": "作者",
+        "author_qq": "908219760",
         "type": [
             "放置",
             "文字",
@@ -30542,6 +30945,9 @@
         "update": "2023-11-06",
         "version": "",
         "path": "your-chronicle",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "放置",
             "点击",
@@ -30658,6 +31064,9 @@
         "update": "2025-10-27",
         "version": "1.275",
         "path": "milestone-tree",
+        "author": "The Loader",
+        "author_type": "作者",
+        "author_qq": "1010903229",
         "type": [
             "放置",
             "文字",
@@ -31513,6 +31922,9 @@
         "update": "2022-04-09",
         "version": "2.0.6",
         "path": "distance-incremental",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "已汉化",
             "放置",
@@ -31572,6 +31984,9 @@
         "update": "2024-06-10",
         "version": "0.4.0",
         "path": "the-dynas-tree",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "汉化中",
             "放置",
@@ -31607,6 +32022,9 @@
         "update": "2020-12-29",
         "version": "",
         "path": "time-layers",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "已汉化",
             "放置",
@@ -31662,6 +32080,9 @@
         "update": "2020-12-16",
         "version": "",
         "path": "omega-layers",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "已汉化",
             "放置",
@@ -31817,6 +32238,8 @@
         "update": "2022-06-07",
         "version": "1.3.3",
         "path": "vue-idle-game",
+        "author": "couy",
+        "author_type": "作者",
         "type": [
             "放置",
             "点击",
@@ -31902,6 +32325,9 @@
         "date": "2020-10-06",
         "update": "2022-08-13",
         "version": "5.08135",
+        "author": "就在一刹那",
+        "author_type": "作者",
+        "author_qq": "14068357",
         "path": "my-diablo",
         "type": [
             "RPG",
@@ -32209,6 +32635,9 @@
         "update": "2020-08-11",
         "version": "1.03",
         "path": "dog-idle-3",
+        "author": "-",
+        "author_type": "作者",
+        "author_qq": "429889459",
         "type": [
             "卡牌",
             "自制",
@@ -33060,6 +33489,9 @@
         "update": "2022-01-07",
         "version": "1.53",
         "path": "mo-ri-jue-qi",
+        "author": "Watcher",
+        "author_type": "作者",
+        "author_qq": "303712287",
         "type": [
             "点击",
             "升级",
@@ -33245,6 +33677,9 @@
         "update": "2024-09-03",
         "version": "2.10.10",
         "path": "synergism",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "汉化中",
             "放置",
@@ -33313,6 +33748,9 @@
         "update": "2020-06-06",
         "version": "4.7",
         "path": "wu-world-fu-ke",
+        "author": "串烧章鱼",
+        "author_type": "作者",
+        "author_qq": "58614550",
         "type": [
             "点击",
             "升级",
@@ -33335,12 +33773,15 @@
         "status": 1
     },
     {
-        "title": "一起打怪兽",
+        "title": "一起打怪兽，2026重制版",
         "enTitle": "Let's Fight Monster",
         "date": "2020-03-31",
-        "update": "2024-07-09",
-        "version": "2.20",
+        "update": "2026-05-01",
+        "version": "1.015-2",
         "path": "lets-fight-monster",
+        "author": "江畔孤舟明月",
+        "author_type": "作者",
+        "author_qq": "113339701",
         "type": [
             "点击",
             "升级",
@@ -33350,6 +33791,7 @@
             "PC"
         ],
         "content": [
+            "2026-05-01：更新到重制版1.015-2版本了~",
             "2024-06-24：更新到2.12版本了~",
             "2024-04-19：更新到1.54版本了，下载链接换成作者网盘地址~",
             "游戏特色：",
@@ -33359,7 +33801,7 @@
             "4.重点：（持续更新~~~），坚挺的作者几乎日日更新。"
         ],
         "weiyunUrl": "https://share.weiyun.com/59lFieY",
-        "baiduUrl": "https://pan.baidu.com/s/1TXusmg-vhCEzlsznujnfgg?pwd=igv9",
+        "baiduUrl": "https://pan.baidu.com/s/1MmRWBGNLQOu1skF1UrA6Ug?pwd=g8hh",
         "QQ": "531466370",
         "pic": [
             1,
@@ -33714,6 +34156,9 @@
         "date": "2019-12-06",
         "update": "2024-07-10",
         "path": "ngu",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "汉化中",
             "放置",
@@ -34443,6 +34888,9 @@
         "update": "2023-06-03",
         "version": "1.3.4b",
         "path": "evolve",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "推荐",
             "已汉化",
@@ -34875,6 +35323,9 @@
         "date": "2019-04-29",
         "update": "2019-11-04",
         "path": "be-knight",
+        "author": "串烧章鱼",
+        "author_type": "作者",
+        "author_qq": "58614550",
         "type": [
             "点击",
             "挂机",
@@ -35395,6 +35846,9 @@
         "enTitle": "KuBition Advanture",
         "date": "2019-04-21",
         "path": "kubition-advanture",
+        "author": "maou",
+        "author_type": "作者",
+        "author_qq": "496863906",
         "type": [
             "放置",
             "文字",
@@ -35488,6 +35942,9 @@
         "enTitle": "Idle Infinity",
         "date": "2019-04-12",
         "update": "2023-10-07",
+        "author": "魔法少女小AI",
+        "author_type": "作者",
+        "author_qq": "522436383",
         "path": "idle-infinity",
         "type": [
             "放置",
@@ -36751,6 +37208,9 @@
         "update": "2025-06-12",
         "version": "1.4.9.4.r1411",
         "path": "kittens-game",
+        "author": "Cheney",
+        "author_type": "汉化者",
+        "author_qq": "809005839",
         "type": [
             "推荐",
             "必玩",
@@ -36792,6 +37252,9 @@
         "update": "2023-02-13",
         "version": "5.9.1",
         "path": "trimps-steam",
+        "author": "by22dgb",
+        "author_type": "汉化者",
+        "author_qq": "509162686",
         "type": [
             "推荐",
             "必玩",

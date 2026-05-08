@@ -1,9 +1,10 @@
 [{
-    "version": "1.0.9",
+    "version": "1.0.40",
     "site_url": "https://g8hh.com.cn",
     "site_title1": "锅巴",
     "site_title2": "汉化",
     "article_wechat": "Gityx游戏",
+    "article_wechat_link": "https://gityx.com/notify/30.html",
     "article_qq": "730783833",
     "article_qqurl": "https://qm.qq.com/q/A30RTdilq0",
     "article_qqtip": "点击加入 - Git游戏放置交流群: 730783833",
@@ -20,5 +21,12 @@
     "about_text3": "本汉化团队成员都是游戏爱好者自行加入的，汉化纯属爱好，没有薪资报酬的哦。",
     "about_text4": "注意：因为Flash、Unity 3D游戏的特殊性，我们技术所限，所以无法进行汉化，敬请谅解。",
     "about_text5": "本站所有游戏收集于互联网、投稿，仅用于学习交流。版权归原作者所有，我们也不会用于商业行为。如有侵权，请联系 admin@gityx.com 删除，谢谢。",
-    "about_text6": "欢迎大家推荐好玩的游戏！"
+    "about_text6": "欢迎大家推荐好玩的游戏！",
+    "author_text1": "感谢每一位投稿的 作者/汉化者，给大家带来了无限的欢乐！",
+    "author_text2": "咱们一直以来，也非常鼓励大家动手制作自己的游戏，欢迎大家投稿。",
+    "author_text3": "如果你觉得作者的作品打动了你，可以考虑赞助支持一下作者，让作者有动力开发出更多好玩的游戏。",
+    "author_text4": "因年代久远，如果信息对应有误，欢迎反馈给我修正。",
+    "author_text5": "",
+    "author_text6": "",
+    "author_tip": "* 本排行榜是按 作者/汉化者 投稿或参与汉化的游戏数量，进行降序排列的，欢迎大家积极投稿。"
 }]
