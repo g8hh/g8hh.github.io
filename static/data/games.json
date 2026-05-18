@@ -1117,6 +1117,48 @@
         "status": 0
     },
     {
+        "title": "真实升级生命树",
+        "enTitle": "The Really Upgrade Tree of Life",
+        "date": "2026-05-18",
+        "update": "2026-05-18",
+        "version": "9.0",
+        "author": ["MrRedShark77","好阳光的小锅巴"],
+        "author_type": ["作者","汉化者"],
+        "author_qq": ["","505397145"],
+        "path": "the-really-upgrade-tree-of-life",
+        "type": [
+            "汉化中",
+            "放置",
+            "文字",
+            "点击",
+            "挂机",
+            "升级",
+            "投稿"
+        ],
+        "content": [
+            "这是群里小伙伴投稿的游戏，在小伙伴们强烈的要求下，开始着手汉化。",
+            "玩的快的记得发存档给我补汉化。。",
+            "游戏QQ交流群：963150347"
+        ],
+        "zhUrl": "https://gltyx.github.io/the-really-upgrade-tree-of-life/",
+        "customUrl": "https://the-really-upgrade-tree-of-life.g8hh.com.cn/",
+        "customUrlTit": "备用地址-g8hh",
+        "enUrl": "https://mrredshark77.github.io/the-really-upgrade-tree-of-life/",
+        "QQ": "963150347",
+        "qqUrl": "https://qm.qq.com/q/zKXnDYYk92",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            0
+        ],
+        "status": 1
+    },
+    {
         "title": "多边形跳跃：终极宝箱联动放置",
         "enTitle": "Poly Jump",
         "date": "2026-05-14",
@@ -1159,8 +1201,8 @@
         "title": "蛮王树，群友自制投稿模组树游戏",
         "enTitle": "",
         "date": "2026-05-13",
-        "update": "2026-05-13",
-        "version": "0.4.1",
+        "update": "2026-05-17",
+        "version": "0.4.2",
         "author": ["咏楓.~喵"],
         "author_type": "作者",
         "author_qq": ["879893737"],
@@ -1176,6 +1218,7 @@
             "投稿"
         ],
         "content": [
+            "2026-05-17：更新到0.4.2版本。",
             "群友 @咏楓.~喵 制作投稿的模组树，目前还在更新中，欢迎大家体验。",
             "模组树交流QQ群：963150347",
             "目前仍在开发，开发速度被10p1sc软上限"
@@ -1556,8 +1599,8 @@
         "title": "文明重建者，更新到0.6.1版本，国人自制投稿文明放置游戏",
         "enTitle": "Civilization Rebuilder",
         "date": "2026-04-28",
-        "update": "2026-05-09",
-        "version": "0.6.1",
+        "update": "2026-05-18",
+        "version": "0.7.0",
         "author": ["Tlxgs"],
         "author_type": "作者",
         "path": "civilization-rebuilder",
@@ -1571,6 +1614,8 @@
             "放置"
         ],
         "content": [
+            "2026-05-18：更新到0.7.0版本~",
+            "2026-05-12：github地址已恢复，备用地址不再更新。",
             "2026-05-09：更新到0.6.1版本~作者说githhub无法部署了，换了新链接，可以按教程去github地址导出存档。",
             "2026-05-06：更新到0.6.0版本~",
             "2026-04-29：更新到0.5.3版本~",
@@ -1578,10 +1623,10 @@
             "网友 @Tlxgs 开发并投稿了这个游戏，欢迎大家体验。",
             ""
         ],
-        "customUrl": "https://peaceful-cranachan-5fda15.netlify.app/",
-        "customUrlTit": "新地址",
-        "customUrl2": "https://tlxgs.github.io/CivilizationRebuilder/",
-        "customUrlTit2": "github地址-挂掉了",
+        "customUrl2": "https://peaceful-cranachan-5fda15.netlify.app/",
+        "customUrlTit2": "备用地址-停止更新",
+        "customUrl": "https://tlxgs.github.io/CivilizationRebuilder/",
+        "customUrlTit": "github地址",
         "pic": [
             1,
             2,
@@ -1834,6 +1879,9 @@
         "date": "2026-04-20",
         "update": "2026-04-20",
         "version": "2.54",
+        "author": ["纱雪"],
+        "author_type": "作者",
+        "author_qq": ["21016947"],
         "path": "neko-rpg",
         "type": [
             "投稿",
@@ -2098,8 +2146,8 @@
         "title": "放置之刃，群友汉化投稿",
         "enTitle": "Ensis IDLE",
         "date": "2026-04-13",
-        "update": "2026-05-09",
-        "version": "0.5.4",
+        "update": "2026-05-16",
+        "version": "0.5.5",
         "author": ["林雷"],
         "author_type": "汉化者",
         "author_qq": ["876990765"],
@@ -2114,6 +2162,7 @@
             "放置"
         ],
         "content": [
+            "2026-05-16：同步0.5.5版本更新。",
             "2026-05-09：同步0.5.4版本更新和汉化。",
             "作者受《NGU放置》《Realm Grinder》《反物质维度》等游戏的启发，制作了这款游戏。",
             "油猴汉化脚本：",
@@ -2694,11 +2743,11 @@
         "status": 1
     },
     {
-        "title": "挂机修个仙，更新到1.0.46版本了，网友投稿自制挂机修仙放置",
+        "title": "挂机修个仙，更新到1.0.48版本了，网友投稿自制挂机修仙放置",
         "enTitle": "",
         "date": "2026-03-19",
-        "update": "2026-05-12",
-        "version": "1.0.46",
+        "update": "2026-05-18",
+        "version": "1.0.48",
         "author": ["亦如小草"],
         "author_type": "投稿者",
         "author_qq": ["75959576"],
@@ -2712,6 +2761,7 @@
             "战斗"
         ],
         "content": [
+            "2026-05-18：更新到1.0.48版本了~",
             "2026-05-12：更新到1.0.46版本了~",
             "2026-05-10：更新到1.0.44版本了~",
             "2026-05-08：更新到1.0.43版本了~",
@@ -2983,8 +3033,12 @@
         "date": "2026-03-13",
         "update": "2026-03-13",
         "version": "0.3.1",
+        "author": ["大企鹅"],
+        "author_type": "投稿者",
+        "author_qq": ["258423781"],
         "path": "antimatter-dimensions-endgame",
         "type": [
+            "油猴汉化",
             "英文",
             "放置",
             "文字",
@@ -3207,6 +3261,9 @@
         "date": "2026-03-06",
         "update": "2026-04-04",
         "version": "0.8.33",
+        "author": ["好阳光的小锅巴"],
+        "author_type": "汉化者",
+        "author_qq": ["505397145"],
         "path": "idle-squares",
         "type": [
             "点击",
@@ -3250,6 +3307,9 @@
         "date": "2026-03-06",
         "update": "2025-03-06",
         "version": "v2026",
+        "author": ["QqQe308"],
+        "author_type": "作者",
+        "author_qq": ["2189206186"],
         "path": "the-spring-festival-tree-2026",
         "type": [
             "放置",
@@ -3973,6 +4033,9 @@
         "date": "2026-01-22",
         "update": "2026-03-20",
         "version": "1.5.12",
+        "author": ["好阳光的小锅巴"],
+        "author_type": "汉化者",
+        "author_qq": ["505397145"],
         "path": "merge-civ",
         "type": [
             "点击",
@@ -4705,6 +4768,9 @@
         "date": "2025-12-19",
         "update": "2026-03-17",
         "version": "5.0",
+        "author": ["Reso","好阳光的小锅巴"],
+        "author_type": "汉化者",
+        "author_qq": ["790934945","505397145"],
         "path": "play-pokechill",
         "type": [
             "点击",
@@ -7241,6 +7307,9 @@
         "date": "2025-10-09",
         "update": "2025-10-09",
         "version": "0.6x",
+        "author": ["Seanxlx"],
+        "author_type": "作者",
+        "author_qq": ["1830066996"],
         "path": "road-of-big-number-rewritten",
         "type": [
             "点击",
@@ -7704,9 +7773,14 @@
         "date": "2025-09-08",
         "update": "2025-10-14",
         "version": "1.38",
+        "author": ["好阳光的小锅巴","ღ人生若只如初见᭄ꦿ࿐ﻬ"],
+        "author_type": "汉化者",
+        "author_qq": ["505397145","192787656"],
         "path": "idle-artisan",
         "type": [
             "油猴汉化",
+            "养成",
+            "文字",
             "英文",
             "战斗",
             "采集",
@@ -7899,9 +7973,15 @@
         "date": "2025-08-27",
         "update": "2025-08-27",
         "version": "",
+        "author": ["aring"],
+        "author_type": "作者",
+        "author_qq": ["1303340995"],
         "path": "awakening-of-war-soul-ol",
         "type": [
             "网络",
+            "自制",
+            "投稿",
+            "文字",
             "多人",
             "养成",
             "挂机",
@@ -8236,11 +8316,11 @@
         "status": 1
     },
     {
-        "title": "金币冒险者，更新到2.0.9版本，国人自制投稿挂机放置",
+        "title": "金币冒险者，更新到2.0.10版本，国人自制投稿挂机放置",
         "enTitle": "Gold adventurers​",
         "date": "2025-08-11",
-        "update": "2026-05-14",
-        "version": "2.0.9",
+        "update": "2026-05-17",
+        "version": "2.0.10",
         "author": ["叶鱼"],
         "author_type": "作者",
         "author_qq": ["938425767"],
@@ -8255,7 +8335,7 @@
             "升级"
         ],
         "content": [
-            "2026-05-14：更新到2.0.9版本了~",
+            "2026-05-17：更新到2.0.10版本了~",
             "查看完整更新日志：https://gityx.com/help/help/script/1282.html",
             "这是国人小伙伴投稿的游戏，作者说会日更，看起来功能按钮好多，玩着有点意思。作者的其他游戏还有《洞天劫》。",
             "兑换码：",
@@ -9054,6 +9134,9 @@
         "date": "2025-06-17",
         "update": "2025-09-05",
         "version": "",
+        "author": ["摸鱼"],
+        "author_type": "作者",
+        "author_qq": ["1538776553"],
         "path": "moyu-idle",
         "type": [
             "养成",
@@ -9313,7 +9396,7 @@
         "path": "fair-game",
         "type": [
             "英文",
-            "油猴",
+            "油猴汉化",
             "多人",
             "汉化中",
             "网络"
@@ -11225,9 +11308,9 @@
         "date": "2025-03-11",
         "update": "2025-03-1",
         "version": "0.1",
-        "author": ["22222"],
-        "author_type": "汉化者",
-        "author_qq": ["2960729702"],
+        "author": ["MrRedShark77","22222"],
+        "author_type": ["作者","汉化者"],
+        "author_qq": ["","2960729702"],
         "path": "kaizo-incremental",
         "type": [
             "升级",
@@ -11410,7 +11493,7 @@
         "path": "minirealms",
         "type": [
             "英文",
-            "油猴",
+            "油猴汉化",
             "汉化中",
             "战斗",
             "建造",
@@ -11645,7 +11728,7 @@
         "path": "relife-habits",
         "type": [
             "英文",
-            "油猴",
+            "油猴汉化",
             "汉化中",
             "战斗",
             "卡牌",
@@ -11731,7 +11814,7 @@
         "path": "zed-city",
         "type": [
             "英文",
-            "油猴",
+            "油猴汉化",
             "汉化中",
             "战斗",
             "卡牌",
@@ -12196,9 +12279,9 @@
         "date": "2025-02-06",
         "update": "2025-02-06",
         "version": "0.1",
-        "author": ["22222"],
-        "author_type": "汉化者",
-        "author_qq": ["2960729702"],
+        "author": ["MrRedShark77","22222"],
+        "author_type": ["作者","汉化者"],
+        "author_qq": ["","2960729702"],
         "path": "pylon-of-the-mass",
         "type": [
             "已汉化",
@@ -12266,6 +12349,9 @@
         "date": "2025-01-29",
         "update": "2025-01-29",
         "version": "v2025",
+        "author": ["QqQe308"],
+        "author_type": "作者",
+        "author_qq": ["2189206186"],
         "path": "the-spring-festival-tree-20252",
         "type": [
             "放置",
@@ -12693,6 +12779,9 @@
         "date": "2024-12-20",
         "update": "2025-09-25",
         "version": "0.1.3d",
+        "author": ["好阳光的小锅巴"],
+        "author_type": "汉化者",
+        "author_qq": ["505397145"],
         "path": "idle-awakening",
         "type": [
             "汉化中",
@@ -12785,7 +12874,7 @@
         "path": "idle-hack",
         "type": [
             "英文",
-            "油猴",
+            "油猴汉化",
             "汉化中",
             "战斗",
             "卡牌",
@@ -13174,7 +13263,7 @@
         "path": "queslar",
         "type": [
             "英文",
-            "油猴",
+            "油猴汉化",
             "汉化中",
             "网络"
         ],
@@ -14928,7 +15017,7 @@
         "path": "idle-quest-rpg",
         "type": [
             "英文",
-            "油猴",
+            "油猴汉化",
             "汉化中",
             "网络"
         ],
@@ -15278,7 +15367,7 @@
         "path": "overlord",
         "type": [
             "英文",
-            "油猴",
+            "油猴汉化",
             "汉化中",
             "网络"
         ],
@@ -15338,6 +15427,9 @@
         "date": "2024-07-05",
         "update": "2025-11-14",
         "version": "1.0",
+        "author": ["MrRedShark77","22222"],
+        "author_type": ["作者","汉化者"],
+        "author_qq": ["","2960729702"],
         "path": "shark-incremental",
         "type": [
             "文字",
@@ -16491,6 +16583,9 @@
         "date": "2024-01-02",
         "update": "2024-01-22",
         "version": "0.0.2c",
+        "author": ["好阳光的小锅巴"],
+        "author_type": "汉化者",
+        "author_qq": ["505397145"],
         "path": "idle-mancery2",
         "type": [
             "汉化中",
@@ -17070,6 +17165,9 @@
         "date": "2023-10-23",
         "update": "2023-11-05",
         "version": "0.15",
+        "author": ["QqQe308"],
+        "author_type": "作者",
+        "author_qq": ["2189206186"],
         "path": "the-rhyhm-game-tree",
         "type": [
             "放置",
@@ -17253,6 +17351,9 @@
         "date": "2023-10-09",
         "update": "2025-11-14",
         "version": "1.6.2",
+        "author": ["好阳光的小锅巴"],
+        "author_type": "汉化者",
+        "author_qq": ["505397145"],
         "path": "gooboo",
         "type": [
             "必玩",
@@ -17762,7 +17863,7 @@
         "path": "farmgame",
         "type": [
             "英文",
-            "油猴",
+            "油猴汉化",
             "已汉化",
             "网络"
         ],
@@ -18622,6 +18723,9 @@
         "date": "2023-06-07",
         "update": "2023-10-16",
         "version": "0.3.0",
+        "author": ["好阳光的小锅巴","鸡蛋"],
+        "author_type": "汉化者",
+        "author_qq": ["505397145","519788060"],
         "path": "the-ignited-space",
         "type": [
             "已汉化",
@@ -19094,6 +19198,15 @@
         ],
         "content": [
             "2026-05-16：同步1.1最新版。​",
+            "2024-08-05：更新到1.02版本了~",
+            "2024-02-27：更新到0.82版本了~",
+            "2024-01-22：更新到0.76版本了~",
+            "2023-10-30：更新到0.71版本了~",
+            "2023-08-25：更新到0.65版本了~",
+            "2023-07-17：更新到0.64版本了~",
+            "2023-07-04：更新到0.63版本了~",
+            "2023-06-03：更新到0.56版本了~",
+            "2023-05-06：更新到0.46版本了，补充若干汉化~",
             "这是一款好玩的RPG风格的放置游戏，包含了多个职业、丰富的成就等内容。​"
         ],
         "zhUrl": "https://gltyx.github.io/ballad-of-heroes/",
@@ -19718,8 +19831,7 @@
             "声望树"
         ],
         "content": [
-            "这个游戏，又是群里的小伙伴 @辉影神秘(Shinwmyste) 制作的。",
-            "想当年的初中生，如今已经成长为高中生了，后生可畏，值得表扬。"
+            "这个游戏，又是群里的小伙伴 @辉影神秘(Shinwmyste) 制作的。"
         ],
         "customUrl2": "https://yx.g8hh.com.cn/the-formula-ng--/",
         "customUrlTit2": "备用地址-g8hh",
@@ -19920,6 +20032,9 @@
         "date": "2023-03-22",
         "update": "2023-12-04",
         "version": "2.5.0",
+        "author": ["好阳光的小锅巴"],
+        "author_type": "汉化者",
+        "author_qq": ["505397145"],
         "path": "progress-knight2-mod",
         "type": [
             "已汉化",
@@ -20211,8 +20326,14 @@
         "date": "2023-02-24",
         "update": "2023-02-24",
         "version": "",
+        "author": ["MrRedShark77"],
+        "author_type": ["作者"],
+        "author_qq": [""],
         "path": "capped-at-one",
         "type": [
+            "已汉化",
+            "点击",
+            "文字",
             "已汉化"
         ],
         "content": [
@@ -20702,6 +20823,9 @@
         "date": "2022-12-07",
         "update": "2022-12-31",
         "version": "0.0.5",
+        "author": ["snʇouƃI"],
+        "author_type": "作者",
+        "author_qq": ["2119542935"],
         "path": "tian-jin-zhong-kao-tree",
         "type": [
             "汉化中",
@@ -21722,6 +21846,9 @@
         "date": "2022-10-24",
         "update": "2023-01-16",
         "version": "0.2.5b",
+        "author": ["好阳光的小锅巴"],
+        "author_type": "汉化者",
+        "author_qq": ["505397145"],
         "path": "idle-mancery",
         "type": [
             "已汉化",
@@ -23036,6 +23163,8 @@
         "date": "2022-08-19",
         "update": "2025-08-29",
         "version": "1.0",
+        "author": ["MrRedShark77"],
+        "author_type": "作者",
         "path": "stonemental",
         "type": [
             "已汉化",
@@ -23065,6 +23194,8 @@
         "date": "2022-08-19",
         "update": "2022-08-19",
         "version": "",
+        "author": ["MrRedShark77"],
+        "author_type": "作者",
         "path": "endless-dice",
         "type": [
             "已汉化",
@@ -23154,9 +23285,9 @@
         "date": "2022-08-15",
         "update": "2025-03-16",
         "version": "α2.1",
-        "author": ["好阳光的小锅巴"],
-        "author_type": "汉化者",
-        "author_qq": ["505397145"],
+        "author": ["MrRedShark77","好阳光的小锅巴"],
+        "author_type": ["作者","汉化者"],
+        "author_qq": ["","505397145"],
         "path": "really-grass-cutting-incremental",
         "type": [
             "已汉化",
@@ -23714,6 +23845,9 @@
         "date": "2022-07-18",
         "update": "2023-02-21",
         "version": "3.0",
+        "author": ["公子羽"],
+        "author_type": "汉化者",
+        "author_qq": ["63553100"],
         "path": "omsi-loops",
         "type": [
             "汉化中",
@@ -24823,6 +24957,8 @@
         "date": "2022-05-13",
         "update": "2022-05-13",
         "version": "",
+        "author": ["MrRedShark77"],
+        "author_type": "作者",
         "path": "replicanti-incremental",
         "type": [
             "已汉化",
@@ -25703,6 +25839,9 @@
         "date": "2022-02-28",
         "update": "2022-02-28",
         "version": "1.0.2",
+        "author": ["MrRedShark77","好阳光的小锅巴"],
+        "author_type": ["作者","汉化者"],
+        "author_qq": ["","505397145"],
         "path": "unlimited-alphabets",
         "type": [
             "已汉化",
@@ -25733,6 +25872,9 @@
         "date": "2022-02-25",
         "update": "2022-02-25",
         "version": "",
+        "author": ["MrRedShark77","好阳光的小锅巴"],
+        "author_type": ["作者","汉化者"],
+        "author_qq": ["","505397145"],
         "path": "universe-time",
         "type": [
             "已汉化",
@@ -26785,9 +26927,13 @@
         "enTitle": "Shop Idle",
         "date": "2021-12-13",
         "update": "2022-10-18",
+        "author": ["天空之城"],
+        "author_type": "作者",
         "path": "shop-idle",
         "type": [
             "放置",
+            "自制",
+            "投稿",
             "点击",
             "挂机",
             "安卓"
@@ -28226,6 +28372,8 @@
         "date": "2021-10-18",
         "update": "2020-08-27",
         "version": "Alpha 6",
+        "author": ["MrRedShark77"],
+        "author_type": "作者",
         "path": "the-color-tree",
         "type": [
             "汉化中",
@@ -28637,6 +28785,8 @@
         "date": "2021-09-28",
         "update": "2021-09-28",
         "version": "",
+        "author": ["MrRedShark77"],
+        "author_type": "作者",
         "path": "incremental-mass",
         "type": [
             "已汉化",
@@ -28813,6 +28963,8 @@
         "date": "2021-09-23",
         "update": "2021-04-02",
         "version": "0.3.1",
+        "author": ["MrRedShark77"],
+        "author_type": "作者",
         "path": "the-treemental",
         "type": [
             "汉化中",
@@ -28845,6 +28997,9 @@
         "date": "2021-09-19",
         "update": "2021-08-28",
         "version": "",
+        "author": ["MrRedShark77","好阳光的小锅巴"],
+        "author_type": ["作者","汉化者"],
+        "author_qq": ["","505397145"],
         "path": "liquids",
         "type": [
             "已汉化",
@@ -28981,6 +29136,8 @@
         "date": "2021-09-03",
         "update": "2024-11-08",
         "version": "",
+        "author": ["VickScarlet"],
+        "author_type": "作者",
         "path": "life-restart",
         "type": [
             "文字",
@@ -29812,6 +29969,9 @@
         "date": "2021-07-09",
         "update": "2021-06-03",
         "version": "",
+        "author": ["MrRedShark77","好阳光的小锅巴"],
+        "author_type": ["作者","汉化者"],
+        "author_qq": ["","505397145"],
         "path": "the-balanced-game",
         "type": [
             "已汉化",
@@ -29845,6 +30005,9 @@
         "date": "2021-07-05",
         "update": "2021-07-09",
         "version": "1.2.2",
+        "author": ["MrRedShark77","好阳光的小锅巴"],
+        "author_type": ["作者","汉化者"],
+        "author_qq": ["","505397145"],
         "path": "electrical-incremental",
         "type": [
             "已汉化",
@@ -31284,6 +31447,9 @@
         "date": "2021-04-09",
         "update": "2024-07-15",
         "version": "0.6.25",
+        "author": ["公子羽"],
+        "author_type": "汉化者",
+        "author_qq": ["63553100"],
         "path": "c0v1d-modding-tree",
         "type": [
             "已汉化",
@@ -31810,6 +31976,9 @@
         "date": "2021-03-15",
         "update": "2024-05-21",
         "version": "0.1.1.3",
+        "author": ["公子羽"],
+        "author_type": "汉化者",
+        "author_qq": ["63553100"],
         "path": "prestreestuck",
         "type": [
             "汉化中",
@@ -31972,6 +32141,9 @@
         "date": "2021-03-01",
         "update": "2020-09-17",
         "version": "β2 α1",
+        "author": ["MrRedShark77","好阳光的小锅巴"],
+        "author_type": ["作者","汉化者"],
+        "author_qq": ["","505397145"],
         "path": "incremental-merge",
         "type": [
             "汉化中",
@@ -33523,6 +33695,9 @@
         "date": "2020-06-14",
         "update": "2020-06-14",
         "version": "",
+        "author": ["大企鹅"],
+        "author_type": "汉化者",
+        "author_qq": ["258423781"],
         "path": "antimatter-dimensions-ng",
         "type": [
             "已汉化",
@@ -36861,6 +37036,7 @@
         "update": "2026-01-06",
         "path": "pokemon",
         "type": [
+            "油猴汉化",
             "已汉化",
             "放置",
             "文字",
