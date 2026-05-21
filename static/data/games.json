@@ -211,7 +211,7 @@
             "地址也挺好记的：bq.g8hh.com",
             "意思是：表情.锅巴汉化.com"
         ],
-        "customUrl": "http://bq.g8hh.com/",
+        "customUrl": "http://bq.g8hh.com.cn/",
         "customUrlTit": "地址",
         "pic": [
             1,
@@ -349,7 +349,7 @@
         "title": "梦幻阁，活动进行中，- 梦幻题材文字放置类上班摸鱼游戏",
         "enTitle": "",
         "date": "2023-03-09",
-        "update": "2026-04-27",
+        "update": "2026-05-17",
         "version": "",
         "path": "mhg",
         "type": [
@@ -527,7 +527,7 @@
         "title": "三国传奇，新区开放，耐玩挂机电脑游戏",
         "enTitle": "",
         "date": "2022-08-19",
-        "update": "2026-04-03",
+        "update": "2026-05-13",
         "version": "",
         "path": "sgcq",
         "type": [
@@ -565,7 +565,7 @@
         "title": "无尽洪荒，文字MUD修仙游戏，新区开放",
         "enTitle": "",
         "date": "2022-06-28",
-        "update": "2026-04-18",
+        "update": "2026-05-18",
         "version": "",
         "path": "wjhh",
         "type": [
@@ -1117,6 +1117,62 @@
         "status": 0
     },
     {
+        "title": "万界仙途，网友投稿自制挂机修仙放置",
+        "enTitle": "",
+        "date": "2026-05-20",
+        "update": "2026-05-20",
+        "version": "",
+        "author": ["BlackMind"],
+        "author_type": ["作者"],
+        "author_qq": ["1002783057"],
+        "path": "tg-wjxt",
+        "type": [
+            "网络",
+            "修仙",
+            "养成",
+            "升级",
+            "投稿",
+            "自制",
+            "战斗"
+        ],
+        "content": [
+            "这是网友 @BlackMind 自制投稿的一款修仙放置游戏。",
+            "玩家QQ交流群：1098123817 欢迎加群讨论玩法、反馈 bug、提功能建议、交流 build 心得。",
+            "玩法：选择地图 → 开始历练 → 自动战斗打怪 → 获得修为/灵石/等级经验/装备/功法/灵草。每波怪物数按 tier：T1-T2 = 1-2 只 / T3-T4 = 1-4 只 / T5+ = 2-4 只（含 1 只奶妈）。1% 概率遇到 Boss。战斗完全在服务器计算,无法作弊。",
+            "诸位道友久等了，仙门现已正式开启！",
+            "本次公测登录即可直接领取对应主修功法，并赠送4枚初始丹药，无需兑换码，进入仙途即可修炼！",
+            "同时，本次版本进行了多项调整：",
+            "• 历练经验大幅下调，建议优先升级洞府，并积极参与宗门活动获取更多资源与修炼收益。",
+            "• 斗法台奖励全面提升，新增大量红尘玉奖励。",
+            "• 斗法台排名1-100名均可获得奖励，红尘玉可用于兑换多种子女培养道具与珍稀资源。",
+            "道侣相伴，宗门争锋，百层试炼再度开启！",
+            "诸位道友，这一次是否能够真正登临百层之巅，便看各位的造化了！",
+            "另外提醒诸位道友：",
+            "请勿恶意利用游戏BUG牟利或影响游戏平衡，一经核实，将视情况进行封号处理。",
+            "若发现BUG并主动反馈，可联系管理提交问题，确认后将根据问题影响程度发放对应道具奖励。",
+            "感谢各位道友共同维护仙界秩序，愿诸君共筑良好修仙环境！",
+            ""
+        ],
+        "customUrl": "https://whichanygame.com/",
+        "customUrlTit": "开始游戏",
+        "QQ": "1098123817",
+        "qqUrl": "https://qm.qq.com/q/vv36mokByg",
+        "pic": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            0
+        ],
+        "needHH": 0,
+        "status": 1
+    },
+    {
         "title": "真实升级生命树",
         "enTitle": "The Really Upgrade Tree of Life",
         "date": "2026-05-18",
@@ -1140,7 +1196,7 @@
             "玩的快的记得发存档给我补汉化。。",
             "游戏QQ交流群：963150347"
         ],
-        "zhUrl": "https://gltyx.github.io/the-really-upgrade-tree-of-life/",
+        "zhUrl": "https://gityxs.github.io/the-really-upgrade-tree-of-life/",
         "customUrl": "https://the-really-upgrade-tree-of-life.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://mrredshark77.github.io/the-really-upgrade-tree-of-life/",
@@ -1198,13 +1254,13 @@
         "status": 1
     },
     {
-        "title": "蛮王树，群友自制投稿模组树游戏",
+        "title": "蛮王树，更新到0.5.2版本，群友自制投稿模组树游戏",
         "enTitle": "",
         "date": "2026-05-13",
-        "update": "2026-05-17",
-        "version": "0.4.2",
+        "update": "2026-05-20",
+        "version": "0.5.2",
         "author": ["咏楓.~喵"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["879893737"],
         "path": "man-wang-tree",
         "type": [
@@ -1218,6 +1274,7 @@
             "投稿"
         ],
         "content": [
+            "2026-05-20：更新到0.5.2版本。",
             "2026-05-17：更新到0.4.2版本。",
             "群友 @咏楓.~喵 制作投稿的模组树，目前还在更新中，欢迎大家体验。",
             "模组树交流QQ群：963150347",
@@ -1249,7 +1306,7 @@
         "update": "2026-05-11",
         "version": "1ω.15",
         "author": ["22222"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["2960729702"],
         "path": "exotic-matter-dimensions",
         "type": [
@@ -1331,7 +1388,7 @@
         "version": "",
         "path": "tg-hxzj",
         "author": ["大爷猫鮭魚之夢(己黑化)"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["837488421"],
         "type": [
             "网络",
@@ -1376,7 +1433,7 @@
         "version": "",
         "path": "tg-chuandeng",
         "author": ["大爷猫鮭魚之夢(己黑化)"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["837488421"],
         "type": [
             "网络",
@@ -1418,13 +1475,13 @@
         "status": 1
     },
     {
-        "title": "1001树，更新0.78.0005版本，群友自制投稿模组树游戏",
+        "title": "1001树，更新0.798版本，群友自制投稿模组树游戏",
         "enTitle": "",
         "date": "2026-05-07",
-        "update": "2026-05-09",
-        "version": "0.78.0005",
+        "update": "2026-05-20",
+        "version": "0.798",
         "author": ["乾狐离光"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1550187725"],
         "path": "1001tree",
         "type": [
@@ -1438,6 +1495,7 @@
             "投稿"
         ],
         "content": [
+            "2026-05-20：更新到0.798版本。",
             "2026-05-09：更新到0.78.0005版本。",
             "群友 @ƎWOԀ 制作投稿的模组树，欢迎大家体验。",
             "你说的对，但是《1001树》是由1001树开发组自主研发的一款可能开放也可能不开放世界模组树游戏。游戏发生在一个被称作「梦界」的幻想大世界，在这里，被乾狐离光选中的人将被授予「梦力」，导引世界选择器之力。你将扮演一位名为「player」的神秘角色，在自由的旅行中邂逅性格各异、能力独特的小世界游戏们，和他们一起击败时间墙、操作墙、活跃墙(还有解谜)，拿回应得的梦力——同时，逐步发掘「1001夜」的真相。——qhlg",
@@ -1477,7 +1535,7 @@
         "version": "",
         "path": "lexe-idle",
         "author": ["Alex"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["402000095"],
         "type": [
             "战斗",
@@ -1517,7 +1575,7 @@
         "update": "2026-05-07",
         "version": "1.0.0",
         "author": ["AneHek"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1156988400"],
         "path": "idle-skill-heroes",
         "type": [
@@ -1562,7 +1620,7 @@
         "update": "2026-04-29",
         "version": "",
         "author": ["MistEO"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1020535998"],
         "path": "re-maa-ai",
         "type": [
@@ -1602,7 +1660,7 @@
         "update": "2026-05-18",
         "version": "0.7.0",
         "author": ["Tlxgs"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "civilization-rebuilder",
         "type": [
             "自制",
@@ -1646,7 +1704,7 @@
         "update": "2026-05-04",
         "version": "9.0",
         "author": ["22222"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["2960729702"],
         "path": "the-adventure-chain-ch",
         "type": [
@@ -1689,7 +1747,7 @@
         "update": "2026-04-27",
         "version": "",
         "author": ["顶级萌新"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["739456526"],
         "path": "zizaixiantu",
         "type": [
@@ -1795,7 +1853,7 @@
         "update": "2026-05-15",
         "version": "",
         "author": ["yt"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["745231492"],
         "path": "tg-lxgjxt",
         "type": [
@@ -1880,7 +1938,7 @@
         "update": "2026-04-20",
         "version": "2.54",
         "author": ["纱雪"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["21016947"],
         "path": "neko-rpg",
         "type": [
@@ -1923,7 +1981,7 @@
         "version": "0.6.213",
         "path": "jyf",
         "author": ["雾影药师"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["908219760"],
         "type": [
             "放置",
@@ -2146,10 +2204,10 @@
         "title": "放置之刃，群友汉化投稿",
         "enTitle": "Ensis IDLE",
         "date": "2026-04-13",
-        "update": "2026-05-16",
-        "version": "0.5.5",
+        "update": "2026-05-20",
+        "version": "0.5.7",
         "author": ["林雷"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["876990765"],
         "path": "ensis-idle",
         "type": [
@@ -2162,6 +2220,7 @@
             "放置"
         ],
         "content": [
+            "2026-05-20：同步0.5.7版本更新。",
             "2026-05-16：同步0.5.5版本更新。",
             "2026-05-09：同步0.5.4版本更新和汉化。",
             "作者受《NGU放置》《Realm Grinder》《反物质维度》等游戏的启发，制作了这款游戏。",
@@ -2197,7 +2256,7 @@
         "update": "2026-04-10",
         "version": "0.3.1",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "check-back-magoria",
         "type": [
             "已汉化",
@@ -2233,7 +2292,7 @@
         "update": "2026-05-05",
         "version": "1.0.0",
         "author": ["嘉"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["285001378"],
         "path": "wenzimaoxian",
         "type": [
@@ -2324,7 +2383,7 @@
         "update": "2026-04-26",
         "version": "2.1",
         "author": ["叶鱼"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["938425767"],
         "path": "dongtianjie",
         "type": [
@@ -2437,7 +2496,7 @@
         "update": "2026-04-01",
         "version": "",
         "author": ["22222"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2960729702"],
         "path": "yu-ren-jie-tree",
         "type": [
@@ -2567,7 +2626,7 @@
         "update": "2025-03-26",
         "version": "",
         "author": ["球球编程师~喵"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3863155201"],
         "path": "the-diluter-modding-table",
         "type": [
@@ -2609,7 +2668,7 @@
         "version": "",
         "path": "tg-gywzllqwwzyxzjs",
         "author": ["孤衾陌路"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "type": [
             "点击",
             "暗黑",
@@ -2743,13 +2802,13 @@
         "status": 1
     },
     {
-        "title": "挂机修个仙，更新到1.0.48版本了，网友投稿自制挂机修仙放置",
+        "title": "挂机修个仙，更新到1.0.50版本了，网友投稿自制挂机修仙放置",
         "enTitle": "",
         "date": "2026-03-19",
-        "update": "2026-05-18",
-        "version": "1.0.48",
+        "update": "2026-05-20",
+        "version": "1.0.50",
         "author": ["亦如小草"],
-        "author_type": "投稿者",
+        "author_type": ["投稿者"],
         "author_qq": ["75959576"],
         "path": "guajixiugexian",
         "type": [
@@ -2761,6 +2820,7 @@
             "战斗"
         ],
         "content": [
+            "2026-05-20：更新到1.0.50版本了~",
             "2026-05-18：更新到1.0.48版本了~",
             "2026-05-12：更新到1.0.46版本了~",
             "2026-05-10：更新到1.0.44版本了~",
@@ -2820,7 +2880,7 @@
         "update": "2026-03-20",
         "version": "",
         "author": ["白白白白白白"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["595142937"],
         "path": "shop-idle-2026",
         "type": [
@@ -2870,7 +2930,7 @@
         "update": "2026-03-23",
         "version": "1.36",
         "author": ["嘉"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["285001378"],
         "path": "anheimoshouwenziguaji",
         "type": [
@@ -2948,7 +3008,7 @@
         "update": "2026-03-16",
         "version": "",
         "author": ["阿然"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3335181392"],
         "path": "pc-wjfscs-new",
         "type": [
@@ -3034,7 +3094,7 @@
         "update": "2026-03-13",
         "version": "0.3.1",
         "author": ["大企鹅"],
-        "author_type": "投稿者",
+        "author_type": ["投稿者"],
         "author_qq": ["258423781"],
         "path": "antimatter-dimensions-endgame",
         "type": [
@@ -3194,7 +3254,7 @@
         "update": "2026-03-14",
         "version": "",
         "author": ["从百草味吃到三只松鼠"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1040511102"],
         "path": "idlexiuxianzhuan",
         "type": [
@@ -3262,7 +3322,7 @@
         "update": "2026-05-18",
         "version": "0.9.24",
         "author": ["好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["505397145"],
         "path": "idle-squares",
         "type": [
@@ -3309,7 +3369,7 @@
         "update": "2025-03-06",
         "version": "v2026",
         "author": ["QqQe308"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2189206186"],
         "path": "the-spring-festival-tree-2026",
         "type": [
@@ -3354,7 +3414,7 @@
         "version": "测试版",
         "path": "yhqbfz",
         "author": ["浅白"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3356076575"],
         "type": [
             "网络",
@@ -3403,7 +3463,7 @@
         "version": "",
         "path": "jzxxl",
         "author": ["FAITH"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "type": [
             "网络",
             "冒险",
@@ -3442,7 +3502,7 @@
         "version": "",
         "path": "tldhwmb",
         "author": ["番茄"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["178854663"],
         "type": [
             "点击",
@@ -3542,7 +3602,7 @@
         "update": "2026-03-14",
         "version": "2.0",
         "author": ["顶级萌新"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["739456526"],
         "path": "tldhwmb",
         "type": [
@@ -3610,7 +3670,7 @@
         "version": "",
         "path": "mlgzsx",
         "author": ["Aiden"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "type": [
             "放置",
             "生存",
@@ -3665,7 +3725,7 @@
         "version": "",
         "path": "wjcs",
         "author": ["玩笑壹壹"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["136630881"],
         "type": [
             "推荐",
@@ -3717,7 +3777,7 @@
         "version": "2.4.0",
         "author": ["1962257451"],
         "author_qq": ["1962257451"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "taoyuanxiang",
         "type": [
             "群友自制",
@@ -4035,7 +4095,7 @@
         "update": "2026-03-20",
         "version": "1.5.12",
         "author": ["好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["505397145"],
         "path": "merge-civ",
         "type": [
@@ -4640,7 +4700,7 @@
         "version": "2.5",
         "path": "yysmnq",
         "author": ["一只悠灵"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3120054428"],
         "type": [
             "点击",
@@ -4770,7 +4830,7 @@
         "update": "2026-03-17",
         "version": "5.0",
         "author": ["Reso","好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者","汉化者"],
         "author_qq": ["790934945","505397145"],
         "path": "play-pokechill",
         "type": [
@@ -4923,7 +4983,7 @@
         "update": "2025-12-25",
         "version": "1.5.5",
         "author": ["1962257451"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1962257451"],
         "path": "ogame",
         "type": [
@@ -5421,7 +5481,7 @@
         "version": "",
         "path": "steam-terraformental-zh",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "type": [
             "Steam",
@@ -5892,6 +5952,9 @@
         "date": "2019-10-18",
         "update": "2026-05-15",
         "version": "0.12.3.0",
+        "author": ["好阳光的小锅巴","人民當家做主"],
+        "author_type": ["汉化者","汉化者"],
+        "author_qq": ["505397145","3222407954"],
         "path": "theory-of-magic",
         "type": [
             "推荐",
@@ -5906,6 +5969,7 @@
             "K站"
         ],
         "content": [
+            "2026-05-20：感谢 @人民當家做主 小伙伴加入汉化的行列。",
             "2026-05-15：二次开发版同步到最新0.12.3.0版本，汉化可能要重新来了，我会时不时补汉化。",
             "由于原版作者跑路了，留下了一堆bug（容易炸档，进不去游戏等等），所以搞了个二次开发版本。",
             "二次开发版本是大佬在原版基础上，修复了若干bug（可能制造了若干bug）。"
@@ -6543,14 +6607,14 @@
         "needHH": 0
     },
     {
-        "title": "宇宙探索，国人二次开发拓展版本《太空公司》",
+        "title": "宇宙探索，更新到0.9.40版本，国人二次开发拓展版本《太空公司》",
         "enTitle": "",
         "date": "2025-11-03",
-        "update": "2025-11-03",
-        "version": "0.5.8",
+        "update": "2026-05-16",
+        "version": "0.9.40",
         "path": "universe",
         "author": ["Eric"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "type": [
             "自制",
             "投稿",
@@ -6562,6 +6626,8 @@
             "挂机"
         ],
         "content": [
+            "2026-05-16：更新到0.9.40版本。",
+            "本游戏由Eric开发，游戏前期内容采自Sparticle999所开发的\"Space company\"。其本人出于对学习Flutter技术和对放置游戏的热爱开发了此游戏。",
             "本游戏由Eric开发，游戏前期内容采自Sparticle999所开发的\"Space company\"。其本人出于对学习Flutter技术和对放置游戏的热爱开发了此游戏。",
             "您可以在此探索 Sparticle999 所开发的 Space Company https://sparticle999.github.io/SpaceCompany/感谢您对该游戏的喜爱，新内容不断开发中。",
             "注意：想玩原版的小伙伴，可以在本站搜索：太空公司"
@@ -6647,7 +6713,7 @@
         "update": "2026-03-15",
         "version": "",
         "author": ["匿_名"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2571653022"],
         "path": "sgcq-nm",
         "type": [
@@ -7309,7 +7375,7 @@
         "update": "2025-10-09",
         "version": "0.6x",
         "author": ["Seanxlx"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1830066996"],
         "path": "road-of-big-number-rewritten",
         "type": [
@@ -7388,7 +7454,7 @@
         "update": "2025-10-30",
         "version": "",
         "author": ["笑看人生百态"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["38649994"],
         "path": "myxx",
         "type": [
@@ -7697,7 +7763,7 @@
         "update": "2025-09-17",
         "version": "",
         "author": ["22222"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["2960729702"],
         "path": "1-row-1-layer",
         "type": [
@@ -7775,7 +7841,7 @@
         "update": "2025-10-14",
         "version": "1.38",
         "author": ["好阳光的小锅巴","ღ人生若只如初见᭄ꦿ࿐ﻬ"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者","汉化者"],
         "author_qq": ["505397145","192787656"],
         "path": "idle-artisan",
         "type": [
@@ -7934,7 +8000,7 @@
         "update": "2025-08-29",
         "version": "v29",
         "author": ["22222"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["2960729702"],
         "path": "one-point-one-layer",
         "type": [
@@ -7975,7 +8041,7 @@
         "update": "2025-08-27",
         "version": "",
         "author": ["aring"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1303340995"],
         "path": "awakening-of-war-soul-ol",
         "type": [
@@ -8031,7 +8097,7 @@
         "update": "2025-11-05",
         "version": "重制删档内测阶段",
         "author": ["1962257451"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1962257451"],
         "path": "wu-deng-jie",
         "type": [
@@ -8100,7 +8166,7 @@
         "update": "2025-08-25",
         "version": "1.0",
         "author": ["22222"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2960729702"],
         "path": "zhang-li-tree",
         "type": [
@@ -8138,7 +8204,7 @@
         "update": "2025-08-21",
         "version": "1.0",
         "author": ["22222"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["2960729702"],
         "path": "the-millennium-tree",
         "type": [
@@ -8179,7 +8245,7 @@
         "update": "2025-08-29",
         "version": "1.2",
         "author": ["乾狐离光"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1550187725"],
         "path": "the-sleep-tree",
         "type": [
@@ -8233,7 +8299,7 @@
         "version": "1.07",
         "path": "creation-idle",
         "author": ["青石"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3466009593"],
         "type": [
             "放置",
@@ -8317,13 +8383,13 @@
         "status": 1
     },
     {
-        "title": "金币冒险者，更新到2.0.10版本，国人自制投稿挂机放置",
+        "title": "金币冒险者，更新到2.0.13版本，国人自制投稿挂机放置",
         "enTitle": "Gold adventurers​",
         "date": "2025-08-11",
-        "update": "2026-05-17",
-        "version": "2.0.10",
+        "update": "2026-05-19",
+        "version": "2.0.13",
         "author": ["叶鱼"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["938425767"],
         "path": "gold-adventurers",
         "type": [
@@ -8336,7 +8402,7 @@
             "升级"
         ],
         "content": [
-            "2026-05-17：更新到2.0.10版本了~",
+            "2026-05-19：更新到2.0.13版本了~",
             "查看完整更新日志：https://gityx.com/help/help/script/1282.html",
             "这是国人小伙伴投稿的游戏，作者说会日更，看起来功能按钮好多，玩着有点意思。作者的其他游戏还有《洞天劫》。",
             "兑换码：",
@@ -8417,7 +8483,7 @@
         "update": "2025-08-07",
         "version": "0.16",
         "author": ["22222"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["2960729702"],
         "path": "extend-the-universeng",
         "type": [
@@ -8458,7 +8524,7 @@
         "update": "2025-08-05",
         "version": "1.0",
         "author": ["匿_名"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2571653022"],
         "path": "nmdl",
         "type": [
@@ -8553,7 +8619,7 @@
         "update": "2025-07-30",
         "version": "",
         "author": ["QwQe308"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3174905334"],
         "path": "reverse-them-all",
         "type": [
@@ -8648,7 +8714,7 @@
         "update": "2025-07-22",
         "version": "1.0",
         "author": ["22222"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["2960729702"],
         "path": "dimensional-incremental",
         "type": [
@@ -8718,7 +8784,7 @@
         "update": "2025-08-28",
         "version": "",
         "author": ["笑看人生百态"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["38649994"],
         "path": "mjcq",
         "type": [
@@ -8866,7 +8932,7 @@
         "update": "2025-07-23",
         "version": "1.1.3",
         "author": ["1962257451"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1962257451"],
         "path": "idle-negentropy-war",
         "type": [
@@ -9136,7 +9202,7 @@
         "update": "2025-09-05",
         "version": "",
         "author": ["摸鱼"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1538776553"],
         "path": "moyu-idle",
         "type": [
@@ -9345,7 +9411,7 @@
         "update": "2025-08-14",
         "version": "1.8",
         "author": ["22222"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2960729702"],
         "path": "the-wrong-tree-ng",
         "type": [
@@ -9893,7 +9959,7 @@
         "update": "2025-05-18",
         "version": "1.0.6",
         "author": ["1962257451"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1962257451"],
         "path": "vue-clickergame",
         "type": [
@@ -10136,7 +10202,7 @@
         "update": "2025-04-23",
         "version": "1.0.3",
         "author": ["1962257451"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1962257451"],
         "path": "vue-dice-puzzle",
         "type": [
@@ -10632,7 +10698,7 @@
         "update": "2025-04-12",
         "version": "1.0.8.7",
         "author": ["1962257451"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1962257451"],
         "path": "idle-wild-my-survival-saga",
         "type": [
@@ -10792,7 +10858,7 @@
         "update": "2026-04-10",
         "version": "",
         "author": ["22222"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2960729702"],
         "path": "the-mrshark77-tree",
         "type": [
@@ -11209,7 +11275,7 @@
         "update": "2025-03-16",
         "version": "1.0.33",
         "author": ["1962257451"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1962257451"],
         "path": "my-normal-idle",
         "type": [
@@ -11240,8 +11306,6 @@
             "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
             "QQ交流群：920930589"
         ],
-        "customUrl": "https://idle-xiuxian.jntm.cool/",
-        "customUrlTit": "开始游戏",
         "customUrl2": "https://vue-idle-xiuxian.g8hh.com.cn/",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl3": "https://github.com/setube/vue-idle-xiuxian",
@@ -11541,7 +11605,7 @@
         "update": "2025-03-09",
         "version": "vPre-Alpha-60-43",
         "author": ["Fallen_Cat"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1213232974"],
         "path": "the-tsinghua-incremental-table",
         "type": [
@@ -11694,7 +11758,7 @@
         "update": "2025-02-26",
         "version": "0.1.3",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "nes-pentris",
         "type": [
             "益智",
@@ -11881,7 +11945,7 @@
         "update": "2025-02-26",
         "version": "1.0.5",
         "author": ["1962257451"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1962257451"],
         "path": "vue-idle-xiuxian",
         "type": [
@@ -11964,8 +12028,6 @@
             "游戏还在开发中，大家有好的建议，欢迎去群里反馈~",
             "QQ交流群：920930589"
         ],
-        "customUrl": "https://idle-xiuxian.jntm.cool/",
-        "customUrlTit": "开始游戏",
         "customUrl2": "https://vue-idle-xiuxian.g8hh.com.cn/",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl3": "https://github.com/setube/vue-idle-xiuxian",
@@ -12060,7 +12122,7 @@
         "update": "2025-02-14",
         "version": "0.12",
         "author": ["QwQe308"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3174905334"],
         "path": "prestreestuck-metameta-rewritten",
         "type": [
@@ -12140,7 +12202,7 @@
         "update": "2025-02-12",
         "version": "0.2.2",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "dodeca-park",
         "type": [
             "养成",
@@ -12174,7 +12236,7 @@
         "update": "2025-02-11",
         "version": "0.1.3",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "check-back-infinite-descent",
         "type": [
             "升级",
@@ -12316,7 +12378,7 @@
         "update": "2025-02-04",
         "version": "",
         "author": ["22222"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["2960729702"],
         "path": "matter-apocalypse",
         "type": [
@@ -12351,7 +12413,7 @@
         "update": "2025-01-29",
         "version": "v2025",
         "author": ["QqQe308"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2189206186"],
         "path": "the-spring-festival-tree-20252",
         "type": [
@@ -12663,7 +12725,7 @@
         "update": "2025-01-01",
         "version": "",
         "author": ["22222"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2960729702"],
         "path": "the-spring-festival-tree",
         "type": [
@@ -12781,7 +12843,7 @@
         "update": "2025-09-25",
         "version": "0.1.3d",
         "author": ["好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["505397145"],
         "path": "idle-awakening",
         "type": [
@@ -13188,7 +13250,7 @@
         "update": "2025-04-02",
         "version": "",
         "author": ["1962257451"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1962257451"],
         "path": "xjdg",
         "type": [
@@ -13707,7 +13769,7 @@
         "update": "2024-10-24",
         "version": "",
         "author": ["22222"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2960729702"],
         "path": "incremental-mass-rewritten-ng--ch",
         "type": [
@@ -13901,7 +13963,7 @@
         "update": "2024-10-16",
         "version": "0.4.1",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "wogley",
         "type": [
             "升级",
@@ -14168,7 +14230,7 @@
         "version": "0.1",
         "path": "chuanqi-v5",
         "author": ["匿_名"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2571653022"],
         "type": [
             "投稿",
@@ -14505,7 +14567,7 @@
         "update": "2024-10-14",
         "version": "0.95a",
         "author": ["Mr.Pldada"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2096358571"],
         "path": "primitive-legend",
         "type": [
@@ -14791,11 +14853,11 @@
         "title": "荣耀之径，版本更新了，群友自制挂机页游",
         "enTitle": "",
         "date": "2024-09-09",
-        "update": "2026-01-20",
+        "update": "2026-05-21",
         "version": "",
         "path": "ryzj",
         "author": ["rehee"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3884720551"],
         "type": [
             "自制",
@@ -14806,13 +14868,18 @@
             "挂机"
         ],
         "content": [
-            "2026-01-20更新：",
+            "2026-05-21更新：",
             "系统更新",
-            "- 破坏性更新. 同时可以携带的技能数量现在为5个",
-            "- 每个技能最多的连接数量为 2个6连, 3个4连",
-            "- 所有角色需要重新设置技能.",
-            "- 技能页面修改. 移除简要和详细选择.",
-            "- 设定页面移除相关的内容",
+            "- 调整了一下地图解锁规则. 现在地图只要解锁就可以挂机. 解锁下一张地图一定要通过当前地图的挑战.",
+            "- 调整了不同区域地图的大小. 以及杀怪的进度",
+            "- 调整了不同区域怪物的移动和攻击力等.",
+            "- 调整了占位刷新逻辑. 玩家必然在地图正中心刷新. 怪物会随机的刷新在四周.",
+            "- 调整了地图详情, 现在根据地图,或者动态等级显示对应的怪物攻防.",
+            "- 战斗验证的时间改为15秒.",
+            "- 战场上超过200个存活单位时不在刷新怪物.",
+            "- 死亡的单位在5秒后移除",
+            "Bug修复",
+            "- 修复了一些因为重复的key导致的页面崩溃问题",
             "查看更多更新日志：https://gityx.com/help/help/script/1160.html",
             "群里的小伙伴自己写的融合了hof和poe的放置游戏。现在是原型状态，在线/离线模式都做了，大概技能有十来个，几张地图。",
             "欢迎感兴趣的小伙伴，欢迎进群和作者一起讨论思路或者提建议：1006242560",
@@ -15207,7 +15274,7 @@
         "update": "2024-08-02",
         "version": "0.1.1",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "dodeca-gold-reckoner",
         "type": [
             "文字",
@@ -15238,7 +15305,7 @@
         "update": "2024-08-02",
         "version": "1.2",
         "author": ["QwQe308"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["3174905334"],
         "path": "centi-click",
         "type": [
@@ -15270,7 +15337,7 @@
         "update": "2024-08-17",
         "version": "0.11",
         "author": ["匿_名"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2571653022"],
         "path": "rpg-tree",
         "type": [
@@ -15826,7 +15893,7 @@
         "update": "2024-05-07",
         "version": "",
         "author": ["22222"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2960729702"],
         "path": "a-yuanzhong-tree",
         "type": [
@@ -16164,7 +16231,7 @@
         "version": "0.4.2.1",
         "path": "chaos-time-and-space",
         "author": ["辉影神秘"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["67265011"],
         "type": [
             "放置",
@@ -16585,7 +16652,7 @@
         "update": "2024-01-22",
         "version": "0.0.2c",
         "author": ["好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["505397145"],
         "path": "idle-mancery2",
         "type": [
@@ -16620,7 +16687,7 @@
         "update": "2024-08-24",
         "version": "vHkm.Hbc.11",
         "author": ["Fallen_Cat"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1213232974"],
         "path": "kabalah-incremental-tree",
         "type": [
@@ -16789,7 +16856,7 @@
         "version": "1.0",
         "path": "the-formula-extended",
         "author": ["辉影神秘"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["67265011"],
         "type": [
             "放置",
@@ -16984,10 +17051,6 @@
             "2001250000CA4G211AW2 洗髓丹兑换码",
             "2010230000CWC300T91P 金币袋"
         ],
-        "customUrl2": "http://119.29.19.59:9000/",
-        "customUrlTit2": "挂机版地址（适配手机）",
-        "customUrl3": "http://82.156.203.116/",
-        "customUrlTit3": "实时战斗地址",
         "customUrl": "http://1.15.75.55/index",
         "customUrlTit": "开始游戏",
         "QQ": "808647555",
@@ -17167,7 +17230,7 @@
         "update": "2023-11-05",
         "version": "0.15",
         "author": ["QqQe308"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2189206186"],
         "path": "the-rhyhm-game-tree",
         "type": [
@@ -17206,7 +17269,7 @@
         "update": "2023-12-21",
         "version": "1.4.2",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "hyper-game",
         "type": [
             "点击",
@@ -17239,7 +17302,7 @@
         "version": "",
         "path": "xiuxianxiaowu",
         "author": ["火龙果"],
-        "author_type": "投稿者",
+        "author_type": ["投稿者"],
         "author_qq": ["6091752"],
         "type": [
             "Steam",
@@ -17353,7 +17416,7 @@
         "update": "2025-11-14",
         "version": "1.6.2",
         "author": ["好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["505397145"],
         "path": "gooboo",
         "type": [
@@ -17830,7 +17893,7 @@
         "update": "2023-08-28",
         "version": "",
         "author": ["Fallen_Cat"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1213232974"],
         "path": "hebei-zhongkao-tree",
         "type": [
@@ -18039,7 +18102,7 @@
         "update": "2023-08-04",
         "version": "1.3.1",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "mine-clicker-re-excavated",
         "type": [
             "点击",
@@ -18069,7 +18132,7 @@
         "update": "2023-08-03",
         "version": "1.1.0",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "golf-hell",
         "type": [
             "点击",
@@ -18099,7 +18162,7 @@
         "update": "2023-08-03",
         "version": "0.2.2",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "absolute-button-simulator-2",
         "type": [
             "点击",
@@ -18528,7 +18591,7 @@
             "​玩的时候发现英文，请导出存档保存也.txt文件私发给锅巴哦~非常感谢！"
         ],
         "zhUrl": "https://gityxs.github.io/oasis/oasis",
-        "customUrl": "https://oasis.g8hh.com/",
+        "customUrl": "https://oasis.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://souldancer27.github.io/cultivation-simulator/",
         "pic": [
@@ -18556,7 +18619,7 @@
             "又是一个老外写的修仙题材的游戏，现阶段游戏内容有点少，期待作者更新更多内容。"
         ],
         "zhUrl": "https://gityxs.github.io/cultivation-simulato/",
-        "customUrl": "https://cultivation-simulato.g8hh.com/",
+        "customUrl": "https://cultivation-simulato.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://souldancer27.github.io/cultivation-simulator/",
         "pic": [
@@ -18584,7 +18647,7 @@
             "这是一个原型版本，游戏时长大约为 40 分钟； 当你第一次获得声望的时候就是游戏终点。 但在作者继续开发之前，他想知道基础游戏是否好玩，或者他是否只是在浪费时间，所以作者很感谢您的任何反馈！"
         ],
         "zhUrl": "https://g1tyx.github.io/cogito-cosmos/",
-        "customUrl": "https://cogito-cosmos.g8hh.com/",
+        "customUrl": "https://cogito-cosmos.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://jackoe3.github.io/cogito-cosmos/",
         "pic": [
@@ -18603,7 +18666,7 @@
         "update": "2023-06-27",
         "version": "",
         "author": ["雾影药师"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["908219760"],
         "path": "zszl",
         "type": [
@@ -18645,7 +18708,7 @@
             "​最终目标还是制造出火箭零件！"
         ],
         "zhUrl": "https://g1tyx.github.io/fgfactory2/",
-        "customUrl": "http://fgfactory2.g8hh.com/",
+        "customUrl": "http://fgfactory2.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://freddecgames.github.io/fgfactory2/",
         "pic": [
@@ -18677,7 +18740,7 @@
             "​提示：字母的子节点不需要太多，因为子节点越多，解锁下一个字母的要求就会越高。"
         ],
         "zhUrl": "https://g1tyx.github.io/yet-another-alphabet-game/",
-        "customUrl": "https://yet-another-alphabet-game.g8hh.com/",
+        "customUrl": "https://yet-another-alphabet-game.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://seihoukei.games/yaag/",
         "pic": [
@@ -18725,7 +18788,7 @@
         "update": "2023-10-16",
         "version": "0.3.0",
         "author": ["好阳光的小锅巴","鸡蛋"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者","汉化者"],
         "author_qq": ["505397145","519788060"],
         "path": "the-ignited-space",
         "type": [
@@ -18789,7 +18852,7 @@
         "update": "2024-08-16",
         "version": "",
         "author": ["Fallen_Cat"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1213232974"],
         "path": "the-chemistry-tree",
         "type": [
@@ -18844,7 +18907,7 @@
             "​《雷区放置》是一款基于益智游戏“扫雷”的增量放置游戏。​"
         ],
         "zhUrl": "https://g1tyx.github.io/idle-minefield/",
-        "customUrl": "https://idle-minefield.g8hh.com/",
+        "customUrl": "https://idle-minefield.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://idleminefield.web.app/",
         "pic": [
@@ -18876,7 +18939,7 @@
             "这是作者根据在 Minecraft 上玩 MystCraft 和 RFTools Dimensions 模组的有趣回忆大致制作的游戏。 您将收集资源，并最终使用这些资源前往不同的程序生成的位面。​"
         ],
         "enUrl": "https://www.thepaperpilot.org/planar/",
-        "customUrl": "https://planar-pioneers.g8hh.com/",
+        "customUrl": "https://planar-pioneers.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/planar-pioneers/",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -18908,7 +18971,7 @@
             "​一个关于便利贴的增量游戏！ 带有一些随机元素！游戏需要一直点点点！​"
         ],
         "zhUrl": "https://g1tyx.github.io/the-bulletin-board/",
-        "customUrl": "https://the-bulletin-board.g8hh.com/",
+        "customUrl": "https://the-bulletin-board.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://thetastypi.github.io/The-Bulletin-Board/",
         "pic": [
@@ -18940,7 +19003,7 @@
             "《序数品客树》是一款以《序数增量》的Mod《序数品客》为基础制作的的模组树游戏。内容蛮多的，节奏也比较慢。汉化还在进行中，玩得快的靓仔可以随时发存档给我~​"
         ],
         "enUrl": "https://ordinal-gwa-tree.glitch.me/",
-        "customUrl": "https://ordinal-gwa-tree.g8hh.com/",
+        "customUrl": "https://ordinal-gwa-tree.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/ordinal-gwa-tree/",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -19000,7 +19063,7 @@
             "​这是一款以数学公式为主角的放置游戏，Mod版应该只是在原版基础上多了自动化。​"
         ],
         "zhUrl": "https://gltyx.github.io/idle-formulas/",
-        "customUrl": "http://idle-formulas.g8hh.com/",
+        "customUrl": "http://idle-formulas.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://zilvarro.github.io/idleformulas/",
         "customUrlTit2": "英文版原版",
@@ -19137,7 +19200,7 @@
             "注意：游戏无存档功能，刷新就会丢进度哦。​"
         ],
         "zhUrl": "https://gltyx.github.io/automate-the-world/",
-        "customUrl": "https://automate-the-world.g8hh.com/",
+        "customUrl": "https://automate-the-world.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://synclairwang.com/automate-the-world",
         "pic": [
@@ -19156,7 +19219,7 @@
         "update": "2023-05-05",
         "version": "",
         "author": ["Fallen_Cat"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1213232974"],
         "path": "homework-editor",
         "type": [
@@ -19184,7 +19247,7 @@
         "update": "2026-05-16",
         "version": "1.1",
         "author": ["好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["505397145"],
         "path": "ballad-of-heroes",
         "type": [
@@ -19266,7 +19329,7 @@
         "update": "2023-04-21",
         "version": "0.5",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "the-battery",
         "type": [
             "已汉化",
@@ -19278,7 +19341,7 @@
             "注意：游戏不会自动保存，需要自己去设置里面点保存按钮才行。​"
         ],
         "zhUrl": "https://gltyx.github.io/the-battery/",
-        "customUrl": "http://the-battery.g8hh.com/",
+        "customUrl": "http://the-battery.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://demonin.com/games/theBattery/",
         "pic": [
@@ -19295,7 +19358,7 @@
         "update": "2023-04-20",
         "version": "2.1.0",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "unnamed-button-game",
         "type": [
             "已汉化",
@@ -19307,7 +19370,7 @@
             "游戏流程的长短，取决于你的手速。​"
         ],
         "zhUrl": "https://gltyx.github.io/unnamed-button-game/",
-        "customUrl": "http://unnamed-button-game.g8hh.com/",
+        "customUrl": "http://unnamed-button-game.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://demonin.com/games/unnamedButtonGame/",
         "pic": [
@@ -19326,7 +19389,7 @@
         "update": "2023-05-15",
         "version": "0.4.2",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "array-game",
         "type": [
             "已汉化",
@@ -19338,7 +19401,7 @@
             "注意：游戏好像不会自动保存，需要自己点右上角保存按钮才行，关闭之前千万别忘了。"
         ],
         "zhUrl": "https://gltyx.github.io/array-game/",
-        "customUrl": "https://array-game.g8hh.com/",
+        "customUrl": "https://array-game.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://demonin.com/games/arrayGame/",
         "pic": [
@@ -19357,7 +19420,7 @@
         "update": "2023-04-17",
         "version": "0.4.0",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "check-back",
         "type": [
             "已汉化",
@@ -19368,7 +19431,7 @@
             "目测肝的批爆。。是一款实打实的消磨时间的游戏~后面有日常奖励、有宠物玩法，肝起来吧！十二龙作者的另一个作品。"
         ],
         "zhUrl": "https://gltyx.github.io/check-back/",
-        "customUrl": "https://check-back.g8hh.com/",
+        "customUrl": "https://check-back.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://demonin.com/games/checkBack/",
         "pic": [
@@ -19387,7 +19450,7 @@
         "update": "2023-04-15",
         "version": "",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "kilo-sweep",
         "type": [
             "已汉化",
@@ -19398,7 +19461,7 @@
             "这是一个有多个地雷的困难扫雷游戏版本。十二龙作者的另一个作品。"
         ],
         "zhUrl": "https://gltyx.github.io/kilo-sweep/",
-        "customUrl": "https://kilo-sweep.g8hh.com/",
+        "customUrl": "https://kilo-sweep.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://demonin.com/games/kiloSweep/",
         "pic": [
@@ -19417,7 +19480,7 @@
         "update": "2024-08-02",
         "version": "0.3.3",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "path": "ordinal-pringles",
         "type": [
@@ -19510,7 +19573,7 @@
         "update": "2025-10-21",
         "version": "",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "path": "realm-grinder",
         "type": [
@@ -19579,7 +19642,7 @@
             "如果遇到进入下一关后，无法点击路径，则需要导入之前备份的存档到英文版试试进入下一关，再导出存档到汉化版里面玩（建议玩英文版，汉化版作为对照使用）。"
         ],
         "zhUrl": "https://gityxs.github.io/idle-maze/",
-        "customUrl": "https://idle-maze.g8hh.com/",
+        "customUrl": "https://idle-maze.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://liveoverflow.github.io/idle-maze/",
         "pic": [
@@ -19634,7 +19697,7 @@
             "这是一款模拟成为教皇的放置游戏，流程不是很长。"
         ],
         "zhUrl": "https://gityxs.github.io/become-pope/",
-        "customUrl": "https://become-pope.g8hh.com/",
+        "customUrl": "https://become-pope.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://louigiverona.com/pope/",
         "pic": [
@@ -19677,7 +19740,7 @@
         "update": "2023-04-06",
         "version": "1.1",
         "author": ["Fallen_Cat"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1213232974"],
         "path": "fallen-cat-lose-weight-story",
         "type": [
@@ -19691,7 +19754,7 @@
             "实在看不懂的话可以用浏览器自带翻译玩着试试。",
             "注意：游戏玩法主要是移动上下左右箭头，或者WASD这几键（我Mac电脑只能按字母键）。"
         ],
-        "customUrl": "https://fallen-cat-lose-weight-story.g8hh.com/",
+        "customUrl": "https://fallen-cat-lose-weight-story.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://beautyfallencat.github.io/Fallen_Cat-Lose-Weight-Story/",
         "pic": [
@@ -19718,7 +19781,7 @@
             "在这个游戏中，玩家扮演电脑用户的角色，需要通过删除文件来清理硬盘。 游戏从有限的磁盘空间开始，用作购买升级和能量提升的货币。"
         ],
         "zhUrl": "https://gityxs.github.io/pedro-pascals-triangle-of-prestige/",
-        "customUrl": "https://pedro-pascals-triangle-of-prestige.g8hh.com/",
+        "customUrl": "https://pedro-pascals-triangle-of-prestige.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://asteriskman7.github.io/PedroPascalsTriangleOfPrestige/",
         "pic": [
@@ -19744,7 +19807,7 @@
             "在这个游戏中，玩家扮演电脑用户的角色，需要通过删除文件来清理硬盘。 游戏从有限的磁盘空间开始，用作购买升级和能量提升的货币。"
         ],
         "zhUrl": "https://gityxs.github.io/cleanup98/",
-        "customUrl": "https://cleanup98.g8hh.com/",
+        "customUrl": "https://cleanup98.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://dwhiffing.github.io/cleanup98/",
         "pic": [
@@ -19763,7 +19826,7 @@
         "update": "2023-03-31",
         "version": "",
         "author": ["Fallen_Cat"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1213232974"],
         "path": "heat-energy-incremental",
         "type": [
@@ -19773,7 +19836,7 @@
         "content": [
             "群里一位小姐姐写的增量游戏，锅巴直呼厉害！大家快来玩一下吧。"
         ],
-        "zhUrl": "https://heat-energy-incremental.g8hh.com/",
+        "zhUrl": "https://heat-energy-incremental.g8hh.com.cn/",
         "enUrl": "https://beautyfallencat.github.io/HeatEnergyIncremental/",
         "pic": [
             1,
@@ -19821,7 +19884,7 @@
         "version": "0.2.5",
         "path": "the-formula-ng--",
         "author": ["辉影神秘"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["67265011"],
         "type": [
             "放置",
@@ -19904,7 +19967,7 @@
         "version": "0.1.6.80b",
         "path": "mysterious-minaret",
         "author": ["辉影神秘"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["67265011"],
         "type": [
             "文字",
@@ -19915,7 +19978,7 @@
         "content": [
             "这是群里的小伙伴 辉影神秘 制作的Rogue玩法的卡牌游戏，欢迎体验。"
         ],
-        "customUrl2": "https://mysterious-minaret.g8hh.com/",
+        "customUrl2": "https://mysterious-minaret.g8hh.com.cn/",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl3": "https://afdian.net/@Mysterious124",
         "customUrlTit3": "捐赠链接",
@@ -19940,7 +20003,7 @@
         "update": "2023-03-24",
         "version": "",
         "author": ["QwQe308"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3174905334"],
         "path": "the-glyph-tree",
         "type": [
@@ -19955,7 +20018,7 @@
             "这是群里的小伙伴QwQe308 制作的又一个模组树游戏，欢迎体验。",
             "目前游戏内容大概可以玩一小时半左右，内容还在更新中。"
         ],
-        "customUrl2": "https://the-glyph-tree.g8hh.com/",
+        "customUrl2": "https://the-glyph-tree.g8hh.com.cn/",
         "customUrlTit2": "备用地址-g8hh",
         "customUrl": "https://qwqe308.github.io/The-Glyph-Tree/",
         "customUrlTit": "开始游戏",
@@ -20015,7 +20078,7 @@
             "Dunno 是一款关于掷骰子和赚钱的游戏。 尝试在有限的回合数内赚取尽可能多的钱。"
         ],
         "zhUrl": "https://gityxs.github.io/dunno/",
-        "customUrl": "https://dunno.g8hh.com/",
+        "customUrl": "https://dunno.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "http://jamuspsi.github.io/dunno/",
         "pic": [
@@ -20034,7 +20097,7 @@
         "update": "2023-12-04",
         "version": "2.5.0",
         "author": ["好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["505397145"],
         "path": "progress-knight2-mod",
         "type": [
@@ -20087,7 +20150,7 @@
             "这是一款数字很大的增量游戏，虽然短小，但是精悍，可以体验到数字飞升的爽感。"
         ],
         "zhUrl": "https://gityxs.github.io/sushibeans/",
-        "customUrl": "https://sushibeans.g8hh.com/",
+        "customUrl": "https://sushibeans.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "https://sushibeans.glitch.me/",
         "pic": [
@@ -20103,10 +20166,10 @@
         "title": "基本原理",
         "enTitle": "Fundamental",
         "date": "2023-03-17",
-        "update": "2026-05-02",
-        "version": "0.2.8",
+        "update": "2026-05-19",
+        "version": "0.2.9",
         "author": ["好阳光的小锅巴","电梯蛇"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者","汉化者"],
         "author_qq": ["505397145","914481876"],
         "path": "fundamental",
         "type": [
@@ -20118,6 +20181,7 @@
             "已汉化"
         ],
         "content": [
+            "2026-05-19：更新到最新0.2.9版本~",
             "2026-05-02：更新到最新版本，感谢小伙伴@电梯蛇帮忙补汉化~",
             "2026-04-01：更新到0.2.8版本了~",
             "2025-11-21：感谢群里的 @电梯蛇 小伙伴帮忙补了汉化~",
@@ -20245,7 +20309,7 @@
         "content": [
             "WRTSC 是一款时间循环放置游戏。 如果您玩过 循环放置（Idle Loops） 的任何变体，就会知道它们的游戏玩法基本相同。"
         ],
-        "zhUrl": "https://wrtsc.g8hh.com/",
+        "zhUrl": "https://wrtsc.g8hh.com.cn/",
         "enUrl": "https://wrtsc.catgirl.ai/",
         "pic": [
             1,
@@ -20263,7 +20327,7 @@
         "update": "2023-02-24",
         "version": "",
         "author": ["好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["505397145"],
         "path": "simple-mmo",
         "type": [
@@ -20825,7 +20889,7 @@
         "update": "2022-12-31",
         "version": "0.0.5",
         "author": ["snʇouƃI"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2119542935"],
         "path": "tian-jin-zhong-kao-tree",
         "type": [
@@ -21221,7 +21285,7 @@
         "version": "1.0.1",
         "path": "theresmoregame",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "type": [
             "已汉化",
@@ -21848,7 +21912,7 @@
         "update": "2023-01-16",
         "version": "0.2.5b",
         "author": ["好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["505397145"],
         "path": "idle-mancery",
         "type": [
@@ -22378,7 +22442,7 @@
         "update": "2023-10-16",
         "version": "1.0.1",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "dodeca-dragons",
         "type": [
             "已汉化",
@@ -22975,7 +23039,7 @@
         "version": "",
         "path": "fe000000",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "type": [
             "已汉化",
@@ -23040,7 +23104,7 @@
         "update": "2022-08-27",
         "version": "",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "the-yoshi-portal",
         "type": [
             "已汉化",
@@ -23165,7 +23229,7 @@
         "update": "2025-08-29",
         "version": "1.0",
         "author": ["MrRedShark77"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "stonemental",
         "type": [
             "已汉化",
@@ -23196,7 +23260,7 @@
         "update": "2022-08-19",
         "version": "",
         "author": ["MrRedShark77"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "endless-dice",
         "type": [
             "已汉化",
@@ -23326,7 +23390,7 @@
         "update": "2022-08-15",
         "version": "",
         "author": ["QwQe308"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["3174905334"],
         "path": "5-hours",
         "type": [
@@ -23448,7 +23512,7 @@
         "update": "2022-08-10",
         "version": "0.2.1",
         "author": ["匿_名"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2571653022"],
         "path": "chuan-qi-tree",
         "type": [
@@ -23847,7 +23911,7 @@
         "update": "2023-02-21",
         "version": "3.0",
         "author": ["公子羽"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["63553100"],
         "path": "omsi-loops",
         "type": [
@@ -24281,7 +24345,7 @@
         "update": "2022-08-11",
         "version": "1.0",
         "author": ["QwQe308"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3174905334"],
         "path": "the-upgrading-tree",
         "type": [
@@ -24643,7 +24707,7 @@
         "enUrl": "https://ploot-o.github.io/",
         "customUrl": "https://g1tyx.github.io/alphabet-clicker",
         "customUrlTit": "备用地址-github",
-        "zhUrl": "https://alphabet-clicker.g8hh.com/",
+        "zhUrl": "https://alphabet-clicker.g8hh.com.cn/",
         "pic": [
             1,
             2,
@@ -24697,7 +24761,7 @@
             "游戏里您可以组合单位来创建新单位。"
         ],
         "enUrl": "https://stampyzfanz.github.io/unit-amalgamator/",
-        "customUrl": "https://unit-amalgamator.g8hh.com/",
+        "customUrl": "https://unit-amalgamator.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/unit-amalgamator",
         "pic": [
@@ -24724,7 +24788,7 @@
             "你需要平衡住宅区、商业区和工业区及其税率，以发展特大城市（建议先建造一个）。"
         ],
         "enUrl": "http://johntoopublic.github.io/cityclicker/",
-        "customUrl": "https://cityclicker.g8hh.com/",
+        "customUrl": "https://cityclicker.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/cityclicker",
         "pic": [
@@ -24770,7 +24834,7 @@
         "update": "2022-05-31",
         "version": "",
         "author": ["demonin"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "absolute-button-simulator",
         "type": [
             "已汉化",
@@ -24848,7 +24912,7 @@
             "这是一个关于回收废料的放置游戏。"
         ],
         "enUrl": "https://bullz04.github.io/scrap-clicker++/game/",
-        "customUrl": "https://scrap-clicker-xx.g8hh.com/",
+        "customUrl": "https://scrap-clicker-xx.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g1tyx.github.io/scrap-clicker-xx",
         "oscUrl": "https://www.oschina.net/p/scrap-clicker-xx",
@@ -24959,7 +25023,7 @@
         "update": "2022-05-13",
         "version": "",
         "author": ["MrRedShark77"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "replicanti-incremental",
         "type": [
             "已汉化",
@@ -25021,7 +25085,7 @@
         "update": "2025-11-05",
         "version": "2.15.5",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "path": "exp-simulator",
         "type": [
@@ -25479,7 +25543,7 @@
         "update": "2022-03-30",
         "version": "",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "path": "progress-knight2",
         "type": [
@@ -25789,7 +25853,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-prestige-chain",
         "enUrl": "http://raw.githack.com/pg132/The-Modding-Tree/buyables/index.html",
-        "customUrl": "https://the-prestige-chain.g8hh.com/",
+        "customUrl": "https://the-prestige-chain.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -25856,7 +25920,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/unlimited-alphabets",
         "enUrl": "https://mrredshark77.github.io/unlimited-alphabets/",
-        "customUrl": "https://unlimited-alphabets.g8hh.com/",
+        "customUrl": "https://unlimited-alphabets.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -25995,7 +26059,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-function-of-time",
         "enUrl": "https://mikosss.github.io/The-Modding-Tree/",
-        "customUrl": "https://the-function-of-time.g8hh.com/",
+        "customUrl": "https://the-function-of-time.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -26030,7 +26094,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/tg-rewritten",
         "enUrl": "https://yhvr.me/tg/",
-        "customUrl": "https://tg-rewritten.g8hh.com/",
+        "customUrl": "https://tg-rewritten.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "QQ": "",
         "pic": [
@@ -26063,7 +26127,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-modding-tree-omeganum",
         "enUrl": "https://icecreamdudes.github.io/The-Modding-Tree-Omeganum/",
-        "customUrl": "https://the-modding-tree-omeganum.g8hh.com/",
+        "customUrl": "https://the-modding-tree-omeganum.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -26156,7 +26220,7 @@
         "update": "2022-01-02",
         "version": "2022.2.1",
         "author": ["QwQe308"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3174905334"],
         "path": "happy-lunar-new-year-tree",
         "type": [
@@ -26196,7 +26260,7 @@
         "update": "2024-01-23",
         "version": "0.0.3.9",
         "author": ["Mr.Pldada"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["2096358571"],
         "path": "zhu-ji",
         "type": [
@@ -26405,7 +26469,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/alternation",
         "enUrl": "https://flamemasternxf.github.io/Alternation/",
-        "customUrl": "https://soul-builder.g8hh.com/",
+        "customUrl": "https://soul-builder.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -26473,7 +26537,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/ravaged-space",
         "enUrl": "https://straker.itch.io/ravaged-space",
-        "customUrl": "https://soul-builder.g8hh.com/",
+        "customUrl": "https://soul-builder.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -26592,7 +26656,7 @@
         "version": "0.141",
         "path": "the-quark-tree",
         "author": ["辉影神秘"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["67265011"],
         "type": [
             "自制",
@@ -26792,7 +26856,7 @@
         "version": "0.9",
         "path": "the-sacrifice-tree",
         "author": ["辉影神秘"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["67265011"],
         "type": [
             "自制",
@@ -26929,7 +26993,7 @@
         "date": "2021-12-13",
         "update": "2022-10-18",
         "author": ["天空之城"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "shop-idle",
         "type": [
             "放置",
@@ -27012,7 +27076,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/gridland/",
         "enUrl": "http://gridland.doublespeakgames.com/",
-        "customUrl": "https://gridland.g8hh.com/",
+        "customUrl": "https://gridland.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "oscUrl": "https://www.oschina.net/p/gridland",
         "pic": [
@@ -27319,7 +27383,7 @@
         "version": "2.16",
         "path": "dog5",
         "author": ["-"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["429889459"],
         "type": [
             "点击",
@@ -27732,7 +27796,7 @@
             "井字棋，英文名叫Tic-Tac-Toe，是一种在3*3格子上进行的连珠游戏，和五子棋类似，由于棋盘一般不画边框，格线排成井字故得名。游戏需要的工具仅为纸和笔，然后由分别代表O和X的两个游戏者轮流在格子里留下标记（一般来说先手者为X），任意三个标记形成一条直线，则为获胜。"
         ],
         "zhUrl": "https://g1tyx.github.io/ooxx/",
-        "customUrl": "https://ooxx.g8hh.com/",
+        "customUrl": "https://ooxx.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -27987,7 +28051,7 @@
         "update": "2021-12-29",
         "version": "0.411",
         "author": ["QwQe308"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3174905334"],
         "path": "blackhole-dimensions--new-era",
         "type": [
@@ -28374,7 +28438,7 @@
         "update": "2020-08-27",
         "version": "Alpha 6",
         "author": ["MrRedShark77"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "the-color-tree",
         "type": [
             "汉化中",
@@ -28425,7 +28489,7 @@
             "生命树，挺好的一个题材。目前有1092个成就。。是的，你没看错，1092个！！！"
         ],
         "enUrl": "http://raw.githack.com/pg132/The-Modding-Tree/evolution/index.html",
-        "customUrl": "https://the-tree-of-life.g8hh.com/",
+        "customUrl": "https://the-tree-of-life.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "zhUrl": "https://g8hh.github.io/the-tree-of-life",
         "customUrl3": "https://yhvr.me/pt/mods.html",
@@ -28584,7 +28648,7 @@
         "version": "0.155",
         "path": "feng-xue-jian-wen-lu",
         "author": ["奈非天"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["369779778"],
         "type": [
             "点击",
@@ -28619,7 +28683,7 @@
         "version": "0.7.0",
         "path": "incremental-mass-rewritten",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "type": [
             "已汉化",
@@ -28634,7 +28698,7 @@
             "感谢 @by22dgb 大佬跟进后续的更新、汉化。"
         ],
         "enUrl": "https://mrredshark77.github.io/incremental-mass-rewritten/",
-        "customUrl": "https://incremental-mass-rewritten.g8hh.com/",
+        "customUrl": "https://incremental-mass-rewritten.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/incremental-mass-rewritten",
         "customUrlTit2": "备用地址-GitHub",
@@ -28787,7 +28851,7 @@
         "update": "2021-09-28",
         "version": "",
         "author": ["MrRedShark77"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "incremental-mass",
         "type": [
             "已汉化",
@@ -28965,7 +29029,7 @@
         "update": "2021-04-02",
         "version": "0.3.1",
         "author": ["MrRedShark77"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "the-treemental",
         "type": [
             "汉化中",
@@ -29016,7 +29080,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/liquids/",
         "enUrl": "https://mrredshark77.github.io/Liquids/",
-        "customUrl": "https://liquids.g8hh.com/",
+        "customUrl": "https://liquids.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -29138,7 +29202,7 @@
         "update": "2024-11-08",
         "version": "",
         "author": ["VickScarlet"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "path": "life-restart",
         "type": [
             "文字",
@@ -29331,7 +29395,7 @@
         "update": "2021-03-27",
         "version": "",
         "author": ["QwQe308"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["3174905334"],
         "path": "rapture-100",
         "type": [
@@ -29397,7 +29461,7 @@
         "update": "2021-07-13",
         "version": "0.1.2",
         "author": ["QwQe308"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["3174905334"],
         "path": "the-formula",
         "type": [
@@ -29553,7 +29617,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/clickpocalypse2/",
         "enUrl": "http://minmaxia.com/c2/",
-        "customUrl": "https://clickpocalypse2.g8hh.com/",
+        "customUrl": "https://clickpocalypse2.g8hh.com.cn/",
         "customUrlTit": "备用地址-gityx",
         "customUrl2": "https://g8hh.github.io/clickpocalypse2/index2.html",
         "customUrlTit2": "白底色-适合摸鱼",
@@ -29690,7 +29754,7 @@
         "update": "2021-08-26",
         "version": "1.3",
         "author": ["QwQe308"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["3174905334"],
         "path": "true-math-tree",
         "type": [
@@ -29776,7 +29840,7 @@
             "随着您的进步，您可以成倍地增加产量并继续改进您的生产设施。 该游戏具有多种不同的选项和升级，并且具有很好的可玩性。 看看你能进步多远，以及你是否能创建一个跨越银河系的帝国。"
         ],
         "zhUrl": "https://g8hh.github.io/galactic-grind",
-        "customUrl": "https://galactic-grind.g8hh.com/",
+        "customUrl": "https://galactic-grind.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -29795,7 +29859,7 @@
         "version": "",
         "path": "maougame",
         "author": ["maou"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["496863906"],
         "type": [
             "放置",
@@ -29838,7 +29902,7 @@
         "version": "",
         "path": "army-of-number",
         "author": ["maou"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["496863906"],
         "type": [
             "放置",
@@ -30356,7 +30420,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/the-factioree/",
         "enUrl": "https://dystopia-user181.github.io/The-Modding-Tree/",
-        "customUrl": "https://the-factioree.g8hh.com/",
+        "customUrl": "https://the-factioree.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl3": "https://yhvr.me/pt/mods.html",
         "customUrlTit3": "其它树游戏集合",
@@ -31235,7 +31299,7 @@
             "以前群里发过，网站上没发过，所以发出来~"
         ],
         "zhUrl": "https://gltyx.github.io/idle-painters/",
-        "customUrl": "https://idle-painters.g8hh.com/",
+        "customUrl": "https://idle-painters.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "enUrl": "http://almostidle.com/our/idle-painters/",
         "pic": [
@@ -31269,7 +31333,7 @@
             "塔防塔防！"
         ],
         "zhUrl": "https://g1tyx.github.io/dualforce-idle",
-        "customUrl": "https://dualforce-idle.g8hh.com/",
+        "customUrl": "https://dualforce-idle.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "kUrl": "https://www.kongregate.com/games/nerderror/dualforce-idle?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -31399,7 +31463,7 @@
             "导入有问题，请用图5的方式进行导入导出~"
         ],
         "zhUrl": "https://g1tyx.github.io/hexaclicker",
-        "customUrl": "https://hexaclicker.g8hh.com/",
+        "customUrl": "https://hexaclicker.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "pic": [
             1,
@@ -31449,7 +31513,7 @@
         "update": "2024-07-15",
         "version": "0.6.25",
         "author": ["公子羽"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["63553100"],
         "path": "c0v1d-modding-tree",
         "type": [
@@ -31612,7 +31676,7 @@
             "本游戏由反物质维度群的 @χγζ5051 大佬汉化推荐。"
         ],
         "zhUrl": "https://g1tyx.github.io/incrementreeverse-cn",
-        "customUrl": "https://incrementreeverse-cn.g8hh.com/",
+        "customUrl": "https://incrementreeverse-cn.g8hh.com.cn/",
         "customUrlTit": "备用-g8hh",
         "customUrl3": "https://gsui5051.gitee.io/incrementreeverse-cn/",
         "customUrlTit3": "原版汉化",
@@ -31638,7 +31702,7 @@
         "version": "1.275",
         "path": "milestone-tree",
         "author": ["The Loader"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["1010903229"],
         "type": [
             "放置",
@@ -31904,7 +31968,7 @@
             "魔性又费鼠标的放置游戏~充满了欢乐~"
         ],
         "zhUrl": "https://g1tyx.github.io/idle-emoji-factory",
-        "customUrl": "https://idle-emoji-factory.g8hh.com/",
+        "customUrl": "https://idle-emoji-factory.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://www.crazygames.com/game/idle-emoji-factory",
         "pic": [
@@ -31978,7 +32042,7 @@
         "update": "2024-05-21",
         "version": "0.1.1.3",
         "author": ["公子羽"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["63553100"],
         "path": "prestreestuck",
         "type": [
@@ -32341,7 +32405,7 @@
             "一款小型放置模拟病毒扫描程序的游戏，包含若干随机事件~"
         ],
         "zhUrl": "https://g1tyx.github.io/overseer",
-        "customUrl": "https://overseer.g8hh.com/",
+        "customUrl": "https://overseer.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://mrsperry.github.io/overseer/",
         "pic": [
@@ -32395,7 +32459,7 @@
             "如果链接挂了，请尝试另一个链接"
         ],
         "zhUrl": "https://g1tyx.github.io/synthesis-of-watermelon",
-        "customUrl": "https://synthesis-of-watermelon.g8hh.com/",
+        "customUrl": "https://synthesis-of-watermelon.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -32502,7 +32566,7 @@
         "version": "2.0.6",
         "path": "distance-incremental",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "type": [
             "已汉化",
@@ -32564,7 +32628,7 @@
         "version": "0.4.0",
         "path": "the-dynas-tree",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "type": [
             "汉化中",
@@ -32602,7 +32666,7 @@
         "version": "",
         "path": "time-layers",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "type": [
             "已汉化",
@@ -32660,7 +32724,7 @@
         "version": "",
         "path": "omega-layers",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "type": [
             "已汉化",
@@ -32818,7 +32882,7 @@
         "version": "1.3.3",
         "path": "vue-idle-game",
         "author": ["couy"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "type": [
             "放置",
             "点击",
@@ -32907,7 +32971,7 @@
         "update": "2022-08-13",
         "version": "5.08135",
         "author": ["就在一刹那"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["14068357"],
         "path": "my-diablo",
         "type": [
@@ -33217,7 +33281,7 @@
         "version": "1.03",
         "path": "dog-idle-3",
         "author": ["-"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["429889459"],
         "type": [
             "卡牌",
@@ -33515,7 +33579,7 @@
             "您通过卖玻璃赚钱，要制造玻璃，您需要购买沙子并将其熔化。 通过分配工人而不重复同一行或同一列中的数字并重复颜色/操作，可以赚取更多奖金倍数。"
         ],
         "zhUrl": "https://g1tyx.github.io/idle-sudoku-factory",
-        "customUrl": "https://idle-sudoku-factory.g8hh.com/",
+        "customUrl": "https://idle-sudoku-factory.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://wcarugatti.github.io/idle-sudoku-factory/",
         "kUrl": "https://www.kongregate.com/games/UpgradeTheComp/idle-sudoku-factory?sfa=permalink&referrer=SunshineDad",
@@ -33532,7 +33596,7 @@
         "update": "2019-08-07",
         "version": "1.1.13",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "path": "swarm-simulator",
         "type": [
@@ -33553,7 +33617,7 @@
             "最近启动重新汉化，可以跟上作者的新版本。"
         ],
         "zhUrl": "https://g1tyx.github.io/swarmsim",
-        "customUrl": "https://swarmsim.g8hh.com/",
+        "customUrl": "https://swarmsim.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://www.swarmsim.com",
         "pic": [
@@ -33602,6 +33666,9 @@
         "date": "2020-06-19",
         "update": "2020-06-18",
         "version": "",
+        "author": ["好阳光的小锅巴","冬天的雨"],
+        "author_type": ["汉化者","汉化者"],
+        "author_qq": ["505397145","1304805250"],
         "path": "diamond-hunt-3",
         "type": [
             "汉化中",
@@ -33697,7 +33764,7 @@
         "update": "2020-06-14",
         "version": "",
         "author": ["大企鹅"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["258423781"],
         "path": "antimatter-dimensions-ng",
         "type": [
@@ -33860,6 +33927,9 @@
         "date": "2020-06-02",
         "update": "2021-04-05",
         "version": "0.5.1.2",
+        "author": ["好阳光的小锅巴","冬天的雨"],
+        "author_type": ["汉化者","汉化者"],
+        "author_qq": ["505397145","1304805250"],
         "path": "space-company",
         "type": [
             "推荐",
@@ -34050,7 +34120,7 @@
         "version": "1.53",
         "path": "mo-ri-jue-qi",
         "author": ["Watcher"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["303712287"],
         "type": [
             "点击",
@@ -34134,7 +34204,7 @@
             "《超级英雄消消乐》是一款消除类的小游戏，偶尔放松一下也是不错的。"
         ],
         "zhUrl": "https://g1tyx.github.io/superhero-eliminate",
-        "customUrl": "https://superhero-eliminate.g8hh.com/",
+        "customUrl": "https://superhero-eliminate.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "pic": [
             1,
@@ -34161,7 +34231,7 @@
             "本游戏是爱好者参照手游版写的。"
         ],
         "zhUrl": "https://g1tyx.github.io/never-give-up",
-        "customUrl": "https://never-give-up.g8hh.com/",
+        "customUrl": "https://never-give-up.g8hh.com.cn/",
         "customUrlTit": "备用-g8hh",
         "pic": [
             1,
@@ -34238,7 +34308,7 @@
         "version": "2.10.10",
         "path": "synergism",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "type": [
             "汉化中",
@@ -34311,7 +34381,7 @@
         "version": "4.7",
         "path": "wu-world-fu-ke",
         "author": ["串烧章鱼"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["58614550"],
         "type": [
             "点击",
@@ -34342,7 +34412,7 @@
         "version": "1.015-2",
         "path": "lets-fight-monster",
         "author": ["江畔孤舟明月"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["113339701"],
         "type": [
             "点击",
@@ -34523,7 +34593,7 @@
         "update": "2019-12-24",
         "version": "1.08",
         "author": ["就在一刹那"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["14068357"],
         "path": "my-guild",
         "type": [
@@ -34722,7 +34792,7 @@
         "update": "2024-07-10",
         "path": "ngu",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "type": [
             "汉化中",
@@ -34800,7 +34870,7 @@
             "这是一款关于心理健康的放置型增量游戏。。您能否将压力降低到零，还是会筋疲力尽？"
         ],
         "zhUrl": "https://gltyx.github.io/incremental-health/",
-        "customUrl2": "https://incremental-health.g8hh.com/",
+        "customUrl2": "https://incremental-health.g8hh.com.cn/",
         "customUrlTit2": "备用地址-g8hh",
         "enUrl": "https://heuperman.github.io/incremental-health/",
         "pic": [
@@ -34847,7 +34917,7 @@
         "update": "2019-10-23",
         "version": "1.602",
         "author": ["就在一刹那"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["14068357"],
         "path": "chou-chou-chou",
         "type": [
@@ -35067,7 +35137,7 @@
         ],
         "zhUrl": "https://g8hh.github.io/incremental-adventures",
         "customUrlTit": "备用-g8hh",
-        "customUrl": "https://incremental-adventures.g8hh.com/",
+        "customUrl": "https://incremental-adventures.g8hh.com.cn/",
         "kUrl": "https://www.kongregate.com/games/Gniller/incremental-adventures?sfa=permalink&referrer=SunshineDad",
         "steamUrl": "https://store.steampowered.com/app/1371630/Incremental_Adventures/",
         "pic": [
@@ -35416,7 +35486,7 @@
         "version": "1.3.4b",
         "path": "evolve",
         "author": ["by22dgb"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["509162686"],
         "type": [
             "推荐",
@@ -35851,7 +35921,7 @@
         "update": "2019-11-04",
         "path": "be-knight",
         "author": ["串烧章鱼"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["58614550"],
         "type": [
             "点击",
@@ -36117,7 +36187,7 @@
         "content": [
             "EcoClicker 是一款游戏，您必须通过植树来拯救地球免受全球变暖的影响。 如果您遇到任何问题或需要任何反馈，请在论坛中发帖。 谢谢你来玩！"
         ],
-        "zhUrl": "https://ecoclicker.g8hh.com/",
+        "zhUrl": "https://ecoclicker.g8hh.com.cn/",
         "enUrl": "https://alastor-games.itch.io/ecoclicker",
         "pic": [
             1,
@@ -36374,7 +36444,7 @@
         "date": "2019-04-21",
         "path": "kubition-advanture",
         "author": ["maou"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["496863906"],
         "type": [
             "放置",
@@ -36405,7 +36475,7 @@
         "update": "2019-09-03",
         "version": "C2.250",
         "author": ["就在一刹那"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["14068357"],
         "path": "my-wow",
         "type": [
@@ -36473,7 +36543,7 @@
         "date": "2019-04-12",
         "update": "2023-10-07",
         "author": ["魔法少女小AI"],
-        "author_type": "作者",
+        "author_type": ["作者"],
         "author_qq": ["522436383"],
         "path": "idle-infinity",
         "type": [
@@ -36592,7 +36662,7 @@
             ""
         ],
         "zhUrl": "https://gityxs.github.io/the-idle-class/",
-        "customUrl": "https://the-idle-class.g8hh.com/",
+        "customUrl": "https://the-idle-class.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://www.smallgraygames.com/the-idle-class",
         "pic": [
@@ -36645,7 +36715,7 @@
             "很有趣的一款放置游戏~"
         ],
         "zhUrl": "https://g1tyx.github.io/progress-bars",
-        "customUrl": "https://progress-bars.g8hh.com/",
+        "customUrl": "https://progress-bars.g8hh.com.cn/",
         "customUrlTit": "汉化版-g8hh",
         "enUrl": "https://polatrite.github.io/progress-bars/",
         "oscUrl": "https://www.oschina.net/p/progress-bars",
@@ -36730,7 +36800,7 @@
         ],
         "zhUrl": "https://g1tyx.github.io/drowning/",
         "enUrl": "http://game.notch.net/drowning/",
-        "customUrl": "https://drowning.g8hh.com/",
+        "customUrl": "https://drowning.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "pic": [
             1,
@@ -37237,7 +37307,7 @@
         "update": "2025-07-25",
         "version": "0.6.3",
         "author": ["好阳光的小锅巴","TG303"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者","汉化者"],
         "author_qq": ["505397145","568905547"],
         "path": "level-13",
         "type": [
@@ -37283,7 +37353,7 @@
         "date": "2018-04-10",
         "path": "heart-of-sharkness",
         "author": ["好阳光的小锅巴","TG303"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者","汉化者"],
         "author_qq": ["505397145","568905547"],
         "type": [
             "已汉化",
@@ -37519,7 +37589,7 @@
             ""
         ],
         "zhUrl": "https://gltyx.github.io/coloridle/",
-        "customUrl": "https://coloridle.g8hh.com/",
+        "customUrl": "https://coloridle.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "kUrl": "https://www.kongregate.com/games/Myafkish/hex-color-idle?sfa=permalink&referrer=SunshineDad",
         "pic": [
@@ -37590,7 +37660,7 @@
         "content": [
             "这是一款放点击置型经营游戏，你可以建造各种元件生产能量，然后卖掉能量，解锁元件、升级、研究等。"
         ],
-        "customUrl": "https://reactor-idle.g8hh.com/",
+        "customUrl": "https://reactor-idle.g8hh.com.cn/",
         "customUrlTit": "备用地址-g8hh",
         "customUrl2": "https://g8hh.github.io/reactoridle",
         "customUrlTit2": "备用地址-GitHub",
@@ -37637,7 +37707,7 @@
         "date": "2017-10-27",
         "path": "city-inc",
         "author": ["好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者"],
         "author_qq": ["505397145"],
         "type": [
             "已汉化",
@@ -37754,7 +37824,7 @@
         "version": "1.4.9.4.r1411",
         "path": "kittens-game",
         "author": [ "Cheney","好阳光的小锅巴"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者","汉化者"],
         "author_qq": ["809005839","505397145"],
         "type": [
             "推荐",
@@ -37798,7 +37868,7 @@
         "version": "5.9.1",
         "path": "trimps-steam",
         "author": ["by22dgb","好阳光的小锅巴","TG303"],
-        "author_type": "汉化者",
+        "author_type": ["汉化者","汉化者","汉化者"],
         "author_qq": ["509162686","505397145","568905547"],
         "type": [
             "推荐",
