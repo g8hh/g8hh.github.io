@@ -29,16 +29,22 @@
     "tips": "锅巴推荐小程序，每笔消费都省钱",
     "status": 0
 },{
-    "title": "传灯，经典文字冒险RPG",
-    "link": "http://43.138.77.26:99/xinqu.php",
-    "button": "开始游戏",
-    "tips": "国人自制投稿网络多人RPG游戏",
-    "status": 1
-},{
     "title": "离线挂机系统，自制暗黑修仙游戏",
     "link": "http://common.199yt.com/danji/xiuzhen2_1/?tg=gityx",
     "button": "开始游戏",
     "tips": "国人自制暗黑修仙挂机游戏",
+    "status": 1
+},{
+    "title": "武侠大反派，战斗养成挂机页游",
+    "link": "https://wxdfp.guajiwenzi.com?agent_code=AG0975762E4D&game_code=wuxiadafanpai",
+    "button": "开始游戏",
+    "tips": "国人自制投稿网络战斗养成挂机页游",
+    "status": 1
+},{
+    "title": "传灯，经典文字冒险RPG",
+    "link": "http://43.138.77.26:99/xinqu.php",
+    "button": "开始游戏",
+    "tips": "国人自制投稿网络多人RPG游戏",
     "status": 1
 },{
     "title": "无尽洪荒，文字MUD修仙游戏",

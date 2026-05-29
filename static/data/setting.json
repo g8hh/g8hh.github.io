@@ -1,5 +1,5 @@
 [{
-    "version": "1.1.34",
+    "version": "1.1.65",
     "site_url": "https://g8hh.com.cn",
     "site_title1": "锅巴",
     "site_title2": "汉化",
@@ -16,7 +16,7 @@
     "article_colorList": ["#FF8C00","#99CC33","#FF6666","#66CCCC","#D2C006","#33CC99","#FF99CC","#CC9966","#CCCCFF","#3366CC"],
     "copyright": "© 2017 - 2026 锅巴汉化 All rights reserved.",
     "mianze": "本站所有游戏收集于互联网、玩家投稿，仅用于学习交流。版权归原作者所有，未经许可不得用于任何商业目的，如果侵犯了您的权益，请联系我们删除。",
-    "about_text1": "Git游戏 旨在发现GitHub上面好玩的 Html网页游戏，然后拉取过来，进行汉化，方便中国玩家玩耍。",
+    "about_text1": "Git游戏 旨在发现GitHub上面好玩的 Html网页游戏，然后拉取过来，进行汉化，方便中文区玩家玩耍。",
     "about_text2": "如果你对游戏汉化感兴趣，或者自己也是一位游戏开发者（学习者），我们热烈欢迎您的加入。",
     "about_text3": "本汉化团队成员都是游戏爱好者自行加入的，汉化纯属爱好，没有薪资报酬的哦。",
     "about_text4": "注意：因为Flash、Unity 3D游戏的特殊性，我们技术所限，所以无法进行汉化，敬请谅解。",
