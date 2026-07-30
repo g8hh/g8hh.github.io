@@ -17,12 +17,7 @@
     "title": "武侠大反派，战斗养成挂机页游",
     "link": "https://wxdfp.guajiwenzi.com?agent_code=AG0975762E4D&game_code=wuxiadafanpai",
     "button": "武侠大反派-网页/手机",
-    "status": 1
-},{
-    "title": "传灯，经典文字冒险RPG",
-    "link": "http://43.138.77.26:99/xinqu.php",
-    "button": "传灯-网页/手机",
-    "status": 1
+    "status": 0
 },{
     "title": "文字MUD修仙游戏，复古挂机放置",
     "link": "https://mudgj.com/wjhh/login.do/?td_channelid=gityx",
@@ -39,10 +34,15 @@
     "button": "迷你梦幻-网页",
     "status": 1
 },{
+    "title": "传灯，经典文字冒险RPG",
+    "link": "http://43.138.77.26:99/xinqu.php",
+    "button": "传灯-网页/手机",
+    "status": 1
+},{
     "title": "欢迎大家填锅巴的邀请码: JsEBxe",
     "link": "https://lh9.online?key=JsEBxe",
     "button": "轮回小镇-国产奶牛",
-    "status": 1
+    "status": 0
 },{
     "title": "QQ群号：421409836（加群领福利码）",
     "link": "https://ttssy.lanzouu.com/iZzjK3jpyhkj",
@@ -74,7 +74,7 @@
     "button": "银河奶牛放置",
     "status": 0
 },{
-    "title": "经典怀旧，国庆新开21区等你",
+    "title": "经典怀旧",
     "link": "https://gityx.com/app/mnmh141919.apk",
     "button": "迷你梦幻-安卓",
     "status": 1

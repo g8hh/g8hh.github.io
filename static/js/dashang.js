@@ -25,11 +25,15 @@ $(function(){
     dashang += '<span class="radiobox"></span>';
     dashang += '<span class="pay_logo"><img src="../images/dashang/qq.jpg" alt="QQ" /></span>';
     dashang += '</div>';
+    dashang += '<div class="pay_item" data-id="paypal">';
+    dashang += '<span class="radiobox"></span>';
+    dashang += '<span class="pay_logo"><img src="../images/dashang/paypal.jpg" alt="Paypal" /></span>';
+    dashang += '</div>';
     dashang += '</div>';
     dashang += '<div class="shang_info">';
     dashang += '<p>打开<span id="shang_pay_txt">支付宝</span>扫一扫，即可进行扫码打赏哦</p>';
     dashang += '<p>分享从这里开始，精彩与您同在</p>';
-    dashang += '<p><a style="margin-right:20px;color:#009BE1;font-weight:bold;" href="https://www.paypal.me/sundad" target="_blank"><font color="#01315F">PayPal</font> Donation</a><a href="../../#/support" target="_blank" style="color:blue;">查看打赏列表</a></p>';
+    dashang += '<p><a href="../../#/support" target="_blank" style="color:blue;">查看打赏列表</a></p>';
     dashang += '</div>';
     dashang += '</div>';
     dashang += '</div>';
