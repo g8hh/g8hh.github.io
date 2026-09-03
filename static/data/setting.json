@@ -1,5 +1,5 @@
 [{
-    "version": "1.4.1",
+    "version": "1.4.5",
     "site_url": "https://g8hh.com.cn",
     "site_title1": "锅巴",
     "site_title2": "汉化",
@@ -31,6 +31,7 @@
     "author_tip": "* 本排行榜是按 作者/汉化者 投稿或参与汉化的游戏数量，进行降序排列的，欢迎大家积极投稿。",
     "#######": "#######",
     "rateUrl": "评分链接",
+    "changelogUrl": "更新日志链接",
     "zhUrl": "中文版",
     "enUrl": "英文版",
     "kUrl": "K站英文版",
@@ -43,7 +44,6 @@
     "hhUrl": "汉化导入方式",
     "jbUrl": "自动脚本导入方式",
     "qqUrl": "玩家交流QQ群",
-    "changelogUrl": "更新日志链接",
     "author": ["人名"],
     "author_type": ["作者/投稿者/汉化者"],
     "author_qq": ["作者QQ"],
