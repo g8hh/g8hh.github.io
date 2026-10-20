@@ -2,11 +2,16 @@
 // @name         《永恒之塔》自动化脚本-三合一版（一个标签页同时：战斗、采矿、种地）
 // @namespace    https://www.gityx.com/
 // @version      0.0.33.16
-// @description  Eternity Tower (http://tower.bluesky.site/) 游戏汉化脚本 - 锅巴汉化出品
+// @description  Eternity Tower (https://eternitytower.net/) 游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
-// @include      *http://tower.bluesky.site/*
+// @copyright    锅巴汉化
+// @contributionUR    https://gityx.com/donate/intro.html
+// @icon         https://eternitytower.net/favicon.ico
+// @license      MIT
+// @include      *https://eternitytower.net/*
 // @grant        none
 // @website      https://www.gityx.com
+// @require      https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js
 // @updateURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto.user.js
 // @downloadURL    https://g8hh.com.cn/zh/tampermonkey/eternitytower-auto.user.js
 // ==/UserScript==

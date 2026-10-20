@@ -4,9 +4,15 @@
 // @version      0.0.41.4
 // @description  Eternity Tower (https://tower.bluesky.site/) 游戏汉化脚本 - 锅巴汉化出品
 // @author       麦子、JAR、小蓝、好阳光的小锅巴
-// @include      *https://tower.bluesky.site/*
+// @copyright    锅巴汉化
+// @contributionUR    https://gityx.com/donate/intro.html
+// @icon         https://eternitytower.net/favicon.ico
+// @license      MIT
+// @include      *https://eternitytower.net/*
+// @grant        none
 // @grant        none
 // @website      https://www.gityx.com
+// @require      https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js
 // @updateURL    https://g8hh.cn/zh/tampermonkey/eternitytower-auto2.user.js
 // @downloadURL    https://g8hh.cn/zh/tampermonkey/eternitytower-auto2.user.js
 // ==/UserScript==
