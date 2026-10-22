@@ -1,5 +1,5 @@
 [{
-    "version": "1.5.85",
+    "version": "1.5.91",
     "site_url": "https://g8hh.com.cn",
     "site_title1": "锅巴",
     "site_title2": "汉化",
@@ -54,6 +54,7 @@
     "author": ["人名"],
     "author_type": ["作者/投稿者/汉化者"],
     "author_qq": ["作者QQ"],
+    "imgExt": "截图1-n后缀名：png、jpg、jpeg等",
     "needHH": "是否需要汉化",
     "hot": "热门",
     "tuijian": "推荐",
