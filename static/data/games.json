@@ -897,7 +897,7 @@
         "author": ["111","222"],
         "author_type": ["作者","投稿者"],
         "author_qq": ["111","222"],
-        "path": "tg-acagarden",
+        "path": "tg-xxxxx",
         "type": [
             "网络",
             "自制",
@@ -977,7 +977,7 @@
             ""
         ],
         "steamUrl": "https://store.steampowered.com/app/5270820/?utm_source=gityx",
-        "rateUrl": "",
+        "rateUrl": "https://gityx.com/pc/steam/1530.html",
         "QQ": "816462152",
         "qqUrl": "https://qm.qq.com/q/Sn9uYAdX6a",
         "chouUrl": "https://gityx.com/Lottery/index.html",
@@ -991,11 +991,10 @@
             7,
             8,
             9,
-            10,
             0
         ],
         "needHH": 0,
-        "status": 0
+        "status": 1
     },
     {
         "title": "青禾小镇，国人自制休闲养成多人挂机经营放置",
@@ -29592,7 +29591,7 @@
         "author": ["千夜"],
         "author_type": ["作者"],
         "author_qq": ["314050744"],
-        "path": "antimatter​-mota",
+        "path": "antimatter-mota",
         "type": [
             "投稿",
             "自制",
