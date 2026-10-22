@@ -1,5 +1,5 @@
 [{
-    "version": "1.4.22",
+    "version": "1.5.83",
     "site_url": "https://g8hh.com.cn",
     "site_title1": "锅巴",
     "site_title2": "汉化",
@@ -33,7 +33,7 @@
     "#######": "#######",
     "rateUrl": "评分链接",
     "changelogUrl": "更新日志链接",
-    "chouUrl": "抽奖链接",
+    "chouUrl": "https://gityx.com/Lottery/index.html",
     "chouUrl2": "抽奖链接2",
     "chouUrl3": "抽奖链接3",
     "chouUrl4": "抽奖链接4",

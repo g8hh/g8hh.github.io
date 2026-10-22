@@ -1,18 +1,19 @@
 // ==UserScript==
 // @name         Eternity Tower 简中汉化脚本
 // @namespace    https://www.g8hh.com.cn/
-// @version      0.2.14
+// @version      0.2.20
 // @description  Eternity Tower (https://eternitytower.net/) 的简体中文汉化脚本。Simplified Chinese i18n script for web game Eternity Tower.
 // @author       好阳光的小锅巴 & 麦子
 // @copyright    锅巴汉化
 // @contributionUR    https://gityx.com/donate/intro.html
 // @icon         https://eternitytower.net/favicon.ico
 // @license      MIT
-// @include      *https://eternitytower.net/*
+// @include      *eternitytower.net*
 // @grant        none
 // @website      https://www.gityx.com
 // @updateURL    https://g8hh.cn/zh/tampermonkey/eternitytower-chs.user.js
 // @downloadURL    https://g8hh.cn/zh/tampermonkey/eternitytower-chs.user.js
+// @run-at      document-end
 // ==/UserScript==
 /**
  * ---------------------------
@@ -579,6 +580,7 @@ var cnItems = {
     'Personal Woodcutting Upgrade': '个人木工升级',
     'Phasing Key': '相位钥匙',
     'Raise Your Glass': '举起酒杯',
+    'raise your glass': '举起酒杯',
     'Randomly contains one of various goodies that were available during the Holidays': '随机包含节日期间可用的各种各样的好东西之一',
     'Randomly contains one of various goodies that were available during the Lunar New Year\'s event': '随机包含一个各种各样的糖果，可在农历新年期间的活动',
     'Randomly contains one of various goodies that were available during the New Year\'s event': '随机包含新年活动期间提供的各种好东西之一',
@@ -607,6 +609,7 @@ var cnItems = {
     'T2 Tank Icon': 'T2坦克图标',
     'lemonade (food item': '柠檬水（食用物品',
     'festive hat (head equipment': '节日帽子（头部装备',
+    'holiday cheer': '假日欢呼',
     'Holiday Cheer': '假日欢呼',
     'Key is consumed on use': '钥匙在使用时消耗',
     'Increase item quality by up to': '将物品品质提高',
@@ -2061,7 +2064,7 @@ var cnItems = {
     'cursed quiver': '诅咒箭袋',
     'cursed spear': '诅咒矛',
     'dangerous orb': '危险宝珠',
-    'none': 'none',
+    'none': '无',
     'darksteel chest plate scroll': '暗钢板胸卷轴',
     'darksteel furnace': '暗钢炉',
     'darksteel furnace scroll': '暗钢炉卷轴',
@@ -3483,10 +3486,8 @@ var cnItems = {
     "Sort": "排序",
     "Switch to Classic design": "切换为经典皮肤",
     "Send Message": "发送消息",
-    "Single Hit": "单次",
     "Mining Cave": "矿洞",
     "Mining Stats": "挖矿统计",
-    "Multihit": "多次",
     "Ore Hoard": "",
     "Hide Old": "隐藏旧的",
     "Hide Unavailable": "隐藏不可用",
@@ -3517,7 +3518,6 @@ var cnItems = {
     "red envelope": "红包",
     "party firework": "派对烟花",
     "How many?": "多少个？",
-    "Replant All": "全部重种",
     "Visit the Magic page > Inscription > Pigments tab": "访问 魔法 页面 > 铭刻 > 颜料 选项卡",
     "Visit the Magic page > Inscription > Paper tab": "访问 魔法 页面 > 铭刻 > 纸 选项卡",
     "Visit the Magic page > Inscription > Abilities tab": "访问 魔法 页面 > 铭刻 > 能力 选项卡",
@@ -3573,53 +3573,55 @@ var cnItems = {
     "Replace": "替换",
     "Save": "保存",
     "with what you are wearing now?": "用你现在身上穿的装备？",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
+    "Feast": "宴请",
+    "Feasts:": "宴请:",
+    "Not all the seeds could be found.": "没有找到所有的种子。",
+    "Alchemy": "炼金术",
+    "Academy": "学院",
+    "Unlocks when the community opens Tower floor": "将解锁于社区打通塔层",
+    "Your woodcutters are cutting down the golden tree!": "你的樵夫正在砍那棵金树！",
+    "Tend": "照料",
+    "Value": "价值",
+    "Sort:": "排序:",
+    "copper raider chest": "铜掠夺者胸甲",
+    "Designed for vicious combat": "专为激烈战斗而设计",
+    ". . . waiting . . .": ". . . 等待中 . . .",
+    "✓ ready": "✓ 已准备",
+    "Equip": "装备",
+    "Ready": "准备",
+    "Ready check": "准备检查",
+    "Return to ready check": "返回准备检查",
+    "Not Ready": "未准备",
+    "greater snail": "高级蜗牛",
+    "Chop": "砍",
+    "Golden tree": "金树",
+    "Disable idle page titles": "禁用放置页面标题",
+    "Enable idle page titles": "启用放置页面标题",
+    "Magic Codex recipes are locked": "魔法法典的配方还未解锁",
+    "Collect the PQ 50 achievement to unlock them.": "领取 个人任务（PQ） 50成就以解锁它们。",
+    "Please wait": "请稍候",
+    "Relaunch Test": "重启测试",
+    "The game is updating": "游戏更新中",
+    "The game will reconnect automatically when the update is complete.": "游戏将在更新完成后自动重新连接。",
+    "You won't see": "你不会看到",
+    "won't be able to invite you to a group. You can unblock them on the Social page.": "无法邀请你加入群组。你可以在社交页面上取消屏蔽他们。",
+    "Send email again": "再次发送邮件",
+    "Send the verification email again": "再次发送验证邮件",
+    "Are you sure?": "你确定吗？",
+    "'s messages in any chat, ": "消息在任何聊天中，",
+    "(crafted) or": "(制作) 或",
+    "Tinker Item": "重铸物品",
+    "Tinker an item's rarity up to": "将物品的稀有度重铸提升至",
+    "(looted), then reforge it higher at the risk of losing it.": "（战利品），然后以更高的丢失风险重新锻造。",
+    "The Workshop is locked. Collect the Take 500 Damage achievement to unlock the Workshop and Alchemy.": "工坊未解锁。收集“造成500点伤害”成就以解锁工坊和炼金术。",
+    "The game will reconnect automatically.": "游戏将自动重新连接。",
+    "Reconnecting": "重新连接",
+    "Keep going": "继续前进",
+    "Workshop": "工坊",
+    "(nothing in the workshop)": "(工坊里面什么都没有)",
+    "Distill an item's rarity, then transfer it between crafted items or between looted items of the same material.": "提取一件物品的稀有度，然后在制作的物品之间或在掠夺的相同材料的物品之间转移。",
+    "Distillation destroys an item you are qualified to work in the Workshop and turns its rarity into a separate distillation item. There is a 1% chance for each rarity tier above the base that nothing is produced; a global crafting buff prevents that. Infusion uses a distillation to raise a target item's rarity.": "蒸馏会销毁你有资格在工坊中制作的物品，并将其稀有度转化为一个独立的蒸馏物品。对于基础稀有度以上的每一级，都有1%的概率无法生成任何物品；但全局制作物品加成可防止此情况发生。注入则通过蒸馏来提升目标物品的稀有度。",
+    "Alchemy is locked. Collect the Take 500 Damage achievement to unlock the Workshop and Alchemy.": "炼金未解锁。收集“造成500点伤害”成就以解锁工坊和炼金术。",
     "": "",
     "": "",
     "": "",
@@ -3657,7 +3659,7 @@ var cnItems = {
     "": "",
     "": "",
     "": "",
-    "": "",
+    "expand_more": "expand_more",
     "arrow_upward": "arrow_upward",
     "remove_red_eye": "remove_red_eye",
     "home": "home",
@@ -5142,7 +5144,7 @@ var cnPostfix = {
     "Farewell": "告别",
     "Squire Died": "侍从死去",
     "Tear": "眼泪",
-    "Shred": "撕碎",
+    "Shred": "碎裂",
     "Forces all enemies to target you.": "迫使所有敌人瞄准你。",
     "Pierce": "刺穿",
     "Rip": "裂开",
@@ -5406,7 +5408,10 @@ var cnPostfix = {
     "You are dancing and celebrating for luck, raising your chance to find valuables in each battle.  When combat ends, each member of your party using Lion Dance will increase the chances of finding loot by": "你正在跳舞并庆祝好运，每场战斗都会提高你找到贵重物品的机会。当战斗结束时，使用狮子舞的队伍成员将增加寻获战利品的概率",
     "Freezes current target, dealing (100% MP) magic damage\n        and slowing attack speed by 15%.": "冻结当前目标，造成（100%魔力值）魔法伤害，并降低其15%攻击速度。",
     "Strikes the target with earth, dealing (100% MP) damage\n        and stunning them for 3s.": "以大地之力轰击目标，造成（100%魔力值）伤害，眩晕目标3秒。",
-    "": "",
+    "Multihit": "多次",
+    "Single Hit": "单次",
+    "Replant All": "全部重种",
+    "Force!": "强制!",
     "": "",
     "": "",
     "": "",
@@ -5502,7 +5507,12 @@ var cnRegReplace = new Map([
     [/^(.+) Game Version (.+)$/, '$1 游戏版本 $2'],
     [/^Failed to craft (.+). The Craft queue is full.$/, '无法制作 $1。制作队列已满。'],
     [/^Banned (.+) forever.$/, '$1 已被永久封禁。'],
+    [/^You tended the overgrowth: (.+) Farming XP.$/, '你控制了过度生长：$1 农业经验值。'],
+    [/^You tended the overgrowth: (.+) Farming XP and (.+).$/, '你控制了过度生长：$1 农业经验值 和 $2。'],
+    [/^You tended the overgrowth: (.+) Farming XP. Your crops grew faster.$/, '你控制了过度生长：$1 农业经验值。你的作物生长得更快了。'],
+    [/^Feast tier (.+): (.+) left$/, '宴请等级 $1: $2 剩余'],
     [/^Unbanned (.+).$/, '$1 已被解除封禁。'],
+    [/^Equipped “(.+)”.$/, '已装备 “$1”.'],
     [/^(.+) damage and (.+) accuracy for every passive passive slotted in your loadout(.+)beyond 3 passive abilities.$/, '超过3个被动技能后，每个被动技能增加 $1 的伤害和 $2 的精准度。'],
     [/^You must have at least level 95 defense to equip your cursed helmet.$/, '你必须达到至少 $1 级防御才能装备你的诅咒头盔。'],
     [/^(.+) has extended the combat buff for all players \((.+) hours remaining\)!$/, '$1 延长了全局战斗Buff，所有玩家都会受益（Buff剩余 $2 小时）！'],
@@ -5712,6 +5722,7 @@ var cnRegReplace = new Map([
     [/^\+([\d\.,]+) hour$/, '\+$1 小时'],
     [/^Spartan Warrior ([\d\.,]+)$/, '斯巴达战士 $1'],
     [/^Season ([\d\.,]+)  \- Level ([\d\.,]+)$/, '赛季 $1 \- 等级 $2'],
+    [/^Cupid tome Lv. ([\d\.,]+)$/, '丘比特卷轴 等级 $1'],
     [/^Floor ([\d\.,]+)$/, '楼层 $1'],
     [/^Updated “Set (.+)” to what you are wearing now.$/, '更新 “预设 $1” 为你现在穿的装备。'],
     [/^Updated “(.+)” to what you are wearing now.$/, '更新 “ $1” 为你现在穿的装备。'],
@@ -5815,6 +5826,8 @@ var cnRegReplace = new Map([
     [/^                  \+([\d\.]+)$/, '                  \+$1'],
     [/^\-([\d\.]+) armor$/, '-$1 护甲'],
     [/^\-([\d\.]+) min. dmg.$/, '-$1 最低伤害。'],
+    [/^([\d\.]+) max. dmg.$/, '$1 最大伤害。'],
+    [/^([\d\.]+) min. dmg.$/, '$1 最低伤害。'],
     [/^\-([\d\.]+) max. dmg.$/, '-$1 最大伤害。'],
     [/^([\d\.]+) magic power$/, '$1 魔法力量'],
     [/^([\d\.]+) magic pool$/, '$1 魔法池'],
@@ -5822,6 +5835,8 @@ var cnRegReplace = new Map([
     [/^([\d\.]+) passive miner damage$/, '$1 被动矿工伤害'],
     [/^([\d\.]+) health$/, '$1 生命值'],
     [/^([\d\.]+) defense$/, '$1 防御'],
+    [/^([\d\.]+) force$/, '$1 强制'],
+    [/^([\d\.]+) shred$/, '$1 碎裂'],
     [/^([\d\.]+) armor$/, '$1 护甲'],
     [/^([\d\.]+) accuracy$/, '$1 精准度'],
     [/^([\d\.]+) attack speed$/, '$1 攻击速度'],
@@ -6087,10 +6102,32 @@ function cnItemByTag(text, itemgroup, node, textori) {
 
 //2.采集新词
 //20190320@JAR  rewrite by 麦子
-var cnItem = function(text, node) {
+//词典索引：{ en: Map(英文原文→译文), cn: Set(已有译文), tags: [[原文, 词条组], ...] }
+//cnItems 有 4168 个条目，原实现每翻译一个文本都要线性遍历一遍
+var cnDictIndex = null;
+//本次翻译是否命中了依赖 DOM 上下文的词条（命中则结果不可缓存，见下方 cnItem）
+var cnItemTagHit = false;
+function buildDictIndex() {
+    cnDictIndex = { en: new Map(), cn: new Set(), tags: [] };
+    for (let key in cnItems) {
+        if (key === '_OTHER_') continue;
+        let value = cnItems[key];
+        if (typeof(value) == 'string') {
+            cnDictIndex.en.set(key, value);
+            cnDictIndex.cn.add(value);
+        } else if (typeof(value) == 'object' && value !== null) {
+            cnDictIndex.tags.push([key, value]);
+        }
+    }
+}
+
+//原名 cnItem，改为内部实现；对外暴露的 cnItem 见下方带缓存的包装
+var cnItemNoCache = function(text, node) {
 
     if (typeof(text) != "string")
         return text;
+    //这里不做任何"提前返回"：实测纯空白、"中文+换行"等文本也会被前后缀正则处理
+    //（例如 "\n  " 会被处理成 "\n"），提前返回会改变译文结果。去重交给外层缓存。
     let textori = text;
     //处理前缀
     let text_prefix = "";
@@ -6118,8 +6155,8 @@ var cnItem = function(text, node) {
         }
     }
 
-    //检验字典是否可存
-    if (!cnItems._OTHER_) cnItems._OTHER_ = [];
+    //检验字典是否可存（改用 Set：原来是数组，每次收录生词都要线性遍历 + sort 一遍）
+    if (!(cnItems._OTHER_ instanceof Set)) cnItems._OTHER_ = new Set();
 
     //检查是否排除
     for (let reg of cnExcludeWhole) {
@@ -6129,49 +6166,54 @@ var cnItem = function(text, node) {
     }
 
     //尝试正则替换
-    for (let [key, value] of cnRegReplace.entries()) {
-        if (key.test(text)) {
-            return text_prefix + text.replace(key, value) + text_reg_exclude_postfix + text_postfix;
+    //不含英文字母的文本（数字、符号）实测不会命中任何替换规则，跳过这 550 次正则扫描。
+    //仍保留前后的前缀/后缀处理与整词排除，以免改变原行为
+    if (/[a-zA-Z]/.test(text)) {
+        for (let [key, value] of cnRegReplace.entries()) {
+            if (key.test(text)) {
+                return text_prefix + text.replace(key, value) + text_reg_exclude_postfix + text_postfix;
+            }
         }
     }
 
     //遍历尝试匹配
-    for (let i in cnItems) {
-        //字典已有词汇或译文、且译文不为空，则返回译文
-        if (typeof(cnItems[i]) == "string" && (text == i || text == cnItems[i])) {
-            return text_prefix + cnItems[i] + text_reg_exclude_postfix + text_postfix;
-        } else if (typeof(cnItems[i]) == "object" && text == i) {
-            let result = cnItemByTag(i, cnItems[i], node, textori);
+    //原实现每次都线性遍历 4168 个 key。这里改为预先建索引：
+    //字符串词条用 Map 做 O(1) 命中；object 词条（需要按 DOM 上下文选译文）单独收集
+    if (!cnDictIndex) buildDictIndex();
+    //已经是译文的直接返回（放在英文命中之前：译文若同时是另一个词条的原文，应保持原文语义）
+    if (cnDictIndex.cn.has(text)) {
+        return text_prefix + text + text_reg_exclude_postfix + text_postfix;
+    }
+    if (cnDictIndex.en.has(text)) {
+        //英文原文命中
+        return text_prefix + cnDictIndex.en.get(text) + text_reg_exclude_postfix + text_postfix;
+    }
+    for (let entry of cnDictIndex.tags) {
+        if (text == entry[0]) {
+            //这类词条要按节点的父链 class/id、或 document.querySelector 结果选译文，
+            //结果与 DOM 上下文相关，标记为不可缓存
+            cnItemTagHit = true;
+            let result = cnItemByTag(entry[0], entry[1], node, textori);
             if (result != null) {
                 return text_prefix + result + text_reg_exclude_postfix + text_postfix;
             } else {
-                CNITEM_DEBUG && console.log({ text: i, cnitem: cnItems[i], node });
+                CNITEM_DEBUG && console.log({ text: entry[0], cnitem: entry[1], node });
             }
-        } else {
-            // continue;
         }
     }
 
     //调整收录的词锭，0=收录原文，1=收录去除前后缀的文本
     let save_cfg = 1;
     let save_text = save_cfg ? text : textori;
-    //遍历生词表是否收录
-    for (
-        let i = 0; i < cnItems._OTHER_.length; i++
-    ) {
+    //遍历生词表是否收录（Set.has 为 O(1)，原来要线性遍历最多 1000 条）
+    if (cnItems._OTHER_.has(save_text)) {
         //已收录则直接返回
-        if (save_text == cnItems._OTHER_[i])
-            return text_prefix + text + text_reg_exclude_postfix + text_postfix;
+        return text_prefix + text + text_reg_exclude_postfix + text_postfix;
     }
 
-    if (cnItems._OTHER_.length < 1000) {
-        //未收录则保存
-        cnItems._OTHER_.push(save_text);
-        cnItems._OTHER_.sort(
-            function(a, b) {
-                return a.localeCompare(b)
-            }
-        );
+    if (cnItems._OTHER_.size < 1000) {
+        //未收录则保存（Set 自带去重，不再需要 sort）
+        cnItems._OTHER_.add(save_text);
     }
 
     //开启生词打印
@@ -6181,6 +6223,23 @@ var cnItem = function(text, node) {
 
     //返回生词字串
     return text_prefix + text + text_reg_exclude_postfix + text_postfix;
+};
+
+//翻译结果缓存：页面上存在大量重复文案（导航、按钮、状态提示等），
+//缓存后可避免对相同文本反复执行词典遍历与正则匹配。
+//key 带上标签名，避免按标签区分译文的词条命中到别的标签的缓存结果
+var cnItemCache = new Map();
+var cnItem = function(text, node) {
+    if (typeof(text) != "string") return text;
+    var key = (node && node.nodeName ? node.nodeName : "") + "\u0000" + text;
+    var hit = cnItemCache.get(key);
+    if (hit !== undefined) return hit;
+    // 按标签区分译文的词条（.class / #id / $selector）结果与节点在 DOM 中的位置有关，
+    // 同一文本在不同位置可能得到不同译文，这类结果一律不进缓存，避免翻译串号
+    cnItemTagHit = false;
+    var result = cnItemNoCache(text, node);
+    if (!cnItemTagHit) cnItemCache.set(key, result);
+    return result;
 };
 
 transTaskMgr = {
@@ -6203,15 +6262,19 @@ function TransSubTextNode(node) {
     if (node.childNodes.length > 0) {
         for (let subnode of node.childNodes) {
             if (subnode.nodeName === "#text") {
+                //已经翻译过的文本节点直接跳过（页面上有大量重复文本）
+                if (subnode.__chsDone) continue;
+                subnode.__chsDone = true;
                 let text = subnode.textContent;
                 let cnText = cnItem(text, subnode);
                 cnText !== text && transTaskMgr.addTask(subnode, 'textContent', cnText);
                 //console.log(subnode);
             } else if (subnode.nodeName !== "SCRIPT" && subnode.nodeName !== "STYLE" && subnode.nodeName !== "TEXTAREA") {
                 if (!subnode.childNodes || subnode.childNodes.length == 0) {
-                    let text = subnode.innerText;
+                    //用 textContent 替代 innerText：innerText 的读写会强制同步布局（reflow）
+                    let text = subnode.textContent;
                     let cnText = cnItem(text, subnode);
-                    cnText !== text && transTaskMgr.addTask(subnode, 'innerText', cnText);
+                    cnText !== text && transTaskMgr.addTask(subnode, 'textContent', cnText);
                     //console.log(subnode);
                 } else {
                     TransSubTextNode(subnode);
@@ -6237,15 +6300,43 @@ function TransSubTextNode(node) {
     TransSubTextNode(targetNode);
     transTaskMgr.doTask();
     //监听页面变化并汉化动态内容
+    //游戏在持续更新 DOM（实测每 5 秒上百条变更记录），而我们写入译文又会触发游戏
+    //自身的重渲染（卡死时调用栈停在游戏的调度函数 queueApply 上），
+    //形成「翻译 → 游戏重渲染 → 再翻译」的循环，主线程被彻底占满。
+    //这里把短时间内的变更合并成一批处理，并限制每批处理量，给主线程留出空隙
+    let pendingMutations = [];
+    let batchScheduled = false;
     let observer = new MutationObserver(function(e) {
-        //window.beforeTransTime = performance.now();
+        for (let m of e) pendingMutations.push(m);
+        //积压过多时丢掉最旧的，避免处理量与内存无限增长
+        if (pendingMutations.length > 4000) pendingMutations.splice(0, pendingMutations.length - 4000);
         observer.disconnect();
-        for (let mutation of e) {
+        if (!batchScheduled) {
+            batchScheduled = true;
+            setTimeout(processBatch, 250);
+        }
+        observer.observe(targetNode, observer_config);
+    });
+
+    function processBatch() {
+        batchScheduled = false;
+        //取出断开期间累积的记录，避免漏翻译
+        for (let m of observer.takeRecords()) pendingMutations.push(m);
+        observer.disconnect();
+        let list = pendingMutations;
+        pendingMutations = [];
+        //每批最多处理 500 条，剩下的留到下一批，保证单次回调不会耗时过长
+        let cap = list.length < 500 ? list.length : 500;
+        for (let i = 0; i < cap; i++) {
+            let mutation = list[i];
             if (mutation.target.nodeName === "SCRIPT" || mutation.target.nodeName === "STYLE" || mutation.target.nodeName === "TEXTAREA") continue;
+            //这里不做"已处理"缓存：observer 收到的就是发生变化的节点，
+            //若按节点缓存，倒计时/血量/聊天这类动态文本只会被翻译第一次，之后全部漏翻译
             if (mutation.target.nodeName === "#text") {
                 mutation.target.textContent = cnItem(mutation.target.textContent, mutation.target);
             } else if (!mutation.target.childNodes || mutation.target.childNodes.length == 0) {
-                mutation.target.innerText = cnItem(mutation.target.innerText, mutation.target);
+                //用 textContent 替代 innerText：innerText 读写会强制同步布局（reflow）
+                mutation.target.textContent = cnItem(mutation.target.textContent, mutation.target);
             } else if (mutation.addedNodes.length > 0) {
                 for (let node of mutation.addedNodes) {
                     if (node.nodeName === "#text") {
@@ -6253,8 +6344,8 @@ function TransSubTextNode(node) {
                         //console.log(node);
                     } else if (node.nodeName !== "SCRIPT" && node.nodeName !== "STYLE" && node.nodeName !== "TEXTAREA") {
                         if (!node.childNodes || node.childNodes.length == 0) {
-                            if (node.innerText)
-                                node.innerText = cnItem(node.innerText, node);
+                            if (node.textContent)
+                                node.textContent = cnItem(node.textContent, node);
                         } else {
                             TransSubTextNode(node);
                         }
@@ -6262,11 +6353,15 @@ function TransSubTextNode(node) {
                 }
             }
         }
+        if (cap < list.length) pendingMutations = list.slice(cap).concat(pendingMutations);
         transTaskMgr.doTask();
         observer.observe(targetNode, observer_config);
-        //window.afterTransTime = performance.now();
-        //console.log("捕获到页面变化并执行汉化，耗时" + (afterTransTime - beforeTransTime) + "毫秒");
-    });
+        //还有积压则继续排下一批
+        if (pendingMutations.length && !batchScheduled) {
+            batchScheduled = true;
+            setTimeout(processBatch, 250);
+        }
+    }
     observer.observe(targetNode, observer_config);
     window.cnItems = cnItems
 }();
