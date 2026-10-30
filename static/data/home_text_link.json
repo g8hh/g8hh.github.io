@@ -29,6 +29,12 @@
     "tips": "锅巴推荐小程序，每笔消费都省钱",
     "status": 0
 },{
+    "title": "放置梦幻，全新开服",
+    "link": "https://mh.uuuyx.com/fzmh.html?t=148160",
+    "button": "开始游戏",
+    "tips": "经典复刻，怀旧多人在线游戏",
+    "status": 1
+},{
     "title": "放置传奇，是兄弟就来被我砍",
     "link": "http://mir.uuuyx.com/fzcq.html?t=58968",
     "button": "开始游戏",
@@ -65,17 +71,11 @@
     "tips": "网页/手机/PC三端互通，点击即玩！",
     "status": 1
 },{
-    "title": "放置梦幻，怀旧网络放置",
-    "link": "https://mh.uuuyx.com/fzmh.html?t=148160",
-    "button": "开始游戏",
-    "tips": "经典复刻，怀旧多人在线游戏",
-    "status": 0
-},{
     "title": "轮回小镇，国产奶牛放置",
     "link": "https://lh9.online?key=JsEBxe",
     "button": "开始游戏",
     "tips": "多人在线，竞争排名",
-    "status": 1
+    "status": 0
 }, {
     "title": "银河奶牛放置",
     "link": "https://www.milkywayidlecn.com/?ref=2883",
