@@ -51,14 +51,11 @@
         "title": "构造",
         "path": "structure"
     }, {
-        "title": "无尽的饼干",
-        "path": "cookie-clicker"
+        "title": "模拟虫群",
+        "path": "swarm-simulator"
     }]
 }, {
     "list": [{
-        "title": "模拟虫群",
-        "path": "swarm-simulator"
-    }, {
         "title": "太空公司",
         "path": "ng-space-company"
     }, {
@@ -67,5 +64,8 @@
     }, {
         "title": "反应堆放置",
         "path": "reactor-idle"
+    }, {
+        "title": "离线挂机系统",
+        "path": "tg-lxgjxt"
     }]
 }]

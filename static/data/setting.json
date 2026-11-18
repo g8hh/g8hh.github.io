@@ -1,5 +1,5 @@
 [{
-    "version": "1.6.39",
+    "version": "1.7.98",
     "site_url": "https://g8hh.com.cn",
     "site_title1": "锅巴",
     "site_title2": "汉化",
@@ -50,7 +50,8 @@
     "wikiUrl2": "Wiki地址2",
     "hhUrl": "汉化导入方式",
     "jbUrl": "自动脚本导入方式",
-    "qqUrl": "玩家交流QQ群",
+    "QQ": "1103261563",
+    "qqUrl": "https://qm.qq.com/q/QfZpSo2veM",
     "author": ["人名"],
     "author_type": ["作者/投稿者/汉化者"],
     "author_qq": ["作者QQ"],
